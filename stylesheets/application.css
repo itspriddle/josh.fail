@@ -474,12 +474,12 @@ ul.autocomplete
     padding: 0px;
     list-style: none;
     color: #000;
-	display:block;
+	display:block!important;
 	z-index:1000;
 }
 ul.autocomplete li
 {
-  display: block;
+  display: block!important;
   padding: 0.3em;
   overflow: hidden;
   width: 100%;
