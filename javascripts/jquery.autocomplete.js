@@ -33,9 +33,9 @@ jQuery.fn.autocomplete = function(url, settings )
 		var textInput = $(this);
 		//create a new hidden input that will be used for holding the return value when posting the form, then swap names with the original input
 		textInput.after('<input type=hidden name="' + textInput.attr("name") + '"/>').attr("name", textInput.attr("name") + "_text");
-		var valueInput = $(this).next();
 		//create the ul that will hold the text and values
-		var list = textInput.after('<ul class="autocomplete"></ul>');
+		//var list = textInput.after('<ul class="autocomplete"></ul>');
+		var list = $('#searchresults');
 		var oldText = '';
 		var typingTimeout;
 		var size = 0;
@@ -48,7 +48,6 @@ jQuery.fn.autocomplete = function(url, settings )
 			after : null,
 			before : null,
 			validSelection : true,
-			parameters : {'inputName' : valueInput.attr('name'), 'inputId' : textInput.attr('id')}
 		} , settings);
 
 		function getData(text)
@@ -108,7 +107,7 @@ jQuery.fn.autocomplete = function(url, settings )
 			{
 				clear();
 				//invalidate previous selection
-				if (settings.validSelection) valueInput.val('');
+				//if (settings.validSelection) valueInput.val('');
 			}
 			else if(e.which == 13)//enter 
 			{ 
@@ -135,11 +134,10 @@ jQuery.fn.autocomplete = function(url, settings )
 			  }
 			  //set selected item and input values
 			  textInput.val( list.children().removeClass('selected').eq(selected).addClass('selected').text() );	        
-			  valueInput.val( list.children().eq(selected).attr('value') );
 			} else 
 			{ 
 				//invalidate previous selection
-				if (settings.validSelection) valueInput.val('');
+				//if (settings.validSelection) valueInput.val('');
 				typingTimeout = window.setTimeout(function() { getData(textInput.val()) },settings.timeout);
 			}
 		});
