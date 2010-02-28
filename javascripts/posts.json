@@ -1,8 +1,6 @@
 ---
 layout: nil
 ---
-{
-  "posts" : [{% for post in site.posts %}
-    {"date": "{{ post.date | date: "%Y-%m-%d" }}", "title": "{{ post.title }}", "url": "{{ post.url }}"}{% unless forloop.last %},{% endunless %}{% endfor %}
-  ]
-}
+[{% for post in site.posts %}
+  {"date": "{{ post.date | date: "%Y-%m-%d" }}", "title": "{{ post.title }}", "url": "{{ post.url }}"}{% unless forloop.last %},{% endunless %}{% endfor %}
+]
