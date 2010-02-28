@@ -76,11 +76,10 @@ jQuery.fn.autocomplete = function(url, settings )
 						  if (title.match(new RegExp(text, "i")))
 						  {
 								items += '<li value="' + title + '">' + title.replace(new RegExp("(" + text + ")","i"),"<strong>$1</strong>") + '</li>';						    
-								alert('made it')
 						  }
-						  list.html(items);
+						  $('#searchresults').html(items);
 						  //on mouse hover over elements set selected class and on click set the selected value and close list
-						  list.show().children().
+						  $('#searchresults').show().children().
 						  hover(function() { $(this).addClass("selected").siblings().removeClass("selected");}, function() { $(this).removeClass("selected") } ).
 						  click(function () { valueInput.val( $(this).attr('value') );textInput.val( $(this).text() ); clear(); });
 						}
