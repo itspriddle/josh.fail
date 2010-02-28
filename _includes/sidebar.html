@@ -1,15 +1,6 @@
 <div id="sidebar">
-  <h2>Search</h2>
-  <div id="searchdiv">
-    <input type="text" name="s" id="searchfield" size="20"/>
-    <ul id="searchresults"></ul>
-  </div>
-  <h2>Recent Posts</h2>
-  <ul>
-    {% for post in site.posts limit:5 %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+  {% include sidebar/search.html %}
+  {% include sidebar/recent.html %}
   <!-- <h2>Categories</h2>
   <ul>
     {% for category in site.categories %}

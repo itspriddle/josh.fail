@@ -1,6 +1,6 @@
 ---
 layout: default
-title: nevercraft
+title: main
 ---
 {% for page in site.posts limit:5 %}
 {% assign body = page.content %}

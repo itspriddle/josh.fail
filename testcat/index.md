@@ -1,5 +1,8 @@
 ---
 layout: default
-title: nevercraft
+title: testcat
 ---
-this is the test category home page yo
+Testcat
+-------
+{% assign posts = site.categories.testcat %}
+{% include categories/index.html %}

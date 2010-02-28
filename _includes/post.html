@@ -1,6 +1,6 @@
 <div class="entry">
   <h3 class="entrytitle"><a href="{{page.url}}">{{ page.title }}</a></h3>
-  <div class="entrymeta">Posted {{ page.date | date_to_string }}</div>
+  <div class="entrymeta">Posted {{ page.date | date_to_string }} by {% if page.author %}{{ page.author }}{% else %}Josh{% endif %}</div>
   <div class="entrybody">
   {{ body }}
   </div>
