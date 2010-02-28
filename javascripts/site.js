@@ -5,10 +5,10 @@ var Site = {
 	posts: []
 };
 
-Site.posts = [
-	{% for post in site.posts %}{
-		url: '{{ post.url }}',
-		title: '{{ post.title }}',
-		date: '{{ post.date }}'
-	},{% endfor %}
-];
+{% for post in site.posts %}
+Site.posts.push({
+	date:  '{{ post.date }}',
+	title: '{{ post.title }}',
+	url:   '{{ post.url }}'
+})
+{% endfor %}
