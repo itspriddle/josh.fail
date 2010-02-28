@@ -1,0 +1,8 @@
+<div id="sidebar">
+  <h2>Categories</h2>
+  <ul>
+    {% for category in site.categories %}
+    <li><a href="/{{ category }}">{{ category }}
+    {% endfor %}
+  </ul>
+</div>
