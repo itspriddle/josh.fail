@@ -3,7 +3,7 @@ layout: nil
 ---
 {
   "posts" : [
-    {% for post in site.posts %}{'date': '{{ post.date | date: "%Y-%m-%d" }}', 'title': '{{ post.title }}', 'url': '{{ post.url }}'},
+    {% for post in site.posts %}{"date": "{{ post.date | date: "%Y-%m-%d" }}", "title": "{{ post.title }}", "url": "{{ post.url }}"},
     {% endfor %}
 	]
 }
