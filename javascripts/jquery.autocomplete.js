@@ -72,9 +72,11 @@ jQuery.fn.autocomplete = function(url, settings )
 						size = data.length;
 						for (i = 0; i < data.length; i++)//iterate over all options
 						{
-						  if (data[i].title.match(new RegExp("(" + text + ")","i")))
+						  var title = data[i].title;
+						  if (title.match(new RegExp(text, "i")))
 						  {
-								items += '<li value="' + data[i].title + '">' + data[i].title.replace(new RegExp("(" + text + ")","i"),"<strong>$1</strong>") + '</li>';						    
+								items += '<li value="' + title + '">' + title.replace(new RegExp("(" + text + ")","i"),"<strong>$1</strong>") + '</li>';						    
+								alert('made it')
 						  }
 						  list.html(items);
 						  //on mouse hover over elements set selected class and on click set the selected value and close list
