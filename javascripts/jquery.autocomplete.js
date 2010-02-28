@@ -5,7 +5,7 @@
       return this.each(function()
       {
         var text_input  = $(this);
-        text_input.after('<ul class="autocomplete"></ul>');
+        text_input.after('<ul class="autocomplete" style="display:none"></ul>');
         var search_res  = text_input.next();
         var search_size = 0;
         var timeout_interval;
@@ -86,10 +86,10 @@
               {
                 case 40:
                 case  9:
-                  selected = selected >= size - 1 ? 0 : selected + 1;
+                  selected = selected >= search_size - 1 ? 0 : selected + 1;
                   break;
                 case 38:
-                  selected = selected <= 0 ? size - 1 : selected - 1;
+                  selected = selected <= 0 ? search_size - 1 : selected - 1;
                   break;
               }
               text_input.val(search_res.children().removeClass('selected').eq(selected).addClass('selected').text());
