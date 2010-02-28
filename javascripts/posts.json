@@ -2,8 +2,11 @@
 layout: nil
 ---
 {
-  "posts" : [
-    {% for post in site.posts %}{"date": "{{ post.date | date: "%Y-%m-%d" }}", "title": "{{ post.title }}", "url": "{{ post.url }}"},
-    {% endfor %}
+  "posts" : [{% for post in site.posts %}
+    {
+      "date":  "{{ post.date | date: "%Y-%m-%d" }}",
+      "title": "{{ post.title }}",
+      "url":   "{{ post.url }}"
+    }{% unless post == site.posts.last },{% endunless %}{% endfor %}
 	]
 }
