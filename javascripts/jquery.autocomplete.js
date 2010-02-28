@@ -5,7 +5,8 @@
       return this.each(function()
       {
         var text_input  = $(this);
-        var search_res  = text_input.after('<ul class="autocomplete"></ul>');
+        text_input.after('<ul class="autocomplete"></ul>');
+        var search_res  = text_input.next();
         var search_size = 0;
         var timeout_interval;
         var selected = 0;
