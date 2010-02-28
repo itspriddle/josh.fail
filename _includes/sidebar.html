@@ -1,8 +1,14 @@
 <div id="sidebar">
-  <h2>Categories</h2>
+  <h2>Recent Posts</h2>
   <ul>
-    {% for category in site.categories %}
-    <li><a href="/{{ category }}">{{ category }}
+    {% for post in site.posts limit:5 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
+  <!-- <h2>Categories</h2>
+  <ul>
+    {% for category in site.categories %}
+    <li><a href="/{{ category.category }}">{{ category }}
+    {% endfor %}
+  </ul> -->
 </div>
