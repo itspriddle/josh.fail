@@ -1,6 +1,14 @@
 ---
 layout: nil
 ---
-var foo = [{% for page in site.posts limit:5 %}
-'{{ page.title }}'
-{% endfor %}]
+var Site = {
+	posts: []
+};
+
+Site.posts = [
+	{% for post in site.posts %}{
+		url: '{{ post.url }}',
+		title: '{{ post.title }}',
+		date: '{{ post.date }}'
+	},{% endfor %}
+];
