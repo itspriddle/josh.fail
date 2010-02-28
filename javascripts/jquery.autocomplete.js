@@ -35,8 +35,7 @@ jQuery.fn.autocomplete = function(url, settings )
 		textInput.after('<input type=hidden name="' + textInput.attr("name") + '"/>').attr("name", textInput.attr("name") + "_text");
 		var valueInput = $(this).next();
 		//create the ul that will hold the text and values
-		valueInput.after('<ul class="autocomplete"></ul>');
-		var list = valueInput.next().css({top: textInput.offset().top + textInput.outerHeight(), left: textInput.offset().left, width: textInput.width()});
+		var list = textInput.after('<ul class="autocomplete"></ul>');
 		var oldText = '';
 		var typingTimeout;
 		var size = 0;
@@ -63,13 +62,11 @@ jQuery.fn.autocomplete = function(url, settings )
 					settings.before(textInput,text);
 				}
 				textInput.addClass('autocomplete-loading');
-				settings.parameters.text = text;
 				$.getJSON(url, function(data)
 				{
 					var items = '';
 					if (data)
 					{
-						size = data.length;
 						for (i = 0; i < data.length; i++)//iterate over all options
 						{
 						  var title = data[i].title;
@@ -77,9 +74,9 @@ jQuery.fn.autocomplete = function(url, settings )
 						  {
 								items += '<li value="' + title + '">' + title.replace(new RegExp("(" + text + ")","i"),"<strong>$1</strong>") + '</li>';						    
 						  }
-						  $('#searchresults').html(items);
+						  list.html(items);
 						  //on mouse hover over elements set selected class and on click set the selected value and close list
-						  $('#searchresults').show().children().
+						  list.show().children().
 						  hover(function() { $(this).addClass("selected").siblings().removeClass("selected");}, function() { $(this).removeClass("selected") } ).
 						  click(function () { valueInput.val( $(this).attr('value') );textInput.val( $(this).text() ); clear(); });
 						}
