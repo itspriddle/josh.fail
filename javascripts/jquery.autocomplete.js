@@ -64,7 +64,7 @@ jQuery.fn.autocomplete = function(url, settings )
 				}
 				textInput.addClass('autocomplete-loading');
 				settings.parameters.text = text;
-				$.getJSON(url,settings.parameters,function(data)
+				$.getJSON(url, function(data)
 				{
 					var items = '';
 					if (data)
@@ -72,9 +72,9 @@ jQuery.fn.autocomplete = function(url, settings )
 						size = data.length;
 						for (i = 0; i < data.length; i++)//iterate over all options
 						{
-						  for ( key in data[i] )//get key => value
-						  {	
-								items += '<li value="' + key + '">' + data[i][key].replace(new RegExp("(" + text + ")","i"),"<strong>$1</strong>") + '</li>';
+						  if (data[i].title.match(new RegExp("(" + text + ")","i")))
+						  {
+								items += '<li value="' + key + '">' + data[i][key].replace(new RegExp("(" + text + ")","i"),"<strong>$1</strong>") + '</li>';						    
 						  }
 						  list.html(items);
 						  //on mouse hover over elements set selected class and on click set the selected value and close list
