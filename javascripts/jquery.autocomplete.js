@@ -138,7 +138,7 @@ jQuery.fn.autocomplete = function(url, settings )
 			{ 
 				//invalidate previous selection
 				//if (settings.validSelection) valueInput.val('');
-				typingTimeout = window.setTimeout(function() { getData(textInput.val()) },settings.timeout);
+				typingTimeout = window.setTimeout(function() { getData(textInput.val()) }, settings.timeout);
 			}
 		});
 	});
