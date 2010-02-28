@@ -7,6 +7,7 @@ layout: nil
       "date":  "{{ post.date | date: "%Y-%m-%d" }}",
       "title": "{{ post.title }}",
       "url":   "{{ post.url }}"
-    }{% unless post == site.posts.last },{% endunless %}{% endfor %}
-	]
+    }{% unless forloop.last },{% endunless %}
+    {% endfor %}
+  ]
 }
