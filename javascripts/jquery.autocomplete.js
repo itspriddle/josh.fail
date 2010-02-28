@@ -12,7 +12,7 @@
         var selected = 0;
         function search_payload(search_text)
         {
-          if ( ! search)
+          if ( ! search_text)
           {
             search_text = text_input.val();
           }
