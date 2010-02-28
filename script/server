@@ -1,0 +1,4 @@
+#!/bin/sh
+
+jekyll $(pwd) $(pwd)/_site --server
+
