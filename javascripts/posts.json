@@ -7,7 +7,7 @@ layout: nil
       "date":  "{{ post.date | date: "%Y-%m-%d" }}",
       "title": "{{ post.title }}",
       "url":   "{{ post.url }}"
-    }{% unless forloop.last },{% endunless %}
+    }{% unless forloop.last %},{% endunless %}
     {% endfor %}
   ]
 }
