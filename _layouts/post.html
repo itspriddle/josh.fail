@@ -1,0 +1,13 @@
+{% include header.html %}
+
+<div id="content">
+  <div class="entry">
+    <h3 class="entrytitle"><a href="{{page.url}}">{{ page.title }}</a></h3>
+    <div class="entrymeta">Posted {{ page.date | date_to_string }}</div>
+    <div class="entrybody">
+    {{ content }}
+    </div>
+  </div>
+</div>
+
+{% include footer.html %}
