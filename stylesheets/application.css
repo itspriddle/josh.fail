@@ -20,7 +20,7 @@ body {
 	margin: 0px auto;
 }
 #content {
-	width: 484px;
+	width: 65%;
 	float: left;
 	display:inline;
 	text-align: justify;
@@ -29,13 +29,13 @@ body {
 }
 #nav {
 	height: 49px;
-	width: 790px;
+	width: 95%;
 	margin-right: auto;
 	margin-left: auto;
 }
 
 #sidebar {
-	width: 238px;
+	width: 25%;
 	float: right;
 	line-height: 1.5em;
 	display:inline;
@@ -168,13 +168,14 @@ h3.entrytitle a, h3.entrytitle a:visited, h3 a{
 h3.entrytitle a:hover, h3 a:hover{
 text-decoration:underline;}
 .entrymeta{
-	height: 16px;
+/*	height: 16px;*/
 	margin-top: 0;
 	font-size: 10px;
 	color: #999;
 	border-top:solid 1px #ccc;
 	padding-top:4px;
 	margin-bottom: 8px;
+	clear: both;
 }
 .entrymeta a img{
 	border:none;
@@ -499,3 +500,5 @@ br.clear {
 	padding: 0;
 	margin: 0;
 }
+
+#searchfield { width: 100%;}

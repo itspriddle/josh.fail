@@ -2,5 +2,10 @@
 layout: nil
 ---
 [{% for post in site.posts %}
-  {"date": "{{ post.date | date: "%Y-%m-%d" }}", "title": "{{ post.title }}", "url": "{{ post.url }}"}{% unless forloop.last %},{% endunless %}{% endfor %}
+  {
+    "date"       : "{{ post.date | date: "%Y-%m-%d %H:%M:00" }}",
+    "title"      : "{{ post.title }}",
+    "url"        : "{{ post.url }}",
+    "categories" : [{% for cat in post.categories %}"{{ cat }}"{% unless forloop.last %},{% endunless %}{% endfor %}]
+  }{% unless forloop.last %},{% endunless %}{% endfor %}
 ]
