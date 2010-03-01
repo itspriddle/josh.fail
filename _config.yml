@@ -9,7 +9,7 @@ maruku:
   use_divs:   false
   png_dir:    images/latex
   png_url:    /images/latex
-site_name: 'itspriddle.github.com'
-site_url: 'http://itspriddle.github.com/'
+site_name: 'blog.nevercraft.net'
+site_url: 'http://blog.nevercraft.net/'
 author: Josh
 author_url: 'http://twitter.com/itspriddle'
