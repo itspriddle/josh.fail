@@ -1,3 +1,3 @@
 jQuery(document).ready(function($) {
-  $('input#searchfield').autocomplete('/javascripts/posts.json');
+  $('input#searchfield').autocomplete('/assets/javascripts/posts.json');
 });
