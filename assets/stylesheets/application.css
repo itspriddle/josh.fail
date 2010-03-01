@@ -11,7 +11,7 @@ body {
 	padding: 0px;
 	background: #ececec url(/images/blog/bg.png) repeat-y center;
 	color: #666;
-	font: 11px/15px Verdana, Arial, Helvetica, sans-serif;
+	font: 11px/15px "Lucida Grande",Verdana, Arial, Helvetica, sans-serif;
 }
 #wrap {
 	width: 800px;
@@ -98,10 +98,7 @@ div#pages ul {
 div#pages ul li {
 	float:right;
 }
-#pages ul li a:before{
-	content:" .: ";
-	color:#ff7800;
-}
+
 div#pages ul li.current_page_item a  {
 	text-decoration: underline;
 }
@@ -155,18 +152,21 @@ h3.entrytitle, h3 {
 	margin-top: 0;
 	margin-right: 0;
 	margin-bottom: 5px;
-
+	font-size: 10px;
+	font-weight: bolder;
+	text-transform: uppercase;
+	color: #999;
 }
 h3.entrytitle a, h3.entrytitle a:visited, h3 a{
-	color: #ff7800;
 	text-decoration:none;
 	border-style: none;
-	font-size: 12px;
+/*	font-size: 12px;*/
 	font-weight: bolder;
-	text-transform: none;
+	color: #999;
+/*	text-transform: none;*/
 }
 h3.entrytitle a:hover, h3 a:hover{
-text-decoration:underline;}
+text-decoration:underline;color: #ff7800;}
 .entrymeta{
 /*	height: 16px;*/
 	margin-top: 0;
@@ -243,7 +243,7 @@ padding:0;
 	color: #999;
 	margin-top: 5px;
 	margin-right: 0px;
-	margin-bottom: 8px;
+	margin-bottom: 0px;
 	padding-top: 0px;
 	padding-right: 0px;
 	padding-bottom: 4px;
@@ -466,6 +466,7 @@ input.autocomplete-loading
 }
 ul.autocomplete
 {
+	width: 300px;
     position: absolute;
     overflow: hidden;
     background-color: #fff;
@@ -473,11 +474,12 @@ ul.autocomplete
     margin: 0px;
     padding: 0px;
     list-style: none;
-    color: #000;
+	color: #ff7800;
 	z-index:1000;
 }
 ul.autocomplete li
 {
+  color: #ff7800;
   display: block!important;
   padding: 6px !important;
   overflow: hidden;
@@ -487,8 +489,9 @@ ul.autocomplete li
 
 ul.autocomplete li.selected
 {
-  background-color: Highlight ;
-  color: #fff;
+	border-bottom-color: #fff;
+	color: #666 !important;
+	background-color: #ccc;
 }
 
 br.clear {
@@ -501,4 +504,5 @@ br.clear {
 	margin: 0;
 }
 
-#searchfield { width: 100%;}
+#search-posts .search-box { margin-top: 10px;}
+#searchfield { width: 100%; }
