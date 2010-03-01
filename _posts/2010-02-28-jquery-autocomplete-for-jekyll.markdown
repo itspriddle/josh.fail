@@ -8,6 +8,7 @@ tags:
   - jekyll
 categories:
   - development
+  - jquery
 ---
 After migrating my blog from Wordpress to Jekyll, one thing I was missing
 was a functional search box. I threw one together last night.
