@@ -5,7 +5,7 @@ categories:
   - asterisk
   - linux
 ---
-I know I've blogged this before, but these are the steps I took most recently to get Asterisk running on a fresh Ubuntu Server (Dapper) installation.  The instructions will also work on Feisty or Gutsy server.
+I know I've blogged this before, but these are the steps I took most recently to get Asterisk running on a fresh Ubuntu Server (Dapper) installation. The instructions will also work on Feisty or Gutsy server.
 
     # apt-get install linux-headers-`uname -r` build-essential libssl-dev libncurses5-dev libspeex-dev sox sox-dev
     # mkdir /usr/src/asterisk

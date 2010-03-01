@@ -7,7 +7,7 @@ categories:
 ---
 I did this about 8 months ago and never wrote down my steps.  I just had to figure it out again for another server, and thought I'd write it down here to save myself (and possibly someone else) time.
 
-First, this requires you have SSH access to your host.  If you don't, this post wasn't meant for you.  Then again... you probably wouldn't need vim7 if you didn't.  Anyway, open a shell and enter these commands:
+First, this requires you have SSH access to your host. If you don't, this post wasn't meant for you. Then again... you probably wouldn't need vim7 if you didn't. Anyway, open a shell and enter these commands:
 
     $ mkdir -p ~/local/src
     $ cd ~/local/src
