@@ -32,7 +32,7 @@
                   if (title.match(check))
                   {
                     search_size = search_size + 1;
-                    output += '<li href="' + post.url + '">' + pdate + ' - ' + title.replace(check, "<strong>$1</strong>") + '</li>';
+                    output += '<li href="' + post.url + '">' + title.replace(check, "<strong>$1</strong>") + '</li>';
                   }
                 });
                 if (output == '')
@@ -70,6 +70,10 @@
           search_size = 0;
           selected = -1;
         }
+        
+        // text_input.blur(function() {
+        //   search_res.hide();
+        // });
 
         text_input.keydown(function(e) {
           window.clearTimeout(observer);
