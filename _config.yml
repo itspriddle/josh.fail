@@ -2,7 +2,7 @@ auto:        true
 server_port: 4000
 pygments:    true
 markdown:    maruku
-permalink:   /posts/:year/:month/:day/:title
+permalink:   /posts/:year/:month/:day/:title.html
 paginate:    5
 maruku:
   use_tex:    false
@@ -13,4 +13,3 @@ site_name: 'itspriddle.github.com'
 site_url: 'http://itspriddle.github.com/'
 author: Josh
 author_url: 'http://twitter.com/itspriddle'
-
