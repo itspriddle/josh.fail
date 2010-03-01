@@ -466,7 +466,7 @@ input.autocomplete-loading
 }
 ul.autocomplete
 {
-	width: 300px;
+	width: 200px;
     position: absolute;
     overflow: hidden;
     background-color: #fff;
