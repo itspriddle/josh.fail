@@ -4,6 +4,7 @@ title: Asterisk on Ubuntu 6.06 TLS
 categories:
   - asterisk
   - linux
+  - ubuntu
 ---
 It took forever, but this ended up working to get Asterisk to compile:
 
