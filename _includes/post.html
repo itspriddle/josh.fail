@@ -1,7 +1,7 @@
 <div class="entry">
   <h3 class="entrytitle"><a href="{{page.url}}">{{ page.title }}</a></h3>
   <div class="entrymeta">Posted in
-    {% for cat in page.categories %}<a href="/categories/{{ cat }}.html">{{ cat | capitalize }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}
+    {% for cat in page.categories %}<a href="/categories/{{ cat | downcase }}.html">{{ cat }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}
     on {{ page.date | date: "%b %e %Y @ %I:%M %p" }} by
     {% if page.author %}<a href="{{ page.author_url }}">{{ page.author }}</a>{% else %}<a href="{{ site.author_url }}">{{ site.author }}</a>{% endif %}
     <!--{% unless page.tags == empty %}<br />

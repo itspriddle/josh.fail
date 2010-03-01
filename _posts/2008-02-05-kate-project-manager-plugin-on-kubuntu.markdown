@@ -3,6 +3,7 @@ layout: post
 title: Kate Project Manager Plugin on Kubuntu
 categories:
   - linux
+  - ubuntu
 ---
 It was a pain, but this ought to work:
 
