@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Kate Project Manager Plugin on Kubuntu
+categories:
+  - linux
 ---
 It was a pain, but this ought to work:
 

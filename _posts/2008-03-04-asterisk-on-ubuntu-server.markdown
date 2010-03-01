@@ -1,6 +1,9 @@
---- 
+---
 layout: post
 title: Asterisk on Ubuntu Server
+categories:
+  - asterisk
+  - linux
 ---
 I know I've blogged this before, but these are the steps I took most recently to get Asterisk running on a fresh Ubuntu Server (Dapper) installation.  The instructions will also work on Feisty or Gutsy server.
 

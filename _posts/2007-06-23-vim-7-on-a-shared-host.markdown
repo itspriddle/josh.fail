@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Vim 7 on a Shared Host
+categories:
+  - development
+  - linux
 ---
 I did this about 8 months ago and never wrote down my steps.  I just had to figure it out again for another server, and thought I'd write it down here to save myself (and possibly someone else) time.
 

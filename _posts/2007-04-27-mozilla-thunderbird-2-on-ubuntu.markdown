@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Mozilla Thunderbird 2 on Ubuntu
+categories:
+  - linux
 ---
 Installing Thunderbird 2 on Ubuntu was cake.
 

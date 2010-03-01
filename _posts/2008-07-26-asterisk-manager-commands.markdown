@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Asterisk Manager Commands
+categories:
+  - asterisk
 ---
 I've been playing around with the Asterisk Manager lately (which is pretty damn cool, if you ask me).
 

@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Code Folding in Vim
+categories:
+  - development
+  - linux
 ---
 So I learned yet another awesome feature in vim today - code folding.
 

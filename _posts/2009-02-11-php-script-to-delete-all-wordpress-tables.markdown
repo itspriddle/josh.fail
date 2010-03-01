@@ -1,6 +1,8 @@
 ---
 layout: post
 title: PHP Script To Delete All WordPress Tables
+categories:
+  - development
 ---
 I've had to do this a few times when I wasn't able to just drop the entire database, so I threw together a small PHP script that will do it for you.
 
