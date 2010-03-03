@@ -11,7 +11,7 @@
 
 		var bday = new Date("April 21, 2010 16:15:00");
 		$(document).ready(function() {
-			$('#birthday').countdown({until: bday});
+			$('#birthday').countdown({until: bday, expiryText: '<div class="over">If you\'re sober enough to remember to check this you are 21st Birthday Fail.</div>'});
 		});
 	</script>
 
