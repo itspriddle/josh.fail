@@ -2,7 +2,7 @@
 layout: post
 title: tar over ssh
 categories:
-  - linux
+  - Linux
 ---
 I figured out this easy way to make a backup over ssh.
 

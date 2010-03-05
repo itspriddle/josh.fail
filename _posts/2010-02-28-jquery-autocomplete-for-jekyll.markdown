@@ -3,12 +3,13 @@ layout: post
 title: jQuery Autocomplete for Jekyll
 date: Sun Feb 28 20:40:00 -0500 2010
 tags:
-  - jquery
-  - javascript
-  - jekyll
+  - jQuery
+  - Javascript
+  - Jekyll
 categories:
-  - development
-  - jquery
+  - Development
+  - jQuery
+  - Javascript
 ---
 After migrating my blog from Wordpress to Jekyll, one thing I was missing
 was a functional search box. I threw one together last night.

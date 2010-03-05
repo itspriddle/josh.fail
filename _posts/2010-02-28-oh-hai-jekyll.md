@@ -3,7 +3,7 @@ layout: post
 title: Oh Hai, Jekyll
 date: Sun Feb 28 20:30:18 -0500 2010
 categories:
-  - general
+  - General
 ---
 After putting it off for too long, I've redesigned my blog
 using [Jekyll](http://github.com/mojombo/jekyll) and [GitHub Pages](http://pages.github.com).

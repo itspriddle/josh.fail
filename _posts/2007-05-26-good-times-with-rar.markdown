@@ -2,7 +2,7 @@
 layout: post
 title: Good times with rar
 categories:
-  - linux
+  - Linux
 ---
 So I decided today I was going to make a DVD backup of my music collection.  I also decided I was going to use rar to do this.
 

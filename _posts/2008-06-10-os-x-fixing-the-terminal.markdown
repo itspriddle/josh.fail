@@ -2,7 +2,7 @@
 layout: post
 title: "OS X: Fixing the Terminal"
 categories:
-  - osx
+  - OSX
 ---
 This might not be a problem for everyone, but I got used to using home, end, page up, and page down to navigate through the command line and documents through the console. I was quite suprised to see that these seemingly basic features were missing from OS X's Terminal.app.
 
