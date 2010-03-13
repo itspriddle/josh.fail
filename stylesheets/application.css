@@ -508,3 +508,5 @@ br.clear {
 
 #search-posts .search-box { margin-top: 10px;}
 #searchfield { width: 100%; }
+
+code { font-family: Monaco, monospace; }
