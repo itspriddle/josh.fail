@@ -1,0 +1,39 @@
+#!/bin/bash
+
+usage()
+{
+  cat <<USAGE
+./_script/generate post
+
+USAGE
+  exit 42
+}
+
+new_post()
+{
+  echo _posts/`date "+%F"`-`echo $1 | tr [A-Z] [a-z] | sed 's/ /-/g'`.markdown
+  cat <<TEMPLATE > _posts/`date "+%F"`-`echo $1 | sed 's/ /-/g' | tr [A-Z] [a-z]`.markdown
+---
+layout: post
+title: $1
+date: `date`
+categories:
+  - Development
+---
+TEMPLATE
+}
+
+
+# Called
+if [ $# -eq 0 ] || [ "$0" != "./_script/generate" ]; then
+  usage
+fi
+
+case "$1" in
+  post)
+    new_post "${POST_TITLE:=New Post}"
+    ;;
+  *)
+    usage
+    ;;
+esac
