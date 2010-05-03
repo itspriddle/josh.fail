@@ -1,3 +1,7 @@
+---
+layout: page
+title: TextMate Rsync bundle
+---
 LaunchBar Actions
 =================
 Just a few LaunchBar Actions I use.
