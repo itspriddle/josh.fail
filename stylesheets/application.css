@@ -14,7 +14,7 @@ body {
 	font: 11px/15px "Lucida Grande",Verdana, Arial, Helvetica, sans-serif;
 }
 #wrap {
-	width: 800px;
+	width: 950px;
 	overflow: hidden;
 	position:relative;
 	margin: 0px auto;
@@ -70,7 +70,7 @@ h3, h4 {
 #logo {
 	background: url(/images/blog/top.png) no-repeat;
 	height: 5px;
-	width: 780px;
+	width: 930px;
 	margin-right: auto;
 	margin-left: auto;
 	}
@@ -127,7 +127,7 @@ div#pages ul li a:hover {
 	border-top-width: 1px;
 	border-top-style: solid;
 	border-top-color: #CCCCCC;
-	width: 774px;
+	width: 924px;
 	padding: 0px;
 	margin-right: auto;
 	margin-left: auto;
