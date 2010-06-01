@@ -265,7 +265,6 @@ padding:0;
 	display: inline;
 	margin:0;
 	padding:0
-	overflow: hidden; text-overflow: ellipsis;white-space: nowrap;
 }
 #sidebar li{
 	list-style: none;
@@ -273,6 +272,7 @@ padding:0;
 }
 
 #sidebar ul li a {
+  overflow: hidden; text-overflow: ellipsis;white-space: nowrap;
 	border-bottom: 1px solid #ccc;
 	color: #ff7800;
 	display: block;
