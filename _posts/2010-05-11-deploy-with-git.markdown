@@ -13,6 +13,7 @@ provides.
 On the remote server, we're going to assume you're keeping your project in
 `/var/www/example.com` from a repository called `example.com`
 
+{% highlight sh %}
     mkdir /var/www/example.com
     cd /var/www/example.com
     git init
@@ -20,6 +21,7 @@ On the remote server, we're going to assume you're keeping your project in
     cd .git/hooks
     curl -O http://gist.github.com/raw/398175/b0a281817b307ca21dd7c21b34cadbd91170ead8/post-update
     chmod +x post-update
+{% endhighlight %}
 
 On your local development machine:
 
