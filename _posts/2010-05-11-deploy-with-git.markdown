@@ -14,7 +14,7 @@ On the remote server, we're going to assume you're keeping your project in
 `/var/www/example.com` from a repository called `example.com`
 
 {% highlight bash %}
-mkdir /var/www/example.com
+$ mkdir /var/www/example.com
 cd /var/www/example.com
 git init
 git config receive.denyCurrentBranch ignore
