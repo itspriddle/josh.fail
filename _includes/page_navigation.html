@@ -1,0 +1,12 @@
+<div class="navigation">
+  <div class="alignleft">
+    {% unless paginator.page == 1 %}
+    <a href="/{% unless paginator.previous_page == 1 %}page{{ paginator.previous_page }}/{% endunless %}">&laquo; Previous Entries</a>
+    {% endunless %}
+  </div>
+  <div class="alignright">
+    {% unless paginator.page == paginator.total_pages %}
+    <a href="/page{{ paginator.next_page }}">Next Page &raquo;</a>
+    {% endunless %}
+  </div>
+</div>
