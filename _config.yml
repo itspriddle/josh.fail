@@ -1,15 +1,15 @@
 auto:        true
 server_port: 4000
-pygments:    true
-markdown:    maruku
-paginate:    5
-permalink:   /posts/:year/:month/:day/:title.html
-maruku:
-  use_tex:    false
-  use_divs:   false
-  png_dir:    images/latex
-  png_url:    /images/latex
+# pygments:    true
+# markdown:    maruku
+# permalink:   /posts/:year/:month/:day/:title.html
+# maruku:
+#   use_tex:    false
+#   use_divs:   false
+#   png_dir:    images/latex
+#   png_url:    /images/latex
 site_name: 'code.nevercraft.net'
 site_url: 'http://code.nevercraft.net/'
 author: Josh
 author_url: 'http://twitter.com/itspriddle'
+paginate:    10
