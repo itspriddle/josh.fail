@@ -2,8 +2,8 @@ auto:        true
 server_port: 4000
 pygments:    true
 markdown:    maruku
-permalink:   /posts/:year/:month/:day/:title.html
 paginate:    5
+permalink:   /posts/:year/:month/:day/:title.html
 maruku:
   use_tex:    false
   use_divs:   false

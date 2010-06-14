@@ -6,3 +6,8 @@ title: main
 {% assign body = page.content %}
 {% include post.html %}
 {% endfor %}
+
+<div>PAGE ({{ paginator.page }})
+  {% unless paginator.page == 1 %}<a href="/page{{ paginator.previous_page }}.html">Previous</a>{% endunless %}
+  {% unless paginator.page == paginator.total_pages %}<a href="/page{{ paginator.next_page }}.html">Next</a>{% endunless %}
+</div>
