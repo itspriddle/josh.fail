@@ -3,7 +3,7 @@
 usage()
 {
   cat <<USAGE
-./_script/generate post
+[POST_TITLE="New Post"] ./_script/generate post
 
 USAGE
   exit 42
