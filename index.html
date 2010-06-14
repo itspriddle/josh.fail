@@ -8,6 +8,6 @@ title: main
 {% endfor %}
 
 <div>
-  {% unless paginator.page == 1 %}<a href="/page{{ paginator.previous_page }}.html">Previous</a>{% endunless %}
-  {% unless paginator.page == paginator.total_pages %}<a href="/page{{ paginator.next_page }}.html">Next</a>{% endunless %}
+  {% unless paginator.page == 1 %}<a href="/page{{ paginator.previous_page }}">Previous</a>{% endunless %}
+  {% unless paginator.page == paginator.total_pages %}<a href="/page{{ paginator.next_page }}">Next</a>{% endunless %}
 </div>
