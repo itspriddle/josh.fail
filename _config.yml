@@ -12,4 +12,4 @@ site_name: 'code.nevercraft.net'
 site_url: 'http://code.nevercraft.net/'
 author: Josh
 author_url: 'http://twitter.com/itspriddle'
-paginate:    10
+paginate:    5
