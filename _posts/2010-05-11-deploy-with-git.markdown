@@ -4,6 +4,7 @@ title: Deploy with git
 date: Tue May 11 23:39:10 EDT 2010
 categories:
   - Development
+  - Git
 ---
 I found this git hook that lets you deploy a project with a git push rather
 than having to use a full deployment library such as [Capistrano](http://capify.org).
