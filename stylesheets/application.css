@@ -242,3 +242,7 @@ a:hover{
 .dsq-dc-logo {
   display: none !important;
 }
+
+#dsq-thread-settings {
+  margin-top:8px !important;
+}
