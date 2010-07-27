@@ -7,6 +7,9 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
   <script src="/javascripts/jquery.autocomplete.js" type="text/javascript"></script>
   <script src="/javascripts/application.js" type="text/javascript"></script>
+  {% if show_comments %}
+  {% include disqus.html %}
+  {% endif %}
   <title>{{ page.title }} - {{ site.site_name }}</title>
   {% include analytics.html %}
 </head>
