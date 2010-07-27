@@ -4,7 +4,9 @@
   </div>
   <div class="entrybody">
   {{ body }}
+  {% if show_comments %}
   {% include comments.html %}
+  {% endif %}
   </div>
   <div class="entrymeta">
     <div class="postinfo">
