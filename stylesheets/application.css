@@ -234,3 +234,7 @@ a:hover{
 .aligncenter {
   text-align:center;
 }
+
+.dsq-dc-logo {
+	display: none;
+}
