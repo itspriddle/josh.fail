@@ -235,6 +235,9 @@ a:hover{
   text-align:center;
 }
 
-.dsq-dc-logo {
-	display: none;
+#dsq-comments-title,
+.dsq-options,
+.dsq-brlink,
+.dsq-logo {
+  display: none !important;
 }
