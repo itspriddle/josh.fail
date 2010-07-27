@@ -238,6 +238,7 @@ a:hover{
 #dsq-comments-title,
 .dsq-options,
 .dsq-brlink,
-.dsq-logo {
+.dsq-logo,
+.dsq-dc-logo {
   display: none !important;
 }
