@@ -32,7 +32,8 @@ body{
   font-size:1.2em;
   float:left;
   padding:1em;
-  width:52em;
+  /*width:52em;*/
+  width: 66em;
 }
 #sidebar{
   font-size:1.1em;
