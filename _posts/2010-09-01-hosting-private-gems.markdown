@@ -68,4 +68,6 @@ can be installed with `gem install [gem] --source http://gems.mysite.com/`
 The script in `bin/update_gems` is called by the `post-receive` hook you setup.
 Each time you push to production, this script will run and then update
 the meta files needed (check `/home/gems/public/YAML` on your remote box
-for an example). You should see the output when you push.
+for an example). You should see the output when you push. Note the `Allow`
+directive in the Apache configuration: you need to add IPs that can
+access your gem host.
