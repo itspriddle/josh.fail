@@ -19,7 +19,7 @@ On the remote server, we're going to assume you're keeping your project in
     git init
     git config receive.denyCurrentBranch ignore
     cd .git/hooks
-    curl -O http://gist.github.com/raw/398175/b0a281817b307ca21dd7c21b34cadbd91170ead8/post-update
+    curl -O http://gist.github.com/raw/398175/b15c71189eb3883986f19f24df6b8b4c7cf2d003/post-update
     chmod +x post-update
 
 On your local development machine:
