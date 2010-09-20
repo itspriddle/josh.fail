@@ -21,7 +21,7 @@ can be installed with `gem install [gem] --source http://gems.mysite.com/`
 
     git clone git://github.com/itspriddle/private-gem-host.git gems.mysite.com
     cd gems.mysite.com
-    curl -O http://gist.github.com/raw/398175/b15c71189eb3883986f19f24df6b8b4c7cf2d003/post-update > .git/hooks/post-update
+    curl -O http://gist.github.com/raw/587310/3564b29f31a22a8a0544c1f81565d398cb926b2f/post-update > .git/hooks/post-update
     chmod +x .git/hooks/post-update
     git remote add production user@mysite.com:/home/gems/.git
     scp -r .git user@mysite.com:/home/gems/
