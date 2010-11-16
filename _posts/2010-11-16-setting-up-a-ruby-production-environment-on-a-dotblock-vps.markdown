@@ -85,7 +85,7 @@ instead of `apt-get install apache2 apache2-dev`.
     exit
 
 
-## Installing Bundler
+## Bundler
 
 All of the cool kids in the Ruby world use [Bundler](http://gembundler.com) to
 manage gem dependencies in apps. I like to install bundler as a system gem so
@@ -94,4 +94,15 @@ it is available for deploy users.
     sudo gem install bundler
 
 
-You're now ready to deploy your Ruby application!
+## MySQL
+
+My database of choice is MySQL. Setup the server and gem client with:
+
+    sudo -i
+    apt-get install mysql-server
+    gem install mysql2
+
+
+## Production, ho!
+
+You're now ready to deploy to your new production environment!
