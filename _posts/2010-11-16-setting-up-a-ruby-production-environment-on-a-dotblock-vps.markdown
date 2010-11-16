@@ -7,8 +7,6 @@ categories:
   - Ruby
 ---
 
-# Setting up a Ruby production environment on a DotBlock VPS
-
 My projects' production environments consist of Git, Ruby, Apache, and usually
 a hand full of RubyGems. These are the steps I took to set these up using
 Ubuntu 10.04 on my new [DotBlock](http://www.dotblock.com) VPS. These steps
