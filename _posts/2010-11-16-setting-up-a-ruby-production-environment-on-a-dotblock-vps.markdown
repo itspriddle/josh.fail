@@ -103,6 +103,6 @@ My database of choice is MySQL. Setup the server and gem client with:
     gem install mysql2
 
 
-## Production, ho!
+## Stop! Hammer Time!
 
 You're now ready to deploy to your new production environment!
