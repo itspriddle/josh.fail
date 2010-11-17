@@ -13,7 +13,7 @@ Ubuntu 10.04 on my new [DotBlock](http://www.dotblock.com) VPS. These steps
 were performed immediately after the VPS was setup, so there weren't any
 additional packages/dependencies yet installed.
 
-## Git
+### Git
 
 I use git extensively to track just about every line of code I write. Ubuntu
 is usually a few versions behind on git, so I choose to compile from source
@@ -35,7 +35,7 @@ using these steps:
     exit
 
 
-## Ruby
+### Ruby
 
 Again, Ubuntu is usually several versions behind with Ruby, so I always
 recommend compiling from source. I like to use 1.8.7 as my "system ruby", and
@@ -53,7 +53,7 @@ then RVM to install others. Here are the steps to compile Ruby:
     exit
 
 
-## RubyGems
+### RubyGems
 
 Once Ruby is compiled, you can install RubyGems.
 
@@ -66,7 +66,7 @@ Once Ruby is compiled, you can install RubyGems.
     exit
 
 
-## Apache 2 and Passenger (mod_rails)
+### Apache 2 and Passenger (mod_rails)
 
 With RubyGems installed, you can now setup Apache and Passenger to serve Ruby
 apps over Apache. I didn't let Ubuntu install Apache for me (by selecting LAMP
@@ -77,7 +77,7 @@ instead of `apt-get install apache2 apache2-dev`.
     apt-get install apache2 apache2-dev
     gem install passenger
     passenger-install-apache2-module
-    cd /etc/apache2/mods-enabled/
+    cd /etc/apache2/mods-available/
     wget https://gist.github.com/raw/702444/bfdf7232848efa47cb211b7c6fa48188f9e09898/passenger.load
     wget https://gist.github.com/raw/702444/18b083fb1b94a97fee28590313e642700981a57f/passenger.conf
     a2enmod passenger
@@ -85,7 +85,7 @@ instead of `apt-get install apache2 apache2-dev`.
     exit
 
 
-## Bundler
+### Bundler
 
 All of the cool kids in the Ruby world use [Bundler](http://gembundler.com) to
 manage gem dependencies in apps. I like to install bundler as a system gem so
@@ -94,15 +94,16 @@ it is available for deploy users.
     sudo gem install bundler
 
 
-## MySQL
+### MySQL
 
 My database of choice is MySQL. Setup the server and gem client with:
 
     sudo -i
     apt-get install mysql-server
     gem install mysql2
+    exit
 
 
-## Stop! Hammer Time!
+### Stop! Hammer Time!
 
 You're now ready to deploy to your new production environment!
