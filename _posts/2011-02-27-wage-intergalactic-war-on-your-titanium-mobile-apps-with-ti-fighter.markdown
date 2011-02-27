@@ -26,7 +26,8 @@ similarly with Titanium objects.
 
 Thus was born [TiFighter](https://github.com/itspriddle/ti-fighter). Here's
 the login window right from DotBlock mobile (with a few extra comments added),
-which shows some of TiFighter's usage:
+which shows some of TiFighter's usage (note that I've aliased `$` to
+`TiFighter` outside of this script):
 
 <script src="https://gist.github.com/846492.js?file=dotblock.login.js"> </script>
 
