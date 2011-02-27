@@ -21,7 +21,7 @@ and added bits and pieces to it over a few more projects.
 
 When I started work on DotBlock mobile, there was one last jQuery pattern I
 really wanted to use in Titanium, `$(el).fn`. Stuff like
-`$(el).attr('height')`. So, I set out to create something that working
+`$(el).attr('height')`. So, I set out to create something that worked
 similarly with Titanium objects.
 
 Thus was born [TiFighter](https://github.com/itspriddle/ti-fighter). Here's
