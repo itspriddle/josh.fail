@@ -1,0 +1,22 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>code.nevercraft.net</title>
+  <description>My blog</description>
+  <link>http://code.nevercraft.net</link>
+  <!-- <lastBuildDate>Mon, 06 Sep 201 00:01:00 +0000 </lastBuildDate>
+  <pubDate>Mon, 06 Sep 2009 16:45:00 +0000 </pubDate> -->
+
+  {% for post in site.posts %}
+  <item>
+    <title>{{ post.title }}</title>
+    <description>{{ post.content }}</description>
+    <guid>{{ post.url }}</guid>
+    <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:00 -0400" }}</pubDate>
+  </item>
+  {% endfor %}
+</channel>
+</rss>
