@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Good times with rar
-categories:
-  - Linux
 ---
+
 So I decided today I was going to make a DVD backup of my music collection.
 I also decided I was going to use **rar** to do this.
 
@@ -17,10 +16,10 @@ That seemed to work perfectly.  The `a` is for add, `r` is for recursive,
 `m0` says not to use compression, `tk` maintains the date on the file,
 `ri15` says to run as the highest priority on the system.
 
-I got  halfway done and decided to check a rar.  So I ran
-`rar e music-2007-05-25.rar` and found that the files were there, but none of
-the directories had been copied.  So I stopped the process and tried just about
-every switch I could find.  Another hour of googling - and I find out that
+I got halfway done and decided to check a rar. So I ran `rar e
+music-2007-05-25.rar` and found that the files were there, but none of the
+directories had been copied. So I stopped the process and tried just about
+every switch I could find. Another hour of googling - and I find out that
 `rar e` does that, `rar x` maintains the directories.
 
 I really hate linux some days.  What a waste of time that was.

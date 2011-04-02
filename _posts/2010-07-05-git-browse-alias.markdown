@@ -2,10 +2,22 @@
 layout: post
 title: `git browse` alias
 date: Mon Jul  5 21:22:45 EDT 2010
-categories:
-  - Development
-  - Git
+short_description:
+  <p>
+    I recently wrote a
+    <a href="https://git.wiki.kernel.org/index.php/Aliases">git alias</a> to
+    open a repo in your web browser.
+  </p>
+  <p>
+    Why not just install <a href="http://github.com/defunkt/hub">hub</a> and
+    use <code>hub browse</code> I hear you ask? Well, because
+    <code>browse</code> is the only feature of <code>hub</code> I actually
+    used, and it only works on <a href="http://github.com">GitHub</a> repos.
+    This one doesn&rsquo;t wrap the <code>git</code> executable, and works
+    outside of GitHub.
+  </p>
 ---
+
 I recently wrote a [git alias](https://git.wiki.kernel.org/index.php/Aliases)
 to open a repo in your web browser.
 

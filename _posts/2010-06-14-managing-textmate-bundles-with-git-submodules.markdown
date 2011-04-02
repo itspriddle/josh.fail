@@ -2,12 +2,23 @@
 layout: post
 title: Managing TextMate bundles with git submodules
 date: Mon Jun 14 16:54:10 EDT 2010
-categories:
-  - Development
-  - Git
-  - TextMate
-  - Vim
+short_description: |
+  <p>
+    I&rsquo;ve been using <a href="http://macromates.com/">TextMate</a> nearly
+    every day for 2 years. Over that time I&rsquo;ve customized it exactly to
+    my liking with a bunch of extra bundles, plugins, and theme tweaks.
+    I&rsquo;ve tried a few different things to try to manage my
+    <code>~/Library/Application Support/TextMate</code> directory.
+  </p>
+  <p>
+    I got bored one day and decided I&rsquo;d try managing them with <a
+    href="http://www.kernel.org/pub/software/scm/git/docs/git-submodule.html">git
+    submodules</a>. It was more of an exercise in learning the <code>git
+    submodule</code> command, but it turns out it&rsquo;s also a great way to
+    maintain my TextMate config.
+  </p>
 ---
+
 I've been using [TextMate](http://macromates.com/) nearly every day for 2
 years. Over that time I've customized it exactly to my liking with a bunch of
 extra bundles, plugins, and theme tweaks. I've tried a few different things

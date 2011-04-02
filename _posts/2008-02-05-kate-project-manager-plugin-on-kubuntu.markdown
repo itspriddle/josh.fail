@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Kate Project Manager Plugin on Kubuntu
-categories:
-  - Linux
-  - Ubuntu
 ---
+
 It was a pain, but this ought to work:
 
     # apt-get install kde-devel automake1.9
@@ -14,7 +12,8 @@ It was a pain, but this ought to work:
     # make
     # make install
 
-I just did a clean install and I'm determined to keep it that way. So I removed these packages after:
+I just did a clean install and I'm determined to keep it that way. So I
+removed these packages after:
 
     cervisia cvs gettext-kde hspell kappfinder kapptemplate kbabel kbugbuster
     kcachegrind kde-core kde-devel kdebase kdebase-dev kdelibs4-dev kdesdk

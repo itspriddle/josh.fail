@@ -1,12 +1,17 @@
 ---
 layout: post
 title: Asterisk on Ubuntu Server
-categories:
-  - Asterisk
-  - Linux
-  - Ubuntu
+short_description: |
+  <p>
+    I know I've blogged this before, but these are the steps I took most
+    recently to get Asterisk running on a fresh Ubuntu Server (Dapper)
+    installation. The instructions will also work on Feisty or Gutsy server.
+  </p>
 ---
-I know I've blogged this before, but these are the steps I took most recently to get Asterisk running on a fresh Ubuntu Server (Dapper) installation. The instructions will also work on Feisty or Gutsy server.
+
+I know I've blogged this before, but these are the steps I took most recently
+to get Asterisk running on a fresh Ubuntu Server (Dapper) installation. The
+instructions will also work on Feisty or Gutsy server.
 
     # apt-get install linux-headers-`uname -r` build-essential libssl-dev libncurses5-dev libspeex-dev sox sox-dev
     # mkdir /usr/src/asterisk
@@ -30,4 +35,5 @@ I know I've blogged this before, but these are the steps I took most recently to
 
 If all goes well, you should see the Asterisk console.
 
-Note: I am not 100% sure which repos have the packages mentioned, but I had the universe and multiverse repos added so my sources.list for apt.
+Note: I am not 100% sure which repos have the packages mentioned, but I had
+the universe and multiverse repos added so my sources.list for apt.

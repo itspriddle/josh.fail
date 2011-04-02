@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Linux - unzip
-categories:
-  - Linux
 ---
+
 I just had a hell of a time trying to unzip a bunch of zip's on Linux.
 
 Long story short, to unzip all zip files in a directory run `unzip \*.zip`

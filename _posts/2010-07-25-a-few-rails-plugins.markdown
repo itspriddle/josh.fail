@@ -2,10 +2,6 @@
 layout: post
 title: A few Rails Plugins
 date: Sun Jul 25 22:53:28 EDT 2010
-categories:
-  - Development
-  - Ruby
-  - Rails
 ---
 
 I extracted a few pieces of code into Rails Plugins.
@@ -17,4 +13,3 @@ I extracted a few pieces of code into Rails Plugins.
 * [Fraud Guardian](http://github.com/itspriddle/fraud_guardian): Helpers for generating fraud reports via FraudGuardian
 
 Nothing spectacular, but maybe they'll help someone else.
-

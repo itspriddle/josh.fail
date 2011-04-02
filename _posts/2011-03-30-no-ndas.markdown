@@ -1,0 +1,10 @@
+---
+layout: post
+title: A good read about NDAs
+link: http://dashes.com/anil/2010/05/one-more-time-no-ndas.html
+---
+
+I found this article the other day about why one developer says "no" when it
+comes to [NDAs](http://en.wikipedia.org/wiki/Non-disclosure_agreement). It
+was a very interesting read, and I think I may follow suit when consulting in
+the future.

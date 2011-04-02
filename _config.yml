@@ -2,11 +2,9 @@ auto:        true
 server_port: 4000
 pygments:    true
 markdown:    rdiscount
-permalink:   /posts/:year/:month/:day/:title.html
+permalink:   /blog/:title.html
 rdiscount:
   extensions: [smart]
-site_name: 'code.nevercraft.net'
-site_url: 'http://code.nevercraft.net/'
-author: Josh
-author_url: 'http://twitter.com/itspriddle'
 paginate:    5
+exclude: _script
+site_name: code.nevercraft.net

@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Mozilla Thunderbird 2 on Ubuntu
-categories:
-  - Linux
-  - Ubuntu
 ---
+
 Installing Thunderbird 2 on Ubuntu was cake.
 
     sudo apt-get build-dep mozilla-thunderbird

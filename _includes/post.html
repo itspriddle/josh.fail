@@ -1,25 +1,14 @@
-<div class="entry">
-  <div class="entrytitle">
-    <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
+<div class="post">
+  <div class="title">
+    <div class="date">{{ page.date | date: "%B %e, %Y" }}</div>
+    <h1>{% if homepage %}<a href="{% if page.link %}{{ page.link }}{% else %}{{ page.url }}{% endif %}">{{ page.title }}</a>{% else %}{{ page.title }}{% endif %}</h1>
   </div>
-  <div class="entrybody">
-  {{ body }}
-  {% if show_comments %}
-  {% include comments.html %}
-  {% endif %}
-  </div>
-  <div class="entrymeta">
-    <div class="postinfo">
-      <span class="postedby">Posted By
-        {% if page.author %}
-        <a href="{{ page.author_url }}">{{ page.author }}</a>
-        {% else %}
-        <a href="{{ site.author_url }}">{{ site.author }}</a>
-        {% endif %}
-        on <span class="entrydate">{{ page.date | date: "%b %e, %Y" }}</span>
-      </span>
-      <span class="commentslink"><a href="{{ page.url }}#disqus_thread">Comments</a></span>
-      <span class="filedto">Filed in {% for cat in page.categories %}<a href="/categories/{{ cat | downcase }}.html">{{ cat }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</span>
-    </div>
+  <div class="body">
+    {% if homepage and page.short_description %}
+    {{ page.short_description }}
+    <p><a href="{{ page.url }}">Read more &rarr;</a></p>
+    {% else %}
+    {{ body }}
+    {% endif %}
   </div>
 </div>

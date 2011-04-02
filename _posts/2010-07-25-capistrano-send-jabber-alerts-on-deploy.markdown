@@ -2,9 +2,11 @@
 layout: post
 title: "Capistrano: Send Jabber alerts on deploy"
 date: Sun Jul 25 23:18:14 EDT 2010
-categories:
-  - Development
-  - Rails
+short_description:
+  <p>
+    I use this Capistrano recipe at work to send a broadcast to the office when I
+    deploy an update.
+  </p>
 ---
 
 I use this Capistrano recipe at work to send a broadcast to the
@@ -33,5 +35,4 @@ message like so:
 
     JABBER_REASON='a database migration' JABBER_DOWNTIME='10 minutes' cap deploy
     JABBER_REASON='everything is broken' JABBER_DOWNTIME='a long time' cap deploy:web:disable
-
 

@@ -1,9 +1,8 @@
 ---
 layout: post
 title: tar over ssh
-categories:
-  - Linux
 ---
+
 I figured out this easy way to make a backup over ssh.
 
     ssh remoteserver "cd source/dir && tar -vzcf - ." > yourbackup.tgz

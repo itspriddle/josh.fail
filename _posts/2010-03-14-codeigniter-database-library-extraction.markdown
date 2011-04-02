@@ -2,11 +2,8 @@
 layout: post
 title: CodeIgniter Database Library Extraction
 date: Sun Mar 14 19:13:53 EDT 2010
-categories:
-  - Development
-  - PHP
-  - CodeIgniter
 ---
+
 I've used [CodeIgniter](http://codeigniter.com/) in several PHP projects, and
 I love it (if I _have_ to write PHP). I'm a big fan of the included
 [Database Library](http://codeigniter.com/user_guide/database/index.html).

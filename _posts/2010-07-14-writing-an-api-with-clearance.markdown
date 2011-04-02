@@ -2,10 +2,15 @@
 layout: post
 title: Writing an API with Clearance
 date: Wed Jul 14 20:24:24 EDT 2010
-categories:
-  - Development
-  - Rails
+short_description: |
+  <p>
+    Recently, I needed to write an API to work with an iPhone application. I
+    used <a href="http://github.com/thoughtbot/clearance">Clearance</a> for
+    authentication. Unfortunately, it doesn't support HTTP Basic
+    Authentication out of the box, which made it difficult to use in an API.
+  </p>
 ---
+
 Recently, I needed to write an API to work with an iPhone application. I
 used [Clearance](http://github.com/thoughtbot/clearance) for authentication.
 Unfortunately, it doesn't support HTTP Basic Authentication out of the box,
@@ -17,11 +22,11 @@ Thoughtbot guys said that `Rack::Auth::Basic` should be used instead. No
 examples were provided.
 
 I tried for a few days to get things to work with Rack and ended up using
-that patch. 
+that patch.
 
 Today I decided to take another look at this. I found a
 [cached slideshow](http://webcache.googleusercontent.com/search?q=cache:D1qO0ICwy8gJ:training.thoughtbot.com/slideshows/api+clearance+http+basic+auth&hl=en&client=safari&gl=us&strip=1)
-on Google that had the info I needed to make an API 
+on Google that had the info I needed to make an API
 using a Sinatra app as a Rails Metal.
 
 This is basically how I got HTTP Basic Auth working with Clearance:
@@ -29,4 +34,3 @@ This is basically how I got HTTP Basic Auth working with Clearance:
 <script src="http://gist.github.com/476335.js?file=api.rb"> </script>
 
 Hope it helps someone else having this problem.
-
