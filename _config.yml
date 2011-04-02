@@ -2,7 +2,7 @@ auto:        true
 server_port: 4000
 pygments:    true
 markdown:    rdiscount
-permalink:   /blog/:title.html
+permalink:   /blog/:year/:title.html
 rdiscount:
   extensions: [smart]
 paginate:    5

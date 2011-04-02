@@ -1,0 +1,10 @@
+---
+layout: default
+title: Grrr ITT
+---
+
+So much work left to do... I have to work out the topology of a 90 host
+network and then do a shit load of math. Oh, I should learn to subnet too...
+
+Have a database project due also. Great times. I need a day in the week that
+no one knows about but myself..

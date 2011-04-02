@@ -1,0 +1,11 @@
+---
+layout: default
+title: Gizoogle!
+link: http://gizoogle.com/
+---
+
+<a href="http://gizoogle.com/">gizoogle.com</a> is the greatest site ever.
+
+Basically it -izzle's a webpage.  Here's a clip from CNN.com Gizoogled..
+
+Thanks to da_chris at Spoono Forums for pointing out this one.
