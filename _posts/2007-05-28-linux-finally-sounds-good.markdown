@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Linux finally sounds good
 link: http://ubuntuguide.org/wiki/Ubuntu:Feisty#How_to_setup_the_surround_speakers_.285.1_and_others.29_with_ALSA
 ---

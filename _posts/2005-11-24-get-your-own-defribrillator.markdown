@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Get your own defribrillator!
 link: http://www.tvdepot.com/heartstart/home.jsp
 ---

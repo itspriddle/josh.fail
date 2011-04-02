@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: # echo Linux > /home/jpriddle/file1
 ---
 

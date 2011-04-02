@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Hahahaha
 link: http://video.google.com/videoplay?docid=-1289519408092013181&q=cheater+lan
 ---

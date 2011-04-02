@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Don't wanna go to school/work...
 ---
 

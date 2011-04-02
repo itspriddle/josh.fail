@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Well I survived Day 1
 ---
 

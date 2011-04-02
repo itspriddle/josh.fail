@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Calling Dell Support
 short_description: |
   <p>

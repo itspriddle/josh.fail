@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Honey I Shrunk The Kids
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "The Legend of Zelda: Twilight Princess"
 ---
 

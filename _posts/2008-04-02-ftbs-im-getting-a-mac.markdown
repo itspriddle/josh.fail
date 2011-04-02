@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: FTBS... I'm getting a Mac
 ---
 

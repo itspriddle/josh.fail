@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Old ass gamer
 link: http://www.smithappens.com/video_grannygamer.php
 ---

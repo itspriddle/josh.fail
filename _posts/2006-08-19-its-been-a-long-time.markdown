@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Its been a long time
 ---
 

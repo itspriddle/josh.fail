@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Hurray Mac mini
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Ninety-nine is always fine
 ---
 
