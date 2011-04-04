@@ -208,16 +208,17 @@ pre {
   }
 
 code {
-  /*font-size: 90% !important;*/
-/*  font-size: 90%!important;*/
-/*  background-color: #444 !important;*/
   color: #C00 !important;
   padding: 0.2em 0.2em;
-/*  padding: 0.2em 0.6em;
-  -webkit-border-radius: 4px;
-  -moz-border-radius: 4px;
-  border-radius: 4px;*/
+}
+
+blockquote {
+  margin: 1em 0;
+  border-left: 3px solid #aaa;
+  padding-left: .4em;
+  color: #888 !important;
 }
 
 
+b, strong { font-weight: bold; }
 .gist pre { color: #000!important; }
