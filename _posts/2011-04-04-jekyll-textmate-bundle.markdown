@@ -1,0 +1,9 @@
+---
+layout: post
+date: 2011-04-04
+title: Jekyll TextMate Bundle
+link: https://github.com/itspriddle/jekyll-tmbundle
+---
+
+I forked a Jekyll TextMate bundle and added a new post template and a
+tmLanguage file. Check it out if you blog with Jekyll and TextMate.
