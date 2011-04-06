@@ -6,12 +6,16 @@ body_id: projects
 
 # My Projects
 
-I code.
+> I don't even see the code. All I see is blonde, brunette, red-head.
+
+I'm constantly hacking on something. This is a list of projects that may be
+useful to someone else. Checkout my [GitHub](https://github.com/itspriddle)
+some other tasty nuggets.
 
 
 ## TiFighter
 
-Wage intergalatic war on your Titanium Mobile Projects with TiFighter.
+Wage intergalactic war on your Titanium Mobile Projects with TiFighter.
 [View source on GitHub &rarr;](https://github.com/itspriddle/ti-fighter)
 
 
@@ -57,19 +61,18 @@ I created a small Rails plugin which can be used with FraudGuardian.
 [View source on GitHub &rarr;](https://github.com/itspriddle/fraud_guardian)
 
 
-## dotfiles
+## Development Environment
 
-My dotfiles for ZSH, vim, etc.
+My dotfiles include my ZSH config, ruby/rails prompt config, and a bunch of
+shell scripts I've accumulated over the years.
 [View source on GitHub &rarr;](https://github.com/itspriddle/dotfiles)
 
-
-## TextMate Config
-
-My TextMate configuration.
+My TextMate configuration includes a ton of Bundles (as submodules), and some
+custom snippets and keybindings I find useful.
 [View source on GitHub &rarr;](https://github.com/itspriddle/textmate-config)
 
-
-## vim Config
-
-My vim configuration.
+My vim configuration includes
+[pathogen](https://github.com/tpope/vim-pathogen), a ton of plugins for
+Ruby, PHP, and Javascript development, and a bunch of customizations I've
+collected over the years.
 [View source on GitHub &rarr;](https://github.com/itspriddle/vim-config)
