@@ -1,0 +1,10 @@
+---
+layout: post
+date: 2011-04-21
+title: MiniDB, a cute little wrapper for PHP's PDO
+link: https://github.com/itspriddle/minidb
+---
+
+I threw together a tiny little wrapper for PHP's
+[PDO](http://php.net/manual/en/book.pdo.php) library. It probably sucks, but
+it may be useful to someone stuck with PHP :)
