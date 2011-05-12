@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HP All In One Printing with Snow Leopad
+title: HP All In One Printing with Snow Leopard
 link: http://www.reedolsen.com/hp-all-in-one-scanning-in-snow-leopard/
 ---
 
