@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Snuggie: a ruby gem for the Softaculous API"
+link: https://github.com/site5/snuggie
+---
+
+Yesterday, I pushed [Snuggie](https://github.com/site5/snuggie), a gem that
+wraps the Softaculous API in a warm, loving ruby embrace. Check it out
+if you use Softaculous!
