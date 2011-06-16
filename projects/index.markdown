@@ -13,6 +13,25 @@ useful to someone else. Checkout my [GitHub](https://github.com/itspriddle)
 some other tasty nuggets.
 
 
+## Snuggie
+
+Snuggie wraps the Softaculous API in a warm, loving ruby embrace.
+[View source on Github &rarr;](https://github.com/site5/snuggie)
+
+
+## Hamburglar
+
+Hamburglar is a ruby library for working with the MaxMind minFraud API.
+[View source on Github &rarr;](https://github.com/site5/hamburglar)
+
+
+## FannyPack
+
+FannyPack is a library for working with the
+[Fantastico API](https://netenberg.com/api/).
+[View source on GitHub &rarr;](https://github.com/site5/fanny_pack)
+
+
 ## TiFighter
 
 Wage intergalactic war on your Titanium Mobile Projects with TiFighter.
