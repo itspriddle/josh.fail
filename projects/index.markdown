@@ -13,6 +13,12 @@ useful to someone else. Checkout my [GitHub](https://github.com/itspriddle)
 some other tasty nuggets.
 
 
+## stripper.vim
+Stripper.vim won't get naked for you, but it will strip trailing whitespace
+from your buffers.
+[View source on Github &rarr;](https://github.com/itspriddle/vim-stripper)
+
+
 ## Snuggie
 
 Snuggie wraps the Softaculous API in a warm, loving ruby embrace.
