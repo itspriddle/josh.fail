@@ -1,0 +1,6 @@
+---
+layout: post
+title: RSS/XML
+---
+
+Updated this newsfeed to use XML and created an RSS feed.  Use /news.xml.
