@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Nevercraft V3
-published: false
 ---
 
 After messing around with this layout for over a year, I've recreated it yet
