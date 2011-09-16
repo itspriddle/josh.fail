@@ -6,5 +6,5 @@ permalink:   /blog/:year/:title.html
 rdiscount:
   extensions: [smart]
 paginate:    5
-exclude: _script
+exclude: _script Rakefile
 site_name: code.nevercraft.net
