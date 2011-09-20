@@ -5,6 +5,7 @@ markdown:    rdiscount
 permalink:   /blog/:year/:title.html
 rdiscount:
   extensions: [smart]
-paginate:    5
-exclude: _script Rakefile
+paginate:    10
+exclude: _script _lib _drafts config.ru CNAME README.markdown Rakefile Gemfile Gemfile.lock
 site_name: code.nevercraft.net
+site_url: http://code.nevercraft.net/
