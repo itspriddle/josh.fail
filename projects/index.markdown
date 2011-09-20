@@ -101,3 +101,31 @@ My vim configuration includes
 Ruby, PHP, and Javascript development, and a bunch of customizations I've
 collected over the years.
 [View source on GitHub &rarr;](https://github.com/itspriddle/vim-config)
+
+
+# Other Stuff I've Worked On
+
+> Round, round, get around. I get around, yeah.
+
+Sometimes people pay me to code or design for them. Here are a few projects
+I've worked on with previous employers and clients.
+
+
+## Ennouncement
+
+While at ViaTalk, I wrote the backend Rails application that powers
+Ennouncement.com, a call broadcasting service. I also wrote Ennouncement
+Mobile, an iPhone application for Ennouncement users.
+[Go to Ennouncement.com &rarr;](http://www.ennouncement.com/)
+
+
+## Let's Call Santa
+
+One of my favorite ViaTalk projects, Let's Call Santa gives children a way to
+call Santa and leave a personalized voicemail with their wishlist. The
+voicemail is then delivered to parents via email so they can make sure to get
+everything their kids want for Christmas.
+
+I created a PHP-based site for the service in 2009, and rewrote it in Rails in
+2010 to add new features.
+[Go to letscallsanta.com &rarr;](http://www.letscallsanta.com/)
