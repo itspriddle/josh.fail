@@ -1,13 +1,46 @@
+GIT
+  remote: https://github.com/mojombo/jekyll.git
+  revision: 4499df80330ac70f9ac09f854941394542019b6a
+  specs:
+    jekyll (0.11.2)
+      albino (~> 1.3)
+      classifier (~> 1.3)
+      directory_watcher (~> 1.1)
+      kramdown (~> 0.13)
+      liquid (~> 2.3)
+      maruku (~> 0.5)
+
 GEM
   remote: http://rubygems.org/
   specs:
+    RedCloth (4.2.9)
+    albino (1.3.3)
+      posix-spawn (>= 0.3.6)
+    classifier (1.3.3)
+      fast-stemmer (>= 1.0.0)
+    directory_watcher (1.4.1)
+    fast-stemmer (1.0.0)
+    kramdown (0.13.4)
+    liquid (2.3.0)
+    maruku (0.6.0)
+      syntax (>= 1.0.0)
+    posix-spawn (0.3.6)
+    pygmentize (0.0.3)
     rack (1.2.4)
     rack-contrib (1.1.0)
       rack (>= 0.9.1)
+    rack-redirect (0.0.3)
+      rack
+    rdiscount (1.6.8)
+    syntax (1.0.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  rack
+  RedCloth
+  jekyll!
+  pygmentize
   rack-contrib
+  rack-redirect
+  rdiscount

@@ -1,10 +1,14 @@
 require 'rubygems'
-require 'rack'
-require 'rack/contrib/try_static'
+require 'bundler'
+Bundler.require
 
 use Rack::TryStatic,
-  :root => '_site',
-  :urls => %w[/],
-  :try  => %w[.html index.html /index.html]
+    :root => "_site",
+    :urls => %w[/],
+    :try => ['.html', 'index.html', '/index.html']
 
-run lambda { [404, {'Content-Type' => 'text/html'}, ['not found']]}
+use Rack::Static,
+    :root => "public",
+    :urls => %w[/]
+
+run lambda { [404, {'Content-Type' => 'text/html'}, ['Not Found']]}
