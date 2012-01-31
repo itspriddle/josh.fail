@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # echo Linux > /home/jpriddle/file1
+title: "# echo Linux > /home/jpriddle/file1"
 ---
 
 Linux is fuckin great.
@@ -8,7 +8,7 @@ Linux is fuckin great.
 I get to school and I have not one but two quizzes I didn't know about. Hah, I
 did better than Tony...
 
-After that we got to go to lab.Â The lab, seriously, took me all of 10 minutes
+After that we got to go to lab. The lab, seriously, took me all of 10 minutes
 to complete.
 
 Haha, then I get home, and there's an email from the Dean of the school saying

@@ -4,8 +4,8 @@ title: "Jekyll and Vim"
 ---
 
 I've been using Vim full time for a while now and wanted a decent way to
-manage blog posts in my [Github Pages](https://pages.github.com/) powered
-blog. 
+manage blog posts in my [Github Pages](http://pages.github.com/) powered
+blog.
 
 [jekyll.vim](https://github.com/csexton/jekyll.vim/) has been around for a
 while, but it had a few drawbacks. I spent the last couple of nights getting
