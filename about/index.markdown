@@ -12,7 +12,9 @@ applications.
 ## Contact Info
 
   * Cell: (518) 670-4056
+  * AIM: [itspriddle](aim:goim?screenname=itspriddle)
   * Email: <jpriddle@nevercraft.net>
+  * Github: <https://github.com/itspriddle>
   * Twitter: <http://twitter.com/itspriddle>
 
 
