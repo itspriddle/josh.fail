@@ -1,11 +1,19 @@
 auto:        true
 server_port: 4000
 pygments:    true
-markdown:    rdiscount
 permalink:   /blog/:year/:title.html
+paginate:    10
+
+exclude: _script _lib _drafts config.ru CNAME README.markdown Rakefile Gemfile
+         Gemfile.lock
+
+# Plugin settings
+markdown:    rdiscount
 rdiscount:
   extensions: [smart]
-paginate:    10
-exclude: _script _lib _drafts config.ru CNAME README.markdown Rakefile Gemfile Gemfile.lock
-site_name: code.nevercraft.net
-site_url: http://code.nevercraft.net/
+
+title: code.nevercraft.net
+url:   http://code.nevercraft.net
+
+# Gravatar
+gravatar_hash: 041cd7558aa5868a21d949c88e195c95
