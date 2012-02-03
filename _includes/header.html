@@ -2,10 +2,27 @@
 <html>
 <meta charset="utf-8">
 <head>
-  <title>{{ page.title }} &mdash; {{ site.site_name }}</title>
+  <title>{{ page.title }} &mdash; {{ site.title }}</title>
   <link href="/stylesheets/application.css" media="screen" rel="stylesheet" type="text/css" />
   <link href="/stylesheets/syntax.css" media="screen" rel="stylesheet" type="text/css" />
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
   <script src="/javascripts/application.js" type="text/javascript"></script>
+  <style type="text/css">
+    /* prevent visible font switching */
+    .wf {
+      opacity: 0 !important;
+      filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0) !important;
+      -webkit-transition: opacity 0.3s ease 0s;
+      -moz-transition: opacity 0.3s ease 0s;
+      -o-transition: opacity 0.3s ease 0s;
+      transition: opacity 0.3s ease 0s;
+    }
+    .wf-active .wf,
+    .wf-fake-active .wf {
+      opacity: 1 !important;
+      filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100) !important;
+    }
+  </style>
 </head>
-<body{% if page.body_id %} id="{{ page.body_id }}"{% endif %}>
+<body{% if page.body_id %} id="{{ page.body_id }}"{% endif %} class="wf">
+  <div id="master">
