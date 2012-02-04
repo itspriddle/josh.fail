@@ -34,8 +34,8 @@ body {
   font-family: Helvetica,Arial,sans-serif;
   font-size:0.74em;
   line-height:1.6;
-  background:#fff url(/images/site/bg.png) repeat-x;
   border-top:5px solid #333;
+  background: #c4c4c4 url(/images/site/bgd.jpg);
   color:#555;
   -webkit-font-smoothing: antialiased;
 }
