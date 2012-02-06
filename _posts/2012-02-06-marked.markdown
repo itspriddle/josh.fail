@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Marked"
+link: http://markedapp.com/
+---
+
+I just discovered [Marked](http://markedapp.com/) today. It adds one of the
+few things I still miss from TextMate to vim, a live preview window for
+markdown.
+
+Just add this to your `vimrc` and you can `<leader>m` in any markdown buffer
+to see a rendered preview:
+
+    autocmd FileType markdown,liquid nnoremap <buffer> <leader>m :silent !open -a Marked.app '%:p'<cr>
