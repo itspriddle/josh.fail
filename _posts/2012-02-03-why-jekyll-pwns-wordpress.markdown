@@ -156,12 +156,12 @@ For me, these are unnecessary trade-offs. I don't need a database. I don't
 need a full scripting language. I like HTML and it just makes sense to serve
 that to begin with.
 
-## Less Distractions
+## Fewer Distractions
 
 I couldn't imagine the time I've wasted searching for Wordpress themes or
 plugins that I ended up not using. Updating these or installing new ones was a
 huge distraction for me that took away from time that could have been better
-spent blogging. I finally decided to switch to Jekyll when I realized how
+spent blogging. I finally decided to switch to Jekyll when I realized what
 little value these things were really providing me.
 
 ## It's More Fun
