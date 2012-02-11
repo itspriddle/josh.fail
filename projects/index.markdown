@@ -13,44 +13,63 @@ useful to someone else. Checkout my [GitHub](https://github.com/itspriddle)
 some other tasty nuggets.
 
 
-## stripper.vim
+## vim-marked (Vim plugin)
+
+A tiny Vim plugin to open markdown files in
+[Marked.app](http://markedapp.com/).
+
+
+## vim-jekyll (Vim plugin)
+
+My WIP fork of jekyll.vim which makes blogging with Jekyll and Vim sexytime.
+[View source on Github &rarr;](https://github.com/itspriddle/vim-jekyll)
+
+
+## Rainman (RubyGem)
+
+Rainman is a very good driver. It's an experiment with the abstract factory
+pattern.
+[View source on Github &rarr;](https://github.com/site5/rainman)
+
+
+## stripper.vim (Vim plugin)
 Stripper.vim won't get naked for you, but it will strip trailing whitespace
 from your buffers.
 [View source on Github &rarr;](https://github.com/itspriddle/vim-stripper)
 
 
-## Snuggie
+## Snuggie (RubyGem)
 
 Snuggie wraps the Softaculous API in a warm, loving ruby embrace.
 [View source on Github &rarr;](https://github.com/site5/snuggie)
 
 
-## Hamburglar
+## Hamburglar (RubyGem)
 
 Hamburglar is a ruby library for working with the MaxMind minFraud API.
 [View source on Github &rarr;](https://github.com/site5/hamburglar)
 
 
-## FannyPack
+## FannyPack (RubyGem)
 
 FannyPack is a library for working with the
 [Fantastico API](https://netenberg.com/api/).
 [View source on GitHub &rarr;](https://github.com/site5/fanny_pack)
 
 
-## TiFighter
+## TiFighter (CoffeeScript library for Titanium Mobile)
 
 Wage intergalactic war on your Titanium Mobile Projects with TiFighter.
 [View source on GitHub &rarr;](https://github.com/itspriddle/ti-fighter)
 
 
-## APND
+## APND (RubyGem)
 
 APND: Apple Push Notification Daemon sends Apple Push Notifications to iPhones.
 [View source on GitHub &rarr;](https://github.com/itspriddle/apnd)
 
 
-## WHMCS API Bindings
+## WHMCS API Bindings (RubyGem)
 
 I extracted work with [DotBlock](http://www.dotblock.com/) and released PHP
 and Ruby wrappers for the WHMCS API. View source on GitHub for the
@@ -58,7 +77,7 @@ and Ruby wrappers for the WHMCS API. View source on GitHub for the
 [PHP](https://github.com/dotblock/whmcs-php) versions.
 
 
-## CodeIgniter ActionMailer
+## CodeIgniter ActionMailer (PHP library)
 
 I missed ActionMailer from Ruby on Rails and started hacking up something
 similar for use with CodeIgniter apps. I gave it just enough love to be
@@ -67,20 +86,20 @@ using it with.
 [View source on GitHub &rarr;](https://github.com/itspriddle/codeigniter-action-mailer)
 
 
-## ActiveMailbox
+## ActiveMailbox (RubyGem)
 
 I got sick of manually working with Asterisk Voicemail files and created
 ActiveMailbox to make my life a little easier.
 [View source on GitHub &rarr;](https://github.com/itspriddle/active_mailbox)
 
 
-## LaunchBar Actions
+## LaunchBar Actions (AppleScript)
 
 Just a few LaunchBar Actions I use.
 [View source on GitHub &rarr;](https://github.com/itspriddle/launchbar-actions)
 
 
-## Fraud Guardian Rails Plugin
+## Fraud Guardian (Rails Plugin)
 
 I created a small Rails plugin which can be used with FraudGuardian.
 [View source on GitHub &rarr;](https://github.com/itspriddle/fraud_guardian)
@@ -91,10 +110,6 @@ I created a small Rails plugin which can be used with FraudGuardian.
 My dotfiles include my ZSH config, ruby/rails prompt config, and a bunch of
 shell scripts I've accumulated over the years.
 [View source on GitHub &rarr;](https://github.com/itspriddle/dotfiles)
-
-My TextMate configuration includes a ton of Bundles (as submodules), and some
-custom snippets and keybindings I find useful.
-[View source on GitHub &rarr;](https://github.com/itspriddle/textmate-config)
 
 My vim configuration includes
 [pathogen](https://github.com/tpope/vim-pathogen), a ton of plugins for
