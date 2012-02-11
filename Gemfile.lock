@@ -26,7 +26,7 @@ GEM
       syntax (>= 1.0.0)
     posix-spawn (0.3.6)
     pygmentize (0.0.3)
-    rack (1.2.4)
+    rack (1.4.1)
     rack-contrib (1.1.0)
       rack (>= 0.9.1)
     rack-redirect (0.0.3)
