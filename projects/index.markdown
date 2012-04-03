@@ -132,6 +132,13 @@ collected over the years.
 [View source on GitHub &rarr;](https://github.com/itspriddle/vim-config)
 
 
+## This Blog
+
+My blog is powered by [Jekyll](https://github.com/mojombo/jekyll) and is open
+source.
+[View source on GitHub &rarr;](https://github.com/itspriddle/code.nevercraft.net)
+
+
 # Other Stuff I've Worked On
 
 > Round, round, get around. I get around, yeah.
