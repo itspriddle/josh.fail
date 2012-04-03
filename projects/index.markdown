@@ -13,10 +13,24 @@ useful to someone else. Checkout my [GitHub](https://github.com/itspriddle)
 some other tasty nuggets.
 
 
+## gem-create (RubyGem)
+
+gem-create is a RubyGem plugin that provides a `gem create` command to create
+new gems based on a skeleton.
+[View source on Github &rarr;](https://github.com/itspriddle/gem-create)
+
+
+## Splinter (RubyGem)
+
+Splinter is a Capybara Ninja.
+[View source on Github &rarr;](https://github.com/site5/splinter)
+
+
 ## vim-marked (Vim plugin)
 
 A tiny Vim plugin to open markdown files in
 [Marked.app](http://markedapp.com/).
+[View source on Github &rarr;](https://github.com/itspriddle/vim-marked)
 
 
 ## vim-jekyll (Vim plugin)
