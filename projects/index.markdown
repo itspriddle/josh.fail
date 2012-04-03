@@ -83,7 +83,7 @@ APND: Apple Push Notification Daemon sends Apple Push Notifications to iPhones.
 [View source on GitHub &rarr;](https://github.com/itspriddle/apnd)
 
 
-## WHMCS API Bindings (RubyGem)
+## WHMCS API Bindings (RubyGem/PHP library)
 
 I extracted work with [DotBlock](http://www.dotblock.com/) and released PHP
 and Ruby wrappers for the WHMCS API. View source on GitHub for the
