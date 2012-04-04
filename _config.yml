@@ -8,7 +8,9 @@ exclude: _script _lib _drafts config.ru CNAME README.markdown Rakefile Gemfile
          Gemfile.lock
 
 # Plugin settings
-markdown: redcarpet
+markdown:    rdiscount
+rdiscount:
+  extensions: [smart]
 
 title: code.nevercraft.net
 url:   http://code.nevercraft.net
