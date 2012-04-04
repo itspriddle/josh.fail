@@ -33,19 +33,21 @@ files that are not in this list.
 
 I used the following ruby script to do this:
 
-    Dir.chdir "new-project"
+{% highlight ruby %}
+Dir.chdir "new-project"
 
-    all_files_ever = `git log --pretty=format: --name-only --diff-filter=A | sort -`.
-                     chomp.split("\n").reject {|line| line.chomp == ""}
-    keepers = %W(
-      app/models/foo.rb
-      spec/models/foo_spec.rb
-      lib/tasks/foo.rake
-    )
+all_files_ever = `git log --pretty=format: --name-only --diff-filter=A | sort -`.
+                 chomp.split("\n").reject {|line| line.chomp == ""}
+keepers = %W(
+  app/models/foo.rb
+  spec/models/foo_spec.rb
+  lib/tasks/foo.rake
+)
 
-    delete_us = all_files_ever - keepers
+delete_us = all_files_ever - keepers
 
-    `git filter-branch --prune-empty --index-filter "git rm -f --cached --ignore-unmatch #{delete_us.join(' ')}" HEAD`
+`git filter-branch --prune-empty --index-filter "git rm -f --cached --ignore-unmatch #{delete_us.join(' ')}" HEAD`
+{% endhighlight %}
 
 After running this script, you'll be left with only the files specified as
 "keepers". Unlike the `--subdirectory-filter` option, these files are left in
