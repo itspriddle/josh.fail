@@ -1,0 +1,15 @@
+---
+layout: post
+title: "test"
+date: "Wed Apr 04 01:46:53 -0400 2012"
+---
+
+```ruby
+puts :hi
+```
+
+```php
+<?php
+
+echo 'hi!';
+```
