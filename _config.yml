@@ -1,4 +1,4 @@
-auto:        true
+auto:        false
 server:      false
 pygments:    true
 permalink:   /blog/:year/:title.html
