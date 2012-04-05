@@ -13,7 +13,6 @@ GIT
 GEM
   remote: http://rubygems.org/
   specs:
-    RedCloth (4.2.9)
     albino (1.3.3)
       posix-spawn (>= 0.3.6)
     classifier (1.3.3)
@@ -29,18 +28,14 @@ GEM
     rack (1.4.1)
     rack-contrib (1.1.0)
       rack (>= 0.9.1)
-    rack-redirect (0.0.3)
-      rack
-    rdiscount (1.6.8)
+    redcarpet (1.17.2)
     syntax (1.0.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  RedCloth
   jekyll!
   pygmentize
   rack-contrib
-  rack-redirect
-  rdiscount
+  redcarpet (~> 1.17.2)
