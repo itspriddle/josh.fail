@@ -1,49 +1,14 @@
-/**
- * Project Name
- *
- * @package     Package Name
- * @author      Joshua Priddle <jpriddle@nevercraft.net>
- * @copyright   Copyright (c) 2011, ViaTalk, LLC
- * @version     0.0.0
- * @url         url
- */
+@import "config";
+@import "reset";
 
-/* @group reset */
-html,body,div,ul,ol,li,dl,dt,dd,h1,h2,h3,h4,h5,h6,pre,form,p,blockquote,fieldset,input {margin:0; padding:0;}
-h1,h2,h3,h4,h5,h6,pre,code,address,caption,cite,code,em,strong,th {font-size:1em; font-weight:normal; font-style:normal;}
-ul,ol {list-style:none;}
-fieldset,img {border:none;}
-caption,th {text-align:left;}
-table {border-collapse:collapse; border-spacing:0;}
-a {outline: 0;}
-select,input,button,textarea,button {font:99% Helvetica,Arial,sans-serif;}
-table {font-size:inherit;font:100%;}
-pre,code,kbd,samp,tt {font-family:Code,Monaco,monospace;font-size:11px}
 .mono, pre, code, tt, p code, li code {
-  font-family: Menlo, Monaco, "Andale Mono", "lucida console", "Courier New", monospace; }
-html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-size: 100%;
-  font: inherit;
-  vertical-align: baseline; }
-article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {display: block;}
-/* @end */
-
-/* @group clear */
-html body * span.clear, html body * div.clear, html body * li.clear, html body * dd.clear{background:none; border:0; clear:both; display:block; float:none; font-size:0; list-style:none; margin:0; padding:0; overflow:hidden; visibility:hidden; width:0; height:0;}
-.clearfix:after{clear:both; content:'.'; display:block; visibility:hidden; height:0;}
-.clearfix{display:inline-block;}
-* html .clearfix{height:1%;}
-.clearfix{display:block;}
-.clear{height:1px; clear:both; font-size:1px; line-height:1px; overflow:hidden}
-/* @end */
+  font-family: $monospace;
+}
 
 html, body { height: 100% }
 
 body {
-  font-family: "Lucida Grande",Helvetica,Arial,sans-serif;
+  font-family: $lucida-grande;
   font-size: 0.74em;
   line-height: 1.6;
   background: #c4c4c4 url(/images/site/bgd.jpg);
