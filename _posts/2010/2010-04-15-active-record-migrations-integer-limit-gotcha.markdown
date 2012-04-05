@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ActiveRecord Migrations - integer limit gotcha
-date: Thu Apr 15 21:59:14 EDT 2010
+date: Thu Apr 15 21:59:14 -0400 2010
 ---
 
 I work on a few apps that deal with phone numbers. I usually store these

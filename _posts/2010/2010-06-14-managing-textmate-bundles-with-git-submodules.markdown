@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Managing TextMate bundles with git submodules
-date: Mon Jun 14 16:54:10 EDT 2010
+date: "Mon Jun 14 16:54:10 -0400 2010"
 short_description: |
   <p>
     I&rsquo;ve been using <a href="http://macromates.com/">TextMate</a> nearly

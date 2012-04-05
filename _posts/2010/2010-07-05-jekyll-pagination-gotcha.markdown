@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jekyll Pagination Gotcha
-date: Mon Jul  5 22:03:09 EDT 2010
+date: Mon Jul  5 22:03:09 -0400 2010
 ---
 
 If you're using Jekyll and pagination (see [Template data](http://wiki.github.com/mojombo/jekyll/template-data)),

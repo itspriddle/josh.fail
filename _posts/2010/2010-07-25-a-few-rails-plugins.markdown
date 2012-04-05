@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A few Rails Plugins
-date: Sun Jul 25 22:53:28 EDT 2010
+date: Sun Jul 25 22:53:28 -0400 2010
 ---
 
 I extracted a few pieces of code into Rails Plugins.
