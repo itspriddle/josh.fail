@@ -1,6 +1,5 @@
 require 'rubygems'
-require 'bundler'
-Bundler.require
+require 'rack/contrib/try_static'
 
 use Rack::TryStatic,
     :root => "_site",
