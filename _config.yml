@@ -1,5 +1,5 @@
 auto:        true
-server_port: 4000
+server:      false
 pygments:    true
 permalink:   /blog/:year/:title.html
 paginate:    10
@@ -8,9 +8,7 @@ exclude: _script _lib _drafts config.ru CNAME README.markdown Rakefile Gemfile
          Gemfile.lock
 
 # Plugin settings
-markdown:    rdiscount
-rdiscount:
-  extensions: [smart]
+markdown: redcarpet
 
 title: code.nevercraft.net
 url:   http://code.nevercraft.net
