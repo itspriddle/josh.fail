@@ -190,6 +190,6 @@ blockquote {
   font-style: italic;
 }
 
-
 b, strong { font-weight: bold; }
-.gist pre { color: #000!important; }
+i, em { font-style: italic; }
+
