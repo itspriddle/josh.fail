@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A shouldbox is always fun...
+title: A shoutbox is always fun...
 ---
 
 Yeah I made a shoutbox from 2 tutorials from [Spoono](http://spoono.com) They
