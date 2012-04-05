@@ -1,7 +1,0 @@
-#!/bin/bash
-
-APPROOT=$(git rev-parse --show-toplevel)
-
-cd $APPROOT
-
-jekyll --no-server
