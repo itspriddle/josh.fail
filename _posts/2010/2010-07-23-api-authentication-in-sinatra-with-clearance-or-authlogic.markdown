@@ -1,7 +1,7 @@
 ---
 layout: post
 title: API authentication in Sinatra with Clearance or Authlogic
-date: Fri Jul 23 14:16:49 EDT 2010
+date: Fri Jul 23 14:16:49 -0400 2010
 short_description: |
   <p>
     I needed HTTP basic authentication for a <a href="http://sinatrarb.com">Sinatra</a>

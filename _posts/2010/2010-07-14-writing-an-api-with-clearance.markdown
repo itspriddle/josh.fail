@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Writing an API with Clearance
-date: Wed Jul 14 20:24:24 EDT 2010
+date: Wed Jul 14 20:24:24 -0400 2010
 short_description: |
   <p>
     Recently, I needed to write an API to work with an iPhone application. I

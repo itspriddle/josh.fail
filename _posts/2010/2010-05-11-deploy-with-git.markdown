@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Deploy with git
-date: Tue May 11 23:39:10 EDT 2010
+date: Tue May 11 23:39:10 -0400 2010
 categories:
   - Development
   - Git

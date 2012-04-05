@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 2011-04-04
 title: Jekyll TextMate Bundle
 link: https://github.com/itspriddle/jekyll-tmbundle
 ---

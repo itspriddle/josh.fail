@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 2011-04-21
 title: MiniDB, a cute little wrapper for PHP's PDO
 link: https://github.com/itspriddle/minidb
 ---
