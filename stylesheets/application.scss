@@ -9,9 +9,9 @@ body {
   font-family: $lucida-grande;
   font-size: 0.74em;
   line-height: 1.6;
-  background: #c4c4c4 url(/images/site/bgd.jpg);
+  background: $main-bg url($ui-noise);
   /* border-top: 5px solid #333; */
-  color:#555;
+  color: $gray;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -20,9 +20,6 @@ p {
 }
 
 /* @group site */
-#content {
-  background-color: #f00;
-}
 
 #sidebar {
   float: left;
@@ -32,7 +29,7 @@ p {
 
 #logo {
   font-size: 18px;
-  font-family: Play,Helvetica,Arial,sans-serif;
+  font-family: $play;
   margin: 16px 0 0 0;
 }
 
@@ -83,7 +80,7 @@ p {
 /* @end */
 
 h1,h2,h3 {
-  font-family: Play,Helvetica,Arial,sans-serif;
+  font-family: $play;
 }
 
 h1 {
@@ -120,7 +117,7 @@ a:hover{
 }
 
 .post { margin-bottom: 40px; }
-.post .title { margin-top: 20px; font-family: Play,Helvetica,Arial,sans-serif; }
+.post .title { margin-top: 20px; font-family: $play; }
 .post .title h1 { margin-top: 0; padding-top: 0 }
 .post .title .date { margin-bottom: -5px; }
 

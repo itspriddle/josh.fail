@@ -1,19 +1,25 @@
 // Colors
 // --------------------------------------------------------------------------
-$black:       #000 !default;
-$grayDarker:  #222 !default;
-$grayDark:    #333 !default;
-$gray:        #555 !default;
-$grayLight:   #999 !default;
-$grayLighter: #eee !default;
-$white:       #fff !default;
+$black:       #000;
+$grayDarker:  #222;
+$grayDark:    #333;
+$gray:        #555;
+$grayLight:   #999;
+$grayLighter: #eee;
+$white:       #fff;
+
+$main-bg:     #f8f8f8;
 
 
 // Typography
 // --------------------------------------------------------------------------
 
 $helvetica:      "Helvetica Neue", Helvetica, Arial, sans-serif;
+$play:           Play, $helvetica;
 $lucida-grande:  "Lucida Grande", Tahoma, Verdana, Arial, sans-serif;
 $monospace:      Menlo, Monaco, Consolas, "Courier New", monospace;
 $verdana:        Verdana, Geneva, sans-serif;
 $georgia:        Georgia, Cambria, "Times New Roman", Times, serif;
+
+// UI Images
+$ui-noise: "/images/ui/noise.png"
