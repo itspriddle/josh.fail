@@ -1,7 +1,7 @@
 {% include header.html %}
 
 <div id="main">
-  {{ content }}
+{% if page.id %}{% assign body = content %}{% include post.html %}{% else %}{{ content }}{% endif %}
 </div>
 
 {% include footer.html %}
