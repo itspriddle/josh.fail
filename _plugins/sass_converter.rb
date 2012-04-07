@@ -1,4 +1,5 @@
 require 'sass'
+require File.expand_path('../../stylesheets/bourbon/lib/bourbon.rb', __FILE__)
 
 module Jekyll
   class SassConverter < Converter
