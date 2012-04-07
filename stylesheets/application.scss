@@ -1,9 +1,10 @@
 ---
+layout: nil
 ---
+@import "bourbon/bourbon";
 @import "config";
 @import "reset";
 
-html, body { height: 100% }
 
 body {
   font-family: $lucida-grande;
