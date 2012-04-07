@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Wage intergalactic war on your Titanium Mobile apps with TiFighter"
 published: true
 categories:

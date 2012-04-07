@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Teach Yourself Programming in Ten Years"
 link: http://norvig.com/21-days.html
 ---

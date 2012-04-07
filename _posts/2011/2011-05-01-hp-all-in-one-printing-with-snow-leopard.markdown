@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: HP All In One Printing with Snow Leopard
 link: http://www.reedolsen.com/hp-all-in-one-scanning-in-snow-leopard/
 ---

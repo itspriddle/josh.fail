@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "vim stripper"
 link: https://github.com/itspriddle/vim-stripper
 ---

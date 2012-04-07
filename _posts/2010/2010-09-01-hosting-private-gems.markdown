@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Hosting Private Gems"
 date: Wed Sep 01 01:39:09 -0400 2010
 short_description: |

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "CSS Gradient Generator"
 link: http://www.colorzilla.com/gradient-editor/
 ---

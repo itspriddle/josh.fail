@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "FannyPack: Ruby bindings for the Fantastico API"
 link: https://github.com/site5/fanny_pack
 ---

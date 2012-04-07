@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Typechart - typography gallery"
 link: http://www.typechart.com/
 ---

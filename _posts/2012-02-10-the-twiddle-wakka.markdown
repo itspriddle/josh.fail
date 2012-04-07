@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "The Twiddle Wakka"
 link: http://robots.thoughtbot.com/post/2508037841/twiddle-wakka
 ---

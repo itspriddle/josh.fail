@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Subtle Patterns"
 link: http://subtlepatterns.com/
 ---

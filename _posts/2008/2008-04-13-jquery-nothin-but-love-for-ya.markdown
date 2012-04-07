@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: jQuery, nothin' but love for ya
 ---
 

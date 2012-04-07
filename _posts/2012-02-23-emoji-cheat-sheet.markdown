@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Emoji cheat sheet"
 date: "Thu Feb 23 10:52:12 -0500 2012"
 link: http://www.emoji-cheat-sheet.com/

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: CodeIgniter Database Library Extraction
 date: Sun Mar 14 19:13:53 -0400 2010
 ---

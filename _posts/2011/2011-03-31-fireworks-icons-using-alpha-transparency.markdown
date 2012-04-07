@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Fireworks Icons using alpha transparency
 link: http://methodandcraft.com/videos/fireworks-icon-technique
 ---

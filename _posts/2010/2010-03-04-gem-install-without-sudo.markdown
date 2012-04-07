@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: gem install without sudo
 date: Thu Mar 04 17:39:59 -0500 2010
 short_description: |

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Why Jekyll pwns Wordpress"
 short_description: |
   <p>

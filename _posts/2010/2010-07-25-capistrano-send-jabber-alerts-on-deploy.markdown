@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Capistrano: Send Jabber alerts on deploy"
 date: Sun Jul 25 23:18:14 -0400 2010
 short_description:

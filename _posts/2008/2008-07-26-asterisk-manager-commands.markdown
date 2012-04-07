@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Asterisk Manager Commands
 short_description: |
   <p>

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: PHP Script To Delete All WordPress Tables
 short_description: |
   <p>

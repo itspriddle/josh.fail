@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "The Paradox of Choice"
 link: http://www.hiltmon.com/blog/2012/02/01/the-paradox-of-choice/
 ---

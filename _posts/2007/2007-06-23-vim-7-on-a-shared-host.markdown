@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Vim 7 on a Shared Host
 ---
 
