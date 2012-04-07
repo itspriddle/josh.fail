@@ -10,7 +10,7 @@ body {
   font-family: $lucida-grande;
   font-size: 0.74em;
   line-height: 1.6;
-  background: $main-bg url($ui-noise);
+  background: $main-bg $ui-noise;
   /* border-top: 5px solid #333; */
   color: $gray;
   -webkit-font-smoothing: antialiased;
@@ -125,7 +125,6 @@ a:hover{
 .post a { font-weight: bold; }
 
 p code {
-  color: #C00 !important;
 }
 
 blockquote {
