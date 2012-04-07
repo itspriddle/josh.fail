@@ -4,7 +4,7 @@ pygments:    true
 permalink:   /blog/:year/:title.html
 paginate:    10
 
-exclude: bin config.ru Gemfile Gemfile.lock Makefile README.markdown _sass stylesheets
+exclude: bin config.ru Gemfile Gemfile.lock Makefile README.markdown _sass
 
 # Plugin settings
 markdown: redcarpet
