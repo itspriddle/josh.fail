@@ -1,6 +1,6 @@
-
 .mono, pre, code, tt, p code, li code {
-  font-family: Menlo, Monaco, "Andale Mono", "lucida console", "Courier New", monospace; }
+  font-family: $monospace;
+}
 
 .highlight, html .gist .gist-file .gist-syntax .gist-highlight {
   border: 1px solid #eee8d5 !important; }
@@ -342,4 +342,3 @@ figure[role=code] .highlight {
   padding-left: 3em; }
 .download-source:hover, html .gist .gist-file .gist-meta a[href*=raw]:hover, figure[role=code] figcaption a:hover {
   text-decoration: underline; }
-
