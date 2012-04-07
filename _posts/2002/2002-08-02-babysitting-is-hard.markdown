@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Babysitting is hard
 old_date: AUG 02 2002 01:03 PM
 ---

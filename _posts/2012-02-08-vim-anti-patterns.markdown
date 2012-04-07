@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Vim anti-patterns"
 link: http://blog.sanctum.geek.nz/vim-anti-patterns/
 ---

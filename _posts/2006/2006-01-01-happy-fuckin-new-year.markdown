@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Happy fuckin New Year!
 ---
 

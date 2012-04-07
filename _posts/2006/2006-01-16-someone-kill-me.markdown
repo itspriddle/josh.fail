@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 date: Mon Jan 16 12:27:39 -0500 2006
 title: Someone kill me
 ---

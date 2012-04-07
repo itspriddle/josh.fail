@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 date: Sat Dec 3 21:12:00 -0500 2005
 title: OMG
 ---

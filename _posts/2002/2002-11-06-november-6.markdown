@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: November 6
 old_date: Wednesday, November 6, 2002
 ---

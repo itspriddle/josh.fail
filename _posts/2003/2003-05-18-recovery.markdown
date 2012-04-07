@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Recovery
 old_date: May 18; 2:12P; EST
 ---

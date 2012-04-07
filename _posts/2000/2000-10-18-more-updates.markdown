@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: More updates
 old_date: 10.19.00 @ 09.21.31PM EST
 ---

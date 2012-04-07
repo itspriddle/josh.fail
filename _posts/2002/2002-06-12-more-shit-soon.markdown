@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: More shit soon
 old_date: Sunday June 16, 2002; 2:17PM
 ---

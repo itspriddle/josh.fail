@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Mar 25
 old_date: Mar 25; 7:25P; EST
 ---

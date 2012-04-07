@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: its not what they call, its what you answer to, dissolve
 old_date: "04.16.02: 12.41.35AM (GMT -5:00)"
 ---

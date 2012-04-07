@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Make a succotash wish
 old_date: May 2; 10:37P; EST
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Ahhhh shit son
 old_date: Monday June 24, 2002; 12:47PM
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Fireworks CS3
 ---
 

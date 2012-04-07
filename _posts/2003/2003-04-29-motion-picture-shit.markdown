@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Motion Picture Shit
 old_date: Apr 29; 9:12P; EST
 ---

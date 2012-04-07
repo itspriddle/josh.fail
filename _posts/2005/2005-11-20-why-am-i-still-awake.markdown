@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 date: Sun Nov 20 07:32:00 -0500 2005
 title: Why am I still awake?!
 ---

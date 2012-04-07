@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "PHP Coding: Phase 01"
 old_date: 10.13.03 | 4:34P EST | MON
 ---

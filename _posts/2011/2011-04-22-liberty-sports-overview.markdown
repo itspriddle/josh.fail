@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Theming Liberty Sports Group with WordPress
 short_description: |
   <p>

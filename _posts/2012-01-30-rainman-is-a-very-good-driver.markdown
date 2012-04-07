@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Rainman is a very good driver"
 link: https://github.com/site5/rainman
 ---

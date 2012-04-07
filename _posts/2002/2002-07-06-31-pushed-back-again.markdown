@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: 3.1 pushed back again...
 old_date: Saturday July 6, 2002; 1:29AM
 ---

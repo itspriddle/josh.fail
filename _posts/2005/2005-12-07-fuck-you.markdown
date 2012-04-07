@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 date: Wed Dec 7 02:18:00 -0500 2005
 title: Fuck you
 ---

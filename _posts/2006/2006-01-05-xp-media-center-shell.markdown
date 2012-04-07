@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 date: Thu Jan 5 00:31:12 -0500 2006
 title: XP Media Center Shell
 ---

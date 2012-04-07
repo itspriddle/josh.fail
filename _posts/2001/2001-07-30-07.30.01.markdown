@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: 07.30.01@08.19.35PM EST
 ---
 

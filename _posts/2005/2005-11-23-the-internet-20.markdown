@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: The Internet 2.0
 ---
 

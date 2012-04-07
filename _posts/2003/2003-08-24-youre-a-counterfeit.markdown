@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "You're a counterfeit"
 old_date: Aug 24; 12:45A; EST
 ---

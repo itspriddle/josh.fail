@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Something soon, friend
 old_date: 10.20.03 | 10:33P EST | MON
 ---

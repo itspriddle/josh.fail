@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Allow binding ctrl-s and ctrl-q in Terminal.app"
 link: http://apple.stackexchange.com/a/34503
 ---

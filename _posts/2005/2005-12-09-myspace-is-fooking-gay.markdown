@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 date: Fri Dec 9 10:47:00 -0500 2005
 title: Myspace is fooking gay
 ---

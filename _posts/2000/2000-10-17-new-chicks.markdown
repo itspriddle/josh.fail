@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: New chicks
 old_date: 10.17.00 @ 08.03.44PM EST
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 date: Fri Jan 6 16:57:09 -0500 2006
 title: Bored
 ---

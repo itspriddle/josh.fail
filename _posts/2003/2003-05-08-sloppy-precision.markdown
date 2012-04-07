@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Sloppy Precision
 old_date: May 8; 08:29P; EST
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 date: Tue Jan 3 01:53:42 -0500 2006
 title: Fucking Snow
 ---

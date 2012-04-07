@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: you fucking cunt you wanna be the one
 old_date: "01.19.02: 11.46.19PM (GMT -5:00)"
 ---

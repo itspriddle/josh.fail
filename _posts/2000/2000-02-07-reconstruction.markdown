@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Reconstruction
 old_date: 02.07.00 - 04.37.22PM EST
 ---

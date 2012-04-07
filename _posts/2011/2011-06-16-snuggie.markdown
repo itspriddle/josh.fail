@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Snuggie: a ruby gem for the Softaculous API"
 link: https://github.com/site5/snuggie
 ---

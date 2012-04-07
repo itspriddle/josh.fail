@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Client Work
 old_date: May 13; 11:00P; EST
 ---

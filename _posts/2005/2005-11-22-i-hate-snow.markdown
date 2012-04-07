@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 date: Tue Nov 22 16:08:00 -0500 2005
 title: I hate snow
 ---

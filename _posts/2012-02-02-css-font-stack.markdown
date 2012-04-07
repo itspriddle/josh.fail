@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "CSS Font Stack"
 link: http://cssfontstack.com/
 ---

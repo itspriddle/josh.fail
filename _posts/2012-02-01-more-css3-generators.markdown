@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "More CSS3 generators"
 link: http://css3generator.com/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: when you're ripe you'll bleed out of control
 old_date: "01.14.02: 05.14.08PM (GMT -5:00)"
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 date: Sun Nov 19 23:29:58 -0500 2006
 title: Bandit
 published: false

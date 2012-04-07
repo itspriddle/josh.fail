@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Work school work work work school work school work
 ---
 

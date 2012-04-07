@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: A (not) very exciting new jobber
 ---
 

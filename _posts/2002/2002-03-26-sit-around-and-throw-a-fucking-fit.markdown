@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: sit around and throw a fucking fit
 old_date: "03.26.02: 09.23.10AM (GMT -5:00)"
 ---

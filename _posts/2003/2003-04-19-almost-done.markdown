@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Almost done...
 old_date: Apr 19; 5:04P; EST
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Fetching Emails with Redmine
 date: Mon Mar 01 13:42:29 -0500 2010
 short_description: |

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: So very bored...
 old_date: May 1; 6:35P; EST
 ---

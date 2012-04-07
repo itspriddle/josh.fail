@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: The space between a blink and a tear death blooms
 old_date: "03.09.02@08.03.53PM (EST)"
 ---

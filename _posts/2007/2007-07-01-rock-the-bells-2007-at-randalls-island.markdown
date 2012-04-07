@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Rock the Bells 2007 at Randall's Island
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: While you were away
 old_date: Jun 18; 1:34P; EST
 ---

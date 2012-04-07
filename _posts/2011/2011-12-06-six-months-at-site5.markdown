@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Six Months at Site5"
 ---
 

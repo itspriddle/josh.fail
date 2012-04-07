@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Resident Evil 4 (part 4)
 ---
 

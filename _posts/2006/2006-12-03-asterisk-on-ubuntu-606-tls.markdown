@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Asterisk on Ubuntu 6.06 TLS
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Laetitia Casta
 old_date: Sunday, February 18, 2001, 07.03.41PM; EST
 ---

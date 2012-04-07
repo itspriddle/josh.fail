@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Jekyll TextMate Bundle
 link: https://github.com/itspriddle/jekyll-tmbundle
 ---

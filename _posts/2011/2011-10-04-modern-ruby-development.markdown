@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Modern Ruby Development"
 link: http://ascarter.net/2011/09/25/modern-ruby-development.html
 ---

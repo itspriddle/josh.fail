@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 date: Thu Nov 24 12:27:00 -0500 2005
 title: FUCK YOU SNOW!
 ---

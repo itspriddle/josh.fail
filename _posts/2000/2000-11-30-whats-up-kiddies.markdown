@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: What's up kiddies?
 old_date: 11.30.00 @ 03.54.53PM; EST
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: god save us, this new life is worthless, is mindless
 old_date: "01.30.02: 08.28.38PM (GMT -5:00)"
 ---

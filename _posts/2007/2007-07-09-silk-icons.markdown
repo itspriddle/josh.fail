@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Silk Icons
 link: http://www.famfamfam.com/lab/icons/silk/
 ---

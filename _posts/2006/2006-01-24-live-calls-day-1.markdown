@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Live Calls: Day 1"
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "ZSH Tab Completion for Bundler Binstubs"
 date: "Thu Mar 29 12:10:35 -0400 2012"
 ---

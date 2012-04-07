@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: An update for Zach
 old_date: Sunday June 16, 2002; 1:35AM
 ---

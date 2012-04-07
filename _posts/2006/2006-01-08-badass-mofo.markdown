@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Badass mofo
 link: http://www.artlebedev.com/portfolio/optimus/
 ---

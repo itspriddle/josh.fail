@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Mozilla Thunderbird 2 on Ubuntu
 ---
 

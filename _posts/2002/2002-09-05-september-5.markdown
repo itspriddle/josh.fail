@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: September 5
 old_date: Thursday, September 5, 2002
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 date: Tue Dec 20 09:20:00 -0500 2005
 title: Crazy Shit
 published: false

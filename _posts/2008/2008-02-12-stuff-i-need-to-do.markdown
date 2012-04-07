@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Stuff I need to do
 ---
 

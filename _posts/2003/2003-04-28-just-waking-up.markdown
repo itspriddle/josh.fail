@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Just waking up...
 old_date: Apr 28; 7:38P; EST
 ---

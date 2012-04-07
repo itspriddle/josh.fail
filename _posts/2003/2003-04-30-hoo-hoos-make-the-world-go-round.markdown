@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Hoo Hoos make the world go 'round..."
 old_date: Apr 30; 9:24P; EST
 ---

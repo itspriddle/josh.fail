@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "The Million Dollar Question"
 link: http://www.sebastianmarshall.com/the-million-dollar-question
 ---

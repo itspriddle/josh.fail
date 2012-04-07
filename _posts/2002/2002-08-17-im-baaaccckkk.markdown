@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: I'm baaaccckkk
 old_date: AUG 17 2002 12:37 PM
 ---

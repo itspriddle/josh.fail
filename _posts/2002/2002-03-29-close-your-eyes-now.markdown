@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: close your eyes now
 old_date: "03.29.02@12.29.52PM (EST)"
 ---

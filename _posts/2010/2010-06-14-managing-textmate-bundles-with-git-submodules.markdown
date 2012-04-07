@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Managing TextMate bundles with git submodules
 date: "Mon Jun 14 16:54:10 -0400 2010"
 short_description: |

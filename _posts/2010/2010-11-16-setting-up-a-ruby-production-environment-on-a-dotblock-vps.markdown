@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Setting up a Ruby production environment on a DotBlock VPS"
 date: Tue Nov 16 17:30:00 -0400 2010
 link: http://www.dotblock.com/blog/?p=65

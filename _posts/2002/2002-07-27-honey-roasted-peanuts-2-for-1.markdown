@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Honey roasted peanuts: 2 for $1..."
 old_date: Thursday June 27, 2002; 12:11PM
 ---

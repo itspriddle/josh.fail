@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Welcome
 old_date: Thursday, February 15, 2001, 09.02.12PM; EST
 ---

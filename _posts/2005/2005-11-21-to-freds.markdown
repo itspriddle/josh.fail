@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 date: Mon Nov 21 20:23:00 -0500 2005
 title: To Freds!
 published: false

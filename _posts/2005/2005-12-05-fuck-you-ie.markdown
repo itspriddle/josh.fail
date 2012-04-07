@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 date: Mon Dec 5 22:42:00 -0500 2005
 title: Fuck you IE!
 ---

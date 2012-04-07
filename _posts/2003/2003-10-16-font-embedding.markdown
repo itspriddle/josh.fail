@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Font embedding
 old_date: 10.16.03 | 9:39P EST | THU
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Deploy with git
 date: Tue May 11 23:39:10 -0400 2010
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Remember me?
 old_date: NOV 10 2002 10:26 PM
 ---

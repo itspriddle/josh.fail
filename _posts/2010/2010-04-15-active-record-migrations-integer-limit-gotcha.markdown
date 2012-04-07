@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: ActiveRecord Migrations - integer limit gotcha
 date: Thu Apr 15 21:59:14 -0400 2010
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Guestbook works, Auspel my man
 old_date: May 19; 3:30P; EST
 ---

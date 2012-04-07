@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: The Evil Genius
 old_date: Jun 7; 11:04P; EST
 ---

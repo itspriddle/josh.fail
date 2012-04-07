@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: iDium mod for Adium
 link: http://macthemes.net/forum/viewtopic.php?pid=677432#p677432
 ---

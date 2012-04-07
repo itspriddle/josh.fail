@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Nevercraft One Launches
 old_date: 10.13.03 | 4:23A EST | MON
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 date: Fri Nov 25 00:53:00 -0500 2005
 title: Thieves
 ---
