@@ -8,6 +8,8 @@ exclude: bin config.ru Gemfile Gemfile.lock images README.markdown
 
 # Plugin settings
 markdown: redcarpet
+redcarpet:
+  extensions: [smart]
 
 title: code.nevercraft.net
 url:   http://code.nevercraft.net
