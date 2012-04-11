@@ -1,0 +1,30 @@
+// Generate a 940 grid
+.row {
+  margin-left: $grid-gutter-width * -1;
+  @include clearfix;
+}
+
+[class*="span"] {
+  float: left;
+  margin-left: $grid-gutter-width;
+}
+
+@for $i from 1 through $grid-columns {
+  $span: ".span#{$i}";
+
+  @if $i == $grid-columns {
+    $span: unquote("#{$span}, .container");
+  }
+
+  #{unquote($span)} {
+    width: ($grid-column-width * $i) + ($grid-gutter-width * ($i - 1));
+  }
+
+  $offset: ".offset#{$i}";
+
+  @if $i < $grid-columns {
+    #{unquote($offset)} {
+      margin-left: ($grid-column-width * $i) + ($grid-gutter-width * ($i - 1)) + ($grid-gutter-width * 2);
+    }
+  }
+}

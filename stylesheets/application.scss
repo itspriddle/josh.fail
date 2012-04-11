@@ -4,7 +4,7 @@ layout: nil
 @import "bourbon/bourbon";
 @import "config";
 @import "reset";
-
+@import "grid"
 
 body {
   font-family: $lucida-grande;
