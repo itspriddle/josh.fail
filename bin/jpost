@@ -1,0 +1,29 @@
+#!/bin/bash
+#/ Usage: jpost <post title>
+#/
+#/ Eg:
+#/   jpost Hello World
+#/   jpost 'This is my new blog post!'
+#/
+#/ Requires jekyll.vim
+#/   - https://github.com/itspriddle/vim-jekyll
+
+usage() {
+  grep '^#/' <"$0" | cut -c4-
+  exit 0
+}
+
+if [[ $# -lt 1 ]]; then
+  usage
+fi
+
+cmdfile="/tmp/jekyll.vim-cmd"
+
+cmd=$(printf "%s %s" ':Jpost!' $@)
+
+echo $cmd > $cmdfile
+echo "G" >> $cmdfile
+
+mvim -s $cmdfile
+sleep 0.1
+rm -f $cmdfile
