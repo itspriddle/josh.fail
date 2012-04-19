@@ -25,5 +25,5 @@ echo $cmd > $cmdfile
 echo "G" >> $cmdfile
 
 mvim -s $cmdfile
-# sleep 0.1
-# rm -f $cmdfile
+sleep 0.1
+rm -f $cmdfile
