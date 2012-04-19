@@ -1,12 +1,12 @@
 // Colors
 // --------------------------------------------------------------------------
-$black:       #000;
-$grayDarker:  #222;
-$grayDark:    #333;
-$gray:        #555;
-$grayLight:   #999;
-$grayLighter: #eee;
-$white:       #fff;
+$black:        #000;
+$gray-darker:  #222;
+$gray-dark:    #333;
+$gray:         #555;
+$gray-light:   #999;
+$gray-lighter: #eee;
+$white:        #fff;
 
 $main-bg:     #f8f8f8;
 
@@ -87,3 +87,6 @@ $grid-columns:      12 !default;
 $grid-column-width: 60px !default;
 $grid-gutter-width: 20px !default;
 $grid-row-width:    ($grid-columns * $grid-column-width) + ($grid-gutter-width * ($grid-columns - 1));
+
+
+$hr-border:        $gray-lighter !default;
