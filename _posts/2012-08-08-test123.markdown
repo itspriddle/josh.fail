@@ -1,0 +1,7 @@
+---
+layout: default
+title: "test123"
+date: "Wed Aug 08 18:24:18 -0400 2012"
+---
+
+<script src="https://gist.github.com/3078238.js?file=labels.scss"></script>
