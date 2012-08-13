@@ -29,3 +29,8 @@ first time under Mountain Lion.
 Other than the Java issue, I think most of these issue are to be expected when
 installing an operating system upgrade. Certainly much smoother than the
 upgrade from Snow Leopard to Lion.
+
+_EDIT Aug 12:_ I suppose I spoke too soon. I've been having an annoying issue
+where my laptop freezes trying to wake up from the screen saver. It seems to
+be [this issue](https://discussions.apple.com/thread/4167551?start=0&tstart=0),
+but the energy saver fix doesn't seem to fix it.
