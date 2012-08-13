@@ -3,6 +3,7 @@ layout: default
 title: "You can't come... how do you know?"
 old_date: "12.12.01 / 08.32.33PM EST"
 ---
+
 There are some stupid girls at school... that explains the whole you can't
 come... how do you know thing. I've done liek no updating. Haha, then again,
 I'm sure that you knew that. I'm really so lazy its sick. Seriously. I never
@@ -18,4 +19,4 @@ wish I wasn't so lazy sometimes...
 
 Music: Snot - Stoopid
 
-<a href="josh033.jpg">Today's Picture</a>
+<a href="/images/posts/2001/josh033.jpg">Today's Picture</a>
