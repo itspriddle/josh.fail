@@ -8,8 +8,6 @@ If you're using Internet Explorer YOU FUCKING SUCK!
 
 This hilarious image proves it.
 
-<a href="http://blog.nevercraft.net/uploaded_images/ffx_vs_ie-753807.JPG"><img
-src="http://blog.nevercraft.net/uploaded_images/ffx_vs_ie-749387.JPG"
-border="0" alt="" /></a>
+![](/images/posts/2005/ffx_vs_ie-749387.JPG")
 
 Get Firefox <a href="http://getfirefox.com">NOW</a>!
