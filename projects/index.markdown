@@ -17,51 +17,51 @@ some other tasty nuggets.
 
 gem-create is a RubyGem plugin that provides a `gem create` command to create
 new gems based on a skeleton.
-[View source on Github &rarr;](https://github.com/itspriddle/gem-create)
+[View source on GitHub &rarr;](https://github.com/itspriddle/gem-create)
 
 
 ## Splinter (RubyGem)
 
 Splinter is a Capybara Ninja.
-[View source on Github &rarr;](https://github.com/site5/splinter)
+[View source on GitHub &rarr;](https://github.com/site5/splinter)
 
 
 ## vim-marked (Vim plugin)
 
 A tiny Vim plugin to open markdown files in
 [Marked.app](http://markedapp.com/).
-[View source on Github &rarr;](https://github.com/itspriddle/vim-marked)
+[View source on GitHub &rarr;](https://github.com/itspriddle/vim-marked)
 
 
 ## vim-jekyll (Vim plugin)
 
 My WIP fork of jekyll.vim which makes blogging with Jekyll and Vim sexytime.
-[View source on Github &rarr;](https://github.com/itspriddle/vim-jekyll)
+[View source on GitHub &rarr;](https://github.com/itspriddle/vim-jekyll)
 
 
 ## Rainman (RubyGem)
 
 Rainman is a very good driver. It's an experiment with the abstract factory
 pattern.
-[View source on Github &rarr;](https://github.com/site5/rainman)
+[View source on GitHub &rarr;](https://github.com/site5/rainman)
 
 
 ## stripper.vim (Vim plugin)
 Stripper.vim won't get naked for you, but it will strip trailing whitespace
 from your buffers.
-[View source on Github &rarr;](https://github.com/itspriddle/vim-stripper)
+[View source on GitHub &rarr;](https://github.com/itspriddle/vim-stripper)
 
 
 ## Snuggie (RubyGem)
 
 Snuggie wraps the Softaculous API in a warm, loving ruby embrace.
-[View source on Github &rarr;](https://github.com/site5/snuggie)
+[View source on GitHub &rarr;](https://github.com/site5/snuggie)
 
 
 ## Hamburglar (RubyGem)
 
 Hamburglar is a ruby library for working with the MaxMind minFraud API.
-[View source on Github &rarr;](https://github.com/site5/hamburglar)
+[View source on GitHub &rarr;](https://github.com/site5/hamburglar)
 
 
 ## FannyPack (RubyGem)
