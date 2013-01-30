@@ -5,8 +5,7 @@ title: About Me
 
 # About Me
 
-I'm a 27 year old software engineer and I specialize in web, VoIP and mobile
-applications.
+I'm a software engineer and I specialize in web, VoIP and mobile applications.
 
 
 ## Contact Info
