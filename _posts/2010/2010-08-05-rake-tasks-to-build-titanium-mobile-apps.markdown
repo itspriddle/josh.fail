@@ -28,7 +28,7 @@ that I was able to adapt for Titanium Mobile. Now I can
 validate my app's JavaScript and launch it in the simulator
 simply by invoking `rake`.
 
-{% highlight ruby %}
+```ruby
 #
 # Titanium Mobile Rake tasks
 #
@@ -142,6 +142,6 @@ namespace :application do
 end
 
 task :default => ['application:build']
-{% endhighlight %}
+```
 
 Hope it's of use to someone else.

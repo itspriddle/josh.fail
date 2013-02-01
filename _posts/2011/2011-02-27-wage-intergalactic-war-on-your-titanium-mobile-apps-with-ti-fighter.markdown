@@ -35,7 +35,7 @@ the login window right from DotBlock mobile (with a few extra comments added),
 which shows some of TiFighter's usage (note that I've aliased `$` to
 `TiFighter` outside of this script):
 
-{% highlight javascript %}
+```javascript
 /**
  * DotBlock Mobile
  *
@@ -153,7 +153,7 @@ current_window.add(password);
 current_window.add(login_button);
 
 username.focus(); // Autofocus on the username field when the window opens
-{% endhighlight %}
+```
 
 TiFighter has been an awesome time saver while working on DotBlock Mobile,
 and I'm sure it will prove useful in my Titanium apps as well. I hope it

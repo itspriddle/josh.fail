@@ -11,11 +11,11 @@ out of the box.
 It took quite a bit of trial and error to figure this out, but here is what I
 came up with to enable this behavior:
 
-{% highlight sh %}
+```sh
 # Complete $PWD/bin if it exists. Good for bundler with binstubs
 zstyle -e ':completion:*' command-path \
   '[[ -d $PWD/bin ]] && reply=($PWD/bin $path)'
-{% endhighlight %}
+```
 
 Any time you CD into a directory with a `./bin` directory within, it's
 contents will be added to command tab completion.

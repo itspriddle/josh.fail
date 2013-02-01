@@ -12,7 +12,7 @@ short_description: |
 I've had to do this a few times when I wasn't able to just drop the entire
 database, so I threw together a small PHP script that will do it for you.
 
-{% highlight php %}
+```php
 <?php // drop wp_ tables
 
 // Set to your db
@@ -37,7 +37,7 @@ if (mysql_num_rows($res) > 0) {
     }
   }
 }
-{% endhighlight %}
+```
 
 Just add your username, password, and database name and save it as
 `drop_wp_tables.php`. If you have shell access you can run
