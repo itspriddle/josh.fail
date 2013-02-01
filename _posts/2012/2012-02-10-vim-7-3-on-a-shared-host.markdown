@@ -7,7 +7,7 @@ A [few years ago](/blog/2007/vim-7-on-a-shared-host.html) I blogged about how
 I setup Vim on a shared web host. I needed to do this again today; but with a
 bit more control as to the features that were compiled:
 
-{% highlight sh %}
+```sh
 #!/usr/bin/sh
 
 wget ftp://ftp.vim.org/pub/vim/unix/vim-7.3.tar.bz2
@@ -25,7 +25,7 @@ cd vim73
 
 make
 make install
-{% endhighlight %}
+```
 
 Make sure you have `$HOME/local/bin` in your PATH:
 

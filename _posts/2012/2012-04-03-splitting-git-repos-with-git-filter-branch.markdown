@@ -33,7 +33,7 @@ files that are not in this list.
 
 I used the following ruby script to do this:
 
-{% highlight ruby %}
+```ruby
 Dir.chdir "new-project"
 
 all_files_ever = `git log --pretty=format: --name-only --diff-filter=A | sort -`.
@@ -47,7 +47,7 @@ keepers = %W(
 delete_us = all_files_ever - keepers
 
 `git filter-branch --prune-empty --index-filter "git rm -f --cached --ignore-unmatch #{delete_us.join(' ')}" HEAD`
-{% endhighlight %}
+```
 
 After running this script, you'll be left with only the files specified as
 "keepers". Unlike the `--subdirectory-filter` option, these files are left in

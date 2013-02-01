@@ -14,7 +14,7 @@ It generates an IM link with a title (popup) equivalent to my current AIM
 status. If I'm offline, there is no IM link, and it states that I am not
 online.
 
-{% highlight php %}
+```php
 <?php
 
 function aim_presence() {
@@ -48,5 +48,4 @@ function aim_presence() {
 }
 
 echo aim_presence();
-
-{% endhighlight %}
+```
