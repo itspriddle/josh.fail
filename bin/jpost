@@ -17,13 +17,7 @@ if [[ $# -lt 1 ]]; then
   usage
 fi
 
-cmdfile="/tmp/jekyll.vim-cmd"
-
-cmd=$(printf "%s %s" ':Jpost!' "$*")
-
-echo $cmd > $cmdfile
-echo "G" >> $cmdfile
-
-mvim -s $cmdfile
-sleep 0.1
-rm -f $cmdfile
+cat <<CMD | mvim -s /dev/stdin
+:Jpost! $*
+G
+CMD
