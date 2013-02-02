@@ -13,5 +13,5 @@ WebFontConfig = {
 })();
 
 setTimeout(function() {
-  $('html').addClass('wf-fake-active');
+  document.getElementsByTagName('html')[0].classList.add('wf-fake-active');
 }, 5000);
