@@ -1,6 +1,6 @@
+title: New Development(s)
 ---
 layout: default
-title: New Development(s)
 ---
 
 Well, I've just finished building my first site with CodeIgniter, and I have

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "NiGHTS into dreams on PSN"
 date: "Tue Oct 02 22:55:29 -0400 2012"
 link: http://blogs.sega.com/2012/10/02/available-now-sonic-adventure-2-and-nights-into-dreams/
+title: "NiGHTS into dreams on PSN"
 ---
 
 Today, Sega re-released one of my favorite childhood games from Sega Saturn:

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Why Jekyll pwns Wordpress"
 short_description: |
   <p>
     It was just about <a href="/blog/2010/oh-hai-jekyll.html">two years ago</a>
     that I converted my Wordpress blog into a Jekyll blog. Overall, I am very
     happy with the decision, here's why.
   </p>
+title: "Why Jekyll pwns Wordpress"
 ---
 
 It was just about [two years ago](/blog/2010/oh-hai-jekyll.html) that I

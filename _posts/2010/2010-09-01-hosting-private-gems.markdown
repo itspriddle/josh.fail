@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Hosting Private Gems"
 date: Wed Sep 01 01:39:09 -0400 2010
 short_description: |
   <p>
@@ -11,6 +10,7 @@ short_description: |
     Here are the steps I took to make <code>gems.mysite.com</code> host gems
     that can be installed with <code>gem install [gem] --source http://gems.mysite.com/</code>
   </p>
+title: "Hosting Private Gems"
 ---
 
 I've written a few gems for work that I can't host on RubyGems. It turned

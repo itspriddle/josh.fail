@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Managing TextMate bundles with git submodules
 date: "Mon Jun 14 16:54:10 -0400 2010"
 short_description: |
   <p>
@@ -17,6 +16,7 @@ short_description: |
     submodule</code> command, but it turns out it&rsquo;s also a great way to
     maintain my TextMate config.
   </p>
+title: Managing TextMate bundles with git submodules
 ---
 
 I've been using [TextMate](http://macromates.com/) nearly every day for 2

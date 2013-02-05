@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Wage intergalactic war on your Titanium Mobile apps with TiFighter"
 published: true
 categories:
 short_description: |
@@ -12,6 +11,7 @@ short_description: |
     but I still found myself missing things from jQuery, like
     <code>$.each</code>, <code>$.map</code> and friends.
   </p>
+title: "Wage intergalactic war on your Titanium Mobile apps with TiFighter"
 ---
 
 Over the last 10 months, I've had the opportunity to work with Titanium

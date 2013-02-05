@@ -1,12 +1,12 @@
 ---
 layout: default
-title: jQuery Autocomplete for Jekyll
 date: Sun Feb 28 20:40:00 -0500 2010
 short_description: |
   <p>
     After migrating my blog from Wordpress to Jekyll, one thing I was missing
     was a functional search box. I threw one together last night.
   </p>
+title: jQuery Autocomplete for Jekyll
 ---
 
 After migrating my blog from Wordpress to Jekyll, one thing I was missing

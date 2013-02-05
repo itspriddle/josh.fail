@@ -1,6 +1,6 @@
+title: "Jekyll and Vim"
 ---
 layout: default
-title: "Jekyll and Vim"
 ---
 
 I've been using Vim full time for a while now and wanted a decent way to

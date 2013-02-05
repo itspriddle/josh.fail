@@ -1,6 +1,6 @@
+title: tar over ssh
 ---
 layout: default
-title: tar over ssh
 ---
 
 I figured out this easy way to make a backup over ssh.

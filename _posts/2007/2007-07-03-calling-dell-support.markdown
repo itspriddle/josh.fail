@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Calling Dell Support
 short_description: |
   <p>
     Earlier today, I noticed the A/C adapter for my laptop seemed to be
@@ -12,6 +11,7 @@ short_description: |
     "That sucks," I thought. "At least I have the warrantee and it should be a
     quick phone call to get a new one out. " Wrong.
   </p>
+title: Calling Dell Support
 ---
 
 Earlier today, I noticed the A/C adapter for my laptop seemed to be broken. It

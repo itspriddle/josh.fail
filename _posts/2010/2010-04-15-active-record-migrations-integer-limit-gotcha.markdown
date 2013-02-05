@@ -1,7 +1,7 @@
 ---
 layout: default
-title: ActiveRecord Migrations - integer limit gotcha
 date: Thu Apr 15 21:59:14 -0400 2010
+title: ActiveRecord Migrations - integer limit gotcha
 ---
 
 I work on a few apps that deal with phone numbers. I usually store these

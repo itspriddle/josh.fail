@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Allow binding ctrl-s and ctrl-q in Terminal.app"
 link: http://apple.stackexchange.com/a/34503
+title: "Allow binding ctrl-s and ctrl-q in Terminal.app"
 ---
 
 I ran into an annoying issue trying to configure `ctrl-q` as a Vim mapping in

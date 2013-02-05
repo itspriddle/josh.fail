@@ -1,6 +1,6 @@
+title: IPTV Project
 ---
 layout: default
-title: IPTV Project
 ---
 
 The project I mentioned a few weeks back with IMDB lookups, will be my

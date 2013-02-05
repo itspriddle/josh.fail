@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Formatting MySQL Queries For Asterisk
 date: Sat Mar 13 13:57:35 -0500 2010
 short_description: |
   <p>
@@ -23,6 +22,7 @@ short_description: |
   <p>
     I finally threw together a script to do this automatically.
   </p>
+title: Formatting MySQL Queries For Asterisk
 ---
 
 If you've ever used the MySQL module with [Asterisk](http://asterisk.org),

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: WHMCS API Bindings
 link: http://www.dotblock.com/blog/?p=138
+title: WHMCS API Bindings
 ---
 
 I recently extracted some of my DotBlock work to create WHMCS API Bindings

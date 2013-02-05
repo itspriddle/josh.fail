@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Restoring files from OS X Time Machine with Terminal.app"
 date: "Wed Sep 05 23:40:59 -0400 2012"
+title: "Restoring files from OS X Time Machine with Terminal.app"
 ---
 
 I use Time Machine on OS X to keep backups of my hard drive. Overall it is a

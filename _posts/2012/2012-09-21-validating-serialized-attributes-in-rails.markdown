@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Validating Serialized Attributes in Rails"
 date: "Fri Sep 21 17:35:55 -0400 2012"
+title: "Validating Serialized Attributes in Rails"
 ---
 
 ActiveRecord provides a `serialize` method, which can be used to transparently

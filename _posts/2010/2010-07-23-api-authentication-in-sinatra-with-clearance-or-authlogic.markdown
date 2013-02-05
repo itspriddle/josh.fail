@@ -1,6 +1,5 @@
 ---
 layout: default
-title: API authentication in Sinatra with Clearance or Authlogic
 date: Fri Jul 23 14:16:49 -0400 2010
 short_description: |
   <p>
@@ -14,6 +13,7 @@ short_description: |
     <a href="/blog/writing-an-api-with-clearance.html">previous post</a>, I
     wrote a small Sinatra plugin that works with both Clearance and Authlogic.
   </p>
+title: API authentication in Sinatra with Clearance or Authlogic
 ---
 
 I needed HTTP basic authentication for a [Sinatra](http://sinatrarb.com)

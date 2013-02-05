@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "marked.vim"
 link: https://github.com/itspriddle/vim-marked
+title: "marked.vim"
 ---
 
 I threw together [vim-marked](https://github.com/itspriddle/vim-marked), that

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Upgrading to OS X Mountain Lion"
 date: "Thu Jul 26 00:13:41 -0400 2012"
+title: "Upgrading to OS X Mountain Lion"
 ---
 
 I installed OS X Mountain Lion today and have had a pretty good experience.

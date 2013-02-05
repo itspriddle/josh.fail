@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Jekyll TextMate Bundle
 link: https://github.com/itspriddle/jekyll-tmbundle
+title: Jekyll TextMate Bundle
 ---
 
 I forked a Jekyll TextMate bundle and added a new post template and a

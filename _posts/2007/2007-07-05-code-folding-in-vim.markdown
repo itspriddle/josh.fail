@@ -1,6 +1,6 @@
+title: Code Folding in Vim
 ---
 layout: default
-title: Code Folding in Vim
 ---
 
 So I learned yet another awesome feature in vim today - code folding.

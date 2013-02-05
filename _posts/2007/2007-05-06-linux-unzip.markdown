@@ -1,6 +1,6 @@
+title: Linux - unzip
 ---
 layout: default
-title: Linux - unzip
 ---
 
 I just had a hell of a time trying to unzip a bunch of zip's on Linux.

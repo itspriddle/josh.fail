@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Marked"
 link: http://markedapp.com/
+title: "Marked"
 ---
 
 I just discovered [Marked](http://markedapp.com/) today. It adds one of the
