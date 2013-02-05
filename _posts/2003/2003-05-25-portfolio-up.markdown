@@ -1,4 +1,8 @@
-May 25; 9:40P; EST | Portfolio Up
+---
+layout: default
+old_date: May 25; 9:40P; EST
+title: Portfolio Up
+---
 
 My design portfolio is finally up (view). I've got a few more things to add to
 it, but its basically finished.
