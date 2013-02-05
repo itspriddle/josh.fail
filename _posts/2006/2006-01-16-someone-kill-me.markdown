@@ -1,7 +1,7 @@
+title: Someone kill me
 ---
 layout: default
 date: Mon Jan 16 12:27:39 -0500 2006
-title: Someone kill me
 ---
 
 Yeah, so I'm sitting here in the parking lot at Ticketmaster (special thanks

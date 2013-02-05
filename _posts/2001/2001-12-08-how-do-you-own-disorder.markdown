@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "How do you own disorder?"
 old_date: "12.08.01 / 10.38.52PM EST"
+title: "How do you own disorder?"
 ---
 
 I'm still lazy as hell. I need to get all of the links working... I won't

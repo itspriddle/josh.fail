@@ -1,7 +1,7 @@
+title: Myspace is fooking gay
 ---
 layout: default
 date: Fri Dec 9 10:47:00 -0500 2005
-title: Myspace is fooking gay
 ---
 
 I bit the bullet and signed up for this dumb shit.  The guy who coded this

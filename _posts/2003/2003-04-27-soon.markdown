@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Soon
 old_date: Apr 27; 5:20P; EST
+title: Soon
 ---
 
 Trying to finish as much of this shit as I can before I have to go back to

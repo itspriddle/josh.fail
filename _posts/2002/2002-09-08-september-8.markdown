@@ -1,7 +1,7 @@
 ---
 layout: default
-title: September 8
 old_date: Sunday, September 8, 2002
+title: September 8
 ---
 
 11:40 PM EST: Mike's birthday party was today. It was pretty cool. Me, Josh,

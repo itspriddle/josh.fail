@@ -1,6 +1,6 @@
+title: Resident Evil 4 (part 3)
 ---
 layout: default
-title: Resident Evil 4 (part 3)
 ---
 
 If I get my head cut off one more fucking time I'll scream!!!

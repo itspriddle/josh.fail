@@ -1,6 +1,6 @@
+title: "# echo Linux > /home/jpriddle/file1"
 ---
 layout: default
-title: "# echo Linux > /home/jpriddle/file1"
 ---
 
 Linux is fuckin great.

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "ZSH Tab Completion for Bundler Binstubs"
 date: "Thu Mar 29 12:10:35 -0400 2012"
+title: "ZSH Tab Completion for Bundler Binstubs"
 ---
 
 Bundler has a feature called `binstubs`, which places stubs for gem bin

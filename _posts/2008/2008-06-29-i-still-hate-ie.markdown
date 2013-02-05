@@ -1,6 +1,6 @@
+title: I (still) hate IE.
 ---
 layout: default
-title: I (still) hate IE.
 ---
 
 Its funny how you forget how much Internet Explorer sucks until you have to

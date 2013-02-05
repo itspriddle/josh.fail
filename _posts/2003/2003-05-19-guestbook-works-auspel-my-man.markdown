@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Guestbook works, Auspel my man
 old_date: May 19; 3:30P; EST
+title: Guestbook works, Auspel my man
 ---
 
 I made the sign form for my guestbook, it took me fucking 3 hours. But its

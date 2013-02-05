@@ -1,7 +1,7 @@
 ---
 layout: default
-title: September 3
 old_date: Tuesday, September 3, 2002
+title: September 3
 ---
 
 10:22 PM EST: Just reformated my computer, finally. Everything seems to be

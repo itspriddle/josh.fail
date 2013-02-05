@@ -1,6 +1,6 @@
+title: Server migration successful
 ---
 layout: default
-title: Server migration successful
 ---
 
 I've successfully moved everything from my old server to my new bad ass Host

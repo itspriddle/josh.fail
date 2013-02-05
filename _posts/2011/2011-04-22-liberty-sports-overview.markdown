@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Theming Liberty Sports Group with WordPress
 short_description: |
   <p>
     I was contracted recently by <a href="http://allusis.net">Allusis
@@ -9,6 +8,7 @@ short_description: |
     WordPress would be the best fit for the site. Here is an overview of my
     experience.
   </p>
+title: Theming Liberty Sports Group with WordPress
 ---
 
 I was contracted recently by [Allusis Productions](http://allusis.net) to

@@ -1,6 +1,6 @@
+title: jQuery, nothin' but love for ya
 ---
 layout: default
-title: jQuery, nothin' but love for ya
 ---
 
 For the longest time, I was anti-javascript in just about every sense. Once I

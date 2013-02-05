@@ -1,6 +1,6 @@
+title: Resident Evil 4 (part 2)
 ---
 layout: default
-title: Resident Evil 4 (part 2)
 ---
 
 AHHHH!!!!!

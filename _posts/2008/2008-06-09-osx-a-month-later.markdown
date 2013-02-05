@@ -1,6 +1,6 @@
+title: OSX - A Month Later
 ---
 layout: default
-title: OSX - A Month Later
 ---
 
 It took me a while to get used to the quirks, but I have not only gotten used

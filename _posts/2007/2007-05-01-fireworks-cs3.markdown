@@ -1,6 +1,6 @@
+title: Fireworks CS3
 ---
 layout: default
-title: Fireworks CS3
 ---
 
 First, I can't say how happy I am that Adobe has decided to continue

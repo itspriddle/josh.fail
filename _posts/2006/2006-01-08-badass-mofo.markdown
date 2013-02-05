@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Badass mofo
 link: http://www.artlebedev.com/portfolio/optimus/
+title: Badass mofo
 ---
 
 This <a title="Optimus Keyboard" href="http://www.artlebedev.com/portfolio/optimus/">keyboard</a>

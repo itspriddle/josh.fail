@@ -1,6 +1,6 @@
+title: I win the spirit award!
 ---
 layout: default
-title: I win the spirit award!
 ---
 
 Haha, I answered 2 out of 24 questions correctly on Mr Iversen's Academy

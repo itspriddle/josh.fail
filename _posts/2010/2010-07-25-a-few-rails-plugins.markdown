@@ -1,7 +1,7 @@
 ---
 layout: default
-title: A few Rails Plugins
 date: Sun Jul 25 22:53:28 -0400 2010
+title: A few Rails Plugins
 ---
 
 I extracted a few pieces of code into Rails Plugins.

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Updates
 old_date: Saturday, February 17, 2001, 09.32.54PM; EST
+title: Updates
 ---
 
 Done a little updating. You might see some CSS if you look around and know

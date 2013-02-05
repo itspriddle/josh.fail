@@ -1,7 +1,7 @@
 ---
 layout: default
-title: i woke up dead today, when angels fuck and devils scream
 old_date: "02.22.02: 12.58.23AM (GMT -5:00)"
+title: i woke up dead today, when angels fuck and devils scream
 ---
 
 I know that there haven't exactly been many updates. I also know that it is

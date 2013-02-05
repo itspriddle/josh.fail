@@ -1,6 +1,6 @@
+title: "Year 1: ITT"
 ---
 layout: default
-title: "Year 1: ITT"
 ---
 
 Wow, I just realized that I've finished my first year at ITT tonight. It

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "All the reasons PHP sucks"
 date: "Tue Apr 10 23:13:50 -0400 2012"
 link: http://me.veekun.com/blog/2012/04/09/php-a-fractal-of-bad-design/
+title: "All the reasons PHP sucks"
 ---
 
 This is a pretty comprehensive article that discusses the overall shittiness

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: The Evil Genius
 old_date: Jun 7; 11:04P; EST
+title: The Evil Genius
 ---
 
 I'm working on a new site/section I'm going to call the Evil Genius. Its going

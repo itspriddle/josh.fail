@@ -1,6 +1,6 @@
+title: "On Perfection"
 ---
 layout: default
-title: "On Perfection"
 ---
 
 This quote from Bleach sums up my thoughts on perfection pretty well:

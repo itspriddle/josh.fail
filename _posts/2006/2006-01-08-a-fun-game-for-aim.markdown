@@ -1,6 +1,6 @@
+title: A fun game for AIM
 ---
 layout: default
-title: A fun game for AIM
 ---
 
 Ever get bored on AIM? Try turning off your Idle status so your SN never turns

@@ -1,6 +1,6 @@
+title: "Finally, vacation"
 ---
 layout: default
-title: "Finally, vacation"
 ---
 
 I'm finally going on vacation! Well, I leave on Friday... but I am quite

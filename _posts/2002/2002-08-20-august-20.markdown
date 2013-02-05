@@ -1,7 +1,7 @@
 ---
 layout: default
-title: August 20
 old_date: Tuesday, August 20, 2002
+title: August 20
 ---
 
 10:49 PM EST: The new layout is pretty much done. I like it quite a bit too.

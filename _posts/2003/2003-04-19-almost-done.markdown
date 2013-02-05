@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Almost done...
 old_date: Apr 19; 5:04P; EST
+title: Almost done...
 ---
 
 Finally, something that my friends can appreciate. I got off my ass and fixed

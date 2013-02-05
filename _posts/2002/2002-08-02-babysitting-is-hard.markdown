@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Babysitting is hard
 old_date: AUG 02 2002 01:03 PM
+title: Babysitting is hard
 ---
 
 Haha, sorry I haven't written anything in a while. I've

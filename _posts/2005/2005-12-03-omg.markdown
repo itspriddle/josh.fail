@@ -1,7 +1,7 @@
+title: OMG
 ---
 layout: default
 date: Sat Dec 3 21:12:00 -0500 2005
-title: OMG
 ---
 
 Does anyone remember the show 'In Living Color'?  There was one skit, done by

@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Deploy with git
 date: Tue May 11 23:39:10 -0400 2010
 categories:
   - Development
@@ -12,6 +11,7 @@ short_description: |
     <a href="http://capify.org">Capistrano</a>. I use this on a bunch of PHP
     projects that don&rsquo;t need all the features Capistrano provides.
   </p>
+title: Deploy with git
 ---
 
 I found this git hook that lets you deploy a project with a git push rather

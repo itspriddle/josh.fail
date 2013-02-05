@@ -1,7 +1,7 @@
 ---
 layout: default
-title: What's up kiddies?
 old_date: 11.30.00 @ 03.54.53PM; EST
+title: What's up kiddies?
 ---
 
 What's up kiddies? I'm back, and better than ever. Well, at least I think so.

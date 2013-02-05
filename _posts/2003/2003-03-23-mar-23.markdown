@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Mar 23
 old_date: Mar 23; 3:36A; EST
+title: Mar 23
 ---
 
 Yeah so about 3 weeks after I thought I was done with everything I figured out

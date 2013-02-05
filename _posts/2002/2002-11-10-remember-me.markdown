@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Remember me?
 old_date: NOV 10 2002 10:26 PM
+title: Remember me?
 ---
 
 I doubt it. I seriously don't think that anyone visits this site, besides

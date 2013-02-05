@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "vim stripper"
 link: https://github.com/itspriddle/vim-stripper
+title: "vim stripper"
 ---
 
 I wrote my first vim plugin, a simple command to strip trailing whitespace

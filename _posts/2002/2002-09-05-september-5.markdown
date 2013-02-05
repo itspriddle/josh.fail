@@ -1,7 +1,7 @@
 ---
 layout: default
-title: September 5
 old_date: Thursday, September 5, 2002
+title: September 5
 ---
 
 12:21 AM EST: I have to go to school in 6.5 hours =(. Kill me.

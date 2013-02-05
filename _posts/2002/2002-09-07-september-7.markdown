@@ -1,7 +1,7 @@
 ---
 layout: default
-title: September 7
 old_date: Saturday, September 7, 2002
+title: September 7
 ---
 
 10:04 PM EST: School sucks. After all the work I did to get my camera for

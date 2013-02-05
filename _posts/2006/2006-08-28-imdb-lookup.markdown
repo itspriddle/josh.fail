@@ -1,6 +1,6 @@
+title: IMDB Lookup
 ---
 layout: default
-title: IMDB Lookup
 ---
 
 I'm driving myself crazy trying to get IMDB id's for a list of movies using

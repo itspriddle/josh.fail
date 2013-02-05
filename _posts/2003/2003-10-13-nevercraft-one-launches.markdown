@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Nevercraft One Launches
 old_date: 10.13.03 | 4:23A EST | MON
+title: Nevercraft One Launches
 ---
 
 Today Nevercraft Studios is launched. Months of collaboration with Dethroned,

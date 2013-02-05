@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Apr 4
 old_date: Apr 4; 11:25P; EST
+title: Apr 4
 ---
 
 Sorry for the lack of updates, I got 500 viruses as a present the other day.

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: against my will i stand beside my own reflection, its haunting
 old_date: "03.26.02@09.12.02PM (EST)"
+title: against my will i stand beside my own reflection, its haunting
 ---
 
 

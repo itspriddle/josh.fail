@@ -1,6 +1,6 @@
+title: Don't wanna go to school/work...
 ---
 layout: default
-title: Don't wanna go to school/work...
 ---
 
 I truly hate VT from midnight to 8am. If I'm lucky I _won't_ come in to 10

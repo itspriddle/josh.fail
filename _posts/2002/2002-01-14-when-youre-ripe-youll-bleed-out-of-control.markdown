@@ -1,7 +1,7 @@
 ---
 layout: default
-title: when you're ripe you'll bleed out of control
 old_date: "01.14.02: 05.14.08PM (GMT -5:00)"
+title: when you're ripe you'll bleed out of control
 ---
 
 I'm waiting for a phone call from some guy who oculd give me a job. Yay!! I

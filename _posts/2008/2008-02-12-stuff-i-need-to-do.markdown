@@ -1,6 +1,6 @@
+title: Stuff I need to do
 ---
 layout: default
-title: Stuff I need to do
 ---
 
 1. Create something for any (preferably all) of the following sites I pay for: nevercraft.net, voipninja.net, movierack.net, mp3dojo.net, tehsource.net

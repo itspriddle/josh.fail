@@ -1,7 +1,7 @@
 ---
 layout: default
-title: all this time i thought i was myself
 old_date: "01.04.02 / 11.52.19PM EST"
+title: all this time i thought i was myself
 ---
 
 I still haven't done anything. I'm lazy as hell. Yes... I'm thinking about

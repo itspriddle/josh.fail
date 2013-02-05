@@ -1,8 +1,8 @@
 ---
 layout: default
 date: Sun Nov 19 23:29:58 -0500 2006
-title: Bandit
 published: false
+title: Bandit
 ---
 
 My poor dog, is not doing very well...  He hasn't eaten in 5 days and he's

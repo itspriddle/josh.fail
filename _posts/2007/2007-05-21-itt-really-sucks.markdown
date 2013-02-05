@@ -1,6 +1,6 @@
+title: ITT Really Sucks
 ---
 layout: default
-title: ITT Really Sucks
 ---
 
 I really need to learn to do my homework in a more timely fashion. I need to

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Welcome Fucks
 old_date: "11.25.01 / 05.49.18PM EST"
+title: Welcome Fucks
 ---
 
 Well, I'm uploading the site finally, in just a few minutes. There's really no

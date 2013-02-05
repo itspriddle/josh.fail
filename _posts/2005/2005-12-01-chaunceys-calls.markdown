@@ -1,6 +1,6 @@
+title: Chauncey's Calls
 ---
 layout: default
-title: Chauncey's Calls
 ---
 
 Chauncey's Calls

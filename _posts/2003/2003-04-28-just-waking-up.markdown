@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Just waking up...
 old_date: Apr 28; 7:38P; EST
+title: Just waking up...
 ---
 
 Yes, I am a piece of shit who goes to sleep when he gets home from school and

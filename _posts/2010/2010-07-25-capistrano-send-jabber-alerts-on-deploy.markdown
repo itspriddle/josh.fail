@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Capistrano: Send Jabber alerts on deploy"
 date: Sun Jul 25 23:18:14 -0400 2010
 short_description:
   <p>
     I use this Capistrano recipe at work to send a broadcast to the office when I
     deploy an update.
   </p>
+title: "Capistrano: Send Jabber alerts on deploy"
 ---
 
 I use this Capistrano recipe at work to send a broadcast to the

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Compiz on Ubuntu Edgy
 link: http://compiz.org/index.php?title=Ubuntu_Installation_Guide
+title: Compiz on Ubuntu Edgy
 ---
 
 It took forever, but I eventually found

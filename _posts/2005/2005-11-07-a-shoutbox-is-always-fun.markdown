@@ -1,6 +1,6 @@
+title: A shoutbox is always fun...
 ---
 layout: default
-title: A shoutbox is always fun...
 ---
 
 Yeah I made a shoutbox from 2 tutorials from [Spoono](http://spoono.com) They

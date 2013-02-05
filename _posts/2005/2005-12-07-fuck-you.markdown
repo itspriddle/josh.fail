@@ -1,7 +1,7 @@
+title: Fuck you
 ---
 layout: default
 date: Wed Dec 7 02:18:00 -0500 2005
-title: Fuck you
 ---
 
 Today has been absolutely fucking swell.  First, my hard drive crashes on my

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Laetitia Casta
 old_date: Sunday, February 18, 2001, 07.03.41PM; EST
+title: Laetitia Casta
 ---
 
 I've been searching through over 300 Laetitia Casta pictures on my computer

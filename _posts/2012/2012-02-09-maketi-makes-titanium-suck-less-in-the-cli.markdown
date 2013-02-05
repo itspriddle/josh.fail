@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "MakeTi makes Titanium suck less in the CLI"
 link: https://github.com/mattapperson/MakeTi
+title: "MakeTi makes Titanium suck less in the CLI"
 ---
 
 Finally, someone has released a decent command line tool for Titanium Mobile!

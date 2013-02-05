@@ -1,6 +1,5 @@
 ---
 layout: default
-title: gem install without sudo
 date: Thu Mar 04 17:39:59 -0500 2010
 short_description: |
   <p>
@@ -8,6 +7,7 @@ short_description: |
     having to use <code>sudo</code>. Just drop these lines into your
     <code>~/.zshrc</code> or <code>~/.bashrc</code> file.
   </p>
+title: gem install without sudo
 ---
 
 It took me a while to find a clearly documented way to manage

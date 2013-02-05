@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Hahahaha
 link: http://video.google.com/videoplay?docid=-1289519408092013181&q=cheater+lan
+title: Hahahaha
 ---
 
 Hahah I just saw the greatest video of some loser at a LAN party trying to

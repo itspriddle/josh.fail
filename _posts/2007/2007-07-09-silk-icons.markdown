@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Silk Icons
 link: http://www.famfamfam.com/lab/icons/silk/
+title: Silk Icons
 ---
 
 I just found an awesome set of free icons:

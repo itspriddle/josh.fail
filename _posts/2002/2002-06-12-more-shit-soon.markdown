@@ -1,7 +1,7 @@
 ---
 layout: default
-title: More shit soon
 old_date: Sunday June 16, 2002; 2:17PM
+title: More shit soon
 ---
 
 I'm still working on the main layout, but i think that i've just about got

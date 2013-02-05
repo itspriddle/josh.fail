@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Recovery
 old_date: May 18; 2:12P; EST
+title: Recovery
 ---
 
 Well, prom was both good and bad. The party after at Lisa's house was fucking

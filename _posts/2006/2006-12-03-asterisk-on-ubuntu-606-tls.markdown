@@ -1,6 +1,6 @@
+title: Asterisk on Ubuntu 6.06 TLS
 ---
 layout: default
-title: Asterisk on Ubuntu 6.06 TLS
 ---
 
 It took forever, but this ended up working to get Asterisk to compile:

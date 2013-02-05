@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "VTWhite and Asterisk Setup"
 date: "Thu Aug 2 23:26:00 -0400 2007"
 link: http://voipcowboy.net/tutorials/vtwhite/vtwhite-and-asterisk/
+title: "VTWhite and Asterisk Setup"
 ---
 
 I picked up a [VTWhite](http://vtwhite.com "Wholesale VoIP Origination and

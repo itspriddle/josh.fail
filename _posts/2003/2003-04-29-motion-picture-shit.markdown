@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Motion Picture Shit
 old_date: Apr 29; 9:12P; EST
+title: Motion Picture Shit
 ---
 
 I took a ton of pictures today too. I went and took most of the shitty ones

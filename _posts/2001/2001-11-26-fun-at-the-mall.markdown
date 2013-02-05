@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Fun at the mall
 old_date: "11.26.01 / 10.10.24PM EST"
+title: Fun at the mall
 ---
 Me and a bunch of friends went to the mall today. I bought someone her X-mas
 present. Whooo. Haha, she's lucky she got anyhting at all because I'm so bad

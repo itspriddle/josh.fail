@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Welcome
 old_date: Thursday, February 15, 2001, 09.02.12PM; EST
+title: Welcome
 ---
 
 Welcome to the site. Not much is up right now. Over the next week, (vacation)

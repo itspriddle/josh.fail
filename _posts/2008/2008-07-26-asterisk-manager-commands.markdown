@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Asterisk Manager Commands
 short_description: |
   <p>
     I&rsquo;ve been playing around with the Asterisk Manager lately (which is
@@ -13,6 +12,7 @@ short_description: |
   <p>
     These are the Manager commands available on Asterisk 1.4
   </p>
+title: Asterisk Manager Commands
 ---
 
 I've been playing around with the Asterisk Manager lately (which is pretty

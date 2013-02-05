@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "`git browse` alias"
 date: "Mon Jul 5 21:22:45 -0400 2010"
 short_description:
   <p>
@@ -16,6 +15,7 @@ short_description:
     This one doesn&rsquo;t wrap the <code>git</code> executable, and works
     outside of GitHub.
   </p>
+title: "`git browse` alias"
 ---
 
 I recently wrote a [git alias](https://git.wiki.kernel.org/index.php/Aliases)

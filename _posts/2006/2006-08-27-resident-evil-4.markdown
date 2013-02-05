@@ -1,6 +1,6 @@
+title: Resident Evil 4
 ---
 layout: default
-title: Resident Evil 4
 ---
 
 This game kicks ass.

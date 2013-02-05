@@ -1,7 +1,7 @@
 ---
 layout: default
-title: in the back of a puppeteer bathroom floor is where i tried to die
 old_date: "01.13.02: 02.05.26PM (GMT -5:00)"
+title: in the back of a puppeteer bathroom floor is where i tried to die
 ---
 
 I went to the coolest party yesterday with all my friends. Haha, it was

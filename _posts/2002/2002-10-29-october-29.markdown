@@ -1,7 +1,7 @@
 ---
 layout: default
-title: October 29
 old_date: Friday, October 29, 2002
+title: October 29
 ---
 
 11:21 PM EST: Yeah, well... This site has pretty much been forgotten about for

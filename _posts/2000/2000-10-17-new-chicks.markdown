@@ -1,7 +1,7 @@
 ---
 layout: default
-title: New chicks
 old_date: 10.17.00 @ 08.03.44PM EST
+title: New chicks
 ---
 
 New bitch added to the chicks section. Prescilla Lee Taylor. The chick from

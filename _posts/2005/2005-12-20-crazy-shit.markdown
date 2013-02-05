@@ -1,8 +1,8 @@
 ---
 layout: default
 date: Tue Dec 20 09:20:00 -0500 2005
-title: Crazy Shit
 published: false
+title: Crazy Shit
 ---
 
 Haha yeah... so my parents and my sister had World War fucking 3 last night.

@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Solved: Internal Error in Fireworks CS5 on OS X"
 published: true
 categories:
 - Development
+title: "Solved: Internal Error in Fireworks CS5 on OS X"
 ---
 
 I tried opening Fireworks earlier and got an awesome error "Internal Error",

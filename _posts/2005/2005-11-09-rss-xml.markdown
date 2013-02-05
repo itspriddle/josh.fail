@@ -1,6 +1,6 @@
+title: RSS/XML
 ---
 layout: default
-title: RSS/XML
 ---
 
 Updated this newsfeed to use XML and created an RSS feed.  Use /news.xml.

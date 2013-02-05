@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Gizoogle!
 link: http://gizoogle.com/
+title: Gizoogle!
 ---
 
 <a href="http://gizoogle.com/">gizoogle.com</a> is the greatest site ever.

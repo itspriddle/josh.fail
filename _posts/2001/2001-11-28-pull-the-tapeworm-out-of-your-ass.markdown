@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Pull the tapeworm out of your ass"
 old_date: "11.28.01 / 10.14.44PM EST"
+title: "Pull the tapeworm out of your ass"
 ---
 
 Didn't really do much today... In fact, I was so lazy today, I didn't even

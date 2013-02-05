@@ -1,6 +1,6 @@
+title: Honey I Shrunk The Kids
 ---
 layout: default
-title: Honey I Shrunk The Kids
 ---
 
 I don't care who you are, "Honey I Shrunk the Kids" is one of the best movies

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Its been so long...
 old_date: Jul 30; 12:45A; EST
+title: Its been so long...
 ---
 
 Alot has happened in the last month, although nothing really new here. I

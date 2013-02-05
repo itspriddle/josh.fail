@@ -1,6 +1,6 @@
+title: "2011 Retrospective"
 ---
 layout: default
-title: "2011 Retrospective"
 ---
 
 The year is coming to a close, so I thought it would be a good time to reflect

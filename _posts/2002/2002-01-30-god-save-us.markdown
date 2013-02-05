@@ -1,7 +1,7 @@
 ---
 layout: default
-title: god save us, this new life is worthless, is mindless
 old_date: "01.30.02: 08.28.38PM (GMT -5:00)"
+title: god save us, this new life is worthless, is mindless
 ---
 
 I've finished the construction of every section. All that is left for me to do

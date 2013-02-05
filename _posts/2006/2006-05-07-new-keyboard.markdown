@@ -1,6 +1,6 @@
+title: "New keyboard"
 ---
 layout: default
-title: "New keyboard"
 ---
 
 I bought a sexual new keyboard today for the lapper at work. I really have no

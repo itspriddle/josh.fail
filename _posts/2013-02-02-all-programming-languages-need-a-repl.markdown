@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "All programming languages need a REPL"
 date: "Sat Feb 02 13:55:21 -0500 2013"
+title: "All programming languages need a REPL"
 ---
 
 My girlfriend has recently begun learning Java for college. The shittyness of

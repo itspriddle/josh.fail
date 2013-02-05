@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Sloppy Precision
 old_date: May 8; 08:29P; EST
+title: Sloppy Precision
 ---
 
 I haven't done shit in a week. Prom is next Friday tho.

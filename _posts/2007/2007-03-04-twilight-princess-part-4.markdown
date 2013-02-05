@@ -1,6 +1,6 @@
+title: Twilight Princess (Part 4)
 ---
 layout: default
-title: Twilight Princess (Part 4)
 ---
 
 Believe it or not, I actually had to put this game on hold for some work at

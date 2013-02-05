@@ -1,6 +1,6 @@
+title: "The Legend of Zelda: Twilight Princess"
 ---
 layout: default
-title: "The Legend of Zelda: Twilight Princess"
 ---
 
 This game fucking pwns. If you haven't played it yet, go buy it now.

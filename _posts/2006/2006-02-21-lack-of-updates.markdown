@@ -1,6 +1,6 @@
+title: Lack of updates
 ---
 layout: default
-title: Lack of updates
 ---
 
 I never have time to update this anymore. I hope you weren't too excited for

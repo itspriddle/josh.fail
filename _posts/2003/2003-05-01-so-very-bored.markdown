@@ -1,7 +1,7 @@
 ---
 layout: default
-title: So very bored...
 old_date: May 1; 6:35P; EST
+title: So very bored...
 ---
 
 Everyone went to DC for the senior trip that I didn't want to raise money

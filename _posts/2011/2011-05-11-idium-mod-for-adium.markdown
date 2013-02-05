@@ -1,7 +1,7 @@
 ---
 layout: default
-title: iDium mod for Adium
 link: http://macthemes.net/forum/viewtopic.php?pid=677432#p677432
+title: iDium mod for Adium
 ---
 
 I've been itching to get ahold of this [Adium](http://adium.im/) mod since

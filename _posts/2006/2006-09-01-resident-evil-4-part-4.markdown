@@ -1,6 +1,6 @@
+title: Resident Evil 4 (part 4)
 ---
 layout: default
-title: Resident Evil 4 (part 4)
 ---
 
 Have I mentioned this game is like crack? It is...

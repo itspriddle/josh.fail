@@ -1,6 +1,6 @@
+title: Moving on Friday
 ---
 layout: default
-title: Moving on Friday
 ---
 
 Yes - Eric and I move into our apartment on Friday. Unfortunately - the

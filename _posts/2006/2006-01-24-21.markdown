@@ -1,6 +1,6 @@
+title: 21
 ---
 layout: default
-title: 21
 ---
 
 Indeed, I am 21 today.  Wasn't very fun, and I don't drink.  Hoorah!!

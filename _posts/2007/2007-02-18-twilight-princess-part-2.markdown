@@ -1,6 +1,6 @@
+title: Twilight Princess (Part 2)
 ---
 layout: default
-title: Twilight Princess (Part 2)
 ---
 
 For the first 10 hours, I was really having fun. It got [what I thought was]

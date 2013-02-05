@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Rake tasks to build Titanium Mobile Apps
 date: Thu Aug  5 14:08:05 -0400 2010
 short_description: |
   <p>
@@ -16,6 +15,7 @@ short_description: |
     validate my app's JavaScript and launch it in the simulator
     simply by invoking <code>rake</code>.
   </p>
+title: Rake tasks to build Titanium Mobile Apps
 ---
 
 I've been working with [Titanium Mobile](http://www.appcelerator.com/)

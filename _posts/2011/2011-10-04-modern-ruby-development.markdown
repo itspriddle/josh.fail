@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Modern Ruby Development"
 link: http://ascarter.net/2011/09/25/modern-ruby-development.html
+title: "Modern Ruby Development"
 ---
 
 I was having trouble getting Pow working with rbenv, and I found this detailed

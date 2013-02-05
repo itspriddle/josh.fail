@@ -1,6 +1,6 @@
+title: "Live Calls: Day 1"
 ---
 layout: default
-title: "Live Calls: Day 1"
 ---
 
 LMFAO, I couldn't have planned it better than this:

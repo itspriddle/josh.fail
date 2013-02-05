@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Font embedding
 old_date: 10.16.03 | 9:39P EST | THU
+title: Font embedding
 ---
 
 WEFT is the dumbest program. Font embedding is usefull but there are so many

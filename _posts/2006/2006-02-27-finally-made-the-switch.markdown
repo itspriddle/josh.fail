@@ -1,6 +1,6 @@
+title: Finally made the switch...
 ---
 layout: default
-title: Finally made the switch...
 ---
 
 I finally took Windows XP off of my desktop and installed Fedora Core 4.

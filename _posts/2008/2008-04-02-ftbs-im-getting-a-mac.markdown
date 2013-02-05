@@ -1,6 +1,6 @@
+title: FTBS... I'm getting a Mac
 ---
 layout: default
-title: FTBS... I'm getting a Mac
 ---
 
 I've decided that I am going to purchase a Mac Mini with my tax refund. I am

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: More updates
 old_date: 10.19.00 @ 09.21.31PM EST
+title: More updates
 ---
 
 I know I said I wasn't going to. But I can never make up my mind. I've been

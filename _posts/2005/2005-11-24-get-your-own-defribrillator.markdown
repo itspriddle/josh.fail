@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Get your own defribrillator!
 link: http://www.tvdepot.com/heartstart/home.jsp
+title: Get your own defribrillator!
 ---
 
 Are you, or someone you know, constantly watching medical drama and saying

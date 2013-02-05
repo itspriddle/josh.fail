@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Something soon, friend
 old_date: 10.20.03 | 10:33P EST | MON
+title: Something soon, friend
 ---
 
 I think that I have all of the font issues solved. Although you most likely

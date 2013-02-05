@@ -1,7 +1,7 @@
 ---
 layout: default
-title: While you were away
 old_date: Jun 18; 1:34P; EST
+title: While you were away
 ---
 
 While I was on my ass doing nothing for the last 6 months, the domain name I

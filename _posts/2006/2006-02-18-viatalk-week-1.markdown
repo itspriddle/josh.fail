@@ -1,6 +1,6 @@
+title: "ViaTalk: Week 1"
 ---
 layout: default
-title: "ViaTalk: Week 1"
 ---
 
 My first week at ViaTalk was awesome.

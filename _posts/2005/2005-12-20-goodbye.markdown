@@ -1,8 +1,8 @@
 ---
 layout: default
 date: Tue Dec 20 17:13:00 -0500 2005
-title: Goodbye
 published: false
+title: Goodbye
 ---
 
 I can't believe you guys let it happen.  You're all retarded if you want my

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Mar 25
 old_date: Mar 25; 7:25P; EST
+title: Mar 25
 ---
 
 I'm almost done with the layout and will soon be working totally on content.

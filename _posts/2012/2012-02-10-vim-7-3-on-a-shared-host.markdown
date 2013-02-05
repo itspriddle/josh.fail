@@ -1,6 +1,6 @@
+title: "Vim 7.3 on a shared host"
 ---
 layout: default
-title: "Vim 7.3 on a shared host"
 ---
 
 A [few years ago](/blog/2007/vim-7-on-a-shared-host.html) I blogged about how

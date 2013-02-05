@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 3.1 pushed back again...
 old_date: Saturday July 6, 2002; 1:29AM
+title: 3.1 pushed back again...
 ---
 
 Once again the release of 3.1 has been pushed back due to this new release,

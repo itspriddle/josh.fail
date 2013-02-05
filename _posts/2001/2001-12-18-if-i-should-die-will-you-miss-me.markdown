@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "If I should die will you miss me?"
 old_date: "12.18.01 / 06.49.45PM EST"
+title: "If I should die will you miss me?"
 ---
 
 Chimaira kicks major ass, and that's all you need to know. Go and buy their

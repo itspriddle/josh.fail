@@ -1,7 +1,7 @@
 ---
 layout: default
-title: still i waste another day of my life
 old_date: "01.06.02@04.31.15PM (EST)"
+title: still i waste another day of my life
 ---
 
 What's up? Happy delayed New Year to anyone who is visiting this... I'm always

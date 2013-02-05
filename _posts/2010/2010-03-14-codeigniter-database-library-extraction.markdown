@@ -1,7 +1,7 @@
 ---
 layout: default
-title: CodeIgniter Database Library Extraction
 date: Sun Mar 14 19:13:53 -0400 2010
+title: CodeIgniter Database Library Extraction
 ---
 
 I've used [CodeIgniter](http://codeigniter.com/) in several PHP projects, and

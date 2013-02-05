@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "PHP Coding: Phase 01"
 old_date: 10.13.03 | 4:34P EST | MON
+title: "PHP Coding: Phase 01"
 ---
 
 The basic layout of this site is done, which means, the graphics side is

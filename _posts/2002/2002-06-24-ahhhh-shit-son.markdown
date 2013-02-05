@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Ahhhh shit son
 old_date: Monday June 24, 2002; 12:47PM
+title: Ahhhh shit son
 ---
 
 Working on the site again... I had some problems with the frames and the way i

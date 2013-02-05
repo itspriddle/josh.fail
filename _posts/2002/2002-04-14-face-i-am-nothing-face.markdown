@@ -1,7 +1,7 @@
 ---
 layout: default
-title: face, i am nothing face, complete by sarcastic tastes
 old_date: "04.16.02: 08.14.21PM (GMT -5:00)"
+title: face, i am nothing face, complete by sarcastic tastes
 ---
 
 I got sick of having nothing. I'll upload all the linked shit later, I still

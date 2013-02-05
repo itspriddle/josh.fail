@@ -1,7 +1,7 @@
 ---
 layout: default
-title: I have done a lot of updating this weekend.
 old_date: 10.15.00 @ 07.48.14PM EST
+title: I have done a lot of updating this weekend.
 ---
 
 I have done a lot of updating this weekend. I've uploaded some Snot tunes. I

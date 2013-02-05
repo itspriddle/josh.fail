@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Railsconf, ho!"
 date: "Sun Apr 22 16:19:44 -0400 2012"
+title: "Railsconf, ho!"
 ---
 
 Beyond excited to be attending Railsconf in Austin, TX this year! Can't wait

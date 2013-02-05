@@ -1,6 +1,6 @@
+title: AIM Web Presence API
 ---
 layout: default
-title: AIM Web Presence API
 ---
 
 So I've been dabbling with AIM's Web Presence API - which basically allows

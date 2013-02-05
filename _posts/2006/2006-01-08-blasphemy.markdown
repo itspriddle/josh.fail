@@ -1,7 +1,7 @@
+title: Blasphemy
 ---
 layout: default
 date: Sun Jan 8 02:10:13 -0500 2006
-title: Blasphemy
 ---
 
 Holy shit, some stupid ass punks decided to totally destroy Sweet Home Alabama
