@@ -17,7 +17,7 @@ and move it to the bottom of the post's YAML front matter.
 To illustrate how this works, let's take a look at this post's YAML front
 matter:
 
-```liquid
+```
 ---
 layout: default
 title: "Fun With Jekyll Posts and Vim Macros"
@@ -29,7 +29,7 @@ date: "Tue Feb 05 19:57:11 -0500 2013"
 
 To rearrange these lines as desired, you can use these commands in Vim:
 
-``
+```
 gg
 /title<cr>
 dd
@@ -46,7 +46,7 @@ P
 This gives you the proper sorting, but the process needs to be repeated in each
 file:
 
-```liquid
+```
 ---
 layout: default
 date: "Tue Feb 05 19:57:11 -0500 2013"
