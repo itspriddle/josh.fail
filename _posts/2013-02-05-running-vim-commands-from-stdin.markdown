@@ -10,7 +10,7 @@ open a new session.
 For example, suppose you have a file, `/tmp/my-vim-commands` containing
 `ggIHello World`. To execute this, open MacVim with `mvim -s
 /tmp/my-vim-commands`. When the session starts, it will run those commands.
-They move to the top of the buffer, switch to Insert mode at the beginning of
+Then move to the top of the buffer, switch to Insert mode at the beginning of
 the line, and enter the text "Hello World".
 
 To read commands in from stdin instead of an actual file, you can use `cat`
