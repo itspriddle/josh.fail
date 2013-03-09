@@ -1,6 +1,6 @@
-title: Good times with rar
 ---
 layout: default
+title: Good times with rar
 ---
 
 So I decided today I was going to make a DVD backup of my music collection.

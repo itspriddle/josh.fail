@@ -1,6 +1,6 @@
-title: Linux Experiences
 ---
 layout: default
+title: Linux Experiences
 ---
 
 If you've been reading this over the last 8 months or so, you know that I've
