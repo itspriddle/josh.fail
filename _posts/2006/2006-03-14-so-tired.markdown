@@ -1,6 +1,6 @@
-title: So tired...
 ---
 layout: default
+title: So tired...
 ---
 
 I need to sleep for like 9 days.  This full time work/school is gonna suck.

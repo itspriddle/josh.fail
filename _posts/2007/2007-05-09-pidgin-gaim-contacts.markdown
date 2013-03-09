@@ -1,6 +1,6 @@
-title: Pidgin/Gaim Contacts
 ---
 layout: default
+title: Pidgin/Gaim Contacts
 ---
 
 **Update 12/10/07:** _This bug has been resolved in the current version of

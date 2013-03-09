@@ -1,6 +1,6 @@
-title: Recently.
 ---
 layout: default
+title: Recently.
 ---
 
 It's been a long time since I have had the motivation to post here. It's funny

@@ -1,6 +1,6 @@
-title: New Motherboard
 ---
 layout: default
+title: New Motherboard
 ---
 
 So I broke down about 2 weeks ago and picked up a new motherboard for my PC.

@@ -1,6 +1,6 @@
-title: Its been a while...
 ---
 layout: default
+title: Its been a while...
 ---
 
 It's been a while since I've had the time to update this.

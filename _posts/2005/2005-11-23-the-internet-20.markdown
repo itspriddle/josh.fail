@@ -1,6 +1,6 @@
-title: The Internet 2.0
 ---
 layout: default
+title: The Internet 2.0
 ---
 
 From Tony Montana:

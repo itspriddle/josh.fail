@@ -1,6 +1,6 @@
-title: Another Day
 ---
 layout: default
+title: Another Day
 ---
 
 For some strange reason I didn't sleep...

@@ -1,6 +1,6 @@
-title: Movierack (again)
 ---
 layout: default
+title: Movierack (again)
 ---
 
 It seems I have a habit of revisiting old projects every time I learn a new

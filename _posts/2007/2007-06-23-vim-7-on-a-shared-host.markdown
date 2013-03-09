@@ -1,6 +1,6 @@
-title: Vim 7 on a Shared Host
 ---
 layout: default
+title: Vim 7 on a Shared Host
 ---
 
 I did this about 8 months ago and never wrote down my steps. I just had to

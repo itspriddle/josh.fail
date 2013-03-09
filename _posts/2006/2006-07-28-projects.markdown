@@ -1,6 +1,6 @@
-title: Projects
 ---
 layout: default
+title: Projects
 ---
 
 Voipcowboy is coming. And so is another little sasser for VT I'm helping with

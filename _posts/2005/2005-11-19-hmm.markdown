@@ -1,6 +1,6 @@
-title: Hmm
 ---
 layout: default
+title: Hmm
 ---
 
 I haven't done much with this lately, but I'm done with school for a few

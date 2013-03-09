@@ -1,6 +1,6 @@
-title: Its been a long time
 ---
 layout: default
+title: Its been a long time
 ---
 
 I know I never update this much. I can't seem to find the time to sit down and

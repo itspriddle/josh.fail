@@ -1,6 +1,6 @@
-title: Asterisk Goodness
 ---
 layout: default
+title: Asterisk Goodness
 ---
 
 So with the help of a friend at work, I successfully made my first incoming

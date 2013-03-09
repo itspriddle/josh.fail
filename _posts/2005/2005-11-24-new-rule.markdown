@@ -1,7 +1,7 @@
-title: New Rule
 ---
 layout: default
 date: Thu Nov 24 23:00:00 -0500 2005
+title: New Rule
 ---
 
 For the crime of spilling the ashtray, Chauncey Noodles aka Mr Kyle

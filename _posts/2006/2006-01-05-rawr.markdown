@@ -1,6 +1,6 @@
-title: Rawr
 ---
 layout: default
+title: Rawr
 ---
 
 Yeah, you can tell I'm bored.

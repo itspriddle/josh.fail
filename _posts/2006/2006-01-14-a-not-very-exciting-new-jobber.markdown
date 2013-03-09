@@ -1,6 +1,6 @@
-title: A (not) very exciting new jobber
 ---
 layout: default
+title: A (not) very exciting new jobber
 ---
 
 Ahh yes, I get to start training at Ticketmaster on Monday. I'm glad to have a

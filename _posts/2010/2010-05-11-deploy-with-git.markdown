@@ -1,9 +1,6 @@
 ---
 layout: default
 date: Tue May 11 23:39:10 -0400 2010
-categories:
-  - Development
-  - Git
 short_description: |
   <p>
     I found this git hook that lets you deploy a project with a git push

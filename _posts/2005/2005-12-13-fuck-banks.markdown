@@ -1,7 +1,7 @@
-title: Fuck banks
 ---
 layout: default
 date: Tue Dec 13 10:33:00 -0500 2005
+title: Fuck banks
 ---
 
 I really hate banks...  The stupidest little shit happens and then they charge

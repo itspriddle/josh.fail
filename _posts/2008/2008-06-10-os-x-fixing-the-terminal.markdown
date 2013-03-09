@@ -1,6 +1,6 @@
-title: "OS X: Fixing the Terminal"
 ---
 layout: default
+title: "OS X: Fixing the Terminal"
 ---
 
 This might not be a problem for everyone, but I got used to using home, end,

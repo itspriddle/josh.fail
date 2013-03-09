@@ -1,6 +1,6 @@
-title: Worky work twerk
 ---
 layout: default
+title: Worky work twerk
 ---
 
 Firstly, I'd like to say that 7:45a is way too early to be alive. Life really

@@ -1,6 +1,6 @@
-title: Oh yeah...
 ---
 layout: default
+title: Oh yeah...
 ---
 
 Did I mention I am officially a web designer according to ITT?

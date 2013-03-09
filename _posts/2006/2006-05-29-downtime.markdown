@@ -1,6 +1,6 @@
-title: Downtime
 ---
 layout: default
+title: Downtime
 ---
 
 I had two glorious days off in a row from VT. I freaking love the place - but

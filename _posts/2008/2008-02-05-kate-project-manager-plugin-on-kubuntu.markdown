@@ -1,6 +1,6 @@
-title: Kate Project Manager Plugin on Kubuntu
 ---
 layout: default
+title: Kate Project Manager Plugin on Kubuntu
 ---
 
 It was a pain, but this ought to work:
