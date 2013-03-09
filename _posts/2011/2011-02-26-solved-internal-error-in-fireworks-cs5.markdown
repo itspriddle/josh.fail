@@ -1,8 +1,6 @@
 ---
 layout: default
 published: true
-categories:
-- Development
 title: "Solved: Internal Error in Fireworks CS5 on OS X"
 ---
 

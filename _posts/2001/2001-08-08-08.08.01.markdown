@@ -1,6 +1,6 @@
-title: 08.08.01@11.26.01AM EST
 ---
 layout: default
+title: 08.08.01@11.26.01AM EST
 ---
 
 I'm feeling rather ambitious today, so I'm going to try and fix all of the

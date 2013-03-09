@@ -1,6 +1,6 @@
-title: Ninety-nine is always fine
 ---
 layout: default
+title: Ninety-nine is always fine
 ---
 
 There really was some kick ass music at the end of the 90s. Snot of course,

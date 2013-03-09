@@ -1,6 +1,6 @@
-title: "RA: Week 1"
 ---
 layout: default
+title: "RA: Week 1"
 ---
 
 First, I should mention I'm not actually working for Ticketmaster, although I

@@ -1,6 +1,6 @@
-title: Ahh yes, I'm cookoo for crack!
 ---
 layout: default
+title: Ahh yes, I'm cookoo for crack!
 ---
 
 Stewie is my hero.

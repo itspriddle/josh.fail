@@ -1,6 +1,6 @@
-title: Bored
 ---
 layout: default
+title: Bored
 ---
 
 Just sitting here at ViaTalk bored off of my ass.

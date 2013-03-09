@@ -1,6 +1,6 @@
-title: New Apartment
 ---
 layout: default
+title: New Apartment
 ---
 
 Eric and I finished moving (mostly) everything into our new apartment

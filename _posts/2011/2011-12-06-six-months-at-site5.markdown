@@ -1,6 +1,6 @@
-title: "Six Months at Site5"
 ---
 layout: default
+title: "Six Months at Site5"
 ---
 
 I can't believe it's already been six months since I joined the engineering 

@@ -1,6 +1,6 @@
-title: "MxO One More Time"
 ---
 layout: default
+title: "MxO One More Time"
 ---
 
 So me and Mr. Iversen recently started playing the Matrix Online again. There

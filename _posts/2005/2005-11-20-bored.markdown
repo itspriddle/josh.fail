@@ -1,6 +1,6 @@
-title: Bored
 ---
 layout: default
+title: Bored
 ---
 
 Somehow I slept all day. Probably because I was up all night, and half of the

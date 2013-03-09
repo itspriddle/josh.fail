@@ -1,6 +1,6 @@
-title: Nevercraft V3
 ---
 layout: default
+title: Nevercraft V3
 ---
 
 After messing around with this layout for over a year, I've recreated it yet

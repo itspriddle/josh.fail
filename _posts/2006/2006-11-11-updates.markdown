@@ -1,6 +1,6 @@
-title: Updates
 ---
 layout: default
+title: Updates
 ---
 
 If you remember a few weeks back, I had blogged about a program I am writing

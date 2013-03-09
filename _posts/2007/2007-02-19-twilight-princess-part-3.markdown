@@ -1,6 +1,6 @@
-title: Twilight Princess (Part 3)
 ---
 layout: default
+title: Twilight Princess (Part 3)
 ---
 
 And 13.5 hours later...

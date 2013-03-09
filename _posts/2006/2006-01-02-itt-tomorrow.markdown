@@ -1,6 +1,6 @@
-title: ITT Tomorrow
 ---
 layout: default
+title: ITT Tomorrow
 ---
 
 Ughhh, gotta go back to ITT tomorrow. Hopefully it isn't snowing or icy

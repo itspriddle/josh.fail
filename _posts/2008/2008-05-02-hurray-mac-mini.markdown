@@ -1,6 +1,6 @@
-title: Hurray Mac mini
 ---
 layout: default
+title: Hurray Mac mini
 ---
 
 I finally bit the bullet and bought one, and its delicious.

@@ -1,6 +1,6 @@
-title: Mozilla Thunderbird 2 on Ubuntu
 ---
 layout: default
+title: Mozilla Thunderbird 2 on Ubuntu
 ---
 
 Installing Thunderbird 2 on Ubuntu was cake.

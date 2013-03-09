@@ -1,6 +1,6 @@
-title: Work school work work work school work school work
 ---
 layout: default
+title: Work school work work work school work school work
 ---
 
 Haven't had much time lately to do anything with this or any of my other
