@@ -1,6 +1,6 @@
-title: "Upcoming projects"
 ---
 layout: default
+title: "Upcoming projects"
 ---
 
 Me and a friend of mine from work are working on a new project. Nothing much

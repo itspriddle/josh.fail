@@ -1,6 +1,6 @@
-title: Vacation
 ---
 layout: default
+title: Vacation
 ---
 
 Not working, not at school. What could be better?

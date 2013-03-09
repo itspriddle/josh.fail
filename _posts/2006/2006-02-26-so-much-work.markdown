@@ -1,6 +1,6 @@
-title: So much work...
 ---
 layout: default
+title: So much work...
 ---
 
 So little time... of course.

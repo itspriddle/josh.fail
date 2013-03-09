@@ -1,6 +1,6 @@
-title: Rock the Bells 2007 at Randall's Island
 ---
 layout: default
+title: Rock the Bells 2007 at Randall's Island
 ---
 
 Or, more specifically, Rage Against the Machine at Rock the Bells was the best

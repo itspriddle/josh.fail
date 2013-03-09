@@ -1,6 +1,6 @@
-title: Merry Christmas!
 ---
 layout: default
+title: Merry Christmas!
 ---
 
 Christmas was an absolute blast, as it is every year.

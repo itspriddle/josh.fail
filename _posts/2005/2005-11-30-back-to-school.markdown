@@ -1,6 +1,6 @@
-title: Back to school
 ---
 layout: default
+title: Back to school
 ---
 
 That week was excellent... so now it's back to ITT. Actually, I started back

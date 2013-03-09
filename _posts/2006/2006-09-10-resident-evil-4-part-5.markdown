@@ -1,6 +1,6 @@
-title: Resident Evil 4 (part 5)
 ---
 layout: default
+title: Resident Evil 4 (part 5)
 ---
 
 I beat this game the other day - and I have to say, overall it was excellent.

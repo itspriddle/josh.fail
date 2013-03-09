@@ -1,6 +1,6 @@
-title: Grrrrrr!!!
 ---
 layout: default
+title: Grrrrrr!!!
 ---
 
 My fucking computer keeps overheating!  God dammit I hate ABIT motherboards.

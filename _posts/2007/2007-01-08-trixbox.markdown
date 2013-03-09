@@ -1,6 +1,6 @@
-title: Trixbox
 ---
 layout: default
+title: Trixbox
 ---
 
 I will get Trixbox working with Viatalk, if it is the last thing I do.

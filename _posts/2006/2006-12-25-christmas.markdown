@@ -1,6 +1,6 @@
-title: Christmas
 ---
 layout: default
+title: Christmas
 ---
 
 Christmas was pretty cool this year.

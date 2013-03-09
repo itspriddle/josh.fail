@@ -1,6 +1,6 @@
-title: Can I use your computer?
 ---
 layout: default
+title: Can I use your computer?
 ---
 
 > Chauncey Noodles: You think I could use your computer for a minute?

@@ -1,6 +1,6 @@
-title: Well I survived Day 1
 ---
 layout: default
+title: Well I survived Day 1
 ---
 
 Indeed, I am alive after the first day.

@@ -1,6 +1,6 @@
-title: I love/hate KDE
 ---
 layout: default
+title: I love/hate KDE
 ---
 
 I haven't been much of a KDE fan. 2 years ago when I was first exposed to

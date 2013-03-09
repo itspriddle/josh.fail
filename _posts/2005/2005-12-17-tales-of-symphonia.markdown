@@ -1,6 +1,6 @@
-title: Tales of Symphonia
 ---
 layout: default
+title: Tales of Symphonia
 ---
 
 It's rare that a game with seemingly bad graphics has a storyline so

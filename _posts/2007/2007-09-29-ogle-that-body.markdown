@@ -1,6 +1,6 @@
-title: Ogle that <BODY>...
 ---
 layout: default
+title: Ogle that <BODY>...
 ---
 
 Saw this in <a href="http://www.allusis.net">Tony's</a> aim profile tonight,

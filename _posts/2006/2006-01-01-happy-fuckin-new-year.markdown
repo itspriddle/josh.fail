@@ -1,6 +1,6 @@
-title: Happy fuckin New Year!
 ---
 layout: default
+title: Happy fuckin New Year!
 ---
 
 Happy New Year everyone! Nothing really much to say.

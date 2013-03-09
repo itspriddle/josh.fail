@@ -1,6 +1,6 @@
-title: The Forty Grand
 ---
 layout: default
+title: The Forty Grand
 ---
 
 Its always great to be so bored at ITT that I **have** to leave early. Every

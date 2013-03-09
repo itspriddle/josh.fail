@@ -1,6 +1,6 @@
-title: Mondays are great
 ---
 layout: default
+title: Mondays are great
 ---
 
 I beat the shit out of Tales of Symphonia yesterday. Honestly, I was a little
