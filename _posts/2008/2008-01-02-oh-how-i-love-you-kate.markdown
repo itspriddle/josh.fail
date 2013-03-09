@@ -1,6 +1,6 @@
-title: Oh, how I love you Kate...
 ---
 layout: default
+title: Oh, how I love you Kate...
 ---
 
 The KDE text editor Kate is my latest weapon. Its great if you're on a slower
