@@ -1,18 +1,23 @@
-auto:        false
-server:      false
-pygments:    true
-permalink:   /blog/:year/:title.html
-paginate:    10
+timezone: 'America/New_York'
+pygments: true
+permalink: 'blog/:year/:title.html'
+paginate: 10
+pagination_path: 'blog/page:num'
 
-exclude: bin config.ru Gemfile Gemfile.lock images README.markdown vendor _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.markdown
+  - bin
+  - config.ru
+  - images
+  - vendor
 
 # Plugin settings
 markdown: redcarpet
 redcarpet:
-  extensions: [smart]
+  extensions: [smart, tables]
 
-title: code.nevercraft.net
-url:   http://code.nevercraft.net
-
-# Gravatar
-gravatar_hash: 041cd7558aa5868a21d949c88e195c95
+# Blog info
+title: "code.nevercraft.net"
+url: http://code.nevercraft.net
