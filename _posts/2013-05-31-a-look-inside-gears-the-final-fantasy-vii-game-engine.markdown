@@ -1,6 +1,6 @@
 ---
 layout: default
-date: "Thu May 30 22:41:34 -0400 2013"
+date: "Thu May 31 00:00:00 -0400 2013"
 title: "A look inside Gears, the Final Fantasy VII game engine"
 link: http://q-gears.sourceforge.net/gears.pdf
 ---
