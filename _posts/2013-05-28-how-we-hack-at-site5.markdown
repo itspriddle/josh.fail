@@ -12,7 +12,7 @@ this has worked out, so I thought it was time to share.
 
 ## Step 1: Discuss the change
 
-Code written for Site5 projects typically falls under one of four categories:
+Code written for Site5 projects usually falls under one of four categories:
 
 * new features
 * bug fixes
@@ -87,11 +87,10 @@ better describe the intended changes.
 
 ## Step 6: Verify CI build and merge Pull Request
 
-If the project has a test suite, we wait for our
-CI server (either [Jenkins](http://jenkins-ci.org) or [Travis
-CI](https://travis-ci.org)) to verify the build succeeds. After that, any
-reviewer can merge the Pull Request. As a rule, we don't merge our own Pull
-Requests.
+If the project has a test suite, we wait for our CI server (either
+[Jenkins](http://jenkins-ci.org) or [Travis CI](https://travis-ci.org)) to
+verify the build succeeds. After that, any reviewer can merge the Pull
+Request. As a rule, we don't merge our own Pull Requests.
 
 ## Step 7: Tie up loose ends
 
