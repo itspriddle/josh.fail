@@ -44,7 +44,7 @@ following:
 
 * feature/name
 * bugfix/name
-* refactory/name
+* refactor/name
 * upgrade/name
 
 This just makes it easier to determine what a branch is for using just its
