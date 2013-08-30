@@ -81,9 +81,9 @@ it to be merged. This is usually just an emoji `:+1:`.
 
 We try to avoid cluttering a project's git history with a lot of extra
 commits. If there are additional changes added from feedback in Step 4, we
-will use `git rebase -i` to squash them down into one commit. Of course, this
-is only done where it makes sense -- two commits are better than one if they
-better describe the intended changes.
+will use `git rebase -i master` to squash them down into one commit. Of
+course, this is only done where it makes sense -- two commits are better than
+one if they better describe the intended changes.
 
 ## Step 6: Verify CI build and merge Pull Request
 
