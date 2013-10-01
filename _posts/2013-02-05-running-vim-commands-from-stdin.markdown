@@ -20,6 +20,7 @@ and `/dev/stdin`:
 cat <<CMD | mvim -s /dev/stdin
 gg
 IHello World
+CMD
 ```
 
 **Note**: This doesn't seem to work with console Vim, it throws an error "Vim:
