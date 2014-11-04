@@ -1,4 +1,3 @@
-require 'rubygems'
 require 'rack/static'
 require 'rack/contrib/not_found'
 require 'rack/contrib/try_static'
