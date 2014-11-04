@@ -1,22 +1,26 @@
 timezone: 'America/New_York'
-pygments: true
 permalink: 'blog/:year/:title.html'
 paginate: 10
 pagination_path: 'blog/page:num'
 
 exclude:
+  - CNAME
   - Gemfile
   - Gemfile.lock
   - README.markdown
   - bin
   - config.ru
   - images
-  - vendor
 
 # Plugin settings
 markdown: redcarpet
+highlighter: true
 redcarpet:
   extensions: [smart, tables]
+
+sass:
+  sass_dir: stylesheets
+  style: compressed
 
 # Blog info
 title: "code.nevercraft.net"
