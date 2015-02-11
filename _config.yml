@@ -1,8 +1,26 @@
-timezone: 'America/New_York'
-permalink: 'blog/:year/:title.html'
-paginate: 10
-pagination_path: 'blog/page:num'
+# Site settings
+title: code.nevercraft.net
+email: code@nevercraft.net
+description: Random thoughts about programming.
+url: "http://code.nevercraft.net"
 
+# Social
+twitter_username: itspriddle
+github_username:  itspriddle
+
+# Plugin settings
+markdown: redcarpet
+redcarpet:
+  extensions: [smart, tables]
+
+timezone: 'America/New_York'
+
+# Permalink settings
+permalink: 'blog/:year/:title.html'
+# paginate: 10
+# pagination_path: 'blog/page:num'
+
+# Files to exclude
 exclude:
   - CNAME
   - Gemfile
@@ -12,16 +30,7 @@ exclude:
   - config.ru
   - images
 
-# Plugin settings
-markdown: redcarpet
-highlighter: true
-redcarpet:
-  extensions: [smart, tables]
-
+# Sass setup
 sass:
   sass_dir: stylesheets
   style: compressed
-
-# Blog info
-title: "code.nevercraft.net"
-url: http://code.nevercraft.net
