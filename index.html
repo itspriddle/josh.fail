@@ -1,13 +1,13 @@
 ---
 layout: default
-title: main
-body_id: home
 ---
 
-{% for page in paginator.posts %}
-{% assign body = page.content %}
-{% assign homepage = true %}
-{% include post.html %}
-{% endfor %}
+<div class="home">
 
-{% include page_navigation.html %}
+  {% for page in site.posts %}
+    {% assign body = page.content %}
+    {% assign homepage = true %}
+    {% include post.html %}
+  {% endfor %}
+
+</div>

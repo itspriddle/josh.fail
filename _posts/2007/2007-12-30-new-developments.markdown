@@ -17,7 +17,4 @@ IP address with DynDNS if it changes. It will also automatically make "fake"
 changes to your account once a month to make sure it isn't deleted for
 inactivity. [Those of us with free DynDNS accounts know all about that...]
 
-If you want to take a gander, its available here:
-<http://www.nevercraft.net/experiments/dyndnsCron.phps>
-
 If I don't make it back here before 08 - happy new year!

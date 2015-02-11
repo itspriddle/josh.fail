@@ -1,7 +1,23 @@
-{% include header.html %}
+<!DOCTYPE html>
+<html>
 
-<div id="main">
-{% if page.id %}{% assign body = content %}{% include post.html %}{% else %}{{ content }}{% endif %}
-</div>
+  {% include head.html %}
 
-{% include footer.html %}
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        {% if page.id %}
+          {% assign body = content %}
+          {% include post.html %}
+        {% else %}
+          {{ content }}
+        {% endif %}
+      </div>
+    </div>
+
+  </body>
+
+</html>

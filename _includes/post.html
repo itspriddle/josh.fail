@@ -1,14 +1,28 @@
 <div class="post">
-  <div class="title">
-    <div class="date">{{ page.date | date: "%B %e, %Y" }}</div>
-    <h1>{% if homepage %}<a href="{% if page.link %}{{ page.link }}{% else %}{{ page.url }}{% endif %}">{{ page.title }}</a>{% else %}{{ page.title }}{% endif %}{% if page.link %}<i class="icon-share-alt"></i>{% endif %}</h1>
-  </div>
-  <div class="body">
-    {% if homepage and page.short_description %}
-    {{ page.short_description }}
+
+  <header class="post-header">
+    <h1 class="post-title">
+      {% if homepage and page.link %}
+        <a href="{{ page.link }}">{{ page.title }}</a>
+      {% else %}
+        {{ page.title }}
+      {% endif %}
+      {% if page.link %}
+        &rarr;
+      {% endif %}
+    </h1>
+    {% if page.id %}
+    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    {% endif %}
+  </header>
+
+  <article class="post-content">
+    {% if homepage and page.excerpt != body %}
+    {{ page.excerpt }}
     <p><a href="{{ page.url }}">Read more &rarr;</a></p>
     {% else %}
     {{ body }}
     {% endif %}
-  </div>
+  </article>
+
 </div>

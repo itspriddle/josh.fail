@@ -1,32 +1,18 @@
 ---
 layout: default
-short_description: |
-  <p>
-    Earlier today, I noticed the A/C adapter for my laptop seemed to be
-    broken. It took a few minutes to realize that there was a kink in the
-    wiring under the shielding. If I moved that around just a bit, it would
-    work properly.
-  </p>
-  <p>
-    "That sucks," I thought. "At least I have the warrantee and it should be a
-    quick phone call to get a new one out. " Wrong.
-  </p>
 title: Calling Dell Support
 ---
 
 Earlier today, I noticed the A/C adapter for my laptop seemed to be broken. It
 took a few minutes to realize that there was a kink in the wiring under the
-shielding. If I moved that around just a bit, it would work properly.
-
-"That sucks," I thought. "At least I have the warrantee and it should be a
-quick phone call to get a new one out. " Wrong.
-
-<!--more-->
+shielding. If I moved that around just a bit, it would work properly. "That
+sucks," I thought. "At least I have the warranty and it should be a quick
+phone call to get a new one out." Wrong.
 
 The first thing I noticed, is that their PBX is a complete mess. I had to
 punch in literally, 7 or 8 different options. I was a little surprised to hear
 they had a department specifically for parts replacement for stuff under
-warrantee. Of course, the rep sounded like I had just pulled up to a McDonald's
+warranty. Of course, the rep sounded like I had just pulled up to a McDonald's
 and asked for a Medium Meatlover's - but I'm used to that.
 
 He takes my service tag and then puts me on hold for a few minutes. Then he
@@ -38,7 +24,7 @@ The next person I spoke with was an Indian woman who I could barely understand
 to get me a new power supply. This is more or less the conversation we had:
 
 > **Me:** Hi, the power supply on my laptop is broken. I'd like to see if that
-is covered by my warrantee and if I can get a new one.
+is covered by my warranty and if I can get a new one.
 
 > **Dell:** The power supply?
 
@@ -72,7 +58,7 @@ could possibly be looking up/asking someone. About 3 minutes goes by.
 about. When you say power supply, you are indicating the A/C adaptor for your
 laptop, correct?
 
-Me [trying not to sound irritated]: Yes. Are you sure you wouldn't like the
+> **Me [trying not to sound irritated]:** Yes. Are you sure you wouldn't like the
 model number?
 
 > **Dell:** No, that is okay.  Can I place you on hold again for 3-5 minutes?
