@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
 gem 'rack-contrib'
-gem 'github-pages', '28'
+gem 'github-pages'

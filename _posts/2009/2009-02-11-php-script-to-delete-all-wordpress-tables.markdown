@@ -46,5 +46,5 @@ http://yoursite.com/wp_delete.php.
 
 **Make sure you delete this file if you upload it to your site!**
 
-**Note:** If you used something other than wp_ as your table prefix, make sure
+**Note:** If you used something other than `wp_` as your table prefix, make sure
 to edit the script accordingly.
