@@ -238,7 +238,9 @@
     }
   }
 
-  table {
+  // highlight tables without a class, which should only be those generated
+  // from Markdown
+  table:not([class]) {
     max-width: 100%;
     // background-color: $tableBackground;
     border-collapse: collapse;
