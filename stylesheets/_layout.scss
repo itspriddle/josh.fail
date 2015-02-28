@@ -42,6 +42,7 @@
   }
 
   @include media-query($on-palm) {
+    display: none; // Hide navigation on mobile
     position: absolute;
     top: 9px;
     right: 30px;
@@ -193,7 +194,7 @@
 /**
  * Posts
  */
-.post {
+.post:not(:last-child) {
   margin-bottom: $spacing-unit * 2;
 }
 
@@ -212,7 +213,7 @@
 }
 
 .post-content {
-  margin-bottom: $spacing-unit;
+  // margin-bottom: $spacing-unit;
 
   h2 {
     font-size: 32px;
