@@ -24,16 +24,16 @@ app running as a Rails Metal. I have two apps, one running
 Using the info from my [previous post](/blog/writing-an-api-with-clearance.html),
 I wrote a small Sinatra plugin that works with both Clearance and Authlogic.
 
-<script src="http://gist.github.com/487806.js?file=sinatra_authentication.rb"> </script>
+{% gist 487806 sinatra_authentication.rb %}
 
 Throw the file above in `lib/sinatra_authentication.rb`. Then, your metal,
 `app/metals/api.rb` would look something like this:
 
-<script src="http://gist.github.com/487806.js?file=api.rb"> </script>
+{% gist 487806 api.rb %}
 
 Authlogic doesn't have an `authenticate` method, so I added this to
 `app/models/user.rb`:
 
-<script src="http://gist.github.com/487806.js?file=user.rb"> </script>
+{% gist 487806 user.rb %}
 
 Hope it helps someone else.

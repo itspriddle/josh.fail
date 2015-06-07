@@ -27,5 +27,4 @@ the username/password/host from your `config/email.yml` file.
 in this script. ** **DO NOT** ** add extra fields to `config/email.yml` or
 you'll break things.
 
-<script src="http://gist.github.com/318651.js?file=fetch_redmine_emails.rb"> </script>
-
+{% gist 318651 fetch_redmine_emails.rb %}

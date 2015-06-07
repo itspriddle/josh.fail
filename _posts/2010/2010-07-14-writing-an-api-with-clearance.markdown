@@ -31,6 +31,6 @@ using a Sinatra app as a Rails Metal.
 
 This is basically how I got HTTP Basic Auth working with Clearance:
 
-<script src="http://gist.github.com/476335.js?file=api.rb"> </script>
+{% gist 476335 api.rb %}
 
 Hope it helps someone else having this problem.

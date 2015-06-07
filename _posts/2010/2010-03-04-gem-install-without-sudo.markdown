@@ -14,6 +14,6 @@ It took me a while to find a clearly documented way to manage
 gems without having to use `sudo`. Just drop these lines into your
 `~/.zshrc` or `~/.bashrc` file.
 
-<script src="http://gist.github.com/322210.js"> </script>
+{% gist 322210 %}
 
 Easy.

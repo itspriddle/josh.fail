@@ -13,7 +13,7 @@ I use this Capistrano recipe at work to send a broadcast to the
 office when I deploy an update. We use Jabber, and have a broadcast
 user that forwards messages to every user.
 
-<script src="http://gist.github.com/490141.js?file=jabber.rb"> </script>
+{% gist 490141 jabber.rb %}
 
 Copy `jabber.yml` to `config/jabber.yml`. Edit the details in it:
 

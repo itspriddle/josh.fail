@@ -55,4 +55,4 @@ Now, I can run:
 *NOTE:* Above, I used a quoted [heredoc](http://en.wikipedia.org/wiki/Here_document#Unix-Shells).
 This prevents your shell from trying to interpolate things like `${EXTEN}`.
 
-<script src="http://gist.github.com/330887.js"> </script>
+{% gist 330887 %}

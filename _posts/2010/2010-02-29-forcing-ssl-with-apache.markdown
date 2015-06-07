@@ -12,5 +12,4 @@ title: Forcing SSL with Apache
 For my own reference really, here are the steps I took to setup an Apache vhost
 to redirect all non-SSL requests to https:
 
-<script src="http://gist.github.com/318614.js?file=default.conf"> </script>
-
+{% gist 318614 default.conf %}
