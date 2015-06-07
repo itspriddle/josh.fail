@@ -37,4 +37,5 @@ sass:
 
 # Gems
 gems:
+  - jekyll-sitemap
   - jekyll-feed
