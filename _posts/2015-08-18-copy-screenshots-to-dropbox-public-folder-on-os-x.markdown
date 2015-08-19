@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Copy screenshots to Dropbox Public folder on OS X"
-date: "Tue Aug 18 10:45:03 -0400 2015"
+date: "Tue Aug 18 22:45:03 -0400 2015"
 ---
 
 In 2013 Dropbox added the ability to [save your screenshots in Dropbox][] This
