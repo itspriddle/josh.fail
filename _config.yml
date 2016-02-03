@@ -9,9 +9,11 @@ twitter_username: itspriddle
 github_username:  itspriddle
 
 # Plugin settings
-markdown: redcarpet
-redcarpet:
-  extensions: [smart, tables]
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
 
 timezone: 'America/New_York'
 
@@ -39,3 +41,4 @@ sass:
 gems:
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-gist
