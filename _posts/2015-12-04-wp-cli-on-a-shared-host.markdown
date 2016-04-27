@@ -57,7 +57,7 @@ To address this, I created a small wrapper `wp` in `~/bin/wp`:
 #!/usr/bin/env bash
 
 # We need to disable unicode detection for wp-cli to work
-php -d detect_unicode=Off "$(dirname "$0")/wp-cli.phar"
+php -d detect_unicode=Off "$(dirname "$0")/wp-cli.phar" "$@"
 ```
 
 And moved the files into place:
@@ -70,3 +70,9 @@ chmod +x ~/bin/wp
 ```
 
 Now when I run `wp` it disables `detect_unicode` and works properly.
+
+------------------------------------------------------------------------------
+
+**EDIT, Apr 26, 2016:** I discovered today that I embarrassingly forgot to
+pass arguments in the Bash script above. I've corrected it, the missing bit
+was the trailing `"$@"`.
