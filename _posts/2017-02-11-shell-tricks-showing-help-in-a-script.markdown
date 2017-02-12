@@ -26,7 +26,7 @@ help text:
 #   $ my-script --hi
 
 # Print help text and exit.
-if [[ "$1" = "-h" ]]; then
+if [[ "$1" = "-h" ]] || [[ "$1" = "--help" ]]; then
   sed -ne '/^#/!q;s/.\{1,2\}//;1d;p' < "$0"
   exit
 fi
