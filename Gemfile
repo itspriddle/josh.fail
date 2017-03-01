@@ -1,5 +1,3 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem 'rack-contrib'
-gem 'github-pages'
-gem 'jekyll-compose', group: :jekyll_plugins
+gem "github-pages"

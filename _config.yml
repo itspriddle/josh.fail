@@ -29,7 +29,6 @@ exclude:
   - Gemfile.lock
   - README.markdown
   - bin
-  - config.ru
   - images
 
 # Sass setup
