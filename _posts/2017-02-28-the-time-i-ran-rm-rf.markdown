@@ -74,8 +74,8 @@ Lessons I learned that day:
    Carefully review the output to make sure you aren't seeing anything
    unexpected.
 
-4. This is the type of mistake you only make once. I had never made a that big
-   on the job. I thought for sure I would be fired --- my hands literally
+4. This is the type of mistake you only make once. I had never made a mistake that
+   big on the job. I thought for sure I would be fired --- my hands literally
    trembled as I typed the message to my coworkers to let them know what I had
    done. Of course I wasn't and I learned to be more careful when dealing with
    customer data.
