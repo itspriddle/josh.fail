@@ -206,3 +206,17 @@ pre, code, kbd, samp, tt {
     }
   }
 }
+
+
+/**
+ * HR
+ */
+
+hr {
+  height: 1px;
+  padding: 0;
+  margin: 20px 0;
+  background-color: rgba(0, 0, 0, 0.15);
+  border: 0;
+  width: 100%;
+}
