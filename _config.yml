@@ -38,6 +38,8 @@ sass:
 
 # Gems
 gems:
-  - jekyll-sitemap
   - jekyll-feed
   - jekyll-gist
+  - jekyll-github-metadata
+  - jekyll-sitemap
+  - jemoji
