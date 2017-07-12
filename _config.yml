@@ -4,6 +4,9 @@ email: code@nevercraft.net
 description: Random thoughts about programming.
 url: "https://josh.fail"
 
+author:
+  name: Joshua Priddle
+
 # Social
 twitter_username: itspriddle
 github_username:  itspriddle
