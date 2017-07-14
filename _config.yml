@@ -4,6 +4,9 @@ email: code@nevercraft.net
 description: Random thoughts about programming.
 url: "https://josh.fail"
 
+analytics:
+  google: UA-358917-9
+
 author:
   name: Joshua Priddle
 
