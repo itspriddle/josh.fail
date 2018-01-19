@@ -43,7 +43,7 @@ sass:
   style: compressed
 
 # Gems
-gems:
+plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-github-metadata
