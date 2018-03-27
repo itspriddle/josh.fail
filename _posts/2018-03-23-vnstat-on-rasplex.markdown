@@ -9,7 +9,7 @@ tl;dr: Want [vnStat][] on [RasPlex][]? Check out [rasplex-vnstat][]!
 I love [vnStat][] for monitoring network traffic on my servers. I wanted to
 use it on my Raspberry Pis running RasPlex, but the underlying LibreELEC
 distribution does not allow installing software with `apt-get` and does not
-include the necessary libraries to compile it from source. 
+include the necessary libraries to compile it from source.
 
 I realized that I could compile it from another Raspberry Pi and copy the
 binaries/configs to the RasPlex box. Once I worked out the paths that would be
@@ -62,6 +62,10 @@ sed 's|^DatabaseDir.*$|DatabaseDir "/storage/local/var/lib/vnstat"|;s|^LogFile.*
 If you are using WiFi instead of wired ethernet, update `vnstat.conf` to
 configure the default interface:
 
+```
+sed -i 's|^Interface "eth0"$|Interface "wlan0"|' /storage/local/etc/vnstat.conf
+```
+
 Now we can package this installation and copy it to the RasPlex box:
 
 ```
@@ -69,13 +73,7 @@ tar -vzcf rasplex-vnstat.tar.gz {bin,sbin,etc,run/vnstat,var/{log,lib}/vnstat}
 scp rasplex-vnstat.tar.gz root@rasplexip:
 ```
 
-Create the necessary directories:
-
-```
-sed -i 's|^Interface "eth0"$|Interface "wlan0"|' /storage/local/etc/vnstat.conf
-```
-
-SSH into the RasPlex box to install `rasplex-vnstat.tar.gz`.
+SSH into the RasPlex box to install `rasplex-vnstat.tar.gz`. Create the necessary directories:
 
 ```
 mkdir /storage/local
@@ -101,6 +99,13 @@ Test that it works:
 ```
 source /storage/.profile
 vnstat --help
+```
+
+vnStat will look for a configuration at `~/.vnstatrc`, we can symlink it to
+the `vnstat.conf` file generated above:
+
+```
+ln -s /storage/local/etc/vnstat.conf /storage/.vnstatrc
 ```
 
 We need to ensure that `vnstatd` is started to collect traffic stats. I used a
