@@ -5,9 +5,7 @@ layout: default
 <div class="home">
 
   {% for page in site.posts %}
-    {% assign body = page.content %}
-    {% assign homepage = true %}
-    {% include post.html %}
+    {% include post.html homepage=true body=page.content %}
   {% endfor %}
 
 </div>

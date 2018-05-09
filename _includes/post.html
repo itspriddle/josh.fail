@@ -2,7 +2,7 @@
 
   <header class="post-header">
     <h1 class="post-title">
-      {% if homepage and page.link %}
+      {% if include.homepage and page.link %}
         <a href="{{ page.link }}">{{ page.title | smartify }}</a>
       {% else %}
         {{ page.title | smartify }}
@@ -14,7 +14,7 @@
     {% if page.id %}
     <p class="post-meta">
       {{ page.date | date: "%b %-d, %Y" }}
-      {% unless homepage %}
+      {% unless include.homepage %}
       <span class="github-post-links">
         •
         <a href="{{ site.github.repository_url }}/blob/{{ site.github.source.branch }}/{{ page.path }}">View on GitHub</a>
@@ -27,11 +27,11 @@
   </header>
 
   <article class="post-content">
-    {% if homepage and page.excerpt != body %}
+    {% if include.homepage and page.excerpt != body %}
     {{ page.excerpt }}
     <p><a href="{{ page.url }}">Read more &rarr;</a></p>
     {% else %}
-    {{ body }}
+    {{ include.body }}
     {% endif %}
   </article>
 

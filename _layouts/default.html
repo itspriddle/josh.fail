@@ -8,8 +8,7 @@
     <div class="page-content">
       <div class="wrapper">
         {% if page.id %}
-          {% assign body = content %}
-          {% include post.html %}
+          {% include post.html body=content %}
         {% else %}
           {{ content }}
         {% endif %}
