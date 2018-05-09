@@ -1,7 +1,6 @@
 # Site settings
 title: josh.fail
 description: Random thoughts about programming.
-url: "https://josh.fail"
 
 analytics:
   google: UA-358917-9
