@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+curl -n \
+  -X POST \
+  -H "Accept: application/vnd.github.mister-fantastic-preview+json" \
+  "https://api.github.com/repos/itspriddle/josh.fail/pages/builds"
