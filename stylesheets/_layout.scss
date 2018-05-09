@@ -148,6 +148,12 @@
 .post-meta {
   font-size: $small-font-size;
   color: $grey-color;
+
+  .github-post-links {
+    @include media-query($on-palm) {
+      display: none;
+    }
+  }
 }
 
 .post-link {
