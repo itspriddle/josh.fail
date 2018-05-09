@@ -4,3 +4,4 @@ _drafts/
 .bundle
 .sass-cache
 .jekyll-metadata
+.envrc
