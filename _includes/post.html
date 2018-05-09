@@ -3,9 +3,9 @@
   <header class="post-header">
     <h1 class="post-title">
       {% if homepage and page.link %}
-        <a href="{{ page.link }}">{{ page.title }}</a>
+        <a href="{{ page.link }}">{{ page.title | smartify }}</a>
       {% else %}
-        {{ page.title }}
+        {{ page.title | smartify }}
       {% endif %}
       {% if page.link %}
         &rarr;
