@@ -9,10 +9,11 @@ analytics:
 
 author:
   name: Joshua Priddle
-
-# Social
-twitter_username: itspriddle
-github_username:  itspriddle
+  email: jpriddle@me.com
+  linkedin: itspriddle
+  github: itspriddle
+  twitter: itspriddle
+  location: Halfmoon, NY, USA
 
 # Plugin settings
 markdown: kramdown
