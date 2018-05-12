@@ -46,9 +46,11 @@ gh-pages`. Within a few minutes the changes are available online.
 We'll be migrating the rest of our projects to use this setup, so keep an eye
 on [github.com/site5][Site5 GitHub] for updates!
 
-> Update (Feb 28, 2017): This post has been copied from the old Eng5 blog here
-> for posterity --- I left the Eng5 team in July 2015, and the rest of the
-> team disbanded the following August after its acquisition.
+---
+
+**EDIT, Feb 28, 2017:** This post has been copied from the old Eng5 blog here
+for posterity --- I left the Eng5 team in July 2015, and the rest of the team
+disbanded the following August after its acquisition.
 
 [RDoc]: http://rdoc.sourceforge.net/
 [YARD]: http://yardoc.org/

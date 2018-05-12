@@ -11,4 +11,9 @@ with no dependencies. To install, just run `brew install [--HEAD]
 itspriddle/brews/wp-cli`. The Formula just downloads pre-compiled phar files
 directly from GitHub, this works great for my needs.
 
-[My WP-CLI Formula]: https://github.com/itspriddle/homebrew-brews/blob/master/Formula/wp-cli.rb
+---
+
+**EDIT, May 12, 2018:** Homebrew now ships with a similar formula for WP-CLI,
+so I have removed my version from `itspriddle/brews`.
+
+[My WP-CLI Formula]: https://github.com/itspriddle/homebrew-brews/blob/7442d01/Formula/wp-cli.rb
