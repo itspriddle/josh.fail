@@ -27,7 +27,7 @@
   </header>
 
   <article class="post-content">
-    {% if include.homepage and page.excerpt != body %}
+    {% if include.homepage and page.excerpt != include.body %}
     {{ page.excerpt }}
     <p><a href="{{ page.url }}">Read more &rarr;</a></p>
     {% else %}
