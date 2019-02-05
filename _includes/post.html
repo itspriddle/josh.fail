@@ -2,14 +2,7 @@
 
   <header class="post-header">
     <h1 class="post-title">
-      {% if include.homepage and page.link %}
-        <a href="{{ page.link }}">{{ page.title | smartify }}</a>
-      {% else %}
-        {{ page.title | smartify }}
-      {% endif %}
-      {% if page.link %}
-        &rarr;
-      {% endif %}
+      {{ page.title | smartify }}
     </h1>
     {% if page.id %}
     <p class="post-meta">
@@ -31,6 +24,7 @@
     {{ page.excerpt }}
     <p><a href="{{ page.url }}">Read more &rarr;</a></p>
     {% else %}
+    {% if page.link %}<p><strong>Link:</strong> <a href="{{ page.link }}">{{ page.link }} &rarr;</a></p>{% endif %}
     {{ include.body }}
     {% endif %}
   </article>
