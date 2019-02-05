@@ -8,10 +8,12 @@ Good shell scripts should come with documentation that is easy to access.
 Usually `some-script -h`, `some-script --help` will print such help -- if the
 developer was nice enough to include docs anyway. I think it's a really
 important thing to include in any script you're going to share with the
-public. I've seen and tried a few different methods over the years. Here are a
-few, how they work, and what I'm using today.
+public. I've seen [and tried][1] a few different methods over the years. Here
+are a few, how they work, and what I'm using today.
 
-## 0. Intercepting the `-h` and `--help` flags
+[1]: {% post_url 2017-02-11-shell-tricks-showing-help-in-a-script %}
+
+## 0. Intercepting the -h and \-\-help flags
 
 Before anything, your script needs to detect the `-h` and `--help` flags in
 order to know when to print the help text. This will vary depending on the way
@@ -247,7 +249,7 @@ Examples:
   - some-script bar
 ```
 
-## 5. sed + awk, so -h and --help behave differently
+## 5. sed + awk, so -h and \-\-help behave differently
 
 All of these methods are fine, but one minor UX issue is that `-h` and
 `--help` both return the same long form help text. Typically, `-h` is reserved
