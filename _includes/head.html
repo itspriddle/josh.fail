@@ -2,7 +2,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | normalize_whitespace | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | normalize_whitespace | truncate: 200 }}{% else %}{{ site.description }}{% endif %}">
 
   <link rel="author" type="text/plain" href="{{ "/humans.txt" | absolute_url }}">
   <link rel="canonical" href="{{ page.url | remove_first: "index.html" | absolute_url }}">
