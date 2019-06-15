@@ -11,7 +11,7 @@ important thing to include in any script you're going to share with the
 public. I've seen [and tried][1] a few different methods over the years. Here
 are a few, how they work, and what I'm using today.
 
-[1]: {% post_url 2017-02-11-shell-tricks-showing-help-in-a-script %}
+[1]: {% post_url 2017/2017-02-11-shell-tricks-showing-help-in-a-script %}
 
 ## 0. Intercepting the -h and \-\-help flags
 
