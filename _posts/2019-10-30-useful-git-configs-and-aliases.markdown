@@ -45,7 +45,7 @@ have just stuck with them ever since:
 
 ### Default `--pretty` format
 
-For things like `git log`, `git show`, etc, I like to keep things simple an
+For things like `git log`, `git show`, etc, I like to keep things simple and
 concise, so I set the following:
 
 ```
@@ -72,7 +72,7 @@ setting:
   prune = true
 ```
 
-Like to manage things manually? You can create a `git prune-branches` alias:
+Like to handle things manually? You can create a `git prune-branches` alias:
 
 ```
 [alias]
@@ -162,7 +162,7 @@ I have this rarely used alias to show a more detailed log view with `git lg`:
   lg = log --graph --abbrev-commit --date=relative
 ```
 
-For when I want details with `git log`:
+For when I want full log details there's `git full-log`:
 
 ```
 [alias]
@@ -193,7 +193,7 @@ I can see the last committer with `git last-committer`:
   last-committer = !git --no-pager log --pretty="%an" --no-merges -1
 ```
 
-Or see see the last commit subject with `git last-subject` (great for
+Or I can see the last commit subject with `git last-subject` (great for
 copy/pasting into pull requests):
 
 ```
@@ -203,7 +203,9 @@ copy/pasting into pull requests):
 
 Sometimes I want to see just the filenames that were changed in a commit, and
 `git show-files` does this. It can also work on a branch, like `git show-files
-master..HEAD` to show everything changed on the current branch vs master.
+master..HEAD` to show everything changed on the current branch vs master. This
+is great when you want to run tests or linters on those files (eg
+`make-me-pretty $(git ls-files master..HEAD)`):
 
 ```
 [alias]
