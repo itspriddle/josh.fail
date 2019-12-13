@@ -40,7 +40,7 @@ P
 * `gg`: Move to line 1
 * `/^title:<cr>`: Move to the first line starting with "title:"
 * `dd`: Delete that line to the default register
-* `/^---<cr>`: Move to the next line starting with "---"
+* `/^---<cr>`: Move to the next line starting with "\-\-\-"
 * `P`: Paste the contents of the default register above the current line
 
 This gives you the proper sorting, but the process needs to be repeated in each
@@ -74,7 +74,7 @@ q
 * `gg`: Move to line 1
 * `/^title:<cr>`: Move to the first line starting with "title:"
 * `dd`: Delete that line to the default register
-* `/^---<cr>`: Move to the next line starting with "---"
+* `/^---<cr>`: Move to the next line starting with "\-\-\-"
 * `P`: Paste the contents of the default register above the current line
 * `:w`: Write the file
 * `q`: End recording
