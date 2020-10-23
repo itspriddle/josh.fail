@@ -1,10 +1,16 @@
-# Slacking effectively on a remote team
+---
+layout: default
+title: "The Ten Slack Commandments"
+date: "Fri Oct 23 13:01:00 -0400 2020"
+---
 
 As a fully distributed team, Slack is our main tool for real-time
 communication with each other. Keeping up with dozens of messages a day can be
 daunting, and distractions abound. Here are just a few ways I've seen remote
 teams of all sizes use Slack effectively to cut through the noise and keep the
 communication flowing.
+
+Also known as the Ten Slack Commandments:
 
 1. Say Hello and Goodbye to your team when you start and end your day.
 
