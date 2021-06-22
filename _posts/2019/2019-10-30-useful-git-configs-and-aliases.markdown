@@ -53,7 +53,7 @@ concise, so I set the following:
   pretty = format:%C(red)%h%Creset%C(yellow)%d%Creset %C(magenta)%an%Creset: %s %C(green)(%ar)%Creset
 ```
 
-For `git log`, shit shows commits on a single line with only the most useful
+For `git log`, git shows commits on a single line with only the most useful
 information I need
 
 I often use `git show --format=fuller [sha]` to see the _full_ details of a
