@@ -205,7 +205,7 @@ Sometimes I want to see just the filenames that were changed in a commit, and
 `git show-files` does this. It can also work on a branch, like `git show-files
 master..HEAD` to show everything changed on the current branch vs master. This
 is great when you want to run tests or linters on those files (eg
-`make-me-pretty $(git ls-files master..HEAD)`):
+`make-me-pretty $(git show-files master..HEAD)`):
 
 ```
 [alias]
