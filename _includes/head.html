@@ -9,5 +9,5 @@
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | absolute_url }}">
   <link rel="stylesheet" href="{{ "/stylesheets/main.css?" | append: site.github.build_revision | relative_url }}">
 
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <title>{% if page.title %}{{ page.title }} — {% endif %}{{ site.title }}</title>
 </head>
