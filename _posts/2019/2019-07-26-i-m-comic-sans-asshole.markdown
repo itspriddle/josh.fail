@@ -5,7 +5,7 @@ date: "Fri Jul 26 16:39:03 -0400 2019"
 excerpt: |
   <p style="font-family:'Comic Sans MS', 'Comic Sans', 'Marker Felt';">
     Listen up.
-    <a href="#https://www.mcsweeneys.net/articles/im-comic-sans-asshole">
+    <a href="https://www.mcsweeneys.net/articles/im-comic-sans-asshole">
       I know the shit you've been saying behind my back.
     </a>
     You think I'm stupid. You think I'm immature. You think I'm a malformed,

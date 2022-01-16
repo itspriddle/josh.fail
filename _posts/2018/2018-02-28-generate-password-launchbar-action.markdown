@@ -21,7 +21,7 @@ running the action, the newly generated password is copied to the system
 clipboard.
 
 By default, this Action will generate a 20 character password using
-`L{9}d{9}s{9}` as the KeePass character set. This will generate a password
+`L{9}d{9}s{2}` as the KeePass character set. This will generate a password
 with 9 mixes-case letters, 9 digits, and 2 special characters.
 
 To specify a different character set, press `Space` after selecting the Action
