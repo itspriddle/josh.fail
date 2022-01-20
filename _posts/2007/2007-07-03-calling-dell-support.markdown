@@ -24,14 +24,14 @@ The next person I spoke with was an Indian woman who I could barely understand
 to get me a new power supply. This is more or less the conversation we had:
 
 > **Me:** Hi, the power supply on my laptop is broken. I'd like to see if that
-is covered by my warranty and if I can get a new one.
+> is covered by my warranty and if I can get a new one.
 
 > **Dell:** The power supply?
 
 > **Me:** Yes, the little plug that goes into my laptop from the wall... it is
-not working. It does not give my laptop a charge. A friend of mine has the
-exact same model laptop and I've tested his power supply and it works
-perfectly.
+> not working. It does not give my laptop a charge. A friend of mine has the
+> exact same model laptop and I've tested his power supply and it works
+> perfectly.
 
 I say this thinking we can skip a few pointless troubleshooting steps. Wrong
 again.
@@ -39,7 +39,7 @@ again.
 > **Dell:** Okay... now by power supply you mean the A/C adaptor cord or pack?
 
 > **Me:** Yes, the power pack that plugs into my laptop and then into my wall
-outlet. I'll read you the model number if that would help.
+> outlet. I'll read you the model number if that would help.
 
 > **Dell:** Can I place you on hold for a moment?
 
@@ -55,11 +55,11 @@ could possibly be looking up/asking someone. About 3 minutes goes by.
 > **Me:** Yes.
 
 > **Dell:** Yes, I just want to make sure I am clear with what you are talking
-about. When you say power supply, you are indicating the A/C adaptor for your
-laptop, correct?
+> about. When you say power supply, you are indicating the A/C adaptor for
+> your laptop, correct?
 
-> **Me [trying not to sound irritated]:** Yes. Are you sure you wouldn't like the
-model number?
+> **Me [trying not to sound irritated]:** Yes. Are you sure you wouldn't like
+> the model number?
 
 > **Dell:** No, that is okay.  Can I place you on hold again for 3-5 minutes?
 
@@ -80,8 +80,8 @@ again.
 > **Dell:** Ehh...
 
 > **Me:** My friend has the same laptop. I tested his and it works. I've tried
-multiple outlets with mine - it doesn't work. I'm fairly confident that the
-A/C adapter in my hands right now is faulty.
+> multiple outlets with mine - it doesn't work. I'm fairly confident that the
+> A/C adapter in my hands right now is faulty.
 
 > **Dell:** Can I place you on hold again please?
 
@@ -97,14 +97,14 @@ supposed to be a 10 minute call. A few minutes later...
 > **Me:** Yes.
 
 > **Dell:** Thank you for holding. Is the LED light on the A/C adapter light
-when you plug it in?
+> when you plug it in?
 
 > **Me:** No.  It is not.
 
 Now I get my hopes up a bit, thinking that we might be nearing the end. Wrong.
 
 > **Dell:** Okay. I would like you to remove the battery from your laptop and
-try powering it on with the A/C adapter alone.
+> try powering it on with the A/C adapter alone.
 
 You've got to be kidding me. To humor her, I remove the battery so she can
 hear me doing it. I even pressed the button in knowing it wouldn't turn on.
@@ -127,8 +127,8 @@ a few more minutes...
 > **Me:** Yes.
 
 > **Dell:** Thank you for holding, Mr. Priddle. Based on this information I am
-going to dispatch a new A/C adapter. Can I place you on hold to create the
-order?
+> going to dispatch a new A/C adapter. Can I place you on hold to create the
+> order?
 
 > **Me:** Yes...
 
