@@ -7,7 +7,7 @@
 
     <div class="page-content">
       <div class="wrapper">
-        {% if page.id %}
+        {% if page.id and page.collection == "posts" %}
           {% include post.html body=content %}
         {% else %}
           {{ content }}

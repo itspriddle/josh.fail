@@ -281,11 +281,24 @@ pre, code, kbd, samp, tt {
  * HR
  */
 
-hr {
+hr:not([class]) {
   height: 1px;
   padding: 0;
   margin: $spacing-unit 0;
   background-color: var(--hr-color);
   border: 0;
   width: 100%;
+}
+
+hr.stars {
+  text-align: center;
+  height: 1.5em;
+  line-height: 1.5em;
+  margin: 1.5em 0 1.5em;
+  border: none;
+  color: var(--hr-color);
+
+  &::before {
+    content: "* * * * *";
+  }
 }
