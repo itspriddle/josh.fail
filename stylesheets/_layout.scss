@@ -2,7 +2,7 @@
  * Site header
  */
 .site-header {
-  border-bottom: 1px solid $hr-color;
+  border-bottom: 1px solid var(--hr-color);
   min-height: 56px;
 
   // Positioning context for the mobile navigation icon
@@ -47,7 +47,7 @@
     top: 9px;
     right: 30px;
     background-color: var(--color-bg);
-    border: 1px solid $hr-color;
+    border: 1px solid var(--hr-color);
     border-radius: 5px;
     text-align: right;
 
@@ -93,7 +93,7 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $hr-color;
+  border-top: 1px solid var(--hr-color);
   padding: $spacing-unit 0;
 }
 
@@ -158,21 +158,33 @@
   margin-bottom: $spacing-unit;
 }
 
-.post-title {
+.post-title, .post-content h1 {
   margin-bottom: $spacing-unit / 3;
+}
+
+
+h1 {
+  font-size: 1.5rem;
+}
+
+h2 {
   font-size: 1.25rem;
+}
+
+h3 {
+  font-size: 1.125rem;
+}
+
+h4 {
+  font-size: 1.0625rem;
+}
+
+h5, h6 {
+  font-size: 1rem;
 }
 
 .post-content {
   word-wrap: break-word;
-
-  h2 {
-    font-size: 1.125rem;
-  }
-
-  h3 {
-    font-size: 1rem;
-  }
 
   // highlight tables without a class, which should only be those generated
   // from Markdown
@@ -182,7 +194,7 @@
     border-spacing: 0;
     width: 100%;
     margin-bottom: $spacing-unit;
-    border: 1px solid var(--color-fg);
+    border: 1px solid var(--table-border-color);
     // Cells
     th,
     td {
@@ -190,12 +202,16 @@
       line-height: $base-line-height * 0.75;
       text-align: left;
       vertical-align: top;
-      border-top: 1px solid var(--color-fg);
-      border-left: 1px solid var(--color-fg);
+      color: var(--table-text-color);
     }
     th {
       font-weight: bolder;
       white-space: nowrap;
+      background-color: var(--table-header-bg);
+      border: 1px solid var(--table-header-border);
+    }
+    td {
+      border: 1px solid var(--table-border-color);
     }
     // Bottom align for column headings
     thead th {
@@ -207,6 +223,13 @@
       > tr:nth-child(odd) > th {
         background-color: var(--table-odd-bg);
       }
+    }
+
+    @include media-query($on-laptop) {
+      display: block;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+              -ms-overflow-style: -ms-autohiding-scrollbar;
     }
   }
 }

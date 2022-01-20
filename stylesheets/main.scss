@@ -40,17 +40,9 @@ $base-line-height: 1.6;
 
 $spacing-unit:     30px;
 
-$text-color:       rgb(35, 35, 35);
-$background-color: #fbfbfb;
-$brand-color:      #2a7ae2;
-$code-background-color: scale-color($brand-color, $lightness: 95%);
-$code-border-color: scale-color($brand-color, $lightness: 90%);
-
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
-
-$hr-color: rgba(0, 0, 0, 0.15);
 
 // Width of the content area
 $content-width:    800px;

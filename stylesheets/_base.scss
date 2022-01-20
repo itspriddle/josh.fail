@@ -1,22 +1,107 @@
 :root {
-  --color-fg: #{$text-color};
-  --color-bg: #{$background-color};
-  --code-color-bg: #{$code-background-color};
-  --code-color-border: #{$code-border-color};
-  --table-odd-bg: #{lighten($grey-color, 30%)};
+  // $brand-color:           #828282 !default;
+  // $brand-color-light:     lighten($brand-color, 40%) !default;
+  // $brand-color-dark:      darken($brand-color, 25%) !default;
+
+  // $site-title-color:      $brand-color-dark !default;
+
+  // $text-color:            #111111 !default;
+  // $background-color:      #fdfdfd !default;
+  // $code-background-color: #eeeeff !default;
+
+  // $link-base-color:       #2a7ae2 !default;
+  // $link-visited-color:    darken($link-base-color, 15%) !default;
+  // $link-hover-color:      $text-color !default;
+
+  // $border-color-01:       $brand-color-light !default;
+  // $border-color-02:       lighten($brand-color, 35%) !default;
+  // $border-color-03:       $brand-color-dark !default;
+
+  // $table-text-color:      lighten($text-color, 18%) !default;
+  // $table-zebra-color:     lighten($brand-color, 46%) !default;
+  // $table-header-bg-color: lighten($brand-color, 43%) !default;
+  // $table-header-border:   lighten($brand-color, 37%) !default;
+  // $table-border-color:    $border-color-01 !default;
+
+  --color-fg: #232323;
+  --color-bg: #fdfdfd;
+
+  --link-color-base: #2a7ae2;
+  --link-color-visited: #{darken(#2a7ae2, 15%)};
+  --link-color-hover: var(--color-fg);
+
+  --code-color-bg: #f4f8fe;
+  --code-color-border: #eaf2fc;
+
+  --table-odd-bg: #{lighten($grey-color, 46%)};
+  --table-header-bg: #{lighten($grey-color, 43%)};
+  --table-header-border: #{lighten($grey-color, 37%)};
+  --table-border-color: #{lighten($grey-color, 40%)};
+  --table-text-color: #515151;
+
   --font-weight-bold: 600;
   --font-weight-normal: 400;
+
+  --hr-color: rgba(0, 0, 0, 0.15);
+
+// $border-color-01:       $brand-color-light !default;
+// $border-color-02:       lighten($brand-color, 35%) !default;
+// $border-color-03:       $brand-color-dark !default;
+
+// $table-text-color:      lighten($text-color, 18%) !default;
+// $table-zebra-color:     lighten($brand-color, 46%) !default;
+// $table-header-bg-color: lighten($brand-color, 43%) !default;
+// $table-header-border:   lighten($brand-color, 37%) !default;
+// $table-border-color:    $border-color-01 !default;
+
 }
 
 @media (prefers-color-scheme: dark) {
+// $brand-color:           #999999 !default;
+// $brand-color-light:     lighten($brand-color, 5%) !default;
+// $brand-color-dark:      darken($brand-color, 35%) !default;
+
+// $site-title-color:      $brand-color-light !default;
+
+// $text-color:            #bbbbbb !default;
+// $background-color:      #181818 !default;
+// $code-background-color: #212121 !default;
+
+// $link-base-color:       #79b8ff !default;
+// $link-visited-color:    $link-base-color !default;
+// $link-hover-color:      $text-color !default;
+
+// $border-color-01:       $brand-color-dark !default;
+// $border-color-02:       $brand-color-light !default;
+// $border-color-03:       $brand-color !default;
+
+// $table-text-color:      $text-color !default;
+// $table-zebra-color:     lighten($background-color, 4%) !default;
+// $table-header-bg-color: lighten($background-color, 10%) !default;
+// $table-header-border:   lighten($background-color, 21%) !default;
+// $table-border-color:    $border-color-01 !default;
+
   :root {
-    --color-fg: rgb(173, 186, 199);
-    --color-bg: rgb(34, 39, 46);
-    --code-color-bg: rgb(45, 51, 59);
-    --code-color-border: rgb(45, 51, 59);
-    --table-odd-bg: rgb(45, 51, 59);
     --font-weight-bold: 550;
     --font-weight-normal: 350;
+
+    --color-fg: #bbb;
+    --color-bg: #181818;
+
+    --link-color-base: #79b8ff;
+    --link-color-visited: var(--link-color-base);
+    --link-color-hover: var(--color-fg);
+
+    --code-color-bg: #212121;
+    --code-color-border: var(--code-color-bg);
+
+    --table-odd-bg: #{lighten(#181818, 4%)};
+    --table-header-bg: #{lighten(#181818, 10%)};
+    --table-header-border: #{lighten(#181818, 21%)};
+    --table-border-color: #{darken(#999, 35%)};
+    --table-text-color: var(--color-fg);
+
+    --hr-color: rgba(255, 255, 255, 0.05);
   }
 }
 
@@ -43,6 +128,12 @@ body {
   color: var(--color-fg);
   background-color: var(--color-bg);
   -webkit-text-size-adjust: 100%;
+  -webkit-font-feature-settings: "kern" 1;
+     -moz-font-feature-settings: "kern" 1;
+       -o-font-feature-settings: "kern" 1;
+          font-feature-settings: "kern" 1;
+  font-kerning: normal;
+  overflow-wrap: break-word;
 }
 
 
@@ -57,7 +148,9 @@ ul, ol, dl, figure,
   margin-bottom: $spacing-unit / 2;
 }
 
-
+main {
+  display: block;
+}
 
 /**
  * Images
@@ -111,11 +204,11 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: $brand-color;
+  color: var(--link-color-base);
   text-decoration: none;
 
   &:visited {
-    color: darken($brand-color, 15%);
+    color: var(--link-color-visited);
   }
 
   &:hover {
@@ -176,12 +269,10 @@ pre, code, kbd, samp, tt {
 /**
  * Clearfix
  */
-%clearfix {
-  &:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
+%clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 
@@ -194,7 +285,7 @@ hr {
   height: 1px;
   padding: 0;
   margin: $spacing-unit 0;
-  background-color: $hr-color;
+  background-color: var(--hr-color);
   border: 0;
   width: 100%;
 }
