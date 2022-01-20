@@ -34,7 +34,6 @@ exclude:
   - Gemfile.lock
   - README.markdown
   - bin
-  - images
 
 # Sass setup
 sass:
