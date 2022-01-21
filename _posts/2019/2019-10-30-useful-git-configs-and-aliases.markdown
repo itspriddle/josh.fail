@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Useful git configs and aliases"
 date: "Wed Oct 30 23:03:28 -0400 2019"
 ---

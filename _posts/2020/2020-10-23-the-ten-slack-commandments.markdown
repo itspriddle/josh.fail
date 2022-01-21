@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "The Ten Slack Commandments"
 date: "Fri Oct 23 13:01:00 -0400 2020"
 ---

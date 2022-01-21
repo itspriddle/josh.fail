@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Vim cheatsheets"
 date: "Fri Dec 13 13:24:41 -0500 2019"
 ---

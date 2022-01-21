@@ -1,5 +1,4 @@
 ---
-layout: default
 date: "Sun Apr 22 16:19:44 -0400 2012"
 title: "Railsconf, ho!"
 ---

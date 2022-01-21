@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "A Simpler Homebrew Formula for WP-CLI"
 date: "Wed Dec 23 22:51:38 -0500 2015"
 ---

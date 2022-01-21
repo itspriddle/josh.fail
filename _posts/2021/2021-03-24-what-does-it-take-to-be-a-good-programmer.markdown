@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "What does it take to be a good programmer?"
 date: "Wed Mar 24 23:24:44 -0400 2021"
 link: https://news.ycombinator.com/item?id=13464770

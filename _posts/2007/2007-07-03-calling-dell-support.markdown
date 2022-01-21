@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Calling Dell Support
 ---
 

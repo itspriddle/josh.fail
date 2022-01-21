@@ -53,3 +53,11 @@ plugins:
 collections:
   - projects_work
   - projects_open_source
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"

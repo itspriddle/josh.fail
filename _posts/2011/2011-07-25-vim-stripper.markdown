@@ -1,5 +1,4 @@
 ---
-layout: default
 link: https://github.com/itspriddle/vim-stripper
 title: "vim stripper"
 ---

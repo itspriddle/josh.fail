@@ -1,5 +1,4 @@
 ---
-layout: default
 short_description: |
   <p>
     I&rsquo;ve been playing around with the Asterisk Manager lately (which is

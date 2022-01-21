@@ -1,5 +1,4 @@
 ---
-layout: default
 date: "Thu Mar 29 12:10:35 -0400 2012"
 title: "ZSH Tab Completion for Bundler Binstubs"
 ---

@@ -1,5 +1,4 @@
 ---
-layout: default
 date: "Tue Feb 19 22:14:26 -0500 2013"
 title: "The One Where I Got A New MacBook Pro"
 ---

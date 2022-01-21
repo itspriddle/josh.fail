@@ -1,5 +1,4 @@
 ---
-layout: default
 date: Sun Mar 14 19:13:53 -0400 2010
 title: CodeIgniter Database Library Extraction
 ---

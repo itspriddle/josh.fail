@@ -1,5 +1,4 @@
 ---
-layout: default
 date: "Sat Feb 02 13:55:21 -0500 2013"
 title: "All programming languages need a REPL"
 ---

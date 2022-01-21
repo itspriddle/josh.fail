@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Running vim plugin commands from the command line"
 date: "Mon Aug 10 01:02:25 -0400 2015"
 ---

@@ -1,5 +1,4 @@
 ---
-layout: default
 date: "Tue Oct 02 22:55:29 -0400 2012"
 link: http://blogs.sega.com/2012/10/02/available-now-sonic-adventure-2-and-nights-into-dreams/
 title: "NiGHTS into dreams on PSN"

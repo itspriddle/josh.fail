@@ -1,5 +1,4 @@
 ---
-layout: default
 link: https://github.com/itspriddle/jekyll-tmbundle
 title: Jekyll TextMate Bundle
 ---

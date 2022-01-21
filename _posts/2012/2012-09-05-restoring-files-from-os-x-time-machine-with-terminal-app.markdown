@@ -1,5 +1,4 @@
 ---
-layout: default
 date: "Wed Sep 05 23:40:59 -0400 2012"
 title: "Restoring files from OS X Time Machine with Terminal.app"
 ---

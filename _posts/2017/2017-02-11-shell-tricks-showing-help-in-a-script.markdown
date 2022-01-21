@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Shell Tricks: Showing help in a script"
 date: "Sat Feb 11 23:10:28 -0500 2017"
 ---

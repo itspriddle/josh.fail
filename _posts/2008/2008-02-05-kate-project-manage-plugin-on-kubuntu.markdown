@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Kate Project Manager Plugin on Kubuntu
 ---
 

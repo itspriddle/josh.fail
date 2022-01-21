@@ -1,5 +1,4 @@
 ---
-layout: default
 link: https://github.com/site5/rainman
 title: "Rainman is a very good driver"
 ---

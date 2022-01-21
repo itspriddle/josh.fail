@@ -1,5 +1,4 @@
 ---
-layout: default
 date: "Fri Sep 21 17:35:55 -0400 2012"
 title: "Validating Serialized Attributes in Rails"
 ---

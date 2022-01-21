@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Shell Tricks: Custom ruby shebangs for speed"
 date: "Sun Feb 19 01:48:42 -0500 2017"
 ---

@@ -1,5 +1,4 @@
 ---
-layout: default
 date: "Thu Aug 30 23:42:07 -0400 2012"
 link: http://www.getcreditcardnumbers.com
 title: "Credit Card Number Generator"

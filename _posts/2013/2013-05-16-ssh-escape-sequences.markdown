@@ -1,5 +1,4 @@
 ---
-layout: default
 date: "Thu May 16 18:27:38 -0400 2013"
 title: "SSH Escape Sequences"
 ---

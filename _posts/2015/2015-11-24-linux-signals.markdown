@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Linux Signals"
 date: "Tue Nov 24 19:00:00 -0500 2015"
 link: http://www.linuxvoice.com/core-technology-signals/

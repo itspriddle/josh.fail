@@ -1,5 +1,4 @@
 ---
-layout: default
 date: "Tue May 28 23:22:46 -0400 2013"
 title: "How We Hack At Site5"
 ---

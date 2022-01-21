@@ -1,5 +1,4 @@
 ---
-layout: default
 date: "Thu Apr 05 01:54:27 -0400 2012"
 title: "A Test, from Heroku!"
 ---

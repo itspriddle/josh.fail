@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Disabling bottles in Homebrew with custom formulae"
 date: "Sat Jul 09 23:28:35 -0400 2016"
 ---

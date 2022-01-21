@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Warn when macOS adds path_helper to zprofile and profile on OS updates"
 date: "Fri Jun 05 17:16:18 -0400 2020"
 ---

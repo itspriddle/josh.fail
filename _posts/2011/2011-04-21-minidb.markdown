@@ -1,5 +1,4 @@
 ---
-layout: default
 link: https://github.com/itspriddle/minidb
 title: MiniDB, a cute little wrapper for PHP's PDO
 ---

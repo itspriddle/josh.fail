@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "How to print help text in shell scripts"
 date: "Sun Feb 03 00:36:22 -0500 2019"
 ---

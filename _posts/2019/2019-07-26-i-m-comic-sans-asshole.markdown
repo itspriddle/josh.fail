@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "I'm Comic Sans, Asshole"
 date: "Fri Jul 26 16:39:03 -0400 2019"
 excerpt: |

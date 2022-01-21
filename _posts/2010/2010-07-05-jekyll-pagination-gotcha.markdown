@@ -1,5 +1,4 @@
 ---
-layout: default
 date: Mon Jul  5 22:03:09 -0400 2010
 title: Jekyll Pagination Gotcha
 ---

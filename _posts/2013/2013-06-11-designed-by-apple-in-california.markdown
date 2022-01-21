@@ -1,5 +1,4 @@
 ---
-layout: default
 date: "Tue Jun 11 10:24:45 -0400 2013"
 title: "Designed by Apple in California"
 ---

@@ -1,5 +1,4 @@
 ---
-layout: default
 date: "Tue Feb 14 13:13:47 -0500 2012"
 link: https://gist.github.com/1688857
 title: "Patched ruby 1.9.3-p0 is sexytime"

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Using Let's Encrypt for local servers"
 date: "Tue Aug 06 02:42:12 -0400 2019"
 ---

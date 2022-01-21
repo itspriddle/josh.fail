@@ -1,5 +1,4 @@
 ---
-layout: default
 link: http://cssfontstack.com/
 title: "CSS Font Stack"
 ---

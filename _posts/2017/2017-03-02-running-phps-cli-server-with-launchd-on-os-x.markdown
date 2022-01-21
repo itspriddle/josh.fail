@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Running PHP's CLI Server with launchd on OS X"
 date: "Thu Mar 02 00:00:10 -0500 2017"
 ---

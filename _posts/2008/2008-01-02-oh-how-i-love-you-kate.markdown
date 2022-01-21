@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Oh, how I love you Kate...
 ---
 

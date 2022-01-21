@@ -1,5 +1,4 @@
 ---
-layout: default
 short_description: |
   <p>
     I&rsquo;ve had to do this a few times when I wasn&rsquo;t able to just

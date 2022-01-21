@@ -1,5 +1,4 @@
 ---
-layout: default
 date: Fri Jul 23 14:16:49 -0400 2010
 short_description: |
   <p>

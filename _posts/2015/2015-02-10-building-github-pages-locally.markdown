@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Building GitHub Pages Locally"
 date: "Tue Feb 10 23:30:00 -0500 2015"
 ---

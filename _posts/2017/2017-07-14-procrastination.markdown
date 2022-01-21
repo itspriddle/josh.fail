@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Procrastination"
 date: "Fri Jul 14 01:11:43 -0400 2017"
 ---

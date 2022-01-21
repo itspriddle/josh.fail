@@ -1,5 +1,4 @@
 ---
-layout: default
 link: https://github.com/mattapperson/MakeTi
 title: "MakeTi makes Titanium suck less in the CLI"
 ---

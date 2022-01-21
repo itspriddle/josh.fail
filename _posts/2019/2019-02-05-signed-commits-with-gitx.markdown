@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Signed commits with GitX"
 date: "Tue Feb 05 01:11:29 -0500 2019"
 ---

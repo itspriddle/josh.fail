@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Shell Tricks: Colorized output"
 date: "Tue Feb 28 18:09:00 -0500 2017"
 ---

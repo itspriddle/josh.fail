@@ -1,5 +1,4 @@
 ---
-layout: default
 date: "Mon Apr 22 15:30:00 -0400 2013"
 title: "A Year Without Smoking"
 ---

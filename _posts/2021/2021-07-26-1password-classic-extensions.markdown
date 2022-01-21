@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "1Password Classic Extensions"
 date: "Mon Jul 26 22:49:15 -0400 2021"
 ---

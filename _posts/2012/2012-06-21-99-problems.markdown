@@ -1,5 +1,4 @@
 ---
-layout: default
 date: "Thu Jun 21 12:22:16 -0400 2012"
 link: http://slu.edu/Documents/law/Law%20Journal/Archives/LJ56-2_Mason_Article.pdf
 title: "99 Problems"

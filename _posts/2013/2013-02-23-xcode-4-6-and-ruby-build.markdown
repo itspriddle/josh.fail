@@ -1,5 +1,4 @@
 ---
-layout: default
 date: "Sat Feb 23 03:00:14 -0500 2013"
 title: "Xcode 4.6 and ruby-build"
 ---

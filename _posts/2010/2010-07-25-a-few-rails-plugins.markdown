@@ -1,5 +1,4 @@
 ---
-layout: default
 date: Sun Jul 25 22:53:28 -0400 2010
 title: A few Rails Plugins
 ---

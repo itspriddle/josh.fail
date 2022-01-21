@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Copy screenshots to Dropbox Public folder on OS X"
 date: "Tue Aug 18 22:45:03 -0400 2015"
 ---

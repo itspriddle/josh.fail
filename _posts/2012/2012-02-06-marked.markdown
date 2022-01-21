@@ -1,5 +1,4 @@
 ---
-layout: default
 link: http://markedapp.com/
 title: "Marked"
 ---

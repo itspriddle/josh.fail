@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "git pr: push current branch and open pull request"
 date: "Sat Feb 28 16:57:47 -0500 2015"
 ---

@@ -1,5 +1,4 @@
 ---
-layout: default
 link: http://subtlepatterns.com/
 title: "Subtle Patterns"
 ---

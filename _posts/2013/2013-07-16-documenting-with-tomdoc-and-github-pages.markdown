@@ -1,5 +1,4 @@
 ---
-layout: default
 date: "Tue Jul 16 14:05:35 -0400 2013"
 title: "Documenting with TomDoc and GitHub Pages"
 link: http://www.eng5.com/documenting-with-tomdoc-and-github-pages/

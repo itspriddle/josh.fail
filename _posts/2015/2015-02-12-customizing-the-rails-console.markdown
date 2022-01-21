@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Customizing the Rails Console"
 date: "Thu Feb 12 23:39:35 -0500 2015"
 ---

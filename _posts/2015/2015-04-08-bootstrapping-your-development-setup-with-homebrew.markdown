@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Bootstrapping your development setup with Homebrew"
 date: "Wed Apr 08 00:02:59 -0400 2015"
 ---

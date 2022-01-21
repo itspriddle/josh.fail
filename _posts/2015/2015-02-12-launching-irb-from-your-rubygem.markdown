@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Launching IRB from your RubyGem"
 date: "Thu Feb 12 23:14:29 -0500 2015"
 ---

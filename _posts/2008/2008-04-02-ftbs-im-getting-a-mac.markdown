@@ -1,5 +1,4 @@
 ---
-layout: default
 title: FTBS... I'm getting a Mac
 ---
 

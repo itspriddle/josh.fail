@@ -1,5 +1,4 @@
 ---
-layout: default
 link: http://blog.jerodsanto.net/2011/04/pow-and-apache-side-by-side/
 title: "Pow and Apache, kissing in a tree"
 ---

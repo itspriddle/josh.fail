@@ -1,5 +1,4 @@
 ---
-layout: default
 date: "Fri Feb 08 20:39:59 -0500 2013"
 title: "Running RSpec in Vim"
 ---

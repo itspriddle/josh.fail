@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Using direnv to set a custom git email for work projects"
 date: "Wed Mar 24 00:03:56 -0400 2021"
 ---

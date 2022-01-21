@@ -1,5 +1,4 @@
 ---
-layout: default
 link: http://css3generator.com/
 title: "More CSS3 generators"
 ---

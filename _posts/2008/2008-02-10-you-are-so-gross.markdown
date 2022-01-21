@@ -1,5 +1,4 @@
 ---
-layout: default
 title: You are so gross...
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: default
 date: Sun Feb 28 20:30:18 -0500 2010
 title: Oh Hai, Jekyll
 ---

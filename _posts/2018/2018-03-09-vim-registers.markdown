@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Vim Registers"
 date: "Fri Mar 09 23:17:20 -0500 2018"
 ---

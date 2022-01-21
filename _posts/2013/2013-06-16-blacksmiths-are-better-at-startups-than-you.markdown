@@ -1,5 +1,4 @@
 ---
-layout: default
 date: "Sun Jun 16 20:30:00 -0400 2013"
 link: http://unicornfree.com/2012/why-blacksmiths-are-better-at-startups-than-you
 title: Why Blacksmiths are Better at Startups than You

@@ -1,5 +1,4 @@
 ---
-layout: default
 link: http://dashes.com/anil/2010/05/one-more-time-no-ndas.html
 title: A good read about NDAs
 ---

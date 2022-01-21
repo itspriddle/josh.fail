@@ -1,5 +1,4 @@
 ---
-layout: default
 date: "Thu Apr 26 18:58:41 -0400 2012"
 title: "Railsconf Links"
 ---

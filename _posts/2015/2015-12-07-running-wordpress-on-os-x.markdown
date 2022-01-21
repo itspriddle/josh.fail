@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Running WordPress on OS X"
 date: "Sat Dec 07 00:50:47 -0500 2015"
 ---

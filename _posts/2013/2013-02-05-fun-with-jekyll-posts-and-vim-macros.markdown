@@ -1,5 +1,4 @@
 ---
-layout: default
 date: "Tue Feb 05 19:57:11 -0500 2013"
 title: "Fun With Jekyll Posts and Vim Macros"
 ---
@@ -19,7 +18,6 @@ matter:
 
 ```
 ---
-layout: default
 title: "Fun With Jekyll Posts and Vim Macros"
 date: "Tue Feb 05 19:57:11 -0500 2013"
 ---
@@ -48,7 +46,6 @@ file:
 
 ```
 ---
-layout: default
 date: "Tue Feb 05 19:57:11 -0500 2013"
 title: "Fun With Jekyll Posts and Vim Macros"
 ---

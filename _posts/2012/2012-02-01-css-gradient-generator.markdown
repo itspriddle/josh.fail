@@ -1,5 +1,4 @@
 ---
-layout: default
 link: http://www.colorzilla.com/gradient-editor/
 title: "CSS Gradient Generator"
 ---

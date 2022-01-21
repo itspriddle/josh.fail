@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Another New Layout!"
 date: "Thu Feb 12 01:35:23 -0500 2015"
 ---

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Convert GitHub repo links to GFM in Vim"
 date: "Thu Dec 03 23:37:06 -0500 2015"
 ---

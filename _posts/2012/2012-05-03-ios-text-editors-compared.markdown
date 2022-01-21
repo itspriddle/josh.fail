@@ -1,5 +1,4 @@
 ---
-layout: default
 date: "Thu May 03 11:32:05 -0400 2012"
 link: http://brettterpstra.com/ios-text-editors/
 title: "iOS Text Editors Compared"

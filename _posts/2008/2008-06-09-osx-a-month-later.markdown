@@ -1,5 +1,4 @@
 ---
-layout: default
 title: OSX - A Month Later
 ---
 

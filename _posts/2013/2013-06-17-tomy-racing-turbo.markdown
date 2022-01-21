@@ -1,5 +1,4 @@
 ---
-layout: default
 date: "Mon Jun 17 22:26:26 -0400 2013"
 title: "Tomy Racing Turbo"
 link: http://youtube.com/watch?v=1aCeg-EbOAI

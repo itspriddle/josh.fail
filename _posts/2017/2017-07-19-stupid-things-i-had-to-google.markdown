@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Stupid things I had to Google"
 date: "Wed Jul 19 23:23:19 -0400 2017"
 ---

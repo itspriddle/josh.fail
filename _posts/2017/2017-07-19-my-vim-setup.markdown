@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "My Vim Setup"
 date: "Wed Jul 19 01:47:18 -0400 2017"
 ---

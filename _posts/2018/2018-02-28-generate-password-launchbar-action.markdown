@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Generate Password LaunchBar Action"
 date: "Wed Feb 28 14:19:22 -0500 2018"
 ---

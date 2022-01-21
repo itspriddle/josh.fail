@@ -1,5 +1,4 @@
 ---
-layout: default
 date: "Mon Apr 09 16:44:40 -0400 2012"
 link: http://phil.ipal.org/tc.html
 title: "TIL gifs can have more than 256 colors"

@@ -1,5 +1,4 @@
 ---
-layout: default
 short_description: |
   <p>
     Over the last 10 months, I've had the opportunity to work with Titanium

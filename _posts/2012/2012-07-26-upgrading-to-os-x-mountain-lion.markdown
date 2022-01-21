@@ -1,5 +1,4 @@
 ---
-layout: default
 date: "Thu Jul 26 00:13:41 -0400 2012"
 title: "Upgrading to OS X Mountain Lion"
 ---

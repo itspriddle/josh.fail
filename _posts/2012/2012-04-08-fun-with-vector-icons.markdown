@@ -1,5 +1,4 @@
 ---
-layout: default
 date: "Sun Apr 08 05:31:02 -0400 2012"
 link: http://www.pushing-pixels.org/2011/11/04/about-those-vector-icons.html
 title: "Fun with vector icons"

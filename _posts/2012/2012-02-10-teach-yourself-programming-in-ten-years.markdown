@@ -1,5 +1,4 @@
 ---
-layout: default
 link: http://norvig.com/21-days.html
 title: "Teach Yourself Programming in Ten Years"
 ---

@@ -1,5 +1,4 @@
 ---
-layout: default
 date: "Fri May 25 14:59:51 -0400 2012"
 link: http://daneden.me/animate
 title: "Animate.css"

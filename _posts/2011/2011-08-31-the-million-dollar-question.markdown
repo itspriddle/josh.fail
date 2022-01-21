@@ -1,5 +1,4 @@
 ---
-layout: default
 link: http://www.sebastianmarshall.com/the-million-dollar-question
 title: "The Million Dollar Question"
 ---

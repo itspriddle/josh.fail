@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Using Nginx as an SSL proxy to GitHub Pages"
 date: "Wed Jul 12 01:37:50 -0400 2017"
 ---

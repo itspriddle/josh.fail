@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "vnStat on RasPlex"
 date: "Fri Mar 23 23:10:32 -0400 2018"
 ---

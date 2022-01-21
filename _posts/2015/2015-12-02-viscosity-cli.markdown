@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Viscosity CLI"
 date: "Wed Dec 02 23:19:33 -0500 2015"
 ---

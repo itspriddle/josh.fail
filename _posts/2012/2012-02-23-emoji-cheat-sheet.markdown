@@ -1,5 +1,4 @@
 ---
-layout: default
 date: "Thu Feb 23 10:52:12 -0500 2012"
 link: http://www.emoji-cheat-sheet.com/
 title: "Emoji cheat sheet"

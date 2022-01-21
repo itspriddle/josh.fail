@@ -1,5 +1,4 @@
 ---
-layout: default
 date: "Tue Mar 19 23:30:53 -0400 2013"
 title: "Bash Arguments with $* and $@"
 ---

@@ -1,5 +1,4 @@
 ---
-layout: default
 date: "Tue Feb 05 20:33:48 -0500 2013"
 title: "Running Vim commands from stdin"
 ---

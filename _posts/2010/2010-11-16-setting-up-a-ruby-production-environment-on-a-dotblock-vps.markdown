@@ -1,5 +1,4 @@
 ---
-layout: default
 date: Tue Nov 16 17:30:00 -0400 2010
 title: "Setting up a Ruby production environment on a DotBlock VPS"
 ---

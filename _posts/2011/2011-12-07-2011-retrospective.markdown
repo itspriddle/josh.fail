@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "2011 Retrospective"
 ---
 

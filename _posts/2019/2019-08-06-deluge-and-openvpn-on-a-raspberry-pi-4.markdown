@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Deluge and OpenVPN on a Raspberry Pi 4"
 date: "Tue Aug 06 00:34:26 -0400 2019"
 ---

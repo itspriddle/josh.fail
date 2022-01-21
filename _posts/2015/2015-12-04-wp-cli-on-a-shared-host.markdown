@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "wp-cli on a shared host"
 date: "Fri Dec 04 18:05:05 -0500 2015"
 ---

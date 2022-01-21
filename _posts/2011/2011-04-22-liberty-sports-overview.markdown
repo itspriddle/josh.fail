@@ -1,5 +1,4 @@
 ---
-layout: default
 short_description: |
   <p>
     I was contracted recently by <a href="http://allusis.net">Allusis

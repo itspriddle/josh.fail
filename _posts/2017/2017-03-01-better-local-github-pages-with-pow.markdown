@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Better local GitHub Pages with Pow"
 date: "Wed Mar 01 23:54:23 -0500 2017"
 ---

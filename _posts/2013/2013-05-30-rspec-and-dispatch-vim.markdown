@@ -1,5 +1,4 @@
 ---
-layout: default
 date: "Thu May 30 00:37:44 -0400 2013"
 title: "RSpec and vim-dispatch"
 ---

@@ -1,5 +1,4 @@
 ---
-layout: default
 link: http://www.typechart.com/
 title: "Typechart - typography gallery"
 ---

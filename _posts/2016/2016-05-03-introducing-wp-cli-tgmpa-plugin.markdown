@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Introducing `wp-cli-tgmpa-plugin`, a WP-CLI package for working with TGM Plugin Activation"
 date: "Tue May 03 01:50:19 -0400 2016"
 ---

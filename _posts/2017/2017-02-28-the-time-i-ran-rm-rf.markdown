@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "The time I ran `rm -rf /`"
 date: "Tue Feb 28 22:23:16 -0500 2017"
 ---
