@@ -1,0 +1,31 @@
+---
+layout: default
+title: Recently.
+---
+
+It's been a long time since I have had the motivation to post here. It's funny
+how things like jobs can ruin the otherwise productive streak of a blog
+started two years ago during unemployment, but such is life.
+
+I'm sure the world over will be excited to hear that I am finished with ITT.
+That makes me an official Web Developer. That also gives me a $50,000 bill to
+payoff. So if you want to donate or need a website, let me know.
+
+On the web design front - I am currently working on a couple of projects where
+I am using the excellent CodeIgniter framework. I have been using it for about
+2 months or so, and I am in love. Granted, it is one of the first frameworks I
+have used and my PHP/OOP experience is somewhat minimal, but for the projects
+I've used it on, CI has given me cleaner code in less time. [Hopefully] I'll
+be adding some tutorials soon.
+
+You'd think that with all the time I'm saving, I should be well into the
+myriad of personal projects I have going on right now [IE: nevercraft.net,
+voipninja.net, tehsource.net, mp3dojo.net], but sadly that just isn't the
+case. In fact the 3 year old layout on nevercraft.net makes me want to puke at
+this point, but I just can't bring myself to tear it down. Since I doubt I'll
+post here again before the New Year, I resolve now to do something new with
+you in 2008.
+
+That's about all for now.
+
+Happy Birthday Dad!
