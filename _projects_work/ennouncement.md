@@ -23,6 +23,16 @@ ViaTalk Control Panel to allow ViaTalk customers to use call broadcasting
 features.
 
 <!--
+I created the web and iPhone applications for
+<a href="http://www.ennouncement.com/">Ennouncement</a>, a call
+broadcasting service. The web application was created using Ruby on
+Rails, and the iPhone application was created using Titanium Mobile.
+
+My work with Ennouncement Mobile was especially challenging (and fun)
+as it was the first iPhone application I've developed. My work with
+Titanium Mobile has been extracted into a helper library,
+<a href="https://github.com/itspriddle/ti-figher">TiFighter</a>.
+
 **Biggest Challenge:** Once the base Ennouncement project was wrapped, we
 wanted the functionality present in ViaTalk. Integrating the two systems was a
 bit of a challenge, but thankfully it used shared VoIP infrastructure.
