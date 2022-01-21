@@ -10,11 +10,11 @@ I'm Josh. I make web hosting and web hosting accessories.
 I've been working on SaaS apps since 2006 (before we called 'em "SaaS apps").
 I mainly program in Ruby and PHP.
 
-These days I lead the Software Development team at A2 Hosting.
+These days I lead the Software Development team at
+[A2 Hosting](https://www.a2hosting.com/about/careers).
 
 ## Links
 
-- Email: {{ site.author.email | replace_first: "@", " [at] " }}
 - GitHub: <https://github.com/{{ site.author.github }}>
 - Twitter: <https://twitter.com/{{ site.author.twitter }}>
 - LinkedIn: <https://linkedin.com/in/{{ site.author.linkedin }}>
