@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "An old WordPress hack I found"
 date: "Fri Jan 21 14:45:00 -0500 2022"
 ---
