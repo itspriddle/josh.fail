@@ -7,4 +7,4 @@ intro: |
 ---
 
 {% assign collection = site.projects_work | where_exp: "item", "item.hidden != true" %}
-{% include projects/list.html title=page.title intro=page.intro collection=collection %}
+{% include project.html title=page.title intro=page.intro collection=collection %}
