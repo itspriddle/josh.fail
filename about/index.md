@@ -15,9 +15,9 @@ These days I lead the Software Development team at
 
 ## Links
 
-- GitHub: <https://github.com/{{ site.author.github }}>
-- Twitter: <https://twitter.com/{{ site.author.twitter }}>
-- LinkedIn: <https://linkedin.com/in/{{ site.author.linkedin }}>
+- [GitHub](https://github.com/{{ site.author.github }})
+- [Twitter](https://twitter.com/{{ site.author.twitter }})
+- [LinkedIn](https://linkedin.com/in/{{ site.author.linkedin }})
 
 <!-- 10 years old :P 
 ## Contact Info
