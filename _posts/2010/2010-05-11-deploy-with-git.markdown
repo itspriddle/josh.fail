@@ -1,12 +1,5 @@
 ---
 date: Tue May 11 23:39:10 -0400 2010
-short_description: |
-  <p>
-    I found this git hook that lets you deploy a project with a git push
-    rather than having to use a full deployment library such as
-    <a href="http://capify.org">Capistrano</a>. I use this on a bunch of PHP
-    projects that don&rsquo;t need all the features Capistrano provides.
-  </p>
 title: Deploy with git
 ---
 

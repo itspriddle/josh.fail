@@ -1,26 +1,5 @@
 ---
 date: Sat Mar 13 13:57:35 -0500 2010
-short_description: |
-  <p>
-    If you&rsquo;ve ever used the MySQL module with
-    <a href="http://asterisk.org">Asterisk</a>, you&rsquo;ve probably had
-    loads of fun formatting queries.
-  </p>
-  <p>This query:</p>
-  <pre><code>SELECT * FROM accounts WHERE extension = '${EXTEN}' AND enabled = 'Y' AND balance &gt; 0.00 LIMIT 1;
-  </code></pre>
-  <p>Becomes:</p>
-  <pre><code>SELECT\ *\ FROM\ accounts\ WHERE\ extension\ =\ \'${EXTEN}\'\ AND\ enabled\ =\ \'Y\'\ AND\ balance\ &gt;\ 0.00\ LIMIT\ 1;
-  </code></pre>
-  <p>
-    That probably doesn&rsquo;t seem too difficult, but if you have huge
-    queries, it&rsquo;s really easy to miss a character that needs to be
-    escaped. Needless to say, if you put code like that into production, your
-    PBX is going to die when the dialplan hits that code.
-  </p>
-  <p>
-    I finally threw together a script to do this automatically.
-  </p>
 title: Formatting MySQL Queries For Asterisk
 ---
 

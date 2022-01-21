@@ -1,17 +1,5 @@
 ---
 date: Fri Jul 23 14:16:49 -0400 2010
-short_description: |
-  <p>
-    I needed HTTP basic authentication for a <a href="http://sinatrarb.com">Sinatra</a>
-    app running as a Rails Metal. I have two apps, one running
-    <a href="http://github.com/thoughtbot/clearance">Clearance</a> and another running
-    <a href="http://github.com/binarylogic/authlogic">Authlogic</a>.
-  </p>
-  <p>
-    Using the info from my
-    <a href="/blog/writing-an-api-with-clearance.html">previous post</a>, I
-    wrote a small Sinatra plugin that works with both Clearance and Authlogic.
-  </p>
 title: API authentication in Sinatra with Clearance or Authlogic
 ---
 

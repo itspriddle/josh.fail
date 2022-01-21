@@ -1,13 +1,4 @@
 ---
-short_description: |
-  <p>
-    Over the last 10 months, I've had the opportunity to work with Titanium
-    Mobile for a few different projects. I was immediately drawn to Titanium
-    because projects are written in JavaScript (which I know) as opposed to
-    Objective C or Java (which I don't know). JavaScript is all well and good,
-    but I still found myself missing things from jQuery, like
-    <code>$.each</code>, <code>$.map</code> and friends.
-  </p>
 title: "Wage intergalactic war on your Titanium Mobile apps with TiFighter"
 ---
 

@@ -1,12 +1,4 @@
 ---
-short_description: |
-  <p>
-    I was contracted recently by <a href="http://allusis.net">Allusis
-    Productions</a> to create a backend for the soon-to-be-released Liberty
-    Sports Group site. After going over the client's requirements, I decided
-    WordPress would be the best fit for the site. Here is an overview of my
-    experience.
-  </p>
 title: Theming Liberty Sports Group with WordPress
 ---
 

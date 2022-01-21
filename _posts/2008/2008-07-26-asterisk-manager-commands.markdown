@@ -1,24 +1,11 @@
 ---
-short_description: |
-  <p>
-    I&rsquo;ve been playing around with the Asterisk Manager lately (which is
-    pretty damn cool, if you ask me).
-  </p>
-  <p>
-    There doesn&rsquo;t seem to be a list of all the commands available on
-    voip-info right now, so I&rsquo;m posting these here for my own reference.
-  </p>
-  <p>
-    These are the Manager commands available on Asterisk 1.4
-  </p>
 title: Asterisk Manager Commands
 ---
 
 I've been playing around with the Asterisk Manager lately (which is pretty
-damn cool, if you ask me).
-
-There doesn't seem to be a list of all the commands available on voip-info
-right now, so I'm posting these here for my own reference.
+damn cool, if you ask me). There doesn't seem to be a list of all the commands
+available on voip-info right now, so I'm posting these here for my own
+reference.
 
 These are the Manager commands available on Asterisk 1.4
 

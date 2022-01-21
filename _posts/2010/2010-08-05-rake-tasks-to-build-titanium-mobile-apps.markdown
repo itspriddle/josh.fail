@@ -1,19 +1,5 @@
 ---
 date: Thu Aug  5 14:08:05 -0400 2010
-short_description: |
-  <p>
-    I've been working with
-    <a href="http://www.appcelerator.com/">Titanium Mobile</a>
-    to build an iPhone app. Using Titanium Developer to launch
-    the app in the iPhone simulator is a pain in the ass. It
-    would be great if I could build via the command line.
-  </p>
-  <p>
-    I found <a href="http://github.com/plugawy/mikrob/blob/a9e617d2d34e2d634cb7ea2a53059d8938dede0e/Rakefile">this rakefile</a>
-    that I was able to adapt for Titanium Mobile. Now I can
-    validate my app's JavaScript and launch it in the simulator
-    simply by invoking <code>rake</code>.
-  </p>
 title: Rake tasks to build Titanium Mobile Apps
 ---
 

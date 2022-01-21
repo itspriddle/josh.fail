@@ -1,12 +1,5 @@
 ---
 date: Wed Jul 14 20:24:24 -0400 2010
-short_description: |
-  <p>
-    Recently, I needed to write an API to work with an iPhone application. I
-    used <a href="http://github.com/thoughtbot/clearance">Clearance</a> for
-    authentication. Unfortunately, it doesn't support HTTP Basic
-    Authentication out of the box, which made it difficult to use in an API.
-  </p>
 title: Writing an API with Clearance
 ---
 

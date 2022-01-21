@@ -1,10 +1,4 @@
 ---
-short_description: |
-  <p>
-    I&rsquo;ve had to do this a few times when I wasn&rsquo;t able to just
-    drop the entire database, so I threw together a small PHP script that will
-    do it for you.
-  </p>
 title: PHP Script To Delete All WordPress Tables
 ---
 
