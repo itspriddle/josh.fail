@@ -2,11 +2,9 @@
 layout: default
 date: "Tue Jun 11 10:24:45 -0400 2013"
 title: "Designed by Apple in California"
-link: http://www.apple.com/designed-by-apple/
 ---
 
-The new [Designed by Apple](http://www.apple.com/designed-by-apple/)
-commercial is absolutely brilliant.
+The new [Designed by Apple][1] commercial is absolutely brilliant.
 
 > This is it.  
 > This is what matters.  
@@ -41,3 +39,14 @@ commercial is absolutely brilliant.
 > And it means everything.  
 >
 > Designed by Apple in California
+
+---
+
+**EDIT, Jan 20, 2022:** This commercial is no longer available on Apple's
+website, but [here's a youtube][1] version. I also stumbled on the [2013
+keynote][2] that has a similar message.
+
+<!-- Formerly at: http://www.apple.com/designed-by-apple/ -->
+
+[1]: https://www.youtube.com/watch?v=170fh2mvog0
+[2]: https://www.youtube.com/watch?v=5kFc5-D4PUs
