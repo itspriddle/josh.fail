@@ -1,0 +1,19 @@
+---
+title: New Stuff
+---
+
+
+[IT216][1] (Perl) and [IT313][2] (JavaScript) are just about finished.
+Nothing all that exciting really...
+
+Voipcowboy is hopeless at the moment. I have, however, started toying with
+Asterisk as of late, and it is good times indeed.
+
+Its actually been a while since I've updated this - I've since moved into my
+first apartment. I've also finished another project called Movierack, but for
+certain reasons, I'm not posting the link.
+
+That's all for now, but I'll be updating soon.
+
+[1]: http://nevercraft.net/portfolio/it216.nevercraft.net
+[2]: http://nevercraft.net/portfolio/it313.nevercraft.net

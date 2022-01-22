@@ -1,0 +1,6 @@
+---
+title: A New Home
+---
+
+I'm just moving into my new home on one of HR's semi-dedicated servers. PHP5
+ahoy!
