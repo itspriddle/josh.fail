@@ -3,7 +3,7 @@ date: "Mon Apr 22 15:30:00 -0400 2013"
 title: "A Year Without Smoking"
 ---
 
-Just over a year ago, I [left for Railsconf](/blog/2012/railsconf-ho.html) and
+Just over a year ago, I [left for Railsconf][Railsconf] and
 made one of the best decisions of my life: I was going to use the week in
 Austin to force myself to quit smoking.
 
@@ -13,11 +13,11 @@ eventually. I thought that being in a non-smoking environment for a week would
 be the perfect time to try.
 
 I knew going in that it would be a challenge, and that I would need some help.
-I immediately ruled out [Chantix](http://www.chantix.com/) -- I had some
-friends try it who turned into crazy assholes on it. I briefly considered
-using an electronic cigarette, like [Bluecig](http://www.blucigs.com), but
-decided against it. I didn't want to replace one form of smoking with another.
-I ended up choosing the nicotine patch for the entire 10 weeks they recommend.
+I immediately ruled out Chantix -- I had some friends try it who turned into
+crazy assholes on it. I briefly considered using an electronic cigarette, like
+Bluecig, but decided against it. I didn't want to replace one form of smoking
+with another. I ended up choosing the nicotine patch for the entire 10 weeks
+they recommend.
 
 The patch was an interesting experience. In the beginning, I felt like I
 _needed_ to apply a fresh patch each morning. For the first few days, applying
@@ -73,3 +73,5 @@ freezing outside in the rain to smoke. I don't miss that at all!
 Each month became another milestone, until almost a year had passed. At that
 point, I knew I was done for good. Today, I'm happy to say, marks one year
 since my last cigarette!
+
+[Railsconf]: {% post_url 2012/2012-04-22-railsconf-ho %}

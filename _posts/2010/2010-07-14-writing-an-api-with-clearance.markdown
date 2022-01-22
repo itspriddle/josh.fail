@@ -23,6 +23,46 @@ using a Sinatra app as a Rails Metal.
 
 This is basically how I got HTTP Basic Auth working with Clearance:
 
-{% gist 476335 api.rb %}
+```ruby
+# Put this in app/metals/api.rb
+require 'sinatra/base'
+
+class Api < Sinatra::Base
+
+  before do
+    content_type :json
+    authenticate if api_request?
+  end
+
+  helpers do
+    def api_request?
+      request.path_info.match %r{/api/}i
+    end
+
+    def authenticate
+      unless authenticated?
+        response['WWW-Authenticate'] = %(Basic realm="My API")
+        throw(:halt, [401, "Unauthorized\n"])
+      end
+    end
+
+    def authenticated?
+      auth = Rack::Auth::Basic::Request.new(request.env)
+      auth.provided? && auth.basic? &&
+        auth.credentials && @current_user = User.authenticate(*auth.credentials)
+    end
+
+    def current_user
+      @current_user
+    end
+  end
+
+  get '/api/account.json' do
+    current_user.to_json
+  end
+end
+```
 
 Hope it helps someone else having this problem.
+
+[gist]: https://gist.github.com/itspriddle/476335

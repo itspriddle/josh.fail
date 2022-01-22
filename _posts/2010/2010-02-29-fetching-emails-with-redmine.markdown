@@ -15,4 +15,29 @@ the username/password/host from your `config/email.yml` file.
 in this script. ** **DO NOT** ** add extra fields to `config/email.yml` or
 you'll break things.
 
-{% gist 318651 fetch_redmine_emails.rb %}
+```ruby
+#!/usr/bin/env ruby
+
+require 'yaml'
+
+conf = YAML.load_file('/home/redmine/config/email.yml')["production"]["smtp_settings"]
+
+opts = {
+  'unknown_user'        => 'create',
+  'port'                => '993',
+  'host'                => conf["address"],
+  'username'            => conf["user_name"],
+  'password'            => conf["password"],
+  'project'             => 'project_slug',
+  'tracker'             => 'bug',
+  'ssl'                 => '1',
+  'no_permission_check' => '1'
+}
+
+args = opts.map {|key, val| "#{key}=#{val}" }.join(' ')
+
+cmd = "cd /home/redmine && /usr/local/bin/rake redmine:email:receive_imap RAILS_ENV=production #{args}"
+system(cmd)
+```
+
+[gist]: https://gist.github.com/itspriddle/318651

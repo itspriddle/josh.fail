@@ -17,6 +17,6 @@ that example group.
 
 I've really enjoyed how vim-dispatch has changed my workflow.
 
-[Run RSpec in Vim]: /blog/2013/running-rspec-in-vim.html
+[Run RSpec in Vim]: {% post_url 2013/2013-02-08-running-rspec-in-vim %}
 [tpope]: http://tpo.pe
 [vim-dispatch]: https://github.com/tpope/vim-dispatch

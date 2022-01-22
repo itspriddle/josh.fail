@@ -4,10 +4,11 @@ link: http://mac.appstorm.net/roundups/utilities-roundups/40-super-secret-os-x-l
 title: "More OS X Hints"
 ---
 
-I just came across [this
-list](http://mac.appstorm.net/roundups/utilities-roundups/40-super-secret-os-x-lion-features-and-shortcuts/)
-of OS X Lion tricks and tips. A few I didn't know about yet, such as Tip #22,
-resizing windows with Shift and Option.
+I just came across [this list]({{ page.link }}) of OS X Lion tricks and tips.
+A few I didn't know about yet, such as Tip #22, resizing windows with Shift
+and Option.
 
-I've been using OS X for [a few years](/blog/2008/osx-first-impressions.html),
-I love that I'm still learning new things about it.
+I've been using OS X for [a few years][1] I love that I'm still learning new
+things about it.
+
+[1]: {% post_url 2008/2008-05-03-osx-first-impressions %}

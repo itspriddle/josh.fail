@@ -48,7 +48,7 @@ And open in your browser:
 open http://myblog.dev/
 ```
 
-[Building GitHub Pages Locally]: /blog/2015/building-github-pages-locally.html
+[Building GitHub Pages Locally]: {% post_url 2015/2015-02-10-building-github-pages-locally %}
 [GitHub Pages]: https://pages.github.com/
 [Pow]: http://pow.cx/
 [Serving Static Files with Pow]: http://pow.cx/manual.html#section_2.4
