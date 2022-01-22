@@ -8,9 +8,14 @@
         {{ page.title | smartify }}
       {% endif %}
     </h1>
-    {% if page.id %}
     <p class="post-meta">
-      {{ page.date | date: "%b %-d, %Y" }}
+      {% if include.homepage %}
+        <a href="{{ page.url }}">{{ page.date | date: "%b %-d, %Y" }}</a>
+      {% else %}
+        {{ page.date | date: "%b %-d, %Y" }}
+      {% endif %}
+
+      <!--
       {% unless include.homepage %}
       <span class="github-post-links">
         •
@@ -19,8 +24,8 @@
         <a href="{{ site.github.repository_url }}/raw/{{ site.github.source.branch }}/{{ page.path }}">View Raw</a>
       </span>
       {% endunless %}
+      -->
     </p>
-    {% endif %}
   </header>
 
   <article class="post-content">

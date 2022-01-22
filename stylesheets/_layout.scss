@@ -133,6 +133,10 @@
   font-size: $small-font-size;
   color: $grey-color;
 
+  & > a {
+    color: $grey-color;
+  }
+
   .github-post-links {
     @include media-query($on-palm) {
       display: none;
