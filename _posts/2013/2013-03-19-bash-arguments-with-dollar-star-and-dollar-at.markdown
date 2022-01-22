@@ -4,7 +4,8 @@ title: "Bash Arguments with $* and $@"
 ---
 
 Today, I wondered what the difference between `$*` and `$@` in Bash were. This
-is a tough one to Google for, so I'm copying the answer I found [here][1]:
+is a tough one to Google for, so I'm copying the answer I found on [Bash
+Hackers][1]:
 
 | Variable | Result                      |
 | :------: | :-------------------------: |
