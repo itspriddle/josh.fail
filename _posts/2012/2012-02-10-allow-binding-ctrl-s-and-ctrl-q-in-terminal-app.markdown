@@ -1,5 +1,4 @@
 ---
-link: http://apple.stackexchange.com/a/34503
 title: "Allow binding ctrl-s and ctrl-q in Terminal.app"
 ---
 

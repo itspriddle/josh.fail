@@ -3,6 +3,8 @@ link: https://github.com/itspriddle/minidb
 title: MiniDB, a cute little wrapper for PHP's PDO
 ---
 
-I threw together a tiny little wrapper for PHP's
-[PDO](http://php.net/manual/en/book.pdo.php) library. It probably sucks, but
-it may be useful to someone stuck with PHP :)
+I threw together a [tiny little wrapper][MiniDB] for PHP's [PDO][] library. It
+probably sucks, but it may be useful to someone stuck with PHP :)
+
+[MiniDB]: https://github.com/itspriddle/minidb
+[PDO]: http://php.net/manual/en/book.pdo.php

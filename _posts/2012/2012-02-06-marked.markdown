@@ -1,5 +1,4 @@
 ---
-link: http://markedapp.com/
 title: "Marked"
 ---
 

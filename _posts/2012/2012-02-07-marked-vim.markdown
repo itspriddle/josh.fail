@@ -1,5 +1,4 @@
 ---
-link: https://github.com/itspriddle/vim-marked
 title: "marked.vim"
 ---
 

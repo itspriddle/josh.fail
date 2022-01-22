@@ -2,10 +2,12 @@
 title: "What does it take to be a good programmer?"
 date: "Wed Mar 24 23:24:44 -0400 2021"
 link: https://news.ycombinator.com/item?id=13464770
+category: links
+redirect_from: /blog/2021/what-does-it-take-to-be-a-good-programmer.html
 ---
 
-I stumbled across [this quote on Hacker News][Post] that talks about what it
-feels like to be a good programmer:
+I stumbled across [this quote on Hacker News]({{ page.link }}) that talks
+about what it feels like to be a good programmer:
 
 > Nobody tells this to people who are beginners, I wish someone told me. All
 > of us who do creative work, we get into it because we have good taste. But
@@ -23,5 +25,3 @@ feels like to be a good programmer:
 > ambitions. And I took longer to figure out how to do this than anyone I've
 > ever met. It's gonna take awhile. It's normal to take awhile. You've just
 > gotta fight your way through.
-
-[Post]: https://news.ycombinator.com/item?id=13464770

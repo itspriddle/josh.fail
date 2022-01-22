@@ -1,6 +1,8 @@
 ---
 link: http://dashes.com/anil/2010/05/one-more-time-no-ndas.html
 title: A good read about NDAs
+category: links
+redirect_from: /blog/2011/no-ndas.html
 ---
 
 I found this article the other day about why one developer says "no" when it

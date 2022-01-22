@@ -1,7 +1,6 @@
 ---
 title: "Linux Signals"
 date: "Tue Nov 24 19:00:00 -0500 2015"
-link: http://www.linuxvoice.com/core-technology-signals/
 ---
 
 I found a great list of signals in Linux.
@@ -22,4 +21,4 @@ SIGALRM     | 14     | Term           | Expiry of alarm clock timer
 SIGTERM     | 15     | Term           | Polite "please terminate" signal
 SIGCHLD     | 17     | Ignore         | Child process has terminated
 
-From: http://www.linuxvoice.com/core-technology-signals/
+From: <http://www.linuxvoice.com/core-technology-signals/>

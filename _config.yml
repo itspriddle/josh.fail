@@ -23,7 +23,7 @@ kramdown:
 timezone: 'America/New_York'
 
 # Permalink settings
-permalink: 'blog/:year/:title.html'
+permalink: ':categories/:year/:title.html'
 # paginate: 10
 # pagination_path: 'blog/page:num'
 
@@ -45,6 +45,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-github-metadata
+  - jekyll-redirect-from
   - jekyll-sitemap
   - jemoji
 
@@ -61,3 +62,4 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      category: "blog"
