@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: My Work
 intro: |
   These are projects I owned or otherwise made major contributions to that

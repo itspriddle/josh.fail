@@ -1,27 +1,21 @@
-<div class="post">
-  <header class="post-header">
-    <h1 class="post-title">{{ include.title }}</h1>
-  </header>
-  <article class="post-content">
-    <p>{{ include.intro | markdownify }}</p>
-    {% for project in include.collection reversed %}
-      <hr class="stars">
+<p>{{ include.intro | markdownify }}</p>
 
-      <h2>{{ project.title }}</h2>
+{% for project in include.collection reversed %}
+  <hr class="stars">
 
-      {% if project.company %}
-        <p>{{ project.company }} ({{ project.period }})</p>
-      {% else %}
-        <p>{{ project.period }}</p>
-      {% endif %}
+  <h2>{{ project.title }}</h2>
+
+  {% if project.company %}
+    <p>{{ project.company }} ({{ project.period }})</p>
+  {% else %}
+    <p>{{ project.period }}</p>
+  {% endif %}
 
 
-      {{ project.content | markdownify }}
+  {{ project.content | markdownify }}
 
-      <p>Tags: {{ project.tags | join: ", " }}</p>
-      {% if project.github %}
-      <p><a href="{{ project.github }}">View on GitHub &rarr;</a></p>
-      {% endif %}
-    {% endfor %}
-  </article>
-</div>
+  <p>Tags: {{ project.tags | join: ", " }}</p>
+  {% if project.github %}
+  <p><a href="{{ project.github }}">View on GitHub &rarr;</a></p>
+  {% endif %}
+{% endfor %}

@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: page
 title: About Me
 ---
-
-# About Me
 
 I'm Josh. I make web hosting and web hosting accessories.
 

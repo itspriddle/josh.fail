@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: My Open Source Projects
 intro: |
   I love open source software -- it lets me put food on the
