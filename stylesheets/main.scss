@@ -63,9 +63,15 @@ $on-laptop:        800px;
     }
 }
 
-@mixin with-color-scheme($scheme) {
-  @media (prefers-color-scheme: $scheme) {
+@mixin set-dark-vars() {
+  :root.dark {
     @content;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      @content;
+    }
   }
 }
 

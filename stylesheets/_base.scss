@@ -15,36 +15,35 @@
   --table-border-color: #{lighten($grey-color, 40%)};
   --table-text-color: #515151;
 
-  --font-weight-bold: 600;
+  --font-weight-bold: 700;
   --font-weight-normal: 400;
 
   --hr-color: rgba(0, 0, 0, 0.15);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --font-weight-bold: 550;
-    --font-weight-normal: 350;
+@include set-dark-vars() {
+  --font-weight-bold: 600;
+  --font-weight-normal: 300;
 
-    --color-fg: #bbb;
-    --color-bg: #181818;
+  --color-fg: #bbb;
+  --color-bg: #181818;
 
-    --link-color-base: #79b8ff;
-    --link-color-visited: var(--link-color-base);
-    --link-color-hover: var(--color-fg);
+  --link-color-base: #79b8ff;
+  --link-color-visited: var(--link-color-base);
+  --link-color-hover: var(--color-fg);
 
-    --code-color-bg: #212121;
-    --code-color-border: var(--code-color-bg);
+  --code-color-bg: #212121;
+  --code-color-border: var(--code-color-bg);
 
-    --table-odd-bg: #{lighten(#181818, 4%)};
-    --table-header-bg: #{lighten(#181818, 10%)};
-    --table-header-border: #{lighten(#181818, 21%)};
-    --table-border-color: #{darken(#999, 35%)};
-    --table-text-color: var(--color-fg);
+  --table-odd-bg: #{lighten(#181818, 4%)};
+  --table-header-bg: #{lighten(#181818, 10%)};
+  --table-header-border: #{lighten(#181818, 21%)};
+  --table-border-color: #{darken(#999, 35%)};
+  --table-text-color: var(--color-fg);
 
-    --hr-color: rgba(255, 255, 255, 0.05);
-  }
+  --hr-color: rgba(255, 255, 255, 0.05);
 }
+
 
 /**
  * Reset some basic elements
@@ -144,6 +143,25 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: var(--font-weight-bold);
 }
 
+h1 {
+  font-size: 1.5rem;
+}
+
+h2 {
+  font-size: 1.25rem;
+}
+
+h3 {
+  font-size: 1.125rem;
+}
+
+h4 {
+  font-size: 1.0625rem;
+}
+
+h5, h6 {
+  font-size: 1rem;
+}
 
 
 /**

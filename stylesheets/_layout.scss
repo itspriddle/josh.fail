@@ -34,56 +34,6 @@
   .page-link {
     color: var(--color-fg);
     line-height: $base-line-height;
-
-    // Gaps between nav items, but not on the first one
-    &:not(:first-child) {
-      margin-left: 20px;
-    }
-  }
-
-  @include media-query($on-palm) {
-    display: none; // Hide navigation on mobile
-    position: absolute;
-    top: 9px;
-    right: 30px;
-    background-color: var(--color-bg);
-    border: 1px solid var(--hr-color);
-    border-radius: 5px;
-    text-align: right;
-
-    .menu-icon {
-      display: block;
-      float: right;
-      width: 36px;
-      height: 26px;
-      line-height: 0;
-      padding-top: 10px;
-      text-align: center;
-
-      > svg {
-        width: 18px;
-        height: 15px;
-
-        path {
-          fill: $grey-color-dark;
-        }
-      }
-    }
-
-    .trigger {
-      clear: both;
-      display: none;
-    }
-
-    &:hover .trigger {
-      display: block;
-      padding-bottom: 5px;
-    }
-
-    .page-link {
-      display: block;
-      padding: 5px 10px;
-    }
   }
 }
 
@@ -120,15 +70,6 @@
   padding: $spacing-unit 0;
 }
 
-.post-list {
-  margin-left: 0;
-  list-style: none;
-
-  > li {
-    margin-bottom: $spacing-unit;
-  }
-}
-
 .post-meta {
   font-size: $small-font-size;
   color: $grey-color;
@@ -142,11 +83,6 @@
       display: none;
     }
   }
-}
-
-.post-link {
-  display: block;
-  font-size: 1.5rem;
 }
 
 
@@ -164,27 +100,6 @@
 
 .post-title, .post-content h1 {
   margin-bottom: $spacing-unit / 3;
-}
-
-
-h1 {
-  font-size: 1.5rem;
-}
-
-h2 {
-  font-size: 1.25rem;
-}
-
-h3 {
-  font-size: 1.125rem;
-}
-
-h4 {
-  font-size: 1.0625rem;
-}
-
-h5, h6 {
-  font-size: 1rem;
 }
 
 .post-content {
@@ -250,7 +165,7 @@ h5, h6 {
  */
 .wrapper {
   max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-  max-width:   calc(#{$content-width} - (#{$spacing-unit} * 2));
+  max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));
   margin-right: auto;
   margin-left: auto;
   padding-right: $spacing-unit;
@@ -259,7 +174,7 @@ h5, h6 {
 
   @include media-query($on-laptop) {
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
-    max-width:   calc(#{$content-width} - (#{$spacing-unit}));
+    max-width: calc(#{$content-width} - (#{$spacing-unit}));
     padding-right: $spacing-unit / 2;
     padding-left: $spacing-unit / 2;
   }
