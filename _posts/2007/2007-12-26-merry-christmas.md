@@ -7,7 +7,7 @@ Christmas was an absolute blast, as it is every year.
 I'm typing this from one of my favorite presents my parents got me, my new Das
 Keyboard.
 
-Das Keyboard
+![Das Keyboard]({{ "/images/posts/2007/das_keyboard_lrg.jpg" | relative_url }})
 
 As always, I watched A Christmas Story about 6 or 7 times. That movie is
 simply one of the best Christmas movies of all time. At work on Christmas Eve,
