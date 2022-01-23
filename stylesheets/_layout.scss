@@ -236,6 +236,13 @@ h5, h6 {
               -ms-overflow-style: -ms-autohiding-scrollbar;
     }
   }
+
+  .footnotes {
+    font-size: $small-font-size;
+    border-top: 1px solid var(--hr-color);
+    margin-top: $spacing-unit;
+    padding-top: $spacing-unit;
+  }
 }
 
 /**

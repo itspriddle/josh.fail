@@ -10,8 +10,8 @@ outside of your web root so people can't access it. I keep all of mine in
 
 You can call the password file whatever you want, the most common is simply
 `.htpasswd`. The file is a simple database of usernames and password hashes.
-Each user has its own line; the user `user` with password `pass` *might have
-the following entry:
+Each user has its own line; the user `user` with password `pass` might[^1]
+have the following entry:
 
 ```
 user:PxaVD5/NdyKOw
@@ -43,8 +43,8 @@ prompted for a username and password.
 
 Easy?
 
-*Note: The hash will NOT always be the same - meaning if you encrypt the same
-string twice, you could get two entirely different hashes. This does not,
-however, affect Apache in any way.
+[^1]: Note: The hash will NOT always be the same - meaning if you encrypt the
+      same string twice, you could get two entirely different hashes. This
+      does not, however, affect Apache in any way.
 
 [1]: http://home.flash.net/cgi-bin/pw.pl

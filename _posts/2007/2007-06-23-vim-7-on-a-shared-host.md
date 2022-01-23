@@ -26,8 +26,8 @@ path looks like this:
 
     export PATH=$HOME/local/bin:$PATH
 
-That will look for any programs in $HOME/local/bin first. If they're not
-there, move on the the system defined path to look.
+That will look for any programs in `$HOME/local/bin` first. If they're not
+there, move on the system defined path to look.
 
 **Note:** When I did this, vim wasn't importing `/etc/vimrc`, so I had to copy
 it to my home dir.
