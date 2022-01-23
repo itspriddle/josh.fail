@@ -1,0 +1,14 @@
+{% for item in include.posts %}
+  <h2>{{ item.name }}</h2>
+  <ul>
+    {% for post in item.items %}
+      <li>
+        {{ post.date | date: "%b %d" }}: <a href="{{ post.url }}">{{ post.title | smartify }}</a>
+        {% if post.link %}
+        [<a href="{{ post.link }}">Link</a>]
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+  <hr class="stars">
+{% endfor %}
