@@ -57,7 +57,7 @@
   margin-bottom: $spacing-unit / 2;
   text-align: center;
 
-  a.brand {
+  a {
     font-weight: bold;
     color: $grey-color;
   }
@@ -92,6 +92,15 @@
  */
 .post:not(:last-child) {
   margin-bottom: $spacing-unit * 2;
+}
+
+.post-list {
+  margin-left: 0;
+  margin-bottom: $spacing-unit;
+  list-style: none;
+  li {
+    line-height: $base-line-height;
+  }
 }
 
 .post-header {
