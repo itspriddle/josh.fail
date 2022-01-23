@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Blog Posts
+title: Archive
 ---
 
-{% assign posts = site.categories.blog | group_by_exp: "post", "post.date | date: '%Y'" %}
+{% assign posts = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
 
 {% for item in posts %}
   <h2>{{ item.name }}</h2>
@@ -16,3 +16,4 @@ title: Blog Posts
   </ul>
   <hr class="stars">
 {% endfor %}
+
