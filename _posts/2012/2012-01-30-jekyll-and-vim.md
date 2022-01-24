@@ -1,5 +1,7 @@
 ---
 title: "Jekyll and Vim"
+category: dev
+redirect_from: /blog/2012/jekyll-and-vim.html
 ---
 
 I've been using Vim full time for a while now and wanted a decent way to

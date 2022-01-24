@@ -1,5 +1,7 @@
 ---
 title: jQuery, nothin' but love for ya
+category: dev
+redirect_from: /blog/2008/jquery-nothin-but-love-for-ya.html
 ---
 
 For the longest time, I was anti-javascript in just about every sense. Once I

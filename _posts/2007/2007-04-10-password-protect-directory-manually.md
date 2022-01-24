@@ -1,5 +1,7 @@
 ---
 title: Password Protect Directory (Manually)
+category: dev
+redirect_from: /blog/2007/password-protect-directory-manually.html
 ---
 
 Password protection with Apache is really a piece of cake.

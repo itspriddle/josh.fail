@@ -1,6 +1,8 @@
 ---
 title: "wp-cli on a shared host"
 date: "Fri Dec 04 18:05:05 -0500 2015"
+category: dev
+redirect_from: /blog/2015/wp-cli-on-a-shared-host.html
 ---
 
 Here's how I installed [wp-cli](http://wp-cli.org/) on a shared host (HostRocket).

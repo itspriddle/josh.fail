@@ -1,6 +1,8 @@
 ---
 title: "Useful git configs and aliases"
 date: "Wed Oct 30 23:03:28 -0400 2019"
+category: dev
+redirect_from: /blog/2019/useful-git-configs-and-aliases.html
 ---
 
 Here are some of my favorite git configs and aliases.

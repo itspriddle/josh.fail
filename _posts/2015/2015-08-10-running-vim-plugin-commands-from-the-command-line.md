@@ -1,6 +1,8 @@
 ---
 title: "Running vim plugin commands from the command line"
 date: "Mon Aug 10 01:02:25 -0400 2015"
+category: dev
+redirect_from: /blog/2015/running-vim-plugin-commands-from-the-command-line.html
 ---
 
 Vim allows you to run commands from the command line using the `+` or `-c`

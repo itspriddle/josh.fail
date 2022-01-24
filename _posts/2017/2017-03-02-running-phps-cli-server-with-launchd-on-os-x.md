@@ -1,6 +1,8 @@
 ---
 title: "Running PHP's CLI Server with launchd on OS X"
 date: "Thu Mar 02 00:00:10 -0500 2017"
+category: dev
+redirect_from: /blog/2017/running-phps-cli-server-with-launchd-on-os-x.html
 ---
 
 Here's how I configured [launchd][] to run WordPress via [PHP's Built-in web

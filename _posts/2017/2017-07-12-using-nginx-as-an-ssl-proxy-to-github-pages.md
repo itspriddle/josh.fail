@@ -1,6 +1,8 @@
 ---
 title: "Using Nginx as an SSL proxy to GitHub Pages"
 date: "Wed Jul 12 01:37:50 -0400 2017"
+category: dev
+redirect_from: /blog/2017/using-nginx-as-an-ssl-proxy-to-github-pages.html
 ---
 
 I love GitHub Pages, but the one feature they're missing is SSL support for

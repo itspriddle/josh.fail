@@ -1,6 +1,8 @@
 ---
 title: "How to print help text in shell scripts"
 date: "Sun Feb 03 00:36:22 -0500 2019"
+category: dev
+redirect_from: /blog/2019/how-to-print-help-text-in-shell-scripts.html
 ---
 
 Good shell scripts should come with documentation that is easy to access.

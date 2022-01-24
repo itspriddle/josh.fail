@@ -1,6 +1,8 @@
 ---
 date: "Tue Mar 19 23:30:53 -0400 2013"
 title: "Bash Arguments with $* and $@"
+category: dev
+redirect_from: /blog/2013/bash-arguments-with-dollar-star-and-dollar-at.html
 ---
 
 Today, I wondered what the difference between `$*` and `$@` in Bash were. This

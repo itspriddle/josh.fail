@@ -1,6 +1,8 @@
 ---
 date: Mon Mar 01 13:42:29 -0500 2010
 title: Fetching Emails with Redmine
+category: dev
+redirect_from: /blog/2010/fetching-emails-with-redmine.html
 ---
 
 Redmine has an awesome feature built in that lets you check an email account

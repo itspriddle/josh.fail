@@ -1,6 +1,8 @@
 ---
 title: "Customizing the Rails Console"
 date: "Thu Feb 12 23:39:35 -0500 2015"
+category: dev
+redirect_from: /blog/2015/customizing-the-rails-console.html
 ---
 
 Rails comes with the ability to customize the IRB console when you run `rails

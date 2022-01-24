@@ -1,5 +1,7 @@
 ---
 title: New Development(s)
+category: dev
+redirect_from: /blog/2007/new-developments.html
 ---
 
 Well, I've just finished building my first site with CodeIgniter, and I have

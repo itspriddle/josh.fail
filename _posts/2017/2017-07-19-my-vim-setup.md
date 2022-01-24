@@ -1,6 +1,8 @@
 ---
 title: "My Vim Setup"
 date: "Wed Jul 19 01:47:18 -0400 2017"
+category: dev
+redirect_from: /blog/2017/my-vim-setup.html
 ---
 
 This is my Vim config. There are many like it, but this one is mine.

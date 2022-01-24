@@ -1,6 +1,8 @@
 ---
 title: "Deluge and OpenVPN on a Raspberry Pi 4"
 date: "Tue Aug 06 00:34:26 -0400 2019"
+category: dev
+redirect_from: /blog/2019/deluge-and-openvpn-on-a-raspberry-pi-4.html
 ---
 
 I recently got a new Raspberry Pi 4. Since it has gigabit ethernet and USB 3,

@@ -1,6 +1,8 @@
 ---
 title: "Shell Tricks: Colorized output"
 date: "Tue Feb 28 18:09:00 -0500 2017"
+category: dev
+redirect_from: /blog/2017/shell-tricks-colorized-output.html
 ---
 
 This is part 3 of my series on tricks I've used in shell scripts. In this

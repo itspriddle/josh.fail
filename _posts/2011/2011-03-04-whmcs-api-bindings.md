@@ -1,5 +1,7 @@
 ---
 title: WHMCS API Bindings
+category: dev
+redirect_from: /blog/2011/whmcs-api-bindings.html
 ---
 
 I recently extracted some of my DotBlock work to create WHMCS API Bindings

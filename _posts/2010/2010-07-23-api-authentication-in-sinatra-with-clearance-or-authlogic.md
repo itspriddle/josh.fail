@@ -1,6 +1,8 @@
 ---
 date: Fri Jul 23 14:16:49 -0400 2010
 title: API authentication in Sinatra with Clearance or Authlogic
+category: dev
+redirect_from: /blog/2010/api-authentication-in-sinatra-with-clearance-or-authlogic.html
 ---
 
 I needed HTTP basic authentication for a [Sinatra][] app running as a Rails

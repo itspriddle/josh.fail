@@ -1,6 +1,8 @@
 ---
 date: Sun Mar 14 19:13:53 -0400 2010
 title: CodeIgniter Database Library Extraction
+category: dev
+redirect_from: /blog/2010/codeigniter-database-library-extraction.html
 ---
 
 I've used [CodeIgniter](http://codeigniter.com/) in several PHP projects, and

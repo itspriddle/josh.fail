@@ -1,6 +1,8 @@
 ---
 title: "Viscosity CLI"
 date: "Wed Dec 02 23:19:33 -0500 2015"
+category: dev
+redirect_from: /blog/2015/viscosity-cli.html
 ---
 
 I created a small CLI for controlling VPN connections with [Viscosity.app][].

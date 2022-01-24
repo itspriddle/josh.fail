@@ -1,6 +1,8 @@
 ---
 title: "Warn when macOS adds path_helper to zprofile and profile on OS updates"
 date: "Fri Jun 05 17:16:18 -0400 2020"
+category: dev
+redirect_from: /blog/2020/warn-when-macos-adds-path-helper-to-zprofile-and-profile-on-os-updates.html
 ---
 
 If you like to manually set your `$PATH` on macOS, you may have updated

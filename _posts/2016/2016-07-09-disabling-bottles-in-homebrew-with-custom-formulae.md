@@ -1,6 +1,8 @@
 ---
 title: "Disabling bottles in Homebrew with custom formulae"
 date: "Sat Jul 09 23:28:35 -0400 2016"
+category: dev
+redirect_from: /blog/2016/disabling-bottles-in-homebrew-with-custom-formulae.html
 ---
 
 Homebrew recently added bottles for Vim/MacVim -- but they depend on

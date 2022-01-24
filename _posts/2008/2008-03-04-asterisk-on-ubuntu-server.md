@@ -1,5 +1,7 @@
 ---
 title: Asterisk on Ubuntu Server
+category: dev
+redirect_from: /blog/2008/asterisk-on-ubuntu-server.html
 ---
 
 I know I've blogged this before, but these are the steps I took most recently

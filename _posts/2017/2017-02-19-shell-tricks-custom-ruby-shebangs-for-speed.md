@@ -1,6 +1,8 @@
 ---
 title: "Shell Tricks: Custom ruby shebangs for speed"
 date: "Sun Feb 19 01:48:42 -0500 2017"
+category: dev
+redirect_from: /blog/2017/shell-tricks-custom-ruby-shebangs-for-speed.html
 ---
 
 This is part 2 of my series on tricks I've used in shell scripts. In this

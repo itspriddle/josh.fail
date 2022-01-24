@@ -1,6 +1,8 @@
 ---
 date: "Fri Sep 21 17:35:55 -0400 2012"
 title: "Validating Serialized Attributes in Rails"
+category: dev
+redirect_from: /blog/2012/validating-serialized-attributes-in-rails.html
 ---
 
 ActiveRecord provides a `serialize` method, which can be used to transparently

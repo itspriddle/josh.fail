@@ -1,6 +1,8 @@
 ---
 date: "Fri Feb 08 20:39:59 -0500 2013"
 title: "Running RSpec in Vim"
+category: dev
+redirect_from: /blog/2013/running-rspec-in-vim.html
 ---
 
 Today, I finally got `:make` working for RSpec files in Vim.

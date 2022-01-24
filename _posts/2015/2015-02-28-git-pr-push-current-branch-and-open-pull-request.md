@@ -1,6 +1,8 @@
 ---
 title: "git pr: push current branch and open pull request"
 date: "Sat Feb 28 16:57:47 -0500 2015"
+category: dev
+redirect_from: /blog/2015/git-pr-push-current-branch-and-open-pull-request.html
 ---
 
 I use the awesome [hub][] utility to open pull requests on GitHub from the

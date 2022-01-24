@@ -1,5 +1,7 @@
 ---
 title: tar over ssh
+category: dev
+redirect_from: /blog/2007/tar-over-ssh.html
 ---
 
 I figured out this easy way to make a backup over ssh.

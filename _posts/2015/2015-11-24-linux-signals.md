@@ -1,6 +1,8 @@
 ---
 title: "Linux Signals"
 date: "Tue Nov 24 19:00:00 -0500 2015"
+category: dev
+redirect_from: /blog/2015/linux-signals.html
 ---
 
 I found a great list of signals in Linux.

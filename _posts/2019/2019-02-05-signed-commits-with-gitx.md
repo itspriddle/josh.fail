@@ -1,6 +1,8 @@
 ---
 title: "Signed commits with GitX"
 date: "Tue Feb 05 01:11:29 -0500 2019"
+category: dev
+redirect_from: /blog/2019/signed-commits-with-gitx.html
 ---
 
 I recently setup Git to use my [Keybase][] GPG key to automatically sign my

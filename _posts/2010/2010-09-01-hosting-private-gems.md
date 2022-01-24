@@ -1,6 +1,8 @@
 ---
 date: Wed Sep 01 01:39:09 -0400 2010
 title: "Hosting Private Gems"
+category: dev
+redirect_from: /blog/2010/hosting-private-gems.html
 ---
 
 I've written a few gems for work that I can't host on RubyGems. It turned

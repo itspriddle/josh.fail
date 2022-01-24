@@ -1,5 +1,7 @@
 ---
 title: Reverting a Git Pull
+category: dev
+redirect_from: /blog/2021/reverting-a-git-pull.html
 ---
 
 If you ran a `git pull` and need to revert, you can use `git reflog` to find

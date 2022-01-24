@@ -1,6 +1,8 @@
 ---
 date: "Thu May 16 18:27:38 -0400 2013"
 title: "SSH Escape Sequences"
+category: dev
+redirect_from: /blog/2013/ssh-escape-sequences.html
 ---
 
 Today, I learned about a bunch of escape sequences that SSH supports.

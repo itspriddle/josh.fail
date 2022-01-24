@@ -1,5 +1,7 @@
 ---
 title: "Vim 7.3 on a shared host"
+category: dev
+redirect_from: /blog/2012/vim-7-3-on-a-shared-host.html
 ---
 
 A [few years ago](/blog/2007/vim-7-on-a-shared-host.html) I blogged about how

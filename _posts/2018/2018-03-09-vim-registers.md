@@ -1,6 +1,8 @@
 ---
 title: "Vim Registers"
 date: "Fri Mar 09 23:17:20 -0500 2018"
+category: dev
+redirect_from: /blog/2018/vim-registers.html
 ---
 
 I found this great writeup on Vim registers today.

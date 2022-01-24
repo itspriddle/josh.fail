@@ -1,5 +1,7 @@
 ---
 title: Theming Liberty Sports Group with WordPress
+category: dev
+redirect_from: /blog/2011/liberty-sports-overview.html
 ---
 
 I was contracted recently by [Allusis Productions](http://allusis.net) to

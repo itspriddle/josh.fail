@@ -1,6 +1,8 @@
 ---
 title: "Vim cheatsheets"
 date: "Fri Dec 13 13:24:41 -0500 2019"
+category: dev
+redirect_from: /blog/2019/vim-cheatsheets.html
 ---
 
 A big list of Vim cheatsheets from [reddit.com/r/vim](https://reddit.com/r/vim/):

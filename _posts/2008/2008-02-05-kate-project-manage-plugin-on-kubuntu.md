@@ -1,5 +1,7 @@
 ---
 title: Kate Project Manager Plugin on Kubuntu
+category: dev
+redirect_from: /blog/2008/kate-project-manage-plugin-on-kubuntu.html
 ---
 
 It was a pain, but this ought to work:

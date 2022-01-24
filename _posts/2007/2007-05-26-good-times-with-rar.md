@@ -1,5 +1,7 @@
 ---
 title: Good times with rar
+category: dev
+redirect_from: /blog/2007/good-times-with-rar.html
 ---
 
 So I decided today I was going to make a DVD backup of my music collection.

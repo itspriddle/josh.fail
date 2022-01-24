@@ -1,6 +1,8 @@
 ---
 date: "Tue Feb 05 19:57:11 -0500 2013"
 title: "Fun With Jekyll Posts and Vim Macros"
+category: dev
+redirect_from: /blog/2013/fun-with-jekyll-posts-and-vim-macros.html
 ---
 
 Yesterday, I decided I wanted to edit a bunch of Jekyll posts. Specifically,

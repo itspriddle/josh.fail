@@ -1,0 +1,7 @@
+---
+layout: page
+title: Dev Posts
+---
+
+{% assign posts = site.categories.dev | group_by_exp: "post", "post.date | date: '%Y'" %}
+{% include post-list.html posts=posts %}

@@ -1,5 +1,7 @@
 ---
 title: "Wage intergalactic war on your Titanium Mobile apps with TiFighter"
+category: dev
+redirect_from: /blog/2011/wage-intergalactic-war-on-your-titanium-mobile-apps-with-ti-fighter.html
 ---
 
 Over the last 10 months, I've had the opportunity to work with Titanium
