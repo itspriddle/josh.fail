@@ -5,7 +5,7 @@ category: dev
 ---
 
 I was poking through old WordPress backups I have and noticed a strange
-`wp-content/85060.php` file. Turns out one of my sites was backed back in 2006
+`wp-content/85060.php` file. Turns out one of my sites was hacked back in 2006
 or 2007 and I had never noticed.
 
 The file looks to be a surveillance script of some sort that sends server
