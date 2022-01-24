@@ -21,6 +21,17 @@
   &:visited {
     color: var(--color-fg);
   }
+
+  img.logo {
+    height: 20px;
+    filter: invert(40%);
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .site-title img {
+    filter: invert(70%);
+  }
 }
 
 .site-nav {
