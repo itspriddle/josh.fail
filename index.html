@@ -11,7 +11,7 @@ layout: default
   {% endif %}
 
   {% for page in posts %}
-    {% unless page.category == "archive" or page.archive? %}
+    {% unless page.category == "archive" or page.archive %}
     {% include post.html homepage=true body=page.content %}
     {% endunless %}
   {% endfor %}
