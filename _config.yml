@@ -24,8 +24,12 @@ timezone: 'America/New_York'
 
 # Permalink settings
 permalink: ':categories/:year/:title.html'
+
+# Pagination settings Tried enabling this on 2022-01-24 and found it requires
+# moving from post.html => post/index.html for permalinks. Not sure I want to
+# just yet
 # paginate: 10
-# pagination_path: 'blog/page:num'
+# paginate_path: 'browse/page:num'
 
 # Files to exclude
 exclude:
@@ -63,3 +67,9 @@ defaults:
     values:
       layout: "post"
       category: "blog"
+  # -
+  #   scope:
+  #     path: ""
+  #     category: dev
+  #   values:
+  #     paginate_path: 'dev/browse/page:num'

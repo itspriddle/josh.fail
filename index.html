@@ -4,10 +4,17 @@ layout: default
 
 <div class="home">
 
-  {% for page in site.posts %}
+  {% if site.paginate %}
+    {% assign posts = paginator.posts %}
+  {% else %}
+    {% assign posts = site.posts %}
+  {% endif %}
+
+  {% for page in posts %}
     {% unless page.category == "archive" or page.archive? %}
     {% include post.html homepage=true body=page.content %}
     {% endunless %}
   {% endfor %}
 
+  {% include paginator.html %}
 </div>
