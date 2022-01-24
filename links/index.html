@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Links
+intro: Links to things I think are cool --- or want to remember.
 ---
 
 {% assign posts = site.categories.links | group_by_exp: "post", "post.date | date: '%Y'" %}
+{% include post-list-nav.html current="links" intro=page.intro %}
 {% include post-list.html posts=posts %}

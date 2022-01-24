@@ -1,0 +1,27 @@
+<p>
+  {% if include.current == "dev" %}
+    <strong>Dev</strong>
+  {% else %}
+    <a href="{{ "/dev/" | relative_url }}">Dev</a>
+  {% endif %}
+  ::
+  {% if include.current == "blog" %}
+    <strong>Blog</strong>
+  {% else %}
+    <a href="{{ "/blog/" | relative_url }}">Blog</a>
+  {% endif %}
+  ::
+  {% if include.current == "links" %}
+    <strong>Links</strong>
+  {% else %}
+    <a href="{{ "/links/" | relative_url }}">Links</a>
+  {% endif %}
+  ::
+  {% if include.current == "archive" %}
+    <strong>All</strong>
+  {% else %}
+    <a href="{{ "/archive/" | relative_url }}">All</a>
+  {% endif %}
+</p>
+
+<p>{{ page.intro | smartify }}</p>

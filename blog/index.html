@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Blog Posts
+intro: My non-programming ramblings.
 ---
 
 {% assign posts = site.categories.blog | group_by_exp: "post", "post.date | date: '%Y'" %}
+{% include post-list-nav.html current="blog" intro=page.intro %}
 {% include post-list.html posts=posts %}
