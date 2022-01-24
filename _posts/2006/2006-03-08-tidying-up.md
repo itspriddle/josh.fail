@@ -1,5 +1,6 @@
 ---
 title: Tidying up
+category: archive
 ---
 
 Just spent a while updating some things around the site. Added a couple

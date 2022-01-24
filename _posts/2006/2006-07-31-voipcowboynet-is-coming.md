@@ -1,5 +1,6 @@
 ---
 title: voipcowboy.net is coming...
+category: archive
 ---
 
 It is indeed [more or less][1] here. Sign up and bomb the comments until I'm

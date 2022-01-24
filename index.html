@@ -5,7 +5,9 @@ layout: default
 <div class="home">
 
   {% for page in site.posts %}
+    {% unless page.category == "archive" or page.archive? %}
     {% include post.html homepage=true body=page.content %}
+    {% endunless %}
   {% endfor %}
 
 </div>

@@ -1,5 +1,6 @@
 ---
 title: Nevercraft.net &#187; Version 3
+category: archive
 ---
 
 After messing around with this layout for over a year, I've recreated it yet

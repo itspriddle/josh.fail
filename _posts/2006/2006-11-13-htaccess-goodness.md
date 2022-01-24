@@ -1,5 +1,6 @@
 ---
 title: .htaccess goodness
+category: archive
 ---
 
 Threw in a few RewriteRules for the portfolio pages as well as the other links

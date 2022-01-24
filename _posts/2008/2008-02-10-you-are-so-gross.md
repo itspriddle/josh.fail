@@ -1,5 +1,6 @@
 ---
 title: You are so gross...
+category: archive
 ---
 
 Since I can't stand looking at the layout anymore, I've redirected

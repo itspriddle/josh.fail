@@ -1,5 +1,6 @@
 ---
 title: A shoutbox is always fun...
+category: archive
 ---
 
 Yeah I made a shoutbox from 2 tutorials from [Spoono][1]. They were good but

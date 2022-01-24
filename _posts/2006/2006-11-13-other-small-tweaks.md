@@ -1,5 +1,6 @@
 ---
 title: Other Small Tweaks
+category: archive
 ---
 
 I have just added several new RSS feeds to make editing this site easier for
