@@ -63,18 +63,6 @@ $on-laptop:        800px;
     }
 }
 
-@mixin set-dark-vars() {
-  :root.dark {
-    @content;
-  }
-
-  @media (prefers-color-scheme: dark) {
-    :root {
-      @content;
-    }
-  }
-}
-
 @import
   "fonts",
   "base",
