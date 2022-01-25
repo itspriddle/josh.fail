@@ -1,6 +1,8 @@
 ---
 date: "Sat Feb 02 13:55:21 -0500 2013"
 title: "All programming languages need a REPL"
+category: dev
+redirect_from: /blog/2013/all-programming-languages-need-a-repl.html
 ---
 
 My girlfriend has recently begun learning Java for college. The shittyness of

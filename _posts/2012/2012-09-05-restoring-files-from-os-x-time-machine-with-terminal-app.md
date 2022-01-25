@@ -1,6 +1,8 @@
 ---
 date: "Wed Sep 05 23:40:59 -0400 2012"
 title: "Restoring files from OS X Time Machine with Terminal.app"
+category: dev
+redirect_from: /blog/2012/restoring-files-from-os-x-time-machine-with-terminal-app.html
 ---
 
 I use Time Machine on OS X to keep backups of my hard drive. Overall it is a
