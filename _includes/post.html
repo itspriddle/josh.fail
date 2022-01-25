@@ -1,48 +1,51 @@
+{% assign post_title = page.title | smartify %}
+{% assign post_url = page.url | relative_url %}
+{% assign post_date = page.date | date: "%b %-d, %Y" %}
 <article class="post">
 
   <header class="post-header">
     <h1 class="post-title">
       {% if include.homepage %}
-        <a href="{{ page.url | relative_url }}">{{ page.title | smartify }}</a>
+        <a href="{{ post_url }}" title="{{ post_title }}">
+          {{ post_title }}
+        </a>
       {% else %}
-        {{ page.title | smartify }}
+        {{ post_title }}
       {% endif %}
     </h1>
+
     <p class="post-meta">
       {% if include.homepage %}
-        <a href="{{ page.url | relative_url }}">{{ page.date | date: "%b %-d, %Y" }}</a>
+        <a href="{{ post_url }}" title="{{ post_title }}">{{ post_date }}</a>
       {% else %}
-        {{ page.date | date: "%b %-d, %Y" }}
+        {{ post_date }}
       {% endif %}
 
       {% if page.link %}
         • Link:
-        <a href="{{ page.link }}">
-          {{ page.link | remove_first: "http://" | remove_first: "https://" | split: "/" | first }}
-        </a>
+        <a href="{{ page.link }}" title="{{ page.link }}">{{ page.link | remove_first: "http://" | remove_first: "https://" | split: "/" | first }}</a>
       {% endif %}
 
-      <!--
-      • Category: <a href="{{ page.category | append: "/" | relative_url }}">{{ page.category }}</a>
-      -->
+
+      {% unless include.homepage %}
+      • Category: <a href="{{ page.category | append: "/" | relative_url }}">{{ page.category | capitalize }}</a>
 
       <!--
-      {% unless include.homepage %}
       <span class="github-post-links">
         •
         <a href="{{ site.github.repository_url }}/blob/{{ site.github.source.branch }}/{{ page.path }}">View on GitHub</a>
         •
         <a href="{{ site.github.repository_url }}/raw/{{ site.github.source.branch }}/{{ page.path }}">View Raw</a>
       </span>
-      {% endunless %}
       -->
+      {% endunless %}
     </p>
   </header>
 
   <div class="post-content">
     {% if include.homepage and (page.excerpt != include.body) %}
     {{ page.excerpt }}
-    <p><a href="{{ page.url | relative_url }}">Read more &rarr;</a></p>
+    <p><a href="{{ post_url }}">Read more &rarr;</a></p>
     {% else %}
     {{ include.body }}
     {% endif %}
