@@ -1,0 +1,415 @@
+---
+title: "Fun with jq and Tautulli"
+date: "Tue Jan 25 01:33:22 -0500 2022"
+category: dev
+---
+
+A while ago, I wrote a CLI script to display what my Plex server is playing
+using [jq][1] and the [Tautulli][2] API. Check it out if you use Plex/Tautulli
+-- or if you want to see some moderately advanced jq in action.
+
+`tautulli-status` uses a Tautulli instance's API to check what your Plex
+server is currently playing and pretty prints it:
+
+```
+% tautulli-status
+------------------------------------------------------------------------------
+
+Name:      Arrested Development - S02E13 - Motherboy XXX
+Duration:  00:21:55
+Progress:  73% (00:16:00 watched - 00:05:55 remaining)
+Player:    Plex for Apple TV (Office Apple TV @ 10.0.1.102)
+State:     Paused
+Air Date:  Mar 13, 2005
+Rating:    TV-14
+Summary:   Lucille abducts George Michael for a mother-son dance, Buster
+           adjusts to having a hook for a hand and Gob reunites with his
+           estranged wife. Also, Tobias stars as George Sr. in a biopic about
+           the Bluth family, which causes Lindsay to become more attracted to
+           him.
+
+------------------------------------------------------------------------------
+
+Name:      Bob's Burgers - S01E06 - Sheesh! Cab, Bob?
+Duration:  00:21:41
+Progress:  93% (00:20:10 watched - 00:01:31 remaining)
+Player:    Plex for Apple TV (Bedroom Apple TV @ 10.0.1.103)
+State:     Playing
+Air Date:  Mar 6, 2011
+Rating:    TV-14
+Summary:   Tina is desperate to get her first kiss at her 13th birthday party.
+           But after Louise breaks the deep fryer, Bob takes a second job as a
+           late-night cab driver to pay for Tina’s party. Things keep getting
+           worse for Bob when the parents of Tina’s crush refuse to let their
+           son attend the party, and Bob has to do everything in his power to
+           save his daughter’s big day.
+```
+
+The script is below. If you want to use it yourself, toss in on your `$PATH`
+(maybe at `/usr/local/bin`, then head over to your Tautulli settings and grab
+an API key. To setup the config file:
+
+```
+jq --null-input \
+  --arg api_key "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa" \
+  --arg api_url "https://tautulli.local/api/v2\" \
+  '$ARGS.named' > "${XDG_CONFIG_HOME:-$HOME/.config/tautulli-stats.json"
+
+chmod 600 "${XDG_CONFIG_HOME:-$HOME/.config/tautulli-stats.json"
+```
+
+Full script (also [on GitHub][3]):
+
+```bash
+#!/usr/bin/env bash
+# Usage: tautulli-status [--text|--json|--raw]
+# Summary: See what's playing on Plex using the Tautulli API
+#
+# NAME
+#   tautulli-status -- see what's playing on Plex using the Tautulli API
+#
+# SYNOPSIS
+#   tautulli-status <options>
+#
+# DESCRIPTION
+#   See what's playing on Plex using the Tautulli API. Requires a running
+#   Tautulli instance.
+#
+# OPTIONS
+#   -p, --plain
+#       Don't colorize output.
+#
+#   -t, --text
+#       Show results in plain text. This is the default format.
+#
+#   -j, --json
+#       Show results in JSON format. Note that the format differs from the
+#       standard Tautulli API payload -- use `--raw` to obtain the raw JSON
+#       payload from Tautulli.
+#
+#   -r, --raw
+#       Show raw JSON payload from the Tautulli API.
+#
+# CONFIGURATION
+#   Configuration is stored in `$HOME/.config/tautulli-stats.json` with:
+#
+#   {
+#     "api_key": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+#     "api_url": "https://tautulli.local/api/v2"
+#   }
+
+# Example Output:
+#
+# ------------------------------------------------------------------------------
+#
+# Name:      Arrested Development - S02E13 - Motherboy XXX
+# Duration:  00:21:55
+# Progress:  73% (00:16:00 watched - 00:05:55 remaining)
+# Player:    Plex for Apple TV (Office Apple TV @ 10.0.1.102)
+# State:     Paused
+# Air Date:  Mar 13, 2005
+# Rating:    TV-14
+# Summary:   Lucille abducts George Michael for a mother-son dance, Buster
+#            adjusts to having a hook for a hand and Gob reunites with his
+#            estranged wife. Also, Tobias stars as George Sr. in a biopic about
+#            the Bluth family, which causes Lindsay to become more attracted to
+#            him.
+#
+# ------------------------------------------------------------------------------
+#
+# Name:      Bob's Burgers - S01E06 - Sheesh! Cab, Bob?
+# Duration:  00:21:41
+# Progress:  93% (00:20:10 watched - 00:01:31 remaining)
+# Player:    Plex for Apple TV (Bedroom Apple TV @ 10.0.1.103)
+# State:     Playing
+# Air Date:  Mar 6, 2011
+# Rating:    TV-14
+# Summary:   Tina is desperate to get her first kiss at her 13th birthday party.
+#            But after Louise breaks the deep fryer, Bob takes a second job as a
+#            late-night cab driver to pay for Tina’s party. Things keep getting
+#            worse for Bob when the parents of Tina’s crush refuse to let their
+#            son attend the party, and Bob has to do everything in his power to
+#            save his daughter’s big day.
+
+if [[ "$DEBUG" ]]; then
+  export PS4='+ [${BASH_SOURCE##*/}:${LINENO}] '
+  set -x
+fi
+
+set -euo pipefail
+
+[[ -t 1 ]] && ANSI=1
+
+# Formats activity from Tautulli API.
+#
+# $1 - format, "raw", "text", or "json"
+format() {
+  local colorize="--monochrome-output"
+
+  [[ "${ANSI:-}" = "1" ]] && colorize="--color-output"
+
+  if [[ "$1" = "raw" ]]; then
+    cat
+    echo
+  else
+    jq "$colorize" \
+      --arg ansi "${ANSI:-}" \
+      --arg format "$1" \
+      --raw-output '
+def capitalize(str):
+  str | sub("^(?<char>.)"; "\(.char | ascii_upcase)")
+  ;
+
+def ansi(code; str):
+  if $ansi == "1" then
+    "\u001B[\(code)m\(str)\u001B[0m"
+  else
+    str
+  end
+  ;
+
+def bold(str):
+  ansi(1; str)
+  ;
+
+def blue(str):
+  ansi(34; str)
+  ;
+
+def bar:
+  bold("------------------------------------------------------------------------------")
+  ;
+
+def trim:
+  . |
+    gsub("^(\\n+|\\s+)"; "") |
+    gsub("(\\n|\\s+)$"; "")
+  ;
+
+def normalize_whitespace:
+  . |
+    gsub("\\s+"; " ") |
+    trim
+  ;
+
+def wrap:
+  (11) as $indent |
+  (78 - $indent) as $length |
+
+  . | gsub("(?<line>.{1,\($length)})(\\s+|$)"; "\(.line)\n\(" " * $indent // "")")
+  ;
+
+def round(decimal):
+  (decimal | tostring | split(".")) as $fields |
+  ($fields[0] | tonumber) as $integer |
+  ("0.\($fields[1] // 0)" | tonumber) as $decimal |
+
+  if $decimal >= 0.5 then
+    $integer + 1
+  else
+    $integer
+  end
+  ;
+
+def zero_pad(i):
+  if i != "" and (i | tonumber) < 10 then
+    "0\(i)"
+  else
+    "\(i)"
+  end
+  ;
+
+def seconds_to_time(seconds):
+  (seconds | tonumber / 3600 | floor) as $hours |
+  (seconds | tonumber % 3600 / 60 | floor) as $minutes |
+  (seconds | tonumber % 60) as $seconds |
+
+  "\(zero_pad($hours)):\(zero_pad($minutes)):\(zero_pad($seconds))"
+  ;
+
+def format_state(state):
+  capitalize(state)
+  ;
+
+def map_now_playing:
+  . | sort_by(.ip_address) | map(
+    (
+      (.media_type == "episode") as $is_episode |
+      (.parent_media_index | tostring) as $season |
+      (.media_index | tostring) as $episode |
+
+      if ($is_episode and ($season != "") and ($episode != "")) then
+        "S\(zero_pad($season))E\(zero_pad($episode))"
+      else
+        null
+      end
+    ) as $episode_code |
+
+    (
+      if .media_type == "episode" then
+        "\(.grandparent_title) - \($episode_code) - \(.title)"
+      else
+        .title
+      end
+    ) as $name |
+
+    (
+      round(.duration | tonumber / 1000)
+    ) as $duration_seconds |
+
+    (
+      seconds_to_time($duration_seconds)
+    ) as $duration |
+
+    (
+      round($duration_seconds * (.progress_percent | tonumber / 100))
+    ) as $progress_seconds |
+
+    (
+      seconds_to_time($progress_seconds)
+    ) as $progress |
+
+    (
+      round($duration_seconds - $progress_seconds)
+    ) as $remaining_seconds |
+
+    (
+      seconds_to_time($remaining_seconds)
+    ) as $remaining |
+
+    (
+      if .media_type == "episode" then
+        .grandparent_thumb
+      else
+        .thumb
+      end
+    ) as $thumb |
+
+    {
+      name: $name,
+      date: .originally_available_at,
+      ip_address,
+      player,
+      device,
+      product,
+      media_type,
+      grandparent_title,
+      parent_title,
+      title,
+      full_title,
+      content_rating,
+      thumb: $thumb,
+      state: format_state(.state),
+      summary: .summary | normalize_whitespace,
+      progress_percent: .progress_percent | tonumber,
+      progress_seconds: $progress_seconds,
+      progress: $progress,
+      duration: $duration,
+      duration_seconds: $duration_seconds,
+      remaining: $remaining,
+      remaining_seconds: $remaining_seconds,
+      episode_code: $episode_code
+    }
+  ) |
+  if $format == "text" then
+    map(
+      [
+        "\(bar)",
+        "",
+        "\(blue(bold("Name:")))      \(.name | wrap | trim)",
+        "\(blue(bold("Duration:")))  \(.duration)",
+        "\(blue(bold("Progress:")))  \(.progress_percent)% (\(.progress) watched - \(.remaining) remaining)",
+        "\(blue(bold("Player:")))    \(.product) (\(.player) @ \(.ip_address))",
+        "\(blue(bold("State:")))     \(.state)",
+        "\(blue(bold("Air Date:")))  \("\(.date)T00:00:00Z" | fromdate | strftime("%b %-d, %Y"))",
+        "\(blue(bold("Rating:")))    \(.content_rating)",
+        "\(blue(bold("Summary:")))   \(.summary | wrap | trim)"
+      ] | join("\n")
+    ) | join("\n\n")
+  else
+    .
+  end
+  ;
+
+def process(sessions):
+  # Start processing
+  if (sessions | length) == 0 then
+    if $format == "text" then
+      "Nothing playing"
+    else
+      []
+    end
+  else
+    sessions | map_now_playing
+  end
+  ;
+
+process(.response.data.sessions)
+'
+  fi
+}
+
+# Prints help text from the top of this file
+#
+# $1 - h to show one line usage, otherwise print full help
+print_help() {
+  sed -ne '/^#/!q;s/^#$/# /;/^# /s/^# //p' < "$0" |
+    awk -v f="$1" 'f == "h" && $1 == "Usage:" { print; exit }; f != "h"'
+
+  return 1
+}
+
+# Get activity from Tautulli API
+get_activity() {
+  local file="${XDG_CONFIG_HOME:-$HOME/.config}/tautulli-stats.json" \
+    raw api_key api_url
+
+  if [[ -r "$file" ]]; then
+    raw="$(< "$file")"
+    api_key="$(jq -r .api_key <<< "$raw")"
+    api_url="$(jq -r .api_url <<< "$raw")"
+  else
+    {
+      echo "${0##*/}: Error, configuration not found!"
+      echo
+      echo "Create \`$file' with:"
+      echo
+      echo "  jq --null-input \\"
+      echo "    --arg api_key \"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\" \\"
+      echo "    --arg api_url \"https://tautulli.local/api/v2\" \\"
+      echo "    '\$ARGS.named' > $file"
+    } >&2
+    return 1
+  fi
+
+  curl --silent "${api_url}?apikey=${api_key}&cmd=get_activity"
+}
+
+main() {
+  local fmt
+
+  while [[ "$#" -gt 0 ]]; do
+    case "$1" in
+      -p | --plain) ANSI=0; shift;;
+      -r | --raw) fmt="raw"; shift;;
+      -j | --json) fmt="json"; shift;;
+      -t | --text) fmt="text"; shift;;
+      -h | --help) print_help "${1//-/}"; shift;;
+      *) echo "${0##*/}: Invalid option '$1'" >&2; return 1;;
+    esac
+  done
+
+  if ! type jq &>/dev/null; then
+    echo "${0##*/}: Error, jq not found!" >&2
+    return 1
+  fi
+
+  get_activity | format "${fmt:-text}"
+}
+
+main "$@"
+```
+
+[1]: https://stedolan.github.io/jq/
+[2]: https://tautulli.com
+[3]: https://github.com/itspriddle/dotfiles/blob/0de5cc12/bin/tautulli-status
