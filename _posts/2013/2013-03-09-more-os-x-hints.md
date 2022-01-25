@@ -4,6 +4,8 @@ link: http://mac.appstorm.net/roundups/utilities-roundups/40-super-secret-os-x-l
 title: "More OS X Hints"
 category: links
 redirect_from: /blog/2013/more-os-x-hints.html
+archive: true
+dead_link: true
 ---
 
 I just came across [this list]({{ page.link }}) of OS X Lion tricks and tips.

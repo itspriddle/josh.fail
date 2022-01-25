@@ -4,6 +4,8 @@ link: http://merbist.com/2012/04/04/building-and-implementing-a-single-sign-on-s
 title: "Building a single sign on solution"
 category: links
 redirect_from: /blog/2012/building-a-single-sign-on-solution.html
+archive: true
+dead_link: true
 ---
 
 Blargging this so I remember to read it later :)
