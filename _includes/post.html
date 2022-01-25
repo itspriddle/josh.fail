@@ -16,7 +16,10 @@
       {% endif %}
 
       {% if page.link %}
-        • Link: <a href="{{ page.link }}">{{ page.link | truncate: 60 }}</a>
+        • Link:
+        <a href="{{ page.link }}">
+          {{ page.link | remove_first: "http://" | remove_first: "https://" | split: "/" | first }}
+        </a>
       {% endif %}
 
       <!--
