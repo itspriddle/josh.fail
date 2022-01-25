@@ -1,4 +1,10 @@
 <p>
+  {% if include.current == "archive" %}
+    <strong>All</strong>
+  {% else %}
+    <a href="{{ "/archive/" | relative_url }}">All</a>
+  {% endif %}
+  ::
   {% if include.current == "dev" %}
     <strong>Dev</strong>
   {% else %}
@@ -15,12 +21,6 @@
     <strong>Links</strong>
   {% else %}
     <a href="{{ "/links/" | relative_url }}">Links</a>
-  {% endif %}
-  ::
-  {% if include.current == "archive" %}
-    <strong>All</strong>
-  {% else %}
-    <a href="{{ "/archive/" | relative_url }}">All</a>
   {% endif %}
 </p>
 
