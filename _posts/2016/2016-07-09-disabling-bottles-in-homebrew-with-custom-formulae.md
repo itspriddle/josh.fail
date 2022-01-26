@@ -5,7 +5,7 @@ category: dev
 redirect_from: /blog/2016/disabling-bottles-in-homebrew-with-custom-formulae.html
 ---
 
-Homebrew recently added bottles for Vim/MacVim -- but they depend on
+Homebrew recently added bottles for Vim/MacVim --- but they depend on
 Homebrew-installed Ruby, Python, and Perl. I prefer to build these from source
 so they will use whatever versions of these dependencies currently installed
 on my system. Instead of constantly remembering `brew install -s vim` to

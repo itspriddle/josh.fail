@@ -30,6 +30,6 @@ remains one of my favorite projects I've worked on.
 asking anyone and fully expected it to never be used.
 
 **Biggest Triumph:** Getting approval and company resources to do this well
-was great -- but the best part was how much the recordings (shared with
+was great --- but the best part was how much the recordings (shared with
 parental permission) made everyone in the office laugh.
 -->

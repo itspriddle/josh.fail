@@ -93,6 +93,6 @@ This is a more detailed description of my new feature."
 ```
 
 I've been using this script several times a week for about 3 years now, and it
-has worked great for me -- I hope it helps someone else!
+has worked great for me --- I hope it helps someone else!
 
 [hub]: https://github.com/github/hub

@@ -6,5 +6,5 @@ category: links
 redirect_from: /blog/2012/fun-with-vector-icons.html
 ---
 
-This was an interesting article about resizing vector icons -- in short, the
+This was an interesting article about resizing vector icons --- in short, the
 details count, and SVG is no replacement for a designer's keen eye.

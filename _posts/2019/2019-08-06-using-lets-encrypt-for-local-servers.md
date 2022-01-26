@@ -15,7 +15,7 @@ things up.
 I'll assume you already have DigitalOcean setup and hosting DNS for your
 domain. You just need to create an API token with read/write access (click the
 API link on <https://cloud.digitalocean.com>). Save this token somewhere safe
--- DigitalOcean does not allow you to view it again.
+--- DigitalOcean does not allow you to view it again.
 
 ### Certbot Installation
 

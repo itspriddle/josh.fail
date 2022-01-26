@@ -87,7 +87,7 @@ showed the site at different dates. Cuz you know, nostalgia is fun :)
 
 ## MySQL, It's Not You, It's Me
 
-I really love MySQL -- it's been the only database I've used in production
+I really love MySQL --- it's been the only database I've used in production
 since 2005. I've written web sites and PBXs that perform millions of queries
 a day. As much as I love MySQL, I really think it has no place in my blog.
 
@@ -136,7 +136,7 @@ load on either PHP or MySQL can vary drastically depending on themes or
 plugins that may be installed.
 
 WP plugins such as WPCache attempt to resolve this issue, and by all rights,
-probably do -- if you know enough to install them and take the time to
+probably do --- if you know enough to install them and take the time to
 actually do so.
 
 Static HTML is secure too. The only way you're hacking a Jekyll blog is if you

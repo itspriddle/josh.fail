@@ -6,7 +6,7 @@ redirect_from: /blog/2019/how-to-print-help-text-in-shell-scripts.html
 ---
 
 Good shell scripts should come with documentation that is easy to access.
-Usually `some-script -h`, `some-script --help` will print such help -- if the
+Usually `some-script -h`, `some-script --help` will print such help --- if the
 developer was nice enough to include docs anyway. I think it's a really
 important thing to include in any script you're going to share with the
 public. I've seen [and tried][1] a few different methods over the years. Here

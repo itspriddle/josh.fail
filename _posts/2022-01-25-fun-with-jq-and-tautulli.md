@@ -6,7 +6,7 @@ category: dev
 
 A while ago, I wrote a CLI script to display what my Plex server is playing
 using [jq][1] and the [Tautulli][2] API. Check it out if you use Plex/Tautulli
--- or if you want to see some moderately advanced jq in action.
+--- or if you want to see some moderately advanced jq in action.
 
 `tautulli-status` uses a Tautulli instance's API to check what your Plex
 server is currently playing and pretty prints it:

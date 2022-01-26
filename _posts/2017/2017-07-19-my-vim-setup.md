@@ -57,7 +57,7 @@ under `~/.vim/config/` --- which I'll outline below.
 [vimrc]: https://github.com/itspriddle/dotfiles/blob/e11769a/vim/vimrc
 
 
-## ~/.vim/config/maps.vim -- Maps
+## ~/.vim/config/maps.vim --- Maps
 
 I keep non-plugin specific maps in a separate file --- [maps.vim][]. My
 favorites:
@@ -74,7 +74,7 @@ do the same in normal and insert modes.
 
 [maps.vim]: https://github.com/itspriddle/dotfiles/blob/e11769a/vim/config/maps.vim
 
-## ~/.vim/config/settings-core.vim -- Core Settings
+## ~/.vim/config/settings-core.vim --- Core Settings
 
 I keep "core settings", like my selected colorscheme and other `set ...`
 settings, in a separate file --- [settings-core.vim][]. Most of these are
@@ -112,7 +112,7 @@ settings][invisibles settings].
 [join settings]: https://github.com/itspriddle/dotfiles/blob/e11769a/vim/config/settings-core.vim#L57-L58
 [invisibles settings]: https://github.com/itspriddle/dotfiles/blob/e11769a/vim/config/settings-core.vim#L60-L64
 
-## ~/.vim/config/settings-plugins.vim -- Plugin Settings
+## ~/.vim/config/settings-plugins.vim --- Plugin Settings
 
 I keep plugin specific settings in a separate file ---
 [settings-plugins.vim][]. I won't go into these here, the important parts are
@@ -120,7 +120,7 @@ outlined below with their corresponding plugins.
 
 [settings-plugins.vim]: https://github.com/itspriddle/dotfiles/blob/e11769a/vim/config/settings-plugins.vim
 
-## ~/.vim/config/plug.vim -- Plugins
+## ~/.vim/config/plug.vim --- Plugins
 
 I use [vim-plug][] to manage my plugins. I follow the recommended setup and
 keep a full copy of the plugin in `autoload/plug.vim`. I periodically run

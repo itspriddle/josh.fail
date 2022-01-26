@@ -4,12 +4,12 @@ category: dev
 redirect_from: /blog/2007/aim-web-precense-api.html
 ---
 
-So I've been dabbling with AIM's Web Presence API -- which basically allows
+So I've been dabbling with AIM's Web Presence API --- which basically allows
 developers to get info on a particular AIM user.
 
 This all started from me seeing how Facebook was able to scrape a user's
 status message. After a little googling, I've come up with this function. Note
--- you'll need to enter your own AIM API key and screen name to use it.
+--- you'll need to enter your own AIM API key and screen name to use it.
 
 It generates an IM link with a title (popup) equivalent to my current AIM
 status. If I'm offline, there is no IM link, and it states that I am not
@@ -19,7 +19,7 @@ I've searched high and low for something like this. I might be mistaken, but I
 believe this to be the only method of doing this that is publicly available.
 Perhaps they're all buried under hundreds of Google search pages.
 
-At any rate -- here it is. Feel free to use/modify it at will.
+At any rate --- here it is. Feel free to use/modify it at will.
 
 ```php
 <?php

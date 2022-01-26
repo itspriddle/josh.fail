@@ -61,7 +61,7 @@ sed -ne '...' < "$0"
 
 Run the `sed` (stream editor) utility. The `-n` switch disables the
 default output behavior, The `-e '...'` switch specifies sed commands to be
-run. `< "$0"` means that `sed` will operate on the script itself -- in this
+run. `< "$0"` means that `sed` will operate on the script itself --- in this
 case it will parse the script to print just the help text.
 
 The actual sed commands (`/^#/!q;s/.\{1,2\}//;1d;p`) are actually 4

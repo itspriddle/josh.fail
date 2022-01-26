@@ -6,5 +6,5 @@ category: links
 redirect_from: /blog/2012/graphical-vim-cheat-sheets.html
 ---
 
-I found these excellent cheat sheets for Vim -- nice and simple keyboard
+I found these excellent cheat sheets for Vim --- nice and simple keyboard
 overlays.

@@ -11,7 +11,7 @@ tags:
 ---
 
 A2 Background Jobs is a custom WHMCS module that allows developers to execute
-code via cron in the background -- great for long running reports and the
+code via cron in the background --- great for long running reports and the
 like. I created the module for WHMCS 7.9, migrated multiple reports, and
 helped other developers learn to work with the module in their own code.
 

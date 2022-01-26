@@ -6,7 +6,7 @@ redirect_from: /blog/2019/signed-commits-with-gitx.html
 ---
 
 I recently setup Git to use my [Keybase][] GPG key to automatically sign my
-commits. [GitX][] doesn't support that out of the box -- but a quick `git`
+commits. [GitX][] doesn't support that out of the box --- but a quick `git`
 wrapper makes it work like a charm.
 
 First, if you haven't yet, enable signing on all of your commits. In

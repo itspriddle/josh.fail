@@ -16,8 +16,8 @@ passwords and copy them to the system clipboard.
 
 It uses the [KeePass Password Generator][] to allow you to specify a character
 set for the generated password. This functionality is provided by an included
-copy of the [keepass-password-generator RubyGem][] -- no external dependencies
-are required.
+copy of the [keepass-password-generator RubyGem][] --- no external
+dependencies are required.
 
 [LaunchBar 6]: https://www.obdev.at/products/launchbar/index.html
 [KeePass Password Generator]: https://keepass.info/help/base/pwgenerator.html

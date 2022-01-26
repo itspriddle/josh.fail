@@ -23,11 +23,11 @@ egos aside and realize that the reviewer also just wants the best solution for
 the problem at hand. If you are frustrated, that is okay, you're human! Feel
 free to step away for a bit and come back later. When you are ready, start by
 asking clarifying questions to understand _why_ there is disagreement. The
-reviewer might have additional context that you lack yourself -- or they might
-lack the context that _you_ have. The only way to resolve the disagreement and
-gain consensus is to hash things out respectfully.
+reviewer might have additional context that you lack yourself --- or they
+might lack the context that _you_ have. The only way to resolve the
+disagreement and gain consensus is to hash things out respectfully.
 
-Disagreement doesn't only happen among the technical teams -- folks in
+Disagreement doesn't only happen among the technical teams --- folks in
 support, sales, and billing work collaboratively as well. The same advice
 above works any time you have a disagreement at work or in life. Take a few
 moments to yourself if you find emotions are running high. Then try to

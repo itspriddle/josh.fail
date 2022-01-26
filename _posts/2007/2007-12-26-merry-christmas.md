@@ -15,6 +15,6 @@ we watched Home Alone 1 and 2 as well as Dutch to keep in the holiday spirit.
 Xmas movies pwn!
 
 Although I would give anything to be a little kid with the rest of the week
-off -- I have a new friend to keep me company at work.
+off --- I have a new friend to keep me company at work.
 
 Until next time...

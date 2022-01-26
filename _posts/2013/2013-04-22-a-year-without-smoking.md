@@ -13,7 +13,7 @@ eventually. I thought that being in a non-smoking environment for a week would
 be the perfect time to try.
 
 I knew going in that it would be a challenge, and that I would need some help.
-I immediately ruled out Chantix -- I had some friends try it who turned into
+I immediately ruled out Chantix --- I had some friends try it who turned into
 crazy assholes on it. I briefly considered using an electronic cigarette, like
 Bluecig, but decided against it. I didn't want to replace one form of smoking
 with another. I ended up choosing the nicotine patch for the entire 10 weeks
@@ -32,7 +32,7 @@ Railsconf. My second week without smoking, my first week back to work after
 Railsconf, was definitely the most difficult for me. The moment I got back
 from Austin, I wanted to drive straight to the store to buy a pack. I managed
 to avoid doing that when I realized what an accomplishment it was to have gone
-7 full days without smoking -- something I hadn't done in years.
+7 full days without smoking --- something I hadn't done in years.
 
 That second week was really, _really_ hard. I found myself being easily
 frustrated by problems with code I was working on. I almost convinced myself

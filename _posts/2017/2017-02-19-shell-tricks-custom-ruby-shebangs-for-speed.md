@@ -8,9 +8,9 @@ redirect_from: /blog/2017/shell-tricks-custom-ruby-shebangs-for-speed.html
 This is part 2 of my series on tricks I've used in shell scripts. In this
 post, I'll share a few ways a custom shebang can be used in ruby scripts.
 
-If you don't know what a "shebang" is -- it is the first line commonly seen in
-scripts that starts with `#!`. When a script is run, this line determines the
-program to run to interpret the rest of the script. Wikipedia has a [more
+If you don't know what a "shebang" is --- it is the first line commonly seen
+in scripts that starts with `#!`. When a script is run, this line determines
+the program to run to interpret the rest of the script. Wikipedia has a [more
 thorough explanation][shebang wiki].
 
 In a ruby script, this is typically one of the following:
