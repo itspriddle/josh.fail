@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dev Posts
-intro: Programming/developer realted stuff I've written about.
+intro: Programming/developer realated stuff I've written about.
 ---
 
 {% assign posts = site.categories.dev | where_exp: "post", "post.archive != true" | group_by_exp: "post", "post.date | date: '%Y'" %}

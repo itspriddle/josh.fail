@@ -46,8 +46,8 @@ Summary:   Tina is desperate to get her first kiss at her 13th birthday party.
 ```
 
 The script is below. If you want to use it yourself, toss in on your `$PATH`
-(maybe at `/usr/local/bin`, then head over to your Tautulli settings and grab
-an API key. To setup the config file:
+(maybe at `/usr/local/bin`), then head over to your Tautulli settings and
+grab an API key. To setup the config file:
 
 ```
 jq --null-input \
