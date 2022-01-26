@@ -59,5 +59,5 @@ having to adjust my workflows for two screens. I haven't quite figured out
 where I like my editor, my browser, Slack, Mail, etc. Talk about first world
 problems.
 
-[2013 MacBook Pro]: /blog/2013/the-one-where-i-got-a-new-macbook-pro.html
+[2013 MacBook Pro]: {% post_url 2013/2013-02-19-the-one-where-i-got-a-new-macbook-pro %}
 [LG UltraFine 5K Display]: https://www.apple.com/shop/product/HKN62LL/A/lg-ultrafine-5k-display?fnode=7c
