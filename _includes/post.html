@@ -1,6 +1,7 @@
-{% assign post_title = page.title | smartify %}
-{% assign post_url = page.url | relative_url %}
-{% assign post_date = page.date | date: "%b %-d, %Y" %}
+{% assign post = include.post %}
+{% assign post_title = post.title | smartify %}
+{% assign post_url = post.url | relative_url %}
+{% assign post_date = post.date | date: "%b %-d, %Y" %}
 <article class="post">
 
   <header class="post-header">
@@ -21,21 +22,21 @@
         {{ post_date }}
       {% endif %}
 
-      {% if page.link %}
+      {% if post.link %}
         • Link:
-        <a href="{{ page.link }}" title="{{ page.link }}">{{ page.link | remove_first: "http://" | remove_first: "https://" | split: "/" | first }}</a>
+        <a href="{{ post.link }}" title="{{ post.link }}">{{ post.link | remove_first: "http://" | remove_first: "https://" | split: "/" | first }}</a>
       {% endif %}
 
 
       {% unless include.homepage %}
-      • Category: <a href="{{ page.category | append: "/" | relative_url }}">{{ page.category | capitalize }}</a>
+      • Category: <a href="{{ post.category | append: "/" | relative_url }}">{{ post.category | capitalize }}</a>
 
       <!--
       <span class="github-post-links">
         •
-        <a href="{{ site.github.repository_url }}/blob/{{ site.github.source.branch }}/{{ page.path }}">View on GitHub</a>
+        <a href="{{ site.github.repository_url }}/blob/{{ site.github.source.branch }}/{{ post.path }}">View on GitHub</a>
         •
-        <a href="{{ site.github.repository_url }}/raw/{{ site.github.source.branch }}/{{ page.path }}">View Raw</a>
+        <a href="{{ site.github.repository_url }}/raw/{{ site.github.source.branch }}/{{ post.path }}">View Raw</a>
       </span>
       -->
       {% endunless %}
@@ -43,11 +44,13 @@
   </header>
 
   <div class="post-content">
-    {% if include.homepage and (page.excerpt != include.body) %}
-    {{ page.excerpt }}
+    {% assign plain_excerpt = post.excerpt | strip_html | normalize_whitespace %}
+    {% assign plain_body = post.content | strip_html | normalize_whitespace %}
+    {% if include.homepage and (plain_excerpt != plain_body) %}
+    {{ post.excerpt }}
     <p><a href="{{ post_url }}">Read more &rarr;</a></p>
     {% else %}
-    {{ include.body }}
+    {{ post.content }}
     {% endif %}
   </div>
 

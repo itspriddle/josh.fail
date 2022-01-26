@@ -10,9 +10,9 @@ layout: default
     {% assign posts = site.posts %}
   {% endif %}
 
-  {% for page in posts %}
-    {% unless page.category == "archive" or page.archive %}
-    {% include post.html homepage=true body=page.content %}
+  {% for post in posts %}
+    {% unless post.category == "archive" or post.archive %}
+    {% include post.html homepage=true post=post  %}
     {% endunless %}
   {% endfor %}
 
