@@ -33,6 +33,7 @@ permalink: ':categories/:year/:title.html'
 
 # Files to exclude
 exclude:
+  - .tags
   - CNAME
   - Gemfile
   - Gemfile.lock
