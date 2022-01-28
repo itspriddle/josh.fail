@@ -47,7 +47,7 @@ subdirectory:
 
 ```
 cd apps-clones
-or app in apps-foo apps-bar apps-baz; do
+for app in apps-foo apps-bar apps-baz; do
   (cd "$app" && git filter-repo --force --to-subdirectory "${app##apps-}"/)
 done
 ```
