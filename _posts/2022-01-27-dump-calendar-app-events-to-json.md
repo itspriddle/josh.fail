@@ -5,7 +5,7 @@ category: dev
 ---
 
 I wanted a way to dump Calendar.app events to JSON. I came across
-[icalBuddy][], which can dump your events to _text_. I threw together the
+[icalBuddy][1], which can dump your events to _text_. I threw together the
 following bash/jq script to convert icalBuddy output to JSON.
 
 First, you need to install icalBuddy and jq. With Homebrew:
