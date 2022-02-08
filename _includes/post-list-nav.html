@@ -24,4 +24,6 @@
   {% endif %}
 </p>
 
-<p>{{ page.intro | smartify }}</p>
+{% if page.intro %}
+  <p>{{ page.intro | smartify }}</p>
+{% endif %}
