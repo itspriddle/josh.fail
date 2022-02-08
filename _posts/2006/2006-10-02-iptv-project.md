@@ -1,5 +1,6 @@
 ---
 title: IPTV Project
+redirect_from: /blog/2006/iptv-project.html
 ---
 
 The project I mentioned a few weeks back with IMDB lookups, will be my

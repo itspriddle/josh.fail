@@ -2,7 +2,9 @@
 title: "Using Let's Encrypt for local servers"
 date: "Tue Aug 06 02:42:12 -0400 2019"
 category: dev
-redirect_from: /blog/2019/using-lets-encrypt-for-local-servers.html
+redirect_from:
+- /blog/2019/using-lets-encrypt-for-local-servers.html
+- /dev/2019/using-lets-encrypt-for-local-servers.html
 ---
 
 I run a few web services on my local network. I trust my network, but I've

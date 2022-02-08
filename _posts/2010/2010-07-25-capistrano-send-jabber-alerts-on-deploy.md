@@ -2,7 +2,9 @@
 date: Sun Jul 25 23:18:14 -0400 2010
 title: "Capistrano: Send Jabber alerts on deploy"
 category: dev
-redirect_from: /blog/2010/capistrano-send-jabber-alerts-on-deploy.html
+redirect_from:
+- /blog/2010/capistrano-send-jabber-alerts-on-deploy.html
+- /dev/2010/capistrano-send-jabber-alerts-on-deploy.html
 ---
 
 I use this Capistrano recipe at work to send a broadcast to the office when I

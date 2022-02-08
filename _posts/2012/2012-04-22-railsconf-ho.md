@@ -1,6 +1,7 @@
 ---
 date: "Sun Apr 22 16:19:44 -0400 2012"
 title: "Railsconf, ho!"
+redirect_from: /blog/2012/railsconf-ho.html
 ---
 
 Beyond excited to be attending Railsconf in Austin, TX this year! Can't wait

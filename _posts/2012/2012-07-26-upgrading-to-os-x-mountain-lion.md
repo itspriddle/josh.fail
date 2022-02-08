@@ -2,7 +2,9 @@
 date: "Thu Jul 26 00:13:41 -0400 2012"
 title: "Upgrading to OS X Mountain Lion"
 category: dev
-redirect_from: /blog/2012/upgrading-to-os-x-mountain-lion.html
+redirect_from:
+- /blog/2012/upgrading-to-os-x-mountain-lion.html
+- /dev/2012/upgrading-to-os-x-mountain-lion.html
 ---
 
 I installed OS X Mountain Lion today and have had a pretty good experience.

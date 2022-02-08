@@ -2,7 +2,9 @@
 date: "Tue Jul 16 14:05:35 -0400 2013"
 title: "Documenting with TomDoc and GitHub Pages"
 category: dev
-redirect_from: /blog/2013/documenting-with-tomdoc-and-github-pages.html
+redirect_from:
+- /blog/2013/documenting-with-tomdoc-and-github-pages.html
+- /dev/2013/documenting-with-tomdoc-and-github-pages.html
 ---
 
 I wrote a blog post over at [Eng5](http://eng5.com) outlining how we use

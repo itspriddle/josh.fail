@@ -2,7 +2,9 @@
 date: "Mon Jul 5 21:22:45 -0400 2010"
 title: "`git browse` alias"
 category: dev
-redirect_from: /blog/2010/git-browse-alias.html
+redirect_from:
+- /blog/2010/git-browse-alias.html
+- /dev/2010/git-browse-alias.html
 ---
 
 I recently wrote a [git alias](https://git.wiki.kernel.org/index.php/Aliases)

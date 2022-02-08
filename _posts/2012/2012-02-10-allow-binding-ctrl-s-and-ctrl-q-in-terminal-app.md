@@ -1,7 +1,9 @@
 ---
 title: "Allow binding ctrl-s and ctrl-q in Terminal.app"
 category: dev
-redirect_from: /blog/2012/allow-binding-ctrl-s-and-ctrl-q-in-terminal-app.html
+redirect_from:
+- /blog/2012/allow-binding-ctrl-s-and-ctrl-q-in-terminal-app.html
+- /dev/2012/allow-binding-ctrl-s-and-ctrl-q-in-terminal-app.html
 ---
 
 I ran into an annoying issue trying to configure `ctrl-q` as a Vim mapping in

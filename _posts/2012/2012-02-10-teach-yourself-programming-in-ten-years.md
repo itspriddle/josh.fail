@@ -2,7 +2,9 @@
 link: http://norvig.com/21-days.html
 title: "Teach Yourself Programming in Ten Years"
 category: links
-redirect_from: /blog/2012/teach-yourself-programming-in-ten-years.html
+redirect_from:
+- /blog/2012/teach-yourself-programming-in-ten-years.html
+- /links/2012/teach-yourself-programming-in-ten-years.html
 ---
 
 > Researchers have shown it takes about ten years to develop expertise in any

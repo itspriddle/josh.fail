@@ -1,5 +1,6 @@
 ---
 title: Merry Christmas!
+redirect_from: /blog/2007/merry-christmas.html
 ---
 
 Christmas was an absolute blast, as it is every year.

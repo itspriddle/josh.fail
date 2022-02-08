@@ -1,5 +1,6 @@
 ---
 title: Finally, vacation
+redirect_from: /blog/2006/finally-vacation.html
 ---
 
 I'm finally going on vacation!

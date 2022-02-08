@@ -1,5 +1,6 @@
 ---
 title: MxO One More Time
+redirect_from: /blog/2006/mxo-one-more-time.html
 ---
 
 So me and Mr. Iversen recently started playing the Matrix Online again. There

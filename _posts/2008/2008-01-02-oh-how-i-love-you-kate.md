@@ -1,5 +1,6 @@
 ---
 title: Oh, how I love you Kate...
+redirect_from: /blog/2008/oh-how-i-love-you-kate.html
 ---
 
 The KDE text editor Kate is my latest weapon. Its great if you're on a slower

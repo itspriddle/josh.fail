@@ -1,5 +1,6 @@
 ---
 title: "Six Months at Site5"
+redirect_from: /blog/2011/six-months-at-site5.html
 ---
 
 I can't believe it's already been six months since I joined the engineering 

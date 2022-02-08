@@ -1,5 +1,6 @@
 ---
 title: My poor neglected
+redirect_from: /blog/2006/my-poor-neglected.html
 ---
 
 I really wish I had more time to devote to this site, but school and work just

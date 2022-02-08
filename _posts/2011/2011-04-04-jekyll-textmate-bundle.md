@@ -1,7 +1,9 @@
 ---
 title: Jekyll TextMate Bundle
 category: dev
-redirect_from: /blog/2011/jekyll-textmate-bundle.html
+redirect_from:
+- /blog/2011/jekyll-textmate-bundle.html
+- /dev/2011/jekyll-textmate-bundle.html
 ---
 
 I forked a Jekyll TextMate bundle and added a new post template and a

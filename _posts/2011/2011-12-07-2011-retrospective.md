@@ -1,5 +1,6 @@
 ---
 title: "2011 Retrospective"
+redirect_from: /blog/2011/2011-retrospective.html
 ---
 
 The year is coming to a close, so I thought it would be a good time to reflect

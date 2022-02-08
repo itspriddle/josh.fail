@@ -1,7 +1,9 @@
 ---
 title: How to generate a simple calendar
 category: dev
-redirect_from: /blog/2021/generating-a-simple-calendar.html
+redirect_from:
+- /blog/2021/generating-a-simple-calendar.html
+- /dev/2021/generating-a-simple-calendar.html
 ---
 
 Need to generate a simple calendar for a specific month or year? The `cal`

@@ -1,5 +1,6 @@
 ---
 title: "ViaTalk: Week 1"
+redirect_from: /blog/2006/viatalk-week-1.html
 ---
 
 My first week at ViaTalk was awesome.

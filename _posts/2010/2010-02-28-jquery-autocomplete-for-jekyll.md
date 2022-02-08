@@ -2,7 +2,9 @@
 date: Sun Feb 28 20:40:00 -0500 2010
 title: jQuery Autocomplete for Jekyll
 category: dev
-redirect_from: /blog/2010/jquery-autocomplete-for-jekyll.html
+redirect_from:
+- /blog/2010/jquery-autocomplete-for-jekyll.html
+- /dev/2010/jquery-autocomplete-for-jekyll.html
 ---
 
 After migrating my blog from Wordpress to Jekyll, one thing I was missing

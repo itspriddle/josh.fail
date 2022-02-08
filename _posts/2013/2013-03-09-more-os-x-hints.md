@@ -3,7 +3,9 @@ date: "Sat Mar 09 02:05:00 -0500 2013"
 link: http://mac.appstorm.net/roundups/utilities-roundups/40-super-secret-os-x-lion-features-and-shortcuts/
 title: "More OS X Hints"
 category: links
-redirect_from: /blog/2013/more-os-x-hints.html
+redirect_from:
+- /blog/2013/more-os-x-hints.html
+- /links/2013/more-os-x-hints.html
 archive: true
 dead_link: true
 ---

@@ -2,7 +2,9 @@
 date: Thu Apr 15 21:59:14 -0400 2010
 title: ActiveRecord Migrations - integer limit gotcha
 category: dev
-redirect_from: /blog/2010/active-record-migrations-integer-limit-gotcha.html
+redirect_from:
+- /blog/2010/active-record-migrations-integer-limit-gotcha.html
+- /dev/2010/active-record-migrations-integer-limit-gotcha.html
 ---
 
 I work on a few apps that deal with phone numbers. I usually store these

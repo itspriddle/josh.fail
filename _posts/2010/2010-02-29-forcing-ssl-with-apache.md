@@ -2,7 +2,9 @@
 date: Mon Mar 01 13:06:16 -0500 2010
 title: Forcing SSL with Apache
 category: dev
-redirect_from: /blog/2010/forcing-ssl-with-apache.html
+redirect_from:
+- /blog/2010/forcing-ssl-with-apache.html
+- /dev/2010/forcing-ssl-with-apache.html
 ---
 
 For my own reference really, here are the steps I took to setup an Apache vhost

@@ -2,7 +2,9 @@
 date: "Tue May 28 23:22:46 -0400 2013"
 title: "How We Hack At Site5"
 category: dev
-redirect_from: /blog/2013/how-we-hack-at-site5.html
+redirect_from:
+- /blog/2013/how-we-hack-at-site5.html
+- /dev/2013/how-we-hack-at-site5.html
 ---
 
 Hacking for [Site5 Engineering](http://eng5.com/) is an awesome gig. I work

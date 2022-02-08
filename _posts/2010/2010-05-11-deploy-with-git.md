@@ -2,7 +2,9 @@
 date: Tue May 11 23:39:10 -0400 2010
 title: Deploy with git
 category: dev
-redirect_from: /blog/2010/deploy-with-git.html
+redirect_from:
+- /blog/2010/deploy-with-git.html
+- /dev/2010/deploy-with-git.html
 ---
 
 I found this git hook that lets you deploy a project with a git push rather

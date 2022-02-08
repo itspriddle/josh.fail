@@ -1,5 +1,6 @@
 ---
 title: "On Perfection"
+redirect_from: /blog/2011/on-perfection.html
 ---
 
 This quote from Bleach sums up my thoughts on perfection pretty well:

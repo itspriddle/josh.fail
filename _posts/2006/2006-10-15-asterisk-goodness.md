@@ -1,5 +1,6 @@
 ---
 title: Asterisk Goodness
+redirect_from: /blog/2006/asterisk-goodness.html
 ---
 
 So with the help of a friend at work, I successfully made my first incoming

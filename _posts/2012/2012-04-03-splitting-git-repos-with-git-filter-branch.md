@@ -2,7 +2,9 @@
 date: "Tue Apr 03 01:42:27 -0400 2012"
 title: "Splitting git repos with git filter-branch"
 category: dev
-redirect_from: /blog/2012/splitting-git-repos-with-git-filter-branch.html
+redirect_from:
+- /blog/2012/splitting-git-repos-with-git-filter-branch.html
+- /dev/2012/splitting-git-repos-with-git-filter-branch.html
 ---
 
 While working on a project managed with Git, I needed to split some files into

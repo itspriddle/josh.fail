@@ -1,5 +1,6 @@
 ---
 title: FTBS... I'm getting a Mac
+redirect_from: /blog/2008/ftbs-im-getting-a-mac.html
 ---
 
 I've decided that I am going to purchase a Mac Mini with my tax refund. I am

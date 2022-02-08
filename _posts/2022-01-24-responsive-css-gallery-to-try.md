@@ -3,6 +3,7 @@ title: "Responsive CSS Gallery"
 date: "Mon Jan 24 01:56:20 -0500 2022"
 link: https://codepen.io/vhanla/pen/PxjZvj
 category: links
+redirect_from: /links/2022/responsive-css-gallery-to-try.html
 ---
 
 Searching for image gallery templates, I came across [this one][1] that looks

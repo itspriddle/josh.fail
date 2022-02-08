@@ -1,5 +1,6 @@
 ---
 title: Stuff I need to do
+redirect_from: /blog/2008/stuff-i-need-to-do.html
 ---
 
 1. Create something for any (preferably all) of the following sites I pay for:

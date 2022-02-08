@@ -2,7 +2,9 @@
 date: Tue Nov 16 17:30:00 -0400 2010
 title: "Setting up a Ruby production environment on a DotBlock VPS"
 category: dev
-redirect_from: /blog/2010/setting-up-a-ruby-production-environment-on-a-dotblock-vps.html
+redirect_from:
+- /blog/2010/setting-up-a-ruby-production-environment-on-a-dotblock-vps.html
+- /dev/2010/setting-up-a-ruby-production-environment-on-a-dotblock-vps.html
 ---
 
 My projects' production environments consist of Git, Ruby, Apache, and usually

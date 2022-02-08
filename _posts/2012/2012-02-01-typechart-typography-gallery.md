@@ -2,7 +2,9 @@
 link: http://www.typechart.com/
 title: "Typechart - typography gallery"
 category: links
-redirect_from: /blog/2012/typechart-typography-gallery.html
+redirect_from:
+- /blog/2012/typechart-typography-gallery.html
+- /dev/2012/typechart-typography-gallery.html
 archive: true
 dead_link: true
 ---

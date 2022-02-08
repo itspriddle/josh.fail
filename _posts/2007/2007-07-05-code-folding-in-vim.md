@@ -1,7 +1,9 @@
 ---
 title: Code Folding in Vim
 category: dev
-redirect_from: /blog/2007/code-folding-in-vim.html
+redirect_from:
+- /blog/2007/code-folding-in-vim.html
+- /dev/2007/code-folding-in-vim.html
 ---
 
 So I learned yet another awesome feature in vim today - code folding.

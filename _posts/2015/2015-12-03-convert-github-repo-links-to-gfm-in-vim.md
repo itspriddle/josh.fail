@@ -2,7 +2,9 @@
 title: "Convert GitHub repo links to GFM in Vim"
 date: "Thu Dec 03 23:37:06 -0500 2015"
 category: dev
-redirect_from: /blog/2015/convert-github-repo-links-to-gfm-in-vim.html
+redirect_from:
+- /blog/2015/convert-github-repo-links-to-gfm-in-vim.html
+- /dev/2015/convert-github-repo-links-to-gfm-in-vim.html
 ---
 
 GitHub allows a [shorthand syntax][Writing on GitHub] for linking to commits, pull requests and

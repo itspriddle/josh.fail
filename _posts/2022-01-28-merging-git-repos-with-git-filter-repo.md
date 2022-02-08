@@ -2,6 +2,7 @@
 title: "Merging git repos with git-filter-repo"
 date: "Fri Jan 28 15:43:49 -0500 2022"
 category: dev
+redirect_from: /dev/2022/merging-git-repos-with-git-filter-repo.html
 ---
 
 I needed to merge multiple git repos into a single one using subdirectories,

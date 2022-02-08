@@ -2,6 +2,7 @@
 title: "A solution for git repos and iCloud?"
 date: "Thu Jan 27 01:17:12 -0500 2022"
 category: dev
+redirect_from: /dev/2022/a-solution-for-git-repos-and-icloud.html
 ---
 
 If you're tried keeping a git repo in an iCloud (or Dropbox) folder before,

@@ -2,7 +2,9 @@
 link: http://subtlepatterns.com/
 title: "Subtle Patterns"
 category: links
-redirect_from: /blog/2012/subtle-patterns.html
+redirect_from:
+- /blog/2012/subtle-patterns.html
+- /links/2012/subtle-patterns.html
 archive: true
 dead_link: true
 ---

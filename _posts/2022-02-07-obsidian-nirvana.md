@@ -2,6 +2,7 @@
 title: "Obsidian Nirvana"
 date: "Mon Feb 07 20:18:12 -0500 2022"
 category: blog
+redirect_from: /blog/2022/obsidian-nirvana.html
 ---
 
 I really need to do a proper project/post on my [Obsidian][] setup, but I

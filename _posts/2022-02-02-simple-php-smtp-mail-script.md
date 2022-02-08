@@ -2,6 +2,7 @@
 title: "Simple PHP/SMTP mail script"
 date: "Wed Feb 02 12:36:12 -0500 2022"
 category: dev
+redirect_from: /dev/2022/simple-php-smtp-mail-script.html
 ---
 
 I needed a quick 'n dirty script to test outgoing SMTP email via PHP and found

@@ -3,7 +3,9 @@ date: "Thu May 31 00:00:00 -0400 2013"
 title: "A look inside Gears, the Final Fantasy VII game engine"
 link: http://q-gears.sourceforge.net/gears.pdf
 category: links
-redirect_from: /blog/2013/a-look-inside-gears-the-final-fantasy-vii-game-engine.html
+redirect_from:
+- /blog/2013/a-look-inside-gears-the-final-fantasy-vii-game-engine.html
+- /links/2013/a-look-inside-gears-the-final-fantasy-vii-game-engine.html
 ---
 
 I came across [this document]({{ page.link }}) a few months ago. It is an

@@ -1,5 +1,6 @@
 ---
 title: The One Where I Got A New iMac
+redirect_from: /blog/2017/the-one-where-i-got-a-new-imac.html
 ---
 
 I bought a new iMac to replace [my aging MacBook Pro][2013 MacBook Pro].

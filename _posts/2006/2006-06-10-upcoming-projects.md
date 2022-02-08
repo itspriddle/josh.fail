@@ -1,5 +1,6 @@
 ---
 title: Upcoming projects
+redirect_from: /blog/2006/upcoming-projects.html
 ---
 
 Me and a friend of mine from work are working on a new project. Nothing much

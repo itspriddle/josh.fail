@@ -2,7 +2,9 @@
 date: Sat Mar 13 13:57:35 -0500 2010
 title: Formatting MySQL Queries For Asterisk
 category: dev
-redirect_from: /blog/2010/formatting-mysql-queries-for-asterisk.html
+redirect_from:
+- /blog/2010/formatting-mysql-queries-for-asterisk.html
+- /dev/2010/formatting-mysql-queries-for-asterisk.html
 ---
 
 If you've ever used the MySQL module with [Asterisk](http://asterisk.org),

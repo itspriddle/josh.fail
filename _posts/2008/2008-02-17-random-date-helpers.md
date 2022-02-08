@@ -1,7 +1,9 @@
 ---
 title: Random Date Helpers
 category: dev
-redirect_from: /blog/2008/random-date-helpers.html
+redirect_from:
+- /blog/2008/random-date-helpers.html
+- /dev/2008/random-date-helpers.html
 ---
 
 I wrote these as helpers for a project I'm making with CodeIgniter, but you

@@ -1,7 +1,9 @@
 ---
 title: "OS X: Fixing the Terminal"
 category: dev
-redirect_from: /blog/2008/os-x-fixing-the-terminal.html
+redirect_from:
+- /blog/2008/os-x-fixing-the-terminal.html
+- /dev/2008/os-x-fixing-the-terminal.html
 ---
 
 This might not be a problem for everyone, but I got used to using home, end,

@@ -1,7 +1,9 @@
 ---
 title: How to Mount a USB Drive on Linux
 category: dev
-redirect_from: /blog/2021/mount-a-usb-drive-on-linux.html
+redirect_from:
+- /blog/2021/mount-a-usb-drive-on-linux.html
+- /dev/2021/mount-a-usb-drive-on-linux.html
 ---
 
 Need to mount a USB drive on Linux?

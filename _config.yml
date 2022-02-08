@@ -23,7 +23,7 @@ kramdown:
 timezone: 'America/New_York'
 
 # Permalink settings
-permalink: ':categories/:year/:title.html'
+permalink: '/:year/:title/'
 
 # Pagination settings Tried enabling this on 2022-01-24 and found it requires
 # moving from post.html => post/index.html for permalinks. Not sure I want to

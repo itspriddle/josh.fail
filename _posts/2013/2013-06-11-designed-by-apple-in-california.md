@@ -1,6 +1,7 @@
 ---
 date: "Tue Jun 11 10:24:45 -0400 2013"
 title: "Designed by Apple in California"
+redirect_from: /blog/2013/designed-by-apple-in-california.html
 ---
 
 The new [Designed by Apple][1] commercial is absolutely brilliant.

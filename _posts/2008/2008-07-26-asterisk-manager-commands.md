@@ -1,7 +1,9 @@
 ---
 title: Asterisk Manager Commands
 category: dev
-redirect_from: /blog/2008/asterisk-manager-commands.html
+redirect_from:
+- /blog/2008/asterisk-manager-commands.html
+- /dev/2008/asterisk-manager-commands.html
 ---
 
 I've been playing around with the Asterisk Manager lately (which is pretty

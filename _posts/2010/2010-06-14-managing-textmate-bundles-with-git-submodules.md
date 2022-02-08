@@ -2,7 +2,9 @@
 date: "Mon Jun 14 16:54:10 -0400 2010"
 title: Managing TextMate bundles with git submodules
 category: dev
-redirect_from: /blog/2010/managing-textmate-bundles-with-git-submodules.html
+redirect_from:
+- /blog/2010/managing-textmate-bundles-with-git-submodules.html
+- /dev/2010/managing-textmate-bundles-with-git-submodules.html
 ---
 
 I've been using [TextMate](http://macromates.com/) nearly every day for 2

@@ -1,6 +1,7 @@
 ---
 date: Sun Feb 28 20:30:18 -0500 2010
 title: Oh Hai, Jekyll
+redirect_from: /blog/2010/oh-hai-jekyll.html
 ---
 
 After putting it off for too long, I've redesigned my blog using

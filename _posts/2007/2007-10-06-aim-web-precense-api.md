@@ -1,7 +1,9 @@
 ---
 title: AIM Web Presence API
 category: dev
-redirect_from: /blog/2007/aim-web-precense-api.html
+redirect_from:
+- /blog/2007/aim-web-precense-api.html
+- /dev/2007/aim-web-precense-api.html
 ---
 
 So I've been dabbling with AIM's Web Presence API --- which basically allows

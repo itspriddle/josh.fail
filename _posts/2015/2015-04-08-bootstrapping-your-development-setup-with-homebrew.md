@@ -2,7 +2,9 @@
 title: "Bootstrapping your development setup with Homebrew"
 date: "Wed Apr 08 00:02:59 -0400 2015"
 category: dev
-redirect_from: /blog/2015/bootstrapping-your-development-setup-with-homebrew.html
+redirect_from:
+- /blog/2015/bootstrapping-your-development-setup-with-homebrew.html
+- /dev/2015/bootstrapping-your-development-setup-with-homebrew.html
 ---
 
 I maintain a small Homebrew tap for projects I work on at Site5,

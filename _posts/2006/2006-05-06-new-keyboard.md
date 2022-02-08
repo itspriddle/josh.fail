@@ -1,5 +1,6 @@
 ---
 title: New keyboard
+redirect_from: /blog/2006/new-keyboard.html
 ---
 
 I bought a sexual new keyboard today for the lapper at work. I really have no

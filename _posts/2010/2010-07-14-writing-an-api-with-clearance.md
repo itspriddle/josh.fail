@@ -2,7 +2,9 @@
 date: Wed Jul 14 20:24:24 -0400 2010
 title: Writing an API with Clearance
 category: dev
-redirect_from: /blog/2010/writing-an-api-with-clearance.html
+redirect_from:
+- /blog/2010/writing-an-api-with-clearance.html
+- /dev/2010/writing-an-api-with-clearance.html
 ---
 
 Recently, I needed to write an API to work with an iPhone application. I

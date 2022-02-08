@@ -2,7 +2,9 @@
 title: "Building GitHub Pages Locally"
 date: "Tue Feb 10 23:30:00 -0500 2015"
 category: dev
-redirect_from: /blog/2015/building-github-pages-locally.html
+redirect_from:
+- /blog/2015/building-github-pages-locally.html
+- /dev/2015/building-github-pages-locally.html
 ---
 
 GitHub recently released a [pages-gem][] making it easy to duplicate the

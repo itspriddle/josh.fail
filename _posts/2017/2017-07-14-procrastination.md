@@ -1,6 +1,7 @@
 ---
 title: "Procrastination"
 date: "Fri Jul 14 01:11:43 -0400 2017"
+redirect_from: /blog/2017/procrastination.html
 ---
 
 A "poem" I wrote in late 2002 for creative writing --- clearly 10 minutes

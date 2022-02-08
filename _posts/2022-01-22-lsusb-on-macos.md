@@ -2,6 +2,7 @@
 title: "lsusb on macOS"
 date: "Sat Jan 22 15:12:44 -0500 2022"
 category: dev
+redirect_from: /dev/2022/lsusb-on-macos.html
 ---
 
 [Shelby][] shared [`lsusb`][lsusb] yesterday, a bash script that provides `lsusb`

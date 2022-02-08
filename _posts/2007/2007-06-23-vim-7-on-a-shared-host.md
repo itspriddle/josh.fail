@@ -1,7 +1,9 @@
 ---
 title: Vim 7 on a Shared Host
 category: dev
-redirect_from: /blog/2007/vim-7-on-a-shared-host.html
+redirect_from:
+- /blog/2007/vim-7-on-a-shared-host.html
+- /dev/2007/vim-7-on-a-shared-host.html
 ---
 
 I did this about 8 months ago and never wrote down my steps. I just had to

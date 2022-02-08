@@ -2,7 +2,9 @@
 date: Thu Aug  5 14:08:05 -0400 2010
 title: Rake tasks to build Titanium Mobile Apps
 category: dev
-redirect_from: /blog/2010/rake-tasks-to-build-titanium-mobile-apps.html
+redirect_from:
+- /blog/2010/rake-tasks-to-build-titanium-mobile-apps.html
+- /dev/2010/rake-tasks-to-build-titanium-mobile-apps.html
 ---
 
 I've been working with [Titanium Mobile](http://www.appcelerator.com/)

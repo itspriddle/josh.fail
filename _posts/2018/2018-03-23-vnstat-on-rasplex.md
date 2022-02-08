@@ -2,7 +2,9 @@
 title: "vnStat on RasPlex"
 date: "Fri Mar 23 23:10:32 -0400 2018"
 category: dev
-redirect_from: /blog/2018/vnstat-on-rasplex.html
+redirect_from:
+- /blog/2018/vnstat-on-rasplex.html
+- /dev/2018/vnstat-on-rasplex.html
 ---
 
 tl;dr: Want [vnStat][] on [RasPlex][]? Check out [rasplex-vnstat][]!

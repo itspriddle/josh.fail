@@ -2,7 +2,9 @@
 title: "Shell Tricks: Showing help in a script"
 date: "Sat Feb 11 23:10:28 -0500 2017"
 category: dev
-redirect_from: /blog/2017/shell-tricks-showing-help-in-a-script.html
+redirect_from:
+- /blog/2017/shell-tricks-showing-help-in-a-script.html
+- /dev/2017/shell-tricks-showing-help-in-a-script.html
 ---
 
 This is part 1 of a series of quick and dirty tricks I've used in various

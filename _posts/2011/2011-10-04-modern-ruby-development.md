@@ -2,7 +2,9 @@
 link: http://ascarter.net/2011/09/25/modern-ruby-development.html
 title: "Modern Ruby Development"
 category: links
-redirect_from: /blog/2011/modern-ruby-development.html
+redirect_from:
+- /blog/2011/modern-ruby-development.html
+- /links/2011/modern-ruby-development.html
 ---
 
 I was having trouble getting Pow working with rbenv, and I found [this

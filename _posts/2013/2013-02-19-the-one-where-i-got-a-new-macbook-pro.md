@@ -1,6 +1,7 @@
 ---
 date: "Tue Feb 19 22:14:26 -0500 2013"
 title: "The One Where I Got A New MacBook Pro"
+redirect_from: /blog/2013/the-one-where-i-got-a-new-macbook-pro.html
 ---
 
 Today, I finally got a new MacBook Pro with Retina Display to replace my aging

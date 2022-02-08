@@ -2,7 +2,9 @@
 date: Thu Mar 04 17:39:59 -0500 2010
 title: gem install without sudo
 category: dev
-redirect_from: /blog/2010/gem-install-without-sudo.html
+redirect_from:
+- /blog/2010/gem-install-without-sudo.
+- /dev/2010/gem-install-without-sudo.html
 ---
 
 It took me a while to find a clearly documented way to manage

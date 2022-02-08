@@ -2,7 +2,9 @@
 date: Sun Jul 25 22:53:28 -0400 2010
 title: A few Rails Plugins
 category: dev
-redirect_from: /blog/2010/a-few-rails-plugins.html
+redirect_from:
+- /blog/2010/a-few-rails-plugins.html
+- /dev/2010/a-few-rails-plugins.html
 ---
 
 I extracted a few pieces of code into Rails Plugins.

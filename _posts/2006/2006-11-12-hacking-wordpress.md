@@ -1,5 +1,6 @@
 ---
 title: Hacking Wordpress
+redirect_from: /blog/2006/hacking-wordpress.html
 ---
 
 It's been a great time stripping WordPress for use as a CMS. The software

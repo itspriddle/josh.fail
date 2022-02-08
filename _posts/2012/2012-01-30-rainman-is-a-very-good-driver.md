@@ -1,7 +1,9 @@
 ---
 title: "Rainman is a very good driver"
 category: dev
-redirect_from: /blog/2012/rainman-is-a-very-good-driver.html
+redirect_from:
+- /blog/2012/rainman-is-a-very-good-driver.html
+- /dev/2012/rainman-is-a-very-good-driver.html
 ---
 
 [@jmazzi](https://github.com/jmazzi) and I released

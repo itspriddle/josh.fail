@@ -1,6 +1,7 @@
 ---
 date: "Tue Oct 02 22:55:29 -0400 2012"
 title: "NiGHTS into dreams on PSN"
+redirect_from: /blog/2012/nights-into-dreams-on-psn.html
 ---
 
 Today, Sega [re-released][1] one of my favorite childhood games from Sega

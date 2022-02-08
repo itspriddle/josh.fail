@@ -2,7 +2,9 @@
 title: "A Simpler Homebrew Formula for WP-CLI"
 date: "Wed Dec 23 22:51:38 -0500 2015"
 category: dev
-redirect_from: /blog/2015/a-simpler-homebrew-formula-for-wp-cli.html
+redirect_from:
+- /blog/2015/a-simpler-homebrew-formula-for-wp-cli.html
+- /dev/2015/a-simpler-homebrew-formula-for-wp-cli.html
 ---
 
 I mentioned in my [last post][] that WP-CLI's Homebrew Formula includes a

@@ -1,6 +1,7 @@
 ---
 date: "Mon Apr 22 15:30:00 -0400 2013"
 title: "A Year Without Smoking"
+redirect_from: /blog/2013/a-year-without-smoking.html
 ---
 
 Just over a year ago, I [left for Railsconf][Railsconf] and

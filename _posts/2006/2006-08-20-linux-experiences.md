@@ -1,5 +1,6 @@
 ---
 title: Linux Experiences
+redirect_from: /blog/2006/linux-experiences.html
 ---
 
 If you've been reading this over the last 8 months or so, you know that I've

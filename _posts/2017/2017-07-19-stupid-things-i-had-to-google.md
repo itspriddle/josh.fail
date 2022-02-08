@@ -1,6 +1,7 @@
 ---
 title: "Stupid things I had to Google"
 date: "Wed Jul 19 23:23:19 -0400 2017"
+redirect_from: /blog/2017/stupid-things-i-had-to-google.html
 ---
 
 "Never memorize something that you can look up." --- Albert Einstein. Some

@@ -2,6 +2,7 @@
 title: "An old WordPress hack I found"
 date: "Fri Jan 21 14:45:00 -0500 2022"
 category: dev
+redirect_from: /dev/2022/an-old-wordpress-hack-i-found.html
 ---
 
 I was poking through old WordPress backups I have and noticed a strange

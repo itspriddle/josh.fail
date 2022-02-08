@@ -1,6 +1,7 @@
 ---
 title: News Upgrades
 category: archive
+redirect_from: /archive/2006/news-upgrades.html
 ---
 
 I've recently upgraded the news module on this site to use Wordpress RSS

@@ -2,7 +2,9 @@
 date: "Thu May 30 00:37:44 -0400 2013"
 title: "RSpec and vim-dispatch"
 category: dev
-redirect_from: /blog/2013/rspec-and-dispatch-vim.html
+redirect_from:
+- /blog/2013/rspec-and-dispatch-vim.html
+- /dev/2013/rspec-and-dispatch-vim.html
 ---
 
 A couple months ago I wrote about how to [Run RSpec in Vim][]. Shortly

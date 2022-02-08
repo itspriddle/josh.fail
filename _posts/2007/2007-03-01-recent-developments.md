@@ -1,6 +1,7 @@
 ---
 title: Recent Developments
 category: archive
+redirect_from: /archive/2007/recent-developments.html
 ---
 
 Wow, its really been a long time since I've updated this...  I had my 22nd

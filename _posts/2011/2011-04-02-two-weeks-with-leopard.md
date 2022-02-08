@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Two Weeks With Leopard
+redirect_from: /blog/2011/two-weeks-with-leopard.html
 ---
 
 I originally started this post on Mar 5, 2008, two weeks after I purchased a

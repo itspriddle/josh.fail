@@ -2,7 +2,9 @@
 date: "Sat Feb 23 03:00:14 -0500 2013"
 title: "Xcode 4.6 and ruby-build"
 category: dev
-redirect_from: /blog/2013/xcode-4-6-and-ruby-build.html
+redirect_from:
+- /blog/2013/xcode-4-6-and-ruby-build.html
+- /dev/2013/xcode-4-6-and-ruby-build.html
 ---
 
 I've been having trouble compiling Ruby 1.9.3 since updating to Xcode 4.6.

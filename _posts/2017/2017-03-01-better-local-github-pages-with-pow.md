@@ -2,7 +2,9 @@
 title: "Better local GitHub Pages with Pow"
 date: "Wed Mar 01 23:54:23 -0500 2017"
 category: dev
-redirect_from: /blog/2017/better-local-github-pages-with-pow.html
+redirect_from:
+- /blog/2017/better-local-github-pages-with-pow.html
+- /dev/2017/better-local-github-pages-with-pow.html
 ---
 
 A [couple years ago][Building GitHub Pages Locally] I covered how I setup a

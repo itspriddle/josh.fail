@@ -2,7 +2,9 @@
 title: "Running WordPress on OS X"
 date: "Sat Dec 07 00:50:47 -0500 2015"
 category: dev
-redirect_from: /blog/2015/running-wordpress-on-os-x.html
+redirect_from:
+- /blog/2015/running-wordpress-on-os-x.html
+- /dev/2015/running-wordpress-on-os-x.html
 ---
 
 I've been working with WordPress a lot more lately, and I wanted a way to run

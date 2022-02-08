@@ -1,7 +1,9 @@
 ---
 title: "Why Jekyll pwns WordPress"
 category: dev
-redirect_from: /blog/2012/why-jekyll-pwns-wordpress.html
+redirect_from:
+- /blog/2012/why-jekyll-pwns-wordpress.html
+- /dev/2012/why-jekyll-pwns-wordpress.html
 ---
 
 It was just about [two years ago][1] that I converted my WordPress blog into a

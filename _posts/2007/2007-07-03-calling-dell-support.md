@@ -1,5 +1,6 @@
 ---
 title: Calling Dell Support
+redirect_from: /blog/2007/calling-dell-support.html
 ---
 
 Earlier today, I noticed the A/C adapter for my laptop seemed to be broken. It

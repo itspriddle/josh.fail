@@ -1,6 +1,7 @@
 ---
 title: "Copy screenshots to Dropbox Public folder on OS X"
 date: "Tue Aug 18 22:45:03 -0400 2015"
+redirect_from: /blog/2015/copy-screenshots-to-dropbox-public-folder-on-os-x.html
 ---
 
 In 2013 Dropbox added the ability to [save your screenshots in Dropbox][] This

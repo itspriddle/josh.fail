@@ -2,6 +2,7 @@
 title: "Pure bash markdown table generator"
 date: "Tue Feb 01 21:55:30 -0500 2022"
 category: dev
+redirect_from: /dev/2022/pure-bash-markdown-table-generator.html
 ---
 
 I wanted a portable markdown table generator a few months back and threw

@@ -1,5 +1,6 @@
 ---
 title: OS X - A Month Later
+redirect_from: /blog/2008/osx-a-month-later.html
 ---
 
 It took me a while to get used to the quirks, but I have not only gotten used

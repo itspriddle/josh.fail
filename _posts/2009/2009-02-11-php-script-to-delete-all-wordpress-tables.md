@@ -1,7 +1,9 @@
 ---
 title: PHP Script To Delete All WordPress Tables
 category: dev
-redirect_from: /blog/2009/php-script-to-delete-all-wordpress-tables.html
+redirect_from:
+- /blog/2009/php-script-to-delete-all-wordpress-tables.html
+- /dev/2009/php-script-to-delete-all-wordpress-tables.html
 ---
 
 I've had to do this a few times when I wasn't able to just drop the entire
