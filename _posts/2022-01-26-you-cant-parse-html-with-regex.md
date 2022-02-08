@@ -3,7 +3,9 @@ title: "You can't parse HTML with regex"
 date: "Wed Jan 26 01:22:06 -0500 2022"
 link: https://stackoverflow.com/a/1732454
 category: links
-redirect_from: /links/2022/you-can-t-parse-html-with-regex.html
+redirect_from:
+- /links/2022/you-can-t-parse-html-with-regex.html
+- /2022/you-can-t-parse-html-with-regex/
 ---
 
 This now infamous post on Stack Overflow --- [You can't parse HTML with
