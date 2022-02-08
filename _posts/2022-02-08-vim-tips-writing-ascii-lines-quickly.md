@@ -4,8 +4,8 @@ date: "Tue Feb 08 15:53:47 -0500 2022"
 category: dev
 ---
 
-I sometimes need to quickly write an ASCII line (hr) quickly, like
-`----------`. Here are two ways I do it in Vim.
+I sometimes need to write an ASCII line (hr) quickly, like `----------`, here
+are two ways I do it in Vim.
 
 I sometimes will separate blocks of code with a comment like:
 
