@@ -72,7 +72,7 @@ I have run into a couple minor issues:
    git@git.local:notebook.git ~/work/notebook-new && mv
    ~/work/notebook-new/.git ~/work/notebook.git`.
 
-Hopefully this setup continues to work :crossed_fingers:
+Hopefully this setup continues to work 🤞
 
 [^1]: I _actually_ keep the real files for my notebook in `~/Library/Mobile
     Documents/iCloud~md~obsidian/Documents/notebook`. But, that's a pain to

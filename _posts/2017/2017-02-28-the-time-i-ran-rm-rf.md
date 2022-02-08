@@ -20,7 +20,7 @@ The script took input as a list of account IDs and ran the equivalent of:
 rm -rf /var/customers/GROUP_ID/ACCOUNT_ID
 ```
 
-I'm sure you already see where this is going :smile:
+I'm sure you already see where this is going 😀
 
 The list I had accidentally contained a line of spaces, eg:
 

@@ -396,7 +396,7 @@ occasionally use `:Rake`.
 
 [vim-bundler][]: Provides Bundler integration. I've seen performance hits in
 the past with this, so I've installed and uninstalled it about 5 times. I'm
-trying it again :smile:.
+trying it again 😀.
 
 [vim-haml][]: Provides syntax highlighting for HAML and SASS.
 

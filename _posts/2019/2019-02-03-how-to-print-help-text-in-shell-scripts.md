@@ -376,4 +376,4 @@ couldn't justify not shipping docs with my scripts anymore.
 But maybe you don't. That's okay. Just make sure to provide _something_ when
 the user tries `-h` and `--help` --- even if it is just a one line `echo
 "some-script <cmd1|cmd2>"`. They probably won't thank you, but at least they
-won't rage :smile:.
+won't rage 😀.

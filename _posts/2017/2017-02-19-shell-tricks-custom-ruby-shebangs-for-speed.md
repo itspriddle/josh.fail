@@ -86,7 +86,7 @@ This is like running `rails runner script.rb`:
 
 Why? You want to run `./script.rb` instead of `rails runner script.rb`. I've
 never used this because I don't like the hard-coded path to `rails` in the
-shebang. But it's there :smile:
+shebang. But it's there 😀
 
 **AppleScript**
 

@@ -32,7 +32,7 @@ before it was due --- about being lazy.
 > Yeah, I can't figure it out either.  
 
 And now that I'm a software developer I'm _paid_ to be ~~lazy~~ efficient. If
-only that teacher could see me now :smile:!
+only that teacher could see me now 😀!
 
 ---
 

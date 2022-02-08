@@ -142,7 +142,7 @@ access this in your browser. There are a few ways you can handle this.
 
 You can add A records directly to DigitalOcean and just point them to your
 local IPs. For example, `example1.priddle.xyz => 10.0.1.10`. I tried this, but
-my router filters out any DNS records like this :sob:
+my router filters out any DNS records like this 😭
 
 **Configure in `/etc/hosts`**
 
