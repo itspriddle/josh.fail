@@ -5,7 +5,7 @@ category: blog
 redirect_from: /blog/2022/obsidian-nirvana.html
 ---
 
-I really need to do a proper project/post on my [Obsidian][] setup, but I
+I really need to do a proper project/post on my [Obsidian][1] setup, but I
 think I've finally reached planning nirvana.
 
 The short version:
