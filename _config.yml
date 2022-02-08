@@ -57,8 +57,7 @@ plugins:
 # Collections
 # TODO - to generate pages for each project, need to make a new layout
 collections:
-  - projects_work
-  - projects_open_source
+  - projects
 
 defaults:
   -

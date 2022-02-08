@@ -6,5 +6,5 @@ intro: |
   someone was nice enough to pay me for.
 ---
 
-{% assign collection = site.projects_work | where_exp: "item", "item.hidden != true" %}
+{% assign collection = site.projects | where_exp: "item", "item.hidden != true" | where: "project_type", "work" %}
 {% include project.html title=page.title intro=page.intro collection=collection %}

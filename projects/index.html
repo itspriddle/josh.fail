@@ -9,5 +9,5 @@ intro: |
   [github/itspriddle](https://github.com/itspriddle).
 ---
 
-{% assign collection = site.projects_open_source | where_exp: "item", "item.hidden != true" %}
+{% assign collection = site.projects | where_exp: "item", "item.hidden != true" | where: "project_type", "oss" %}
 {% include project.html title=page.title intro=page.intro collection=collection %}
