@@ -40,6 +40,9 @@ exclude:
   - README.md
   - bin
 
+include:
+  - _pages
+
 # Sass setup
 sass:
   sass_dir: stylesheets

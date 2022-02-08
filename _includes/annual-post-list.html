@@ -1,0 +1,2 @@
+{% assign posts = site.posts | where_exp: "post", "post.path contains include.year" | group_by_exp: "post", "post.date | date: '%Y'" %}
+{% include post-list.html posts=posts hide_year=true %}
