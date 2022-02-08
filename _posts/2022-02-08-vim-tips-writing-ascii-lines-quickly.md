@@ -1,10 +1,11 @@
 ---
-title: "Vim Tips: Writing ascii lines quickly"
+title: "Vim Tips: Writing ASCII lines quickly"
 date: "Tue Feb 08 15:53:47 -0500 2022"
+category: dev
 ---
 
 I sometimes need to quickly write an ASCII line (hr) quickly, like
-`----------`, here are two ways I do it in Vim.
+`----------`. Here are two ways I do it in Vim.
 
 I sometimes will separate blocks of code with a comment like:
 
@@ -15,7 +16,7 @@ I sometimes will separate blocks of code with a comment like:
 To do that quickly in Vim, I will press:
 
 - `i` to enter Insert Mode
-- `/`, `/`, `space` to type out `// `
+- `/`, `/`, `space` to type out <code>// </code>
 - `Esc` to exit Insert Mode
 - `A`, `-`, `Esc` append `-` to the end of the line, 75 times
 
@@ -63,7 +64,7 @@ From here, I'll rinse and repeat until the table looks like:
 
 ```
 | Num | Header 1 | Another Long Cell |
-| --- | ---------| ----------------- |
+| --- | -------- | ----------------- |
 ```
 
 Happy lining!
