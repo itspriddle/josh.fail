@@ -65,9 +65,9 @@ I've actually been using the recipe cards a bit less now that I can just pull
 up things on my phone quickly. I do still like the cards for complicated
 recipes.
 
-Another unespected this is that I was able to get the PDFs to print from
-my printer right on single 6x4 cards without too much trouble. Now, I just
-throw a recipe in a new `.md` file, push to GitHub, and download a PDF.
+Another unexpected surprise this is that I was able to get the PDFs to print
+from my printer right on single 6x4 cards without too much trouble. Now, I
+just throw a recipe in a new `.md` file, push to GitHub, and download a PDF.
 
 I hope that if you've stumbled across this post, you'll give it a try
 yourself! Just clone [the repo][2] and add your own recipe cards. You'll just
