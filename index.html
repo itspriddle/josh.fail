@@ -3,18 +3,17 @@ layout: default
 ---
 
 <div class="home">
+  {%- if site.paginate -%}
+    {%- assign posts = paginator.posts -%}
+  {%- else -%}
+    {%- assign posts = site.posts -%}
+  {%- endif -%}
 
-  {% if site.paginate %}
-    {% assign posts = paginator.posts %}
-  {% else %}
-    {% assign posts = site.posts %}
-  {% endif %}
+  {%- assign posts = posts | where_exp: "post", "post.category != 'archive'" | where_exp: "post", "post.category != 'vault'" | where_exp: "post", "post.archive != true" -%}
 
-  {% for post in posts %}
-    {% unless post.category == "archive" or post.archive %}
-    {% include post.html homepage=true post=post  %}
-    {% endunless %}
-  {% endfor %}
+  {%- for post in posts -%}
+    {% include post.html homepage=true post=post %}
+  {%- endfor -%}
 
   {% include paginator.html %}
 </div>

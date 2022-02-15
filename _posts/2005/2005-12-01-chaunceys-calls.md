@@ -1,5 +1,6 @@
 ---
 title: Chauncey's Calls
+category: vault
 ---
 
 Chauncey's Calls

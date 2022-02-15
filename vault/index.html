@@ -1,0 +1,10 @@
+---
+layout: page
+title: Vault
+intro: Very old cringe-worthy content from my very first sites I made as a teenager.
+---
+
+{% assign posts = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+{% assign posts = site.categories.vault | group_by_exp: "post", "post.date | date: '%Y'" %}
+{% include post-list-nav.html current="vault" intro=page.intro %}
+{% include post-list.html posts=posts %}

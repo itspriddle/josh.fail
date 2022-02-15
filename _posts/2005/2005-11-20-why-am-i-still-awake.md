@@ -1,5 +1,6 @@
 ---
 title: Why am I still awake?!
+date: "Sun Nov 20 07:30:00 -0500 2005"
 ---
 
 It's 7:30am and once again I'm asking myself "Why the fuck are you still

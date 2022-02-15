@@ -4,6 +4,6 @@ title: Archive
 intro: Everything I've posted here.
 ---
 
-{% assign posts = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+{% assign posts = site.posts | where_exp: "post", "post.category != 'vault'" | group_by_exp: "post", "post.date | date: '%Y'" %}
 {% include post-list-nav.html current="archive" intro=page.intro %}
 {% include post-list.html posts=posts %}
