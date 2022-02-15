@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 While working on a project managed with Git, I needed to split some files into
-a new repository.  In order to maintain the git history on these files, I used
-`git filter-branch`.  Here are two methods I used.
+a new repository. In order to maintain the git history on these files, I used
+`git filter-branch`. Here are two methods I used.
 
 First, create a copy of the original repo. `git filter-branch` is destructive
 and will rewrite your repos history!

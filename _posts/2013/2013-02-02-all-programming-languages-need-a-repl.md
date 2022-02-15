@@ -19,7 +19,7 @@ A REPL (Read Eval Print Loop), does 4 things:
 3. Print: The program **prints** the result of that command to your terminal.
 4. Loop: The program **loops** back to step 1 so you can run more commands.
 
-Like most Rubyists, I started out hacking on PHP code, and without a REPL.  In
+Like most Rubyists, I started out hacking on PHP code, and without a REPL. In
 those days, it was difficult to get PHP running properly on Windows. In order
 to test code, I typically made changes on a live site and reloaded my browser.
 Eventually I switched to Linux, and then OS X, and was able to run simple

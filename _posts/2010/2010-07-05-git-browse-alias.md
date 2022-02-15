@@ -43,7 +43,7 @@ Run `git browse` from your repo and watch in awe as it opens in your web
 browser.
 
 It's admittedly a bit fragile, but has worked on all of the repositories
-that I work with regularly.  Feel free to [fork it](http://gist.github.com/462049)
+that I work with regularly. Feel free to [fork it](http://gist.github.com/462049)
 if you have improvements.
 
 This will only work for OS X, but you should be able to get it working

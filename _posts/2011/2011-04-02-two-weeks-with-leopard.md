@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Two Weeks With Leopard
 redirect_from: /blog/2011/two-weeks-with-leopard.html
 ---
@@ -16,7 +15,7 @@ After two weeks, I can say that OS X is hands down my favorite operating
 system. Why? **The Little Things.**
 
 1. Stuff just works: I love Linux. I really do. I don't like tracking down
-dependancies. I haven't had to spend 3 days getting anything to work correctly
+dependencies. I haven't had to spend 3 days getting anything to work correctly
 on OS X. I spent 2 seconds dragging a program to OS X's Applications folder.
 Done.
 

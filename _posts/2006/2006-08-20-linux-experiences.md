@@ -28,4 +28,4 @@ pretty good, and I found answers to all of my questions. I've been using
 Ubuntu pretty much exclusively on my laptop for about 3 months. I even find
 myself typing `:wq` in notepad when I use Windows.
 
-Good times.  Learn Linux because Linux is great.
+Good times. Learn Linux because Linux is great.

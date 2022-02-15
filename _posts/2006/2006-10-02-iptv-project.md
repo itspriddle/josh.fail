@@ -13,9 +13,9 @@ Movie files (in the test they are H.263 encoded .mp4s) are FTP'd into a
 predetermined 'movies' folder. I chose this method over an HTTP/PHP uploader,
 because it simply isn't practical to conduct ~1gb uploads over an HTTP stream.
 Just a note: you could use any method to upload files: SCP, FTP, NFS, Samba -
-or if you're running on the same box you encode with, its even easier. [and if
-i have to explain _how_ to copy files on a localhost, you need to go
-away and pretend like you've never heard of 'computers']
+or if you're running on the same box you encode with, it's even easier. [and
+if i have to explain _how_ to copy files on a localhost, you need to go away
+and pretend like you've never heard of 'computers']
 
 Once this happens, the user (or Admin) is required to log into a web based
 control panel to perform various actions on the movie file before it is
@@ -70,6 +70,6 @@ search content in a variety of ways. Once they have chosen a movie, they'll
 get a special MRU for the particular movie, that can be opened in a media
 player.
 
-A lot of work for a fancy link... but its going to be absolutely brilliant.
+A lot of work for a fancy link... but it's going to be absolutely brilliant.
 
 More to come on this and many other issues on a day off near you.

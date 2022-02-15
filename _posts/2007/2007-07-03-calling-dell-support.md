@@ -61,7 +61,7 @@ could possibly be looking up/asking someone. About 3 minutes goes by.
 > **Me [trying not to sound irritated]:** Yes. Are you sure you wouldn't like
 > the model number?
 
-> **Dell:** No, that is okay.  Can I place you on hold again for 3-5 minutes?
+> **Dell:** No, that is okay. Can I place you on hold again for 3-5 minutes?
 
 > **Me:** Yes, okay.
 
@@ -75,7 +75,7 @@ again.
 
 > **Dell:** Can you please try using another A/C adapter?
 
-> **Me:** No.  I don't have another.  That's why I'm calling you.
+> **Me:** No. I don't have another. That's why I'm calling you.
 
 > **Dell:** Ehh...
 
@@ -99,7 +99,7 @@ supposed to be a 10 minute call. A few minutes later...
 > **Dell:** Thank you for holding. Is the LED light on the A/C adapter light
 > when you plug it in?
 
-> **Me:** No.  It is not.
+> **Me:** No. It is not.
 
 Now I get my hopes up a bit, thinking that we might be nearing the end. Wrong.
 

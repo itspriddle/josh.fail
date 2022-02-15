@@ -64,7 +64,7 @@ You probably jumped ahead already and noticed that your `Bundles/` directory
 is essentially empty. In order to actually download submodules, you need to
 initialize them with `git submodule init`, then update them with
 `git submodule update`. You'll see git download each submodule and print
-the sha1 hash of the commit it used.  Reload TextMate, and you're ready to rock.
+the sha1 hash of the commit it used. Reload TextMate, and you're ready to rock.
 
 
 **Maintain submodules**

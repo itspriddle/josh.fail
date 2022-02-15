@@ -19,15 +19,15 @@ for instance, and the 10 lines under the cursor would be folded.
 You could also specify the start and end lines manually with
 `:[start line],[end line]fold`
 
-An easy way I saw to do this, is to use Shift+V in command mode.  This will
-let you highlight lines of code.  So it's as simple as pressing `Shift+V`
+An easy way I saw to do this, is to use Shift+V in command mode. This will
+let you highlight lines of code. So it's as simple as pressing `Shift+V`
 then the down arrow until you've highlighted a section of code.
 Then you can press **zf** to fold (or type in `:fold`).
 
 Cool right?  There's one more thing I did to keep these folds from session to
 session - normally folds will disappear after you close vim unless you
-create what is called a view.  I found a <a href="http://www.vim.org/tips/tip.php?tip_id=991">page</a>
-on vim.org that explains how to do this automatically.  Just add these lines
+create what is called a view. I found a <a href="http://www.vim.org/tips/tip.php?tip_id=991">page</a>
+on vim.org that explains how to do this automatically. Just add these lines
 into your `~/.vimrc` file:
 
     autocmd BufWinLeave *.* mkview

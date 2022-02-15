@@ -19,7 +19,7 @@ before it was due --- about being lazy.
 >  
 > When you're so lazy you try to change channels with your foot,  
 > People will be saying "Damn son, you lazy."  
-> Because its true.  
+> Because it's true.  
 >  
 > But look at me now?  
 > 10 rapid writes behind.  
