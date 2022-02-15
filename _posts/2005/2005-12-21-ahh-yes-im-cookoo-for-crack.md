@@ -1,6 +1,7 @@
 ---
 title: Ahh yes, I'm cookoo for crack!
-category: vault
+category: archive
+published: false
 ---
 
 Stewie is my hero.

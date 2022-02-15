@@ -1,5 +1,6 @@
 ---
 title: Old ass gamer
+category: archive
 ---
 
 Haha, thanks Eric.
