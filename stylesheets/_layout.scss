@@ -60,7 +60,9 @@
 
 .footer-col-wrapper {
   color: $grey-color;
-  margin-left: -$spacing-unit / 2;
+  &:not(:last-child) {
+    margin-left: -$spacing-unit / 2;
+  }
   @extend %clearfix;
 }
 
