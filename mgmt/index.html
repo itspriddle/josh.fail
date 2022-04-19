@@ -1,0 +1,9 @@
+---
+layout: page
+title: Somehow, I Manage
+intro: Ramblings about managing people and projects
+---
+
+{% assign posts = site.categories.mgmt | where_exp: "post", "post.archive != true" | group_by_exp: "post", "post.date | date: '%Y'" %}
+{% include post-list-nav.html current="mgmt" intro=page.intro %}
+{% include post-list.html posts=posts %}

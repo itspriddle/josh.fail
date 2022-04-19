@@ -11,6 +11,12 @@
     <a href="{{ "/dev/" | relative_url }}">Dev</a>
   {% endif %}
   ::
+  {% if include.current == "mgmt" %}
+    <strong>Mgmt</strong>
+  {% else %}
+    <a href="{{ "/mgmt/" | relative_url }}">Mgmt</a>
+  {% endif %}
+  ::
   {% if include.current == "blog" %}
     <strong>Blog</strong>
   {% else %}
