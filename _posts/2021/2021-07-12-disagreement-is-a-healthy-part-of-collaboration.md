@@ -1,6 +1,6 @@
 ---
 title: Disagreement is a Healthy Part of Collaboration
-#category: thoughts
+category: mgmt
 redirect_from: /blog/2021/disagreement-is-a-healthy-part-of-collaboration.html
 ---
 
