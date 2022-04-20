@@ -13,8 +13,8 @@ don't really _practice_ it. For teams of developers/engineers or other
 knowledge workers, there is absolutely no excuse for it --- especially with
 remote workers.
 
-It doesn't have to be like this. And the cool part, is as a manager, you are
-the one who can help. Here are a few rules for you:
+It doesn't have to be like this. And the cool part: as a manager, you are the
+one who can help. Here are a few rules for you:
 
 - Your reports work 40 hours a week. Period. They might need to help with an
   issue and work 10 hours on Monday. It is on you to encourage them to work a
@@ -38,10 +38,11 @@ the one who can help. Here are a few rules for you:
   Unless they are oncall, there is no reason for you to bug people off the
   clock.
 - Encourage your reports to keep Slack and work email off of their phones.
-- If someone is on PTO, the only reason you should bug them is if your team or
-  the company will suffer irreparable harm otherwise. An emergency is one
-  where your team/company will suffer irreparable harm if that person isn't
-  brought in. A lack of preparation on your part is not an emergency on theirs.
+  Your projects will go on without them for a week or two.
+- If someone is on PTO, the only reason you should bug them is it is an
+  emergency. An emergency worth bugging someone on PTO is one where your
+  team/company will suffer irreparable harm if that person isn't brought in. A
+  lack of preparation on your part is not an emergency on theirs.
 - Encourage your reports to find replacements for their oncall rotations
   that fall during their PTO. They shouldn't be on the pager on vacation. They
   can be trusted to find coverage themselves.
@@ -54,7 +55,8 @@ the one who can help. Here are a few rules for you:
   while working. 
 - If they wake up early, you do too. Our work is always going to require
   coordinating big upgrades and feature rollouts. It often makes sense to do
-  these earlier in the day. 
+  these earlier in the day. But, if you need to annoy them by making them work
+  off hours, it is only fair that you do it, too.
 - Set clear expectations around when and how you want people to call out for
   the day or to submit PTO. It might surprise you, in spite of everything I
   wrote above, that it really grinds me gears when people miss our daily
