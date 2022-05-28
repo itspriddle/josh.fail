@@ -6,7 +6,7 @@ title: About Me
 I'm Josh. I make web hosting and web hosting accessories.
 
 I've been working on SaaS apps since 2006 (before we called 'em "SaaS apps").
-I mainly program in Ruby and PHP.
+I mainly program in Ruby, PHP, and Bash.
 
 I've written a bit about some of the [professional][] and [open source][] work
 I've done.
