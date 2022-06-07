@@ -12,4 +12,7 @@ history.
 Now that I've got another decent backup, time to tear apart the Q2 and make it
 a thoccy boi.
 
+_Update:_ It turns out I use the arrow keys a lot more than I thought, and
+this is a tricky keyboard to get used to.
+
 [1]: https://www.keychron.com/products/keychron-q4-qmk-custom-mechanical-keyboard
