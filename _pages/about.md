@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Me
+permalink: /about/
 ---
 
 I'm Josh. I make web hosting and web hosting accessories.
