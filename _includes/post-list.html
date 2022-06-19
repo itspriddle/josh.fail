@@ -1,7 +1,7 @@
 {% for item in include.posts %}
   {% unless include.hide_year %}
     {% comment %}<h2 id="{{ item.name }}"><a href="{{ "/" | append: item.name | append: "/" | relative_url }}">{{ item.name }}</a></h2>{% endcomment %}
-    <h2 id="{{ item.name }}">{{ item.name }}</h2>
+    <h2 id="{{ item.name }}">{{ item.name }} <!--&mdash; {{ item.items | size }} posts--></h2>
   {% endunless %}
   <ul class="post-list">
     {% for post in item.items %}
