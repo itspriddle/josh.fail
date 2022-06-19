@@ -10,7 +10,8 @@ installing files to disk. No downloading game updates. Just you, your shiny
 new game, and a soda.
 
 On that note, I finally grabbed Red Dead Redemption II. If it ever finishes
-installing, I hope it is as good as everyone says.
+installing, I hope it is as good as everyone says. _Update: it took 80 minutes
+to install fully._
 
 A more positive note, some of the better new game memories I have:
 
