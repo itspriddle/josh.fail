@@ -7,7 +7,7 @@ category: mgmt
 When I was given a company credit card, I didn't know that vendors would
 magically get a hold of my email address to try selling me something.
 
-In _just_ the last 7 days:
+In _just_ the last 7 days, I've gotten these cold-sales-emails:
 
 1. Kristen has reached out for the 4th time this month to see if I need
    geofencing.
@@ -22,11 +22,11 @@ In _just_ the last 7 days:
    case the first one got lost.
 6. Don let me know about a great Ruby developer. For my PHP team. Points for
    potentially skimming my LinkedIn to see I have Ruby experience myself.
-7. Emily and Georgia reserved another demo slots for me for their traffic
-   insights software. This is the 4th time, they've been at it since April.
+7. Emily and Georgia reserved another demo slot for me for their traffic
+   insights software. This is the 4th time. They've been at it since April.
 8. Kevin wanted me to consider a partner to "help us through fractional digital
    and technology resources instead of full-time roles".
-9. Andrada reached out for the 5th time to sell me IP addresses. She's ben at
+9. Andrada reached out for the 5th time to sell me IP addresses. She's been at
    it since May.
 10. Francis wanted to tell me all about Minimum Viable Products and assured me
     his team is great at them.
@@ -42,3 +42,23 @@ actually making for the company. But, most of all, they are all persistent
 and annoying.
 
 I suppose if 99 people say no and 1 says yes, that's still a sale, though.
+
+---
+
+Why not keep a running list of these? How many can I get in a month?
+
+1. 06/21/22: Jenny wants me to check out their smart Slack app that helps
+   DevOps and engineering teams **easily manage on-call rotations** (her
+   emphasis).
+2. 06/21/22: John's timer went off and I got a 5th email about their QA
+   Software Testing services.
+3. 06/21/22: David assures me agile growing pains are totally normal.
+   Thankfully, his team recognizes "the remarkable transformative potential of
+   unleashing the Agile Ecosystem Triad of People, Framework, and Toolchain
+   and what it can do to eliminate silos, reduce waste, enhance quality, and
+   adapt the correct tools to drive rapid results while serving as a pillar
+   for ongoing continuous improvements the modern Agile way." Yes, it was all
+   one long sentence.
+4. 06/21/22: Kate has virtual office hours available to help educate me on
+   how medical providers can financially verify their patients pre-service.
+5. 06/21/22: Francis opened a 2nd thread to tell me more about MVPs.
