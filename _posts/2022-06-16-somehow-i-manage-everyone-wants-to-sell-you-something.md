@@ -13,8 +13,8 @@ In _just_ the last 7 days, I've gotten these cold-sales-emails:
    geofencing.
 2. Catherine has reaching out a 2nd time to see if I need help with
    bottlenecks, to turn time into dollars.
-3. Jack has reached out for the 4th time and make my email marketing dreams
-   come true.
+3. Jack has reached out for the 4th time and wants to make my email marketing
+   dreams come true.
 4. Nancy reached out on Friday because I'm leaving a huge opportunity on the
    table with my website. I expect her follow up this coming Friday.
 5. John reached out for the 4th time to schedule a meeting to tell me about
@@ -53,12 +53,12 @@ Why not keep a running list of these? How many can I get in a month?
 2. 06/21/22: John's timer went off and I got a 5th email about their QA
    Software Testing services.
 3. 06/21/22: David assures me agile growing pains are totally normal.
-   Thankfully, his team recognizes "the remarkable transformative potential of
-   unleashing the Agile Ecosystem Triad of People, Framework, and Toolchain
-   and what it can do to eliminate silos, reduce waste, enhance quality, and
-   adapt the correct tools to drive rapid results while serving as a pillar
-   for ongoing continuous improvements the modern Agile way." Yes, it was all
-   one long sentence.
+   Thankfully, at his company they "recognize the remarkable transformative
+   potential of unleashing the Agile Ecosystem Triad of People, Framework, and
+   Toolchain and what it can do to eliminate silos, reduce waste, enhance
+   quality, and adapt the correct tools to drive rapid results while serving
+   as a pillar for ongoing continuous improvements the modern Agile way." Yes,
+   it was all one long sentence.
 4. 06/21/22: Kate has virtual office hours available to help educate me on
    how medical providers can financially verify their patients pre-service.
 5. 06/21/22: Francis opened a 2nd thread to tell me more about MVPs.
