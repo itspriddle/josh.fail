@@ -15,5 +15,5 @@ I've definitely learned this lesson the hard way. Of course, people smarter
 than me thought about it in the 60s when my dad was still playing with G.I.
 Joes 😀
 
-[1]: https://en.wikipedia.org/wiki/Amdahl%27s_law
-[2]: https://news.ycombinator.com/item?id=31813049
+[1]: https://news.ycombinator.com/item?id=31813049
+[2]: https://en.wikipedia.org/wiki/Amdahl%27s_law
