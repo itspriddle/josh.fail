@@ -10,13 +10,14 @@ magically get a hold of my email address to try selling me something.
 In _just_ the last 7 days, I've gotten these cold-sales-emails:
 
 1. Kristen has reached out for the 4th time this month to see if I need
-   geofencing.
+   geofencing. She hasn't attempted to explain what it is.
 2. Catherine has reaching out a 2nd time to see if I need help with
    bottlenecks, to turn time into dollars.
 3. Jack has reached out for the 4th time and wants to make my email marketing
    dreams come true.
 4. Nancy reached out on Friday because I'm leaving a huge opportunity on the
-   table with my website. I expect her follow up this coming Friday.
+   table with my website. What it is, or which website, who can guess? I
+   expect her follow up this coming Friday.
 5. John reached out for the 4th time to schedule a meeting to tell me about
    his Software QA/Testing services. He started a 2nd thread this time just in
    case the first one got lost.
@@ -24,12 +25,14 @@ In _just_ the last 7 days, I've gotten these cold-sales-emails:
    potentially skimming my LinkedIn to see I have Ruby experience myself.
 7. Emily and Georgia reserved another demo slot for me for their traffic
    insights software. This is the 4th time. They've been at it since April.
-8. Kevin wanted me to consider a partner to "help us through fractional digital
-   and technology resources instead of full-time roles".
+8. Kevin wanted me to consider a partner to "help through fractional digital
+   and technology resources instead of full-time roles". I think he's selling
+   developers?
 9. Andrada reached out for the 5th time to sell me IP addresses. She's been at
    it since May.
 10. Francis wanted to tell me all about Minimum Viable Products and assured me
-    his team is great at them.
+    his team is great at them. I wonder what we do with one of their MVPs if
+    it worked and we needed to launch an Actual P?
 11. Ella wanted to know if I was interested in buying Joomla Software User
     lists. Her CMS is broken though and full of blanks where variables should
     have been present.
@@ -49,7 +52,8 @@ Why not keep a running list of these? How many can I get in a month?
 
 1. 06/21/22: Jenny wants me to check out their smart Slack app that helps
    DevOps and engineering teams **easily manage on-call rotations** (her
-   emphasis).
+   emphasis). This one's actually not a bad idea, but PagerDuty is already a
+   thing I'm paying for, you know?
 2. 06/21/22: John's timer went off and I got a 5th email about their QA
    Software Testing services.
 3. 06/21/22: David assures me agile growing pains are totally normal.
@@ -58,7 +62,21 @@ Why not keep a running list of these? How many can I get in a month?
    Toolchain and what it can do to eliminate silos, reduce waste, enhance
    quality, and adapt the correct tools to drive rapid results while serving
    as a pillar for ongoing continuous improvements the modern Agile way." Yes,
-   it was all one long sentence.
+   it was all one long sentence. Seems like they're [making the world a better
+   place][1].
 4. 06/21/22: Kate has virtual office hours available to help educate me on
    how medical providers can financially verify their patients pre-service.
-5. 06/21/22: Francis opened a 2nd thread to tell me more about MVPs.
+   That _is_ a problem that's been keeping me awake at night.
+5. 06/21/22: Francis opened a 2nd thread to tell me more about MVPs. He seems
+   a bit more to the point this time.
+6. 06/22/22: Diane wants to know if my team is just working hard or if they're
+   also working _smart_. She's so confident I'll love their forensics
+   software's insights into my site's visitors, she's gone ahead and reserved
+   a trial for it for me. She also wants me to know they're GDPR compliant
+   (but it's somehow totally cool that she's emailing me without me having
+   signed up for anything).
+7. 06/22/22: Derek is a reliable, US-based partner than can help with my
+   current or upcoming projects' development. His firm prides themselves on
+   excellent communication and unparalleled expertise.
+
+[1]: https://www.youtube.com/watch?v=B8C5sjjhsso
