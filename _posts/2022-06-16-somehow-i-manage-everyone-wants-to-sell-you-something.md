@@ -11,7 +11,7 @@ In _just_ the last 7 days, I've gotten these cold-sales-emails:
 
 1. Kristen has reached out for the 4th time this month to see if I need
    geofencing. She hasn't attempted to explain what it is.
-2. Catherine has reaching out a 2nd time to see if I need help with
+2. Catherine has reached out a 2nd time to see if I need help with
    bottlenecks, to turn time into dollars.
 3. Jack has reached out for the 4th time and wants to make my email marketing
    dreams come true.
@@ -41,8 +41,8 @@ It's interesting to spot the different patterns these people are using.
 Everyone acknowledges how busy I must be (of course, not so busy I can't find
 30 mins to hear their pitches). Most of them know that I have some buying
 power in my company, but also have no clue what decisions my team and I are
-actually making for the company. But, most of all, they are all persistent
-and annoying.
+actually making for the company. At least half of them have no clue what it is
+I, you know, do here. But, most of all, they are all persistent and annoying.
 
 I suppose if 99 people say no and 1 says yes, that's still a sale, though.
 
@@ -57,13 +57,13 @@ Why not keep a running list of these? How many can I get in a month?
 2. 06/21/22: John's timer went off and I got a 5th email about their QA
    Software Testing services.
 3. 06/21/22: David assures me agile growing pains are totally normal.
-   Thankfully, at his company they "recognize the remarkable transformative
+   Thankfully, at his company they _"recognize the remarkable transformative
    potential of unleashing the Agile Ecosystem Triad of People, Framework, and
    Toolchain and what it can do to eliminate silos, reduce waste, enhance
    quality, and adapt the correct tools to drive rapid results while serving
-   as a pillar for ongoing continuous improvements the modern Agile way." Yes,
-   it was all one long sentence. Seems like they're [making the world a better
-   place][1].
+   as a pillar for ongoing continuous improvements the modern Agile way."_
+   Yes, it was all one long sentence. Seems like they're [making the world a
+   better place][1].
 4. 06/21/22: Kate has virtual office hours available to help educate me on
    how medical providers can financially verify their patients pre-service.
    That _is_ a problem that's been keeping me awake at night.
