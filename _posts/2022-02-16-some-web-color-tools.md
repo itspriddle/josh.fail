@@ -4,7 +4,7 @@ date: "Wed Feb 16 15:56:20 -0500 2022"
 category: dev
 ---
 
-I saw a [hue.tools][1] today on Hacker News, a cool tool for playing with
+I saw [hue.tools][1] today on Hacker News, a cool tool for playing with
 colors.
 
 A coworker shared a few others as well:
