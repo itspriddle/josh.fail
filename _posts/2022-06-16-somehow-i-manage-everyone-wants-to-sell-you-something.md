@@ -78,5 +78,10 @@ Why not keep a running list of these? How many can I get in a month?
 7. 06/22/22: Derek is a reliable, US-based partner than can help with my
    current or upcoming projects' development. His firm prides themselves on
    excellent communication and unparalleled expertise.
+8. 06/23/22: John offers his sincere apologies if he's bothering me in my busy
+   work schedule. He really wants to schedule a call to talk about his QA
+   services.
+9. 06/23/22: Kate is back to let me know there is still time for me to
+   register for that patient financial verification strategy presentation.
 
 [1]: https://www.youtube.com/watch?v=B8C5sjjhsso
