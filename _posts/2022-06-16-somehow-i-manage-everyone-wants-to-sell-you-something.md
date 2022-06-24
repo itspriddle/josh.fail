@@ -83,5 +83,7 @@ Why not keep a running list of these? How many can I get in a month?
    services.
 9. 06/23/22: Kate is back to let me know there is still time for me to
    register for that patient financial verification strategy presentation.
+10. 06/23/22: David sent me his long winded agile sales pitch again. It made
+    me laugh again.
 
 [1]: https://www.youtube.com/watch?v=B8C5sjjhsso
