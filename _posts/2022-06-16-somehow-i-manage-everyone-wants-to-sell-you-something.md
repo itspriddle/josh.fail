@@ -48,6 +48,8 @@ I suppose if 99 people say no and 1 says yes, that's still a sale, though.
 
 ---
 
+![]({{ "/images/posts/2022/what-would-you-say-you-pay-for-here.jpg" | relative_url }})
+
 Why not keep a running list of these? How many can I get in a month?
 
 1. 06/21/22: Jenny wants me to check out their smart Slack app that helps
@@ -80,10 +82,11 @@ Why not keep a running list of these? How many can I get in a month?
    excellent communication and unparalleled expertise.
 8. 06/23/22: John offers his sincere apologies if he's bothering me in my busy
    work schedule. He really wants to schedule a call to talk about his QA
-   services.
+   services. It's his 6th attempt.
 9. 06/23/22: Kate is back to let me know there is still time for me to
    register for that patient financial verification strategy presentation.
-10. 06/23/22: David sent me his long winded agile sales pitch again. It made
-    me laugh again.
+10. 06/23/22: David makes me laugh a second time with his long winded agile
+    sales pitch. I don't think I yet recognize the remarkable transformative
+    potential of unleashing the Agile Ecosystem Triad.
 
 [1]: https://www.youtube.com/watch?v=B8C5sjjhsso
