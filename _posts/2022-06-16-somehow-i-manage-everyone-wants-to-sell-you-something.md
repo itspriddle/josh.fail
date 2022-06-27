@@ -88,5 +88,14 @@ Why not keep a running list of these? How many can I get in a month?
 10. 06/23/22: David makes me laugh a second time with his long winded agile
     sales pitch. I don't think I yet recognize the remarkable transformative
     potential of unleashing the Agile Ecosystem Triad.
+11. 06/25/22: David, David, David. It's Sunday, my man. Take a break!
+12. 06/27/22: Scot hopes I'm doing well and has free trials for top Project
+    Management, Construction or accounting tools.
+13. 06/27/22: Raja worked for `$BigComany` for 14 years as a GM, he built
+    technology teams in India nd now leads a very strong team of technical
+    recruiters and project managers as part of a digitalzone with a fine
+    office facility. He is not a fan of comas.
+14. 06/27/22: Hasham has ruby services from a trustworthy development
+    partner if I'm short handed and need help with the development needs.
 
 [1]: https://www.youtube.com/watch?v=B8C5sjjhsso
