@@ -3,7 +3,8 @@ layout: page
 title: Links
 permalink: /links/
 intro: Links to things I think are cool --- or want to remember.
-# TODO: script something to pull all link posts and check if the URL still 200s, if not, archive it
+# TODO: script something to pull all link posts and check if the URL still
+# 200s, if not, archive it This will be complicated by domain squatters :(
 ---
 
 {% assign posts = site.categories.links | where_exp: "post", "post.archive != true" | group_by_exp: "post", "post.date | date: '%Y'" %}
