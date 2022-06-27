@@ -44,7 +44,10 @@ power in my company, but also have no clue what decisions my team and I are
 actually making for the company. At least half of them have no clue what it is
 I, you know, do here. But, most of all, they are all persistent and annoying.
 
-I suppose if 99 people say no and 1 says yes, that's still a sale, though.
+I suppose if 99 people say no and 1 says yes, that's still a sale?
+
+Note that this does _not_ include all the webinar invites, random product
+emails from vendors I am actually using, or outright spam.
 
 ---
 
@@ -97,5 +100,9 @@ Why not keep a running list of these? How many can I get in a month?
     office facility. He is not a fan of comas.
 14. 06/27/22: Hasham has ruby services from a trustworthy development
     partner if I'm short handed and need help with the development needs.
+15. 06/27/22: Ioana wants to talk about my 2022 plans and show me how
+    combining cybersecurity and data protection technologies with the cyber
+    protection approach can help me protect my clients from data loss and
+    cyberthreats.
 
 [1]: https://www.youtube.com/watch?v=B8C5sjjhsso
