@@ -104,5 +104,13 @@ Why not keep a running list of these? How many can I get in a month?
     combining cybersecurity and data protection technologies with the cyber
     protection approach can help me protect my clients from data loss and
     cyberthreats.
+16. 06/27/22: Andres wants to help me with hiring by focusing on nearshore
+    staff augmentation with locality and culture-fit in mind. He's been
+    emailing me since Jan 2021 any time a dev spot opened on our website.
+17. 06/27/22: Kathy went through my LinkedIn profile and wants to know my
+    interest on the below. She'd love to offer "**FREE 0$ POC(Proof of
+    Concept)**. They develop Automation script for few complex
+    scenarios(shared by me) on my application in any technical stack." Kathy,
+    I _wish_ we had "few complex scenarios", but these are computers.
 
 [1]: https://www.youtube.com/watch?v=B8C5sjjhsso
