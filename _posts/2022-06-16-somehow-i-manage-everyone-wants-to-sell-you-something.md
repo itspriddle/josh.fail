@@ -112,5 +112,33 @@ Why not keep a running list of these? How many can I get in a month?
     Concept)**. They develop Automation script for few complex
     scenarios(shared by me) on my application in any technical stack." Kathy,
     I _wish_ we had "few complex scenarios", but these are computers.
+18. 06/27/22: Daviiiid! Are you really going to email me the same thing every
+    two days? I guess I'll unsubscribe when it stops being funny.
+19. 06/28/22: Grace is sharing my copy of the Maturity Model for IT
+    Orchestration & Automation today! Their "tiered framework made up of five
+    distinct levels of automation maturity" is one that my organization "can
+    use to self-assess [out] automation readiness and develop a sound strategy
+    for moving forward." I am realizing that "framework" is probably a great
+    way to flag the _real_ bullshitters in my inbox.
+20. 06/28/22: Kara has been working with a skilled Software Developer she
+    thinks would be a great fit for my company. I'm not sure what those skills
+    are. If that person's not a good fit, she has others!
+21. 06/28/22: Edmond is thrilled to share with me that they are officially an
+    Atlassian Cloud Specialized Partner! I think they offer consulting for
+    Atlassian, but they really want me to read their presser about this new
+    certification.
+22. 06/29/22: Kara is following up again. Today she has multiple devs she's
+    working with. I hope the person from yesterday found something!
+23. 06/29/22: Vijay hopes I'm having a great week. He saw I am hiring (I'm
+    not) and wants me to send him my leads. He's got offshore devs available
+    for my next project. I guess I'm supposed to show him my leads so he can
+    tell me that he can come in cheaper?
+24. 06/29/22: Maria's accomplished teams have delivered software across
+    different tech verticals such as Product Design, Custom Software
+    Development, Fintech, CMS, Web/App Development, Machine/Deep Learning,
+    A.I, Travel Technology, DBA, and more. She wants to collaborate. I do love
+    me a good vertical.
+25. 06/29/22: Derek has reached out a few times but hasn't heard back (Dear
+    Slim...). He also wants to sell me developers.
 
 [1]: https://www.youtube.com/watch?v=B8C5sjjhsso
