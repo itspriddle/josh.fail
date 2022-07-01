@@ -18,7 +18,6 @@ feeling dumb on those calls:
 And a couple OSI layer mnemonics which work from the bottom up:
 
 - Please Do Not Throw Sausage Pizza Away
-- Please Do Not Touch Sally's Pretty Ass
 - Please Do Not Touch Steve's Pet Alligator
 
 And a handy table with the layer number and an example:
