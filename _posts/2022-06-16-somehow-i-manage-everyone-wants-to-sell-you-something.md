@@ -119,7 +119,7 @@ Why not keep a running list of these? How many can I get in a month?
     distinct levels of automation maturity" is one that my organization "can
     use to self-assess [out] automation readiness and develop a sound strategy
     for moving forward." I am realizing that "framework" is probably a great
-    way to flag the _real_ bullshitters in my inbox.
+    way to flag the _real_ bullshitters in my inbox. Also "triad."
 20. 06/28/22: Kara has been working with a skilled Software Developer she
     thinks would be a great fit for my company. I'm not sure what those skills
     are. If that person's not a good fit, she has others!
