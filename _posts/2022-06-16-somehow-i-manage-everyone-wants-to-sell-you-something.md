@@ -140,5 +140,20 @@ Why not keep a running list of these? How many can I get in a month?
     me a good vertical.
 25. 06/29/22: Derek has reached out a few times but hasn't heard back (Dear
     Slim...). He also wants to sell me developers.
+26. 06/30/22: Tommy says "Hey Jude... sorry, Joshua!". He's got 3 devs who are
+    looking for **HELP!** Fortunately, none of them live in a **Yellow
+    Submarine** and would love to work for me in office or remotely. We can
+    **Come Together** to discuss them. **Let It Be** known that if I need
+    different skills, Tommy's got 'em. He can help me with anything with a
+    **Little Help From My Friends**. Dude. I hate the Beatles --- and this
+    sales tactic.
+27. 06/30/22: Andrew found himself scrolling through my website and social
+    channels and he must say, he loves what I've got going on. They specialize
+    in SEO and are so confident in their work and ranking me on the first page
+    of Google. I wonder how he found us if I need so much SEO work 🤔
+28. 06/30/22: Kate really wants me to join those office hours to extract value
+    from unstructured data in healthcare. I still don't know what that is, but
+    the more you ask me about it, Kate, the more I feel it's something that
+    ought to be illegal.
 
 [1]: https://www.youtube.com/watch?v=B8C5sjjhsso
