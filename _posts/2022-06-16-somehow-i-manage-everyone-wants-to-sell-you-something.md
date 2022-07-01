@@ -155,5 +155,14 @@ Why not keep a running list of these? How many can I get in a month?
     from unstructured data in healthcare. I still don't know what that is, but
     the more you ask me about it, Kate, the more I feel it's something that
     ought to be illegal.
+29. 07/01/22: Kara hasn't heard back so she wanted to touch base again. She
+    wants to sell me developers in Q3.
+30. 07/01/22: Erik wants to schedule a call to learn about my active dev
+    projects and explore ways they can provide immediate relief to my talent
+    needs and become and on-demand asset for my team. These recruiters and
+    programmer sweat shops sure do love their word salads.
+31. 07/01/22: Jenna is a director at a US-based innovative business solutions
+    firm. They have offices an resources throughout LATAM to help scale my IT
+    and software development teams.
 
 [1]: https://www.youtube.com/watch?v=B8C5sjjhsso
