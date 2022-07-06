@@ -189,6 +189,11 @@ Why not keep a running list of these? How many can I get in a month?
     loathe no-code solutions. I bet "low-code" ones are _worse_ and that I'd
     have to learn a half-baked programming language to be semi-productive. One
     Size Fits None™.
+39. 07/06/22: Madhukar outlined a pull request that happened at his work and
+    how their software removes me needing to be in a standup. He wants to know
+    if that's the "the silent, efficient, social collaboration of work Zen you
+    want to bring to your life as well?" No, I don't want to work in silence.
+    Standups can not suck if you do them right.
 
 [1]: https://www.youtube.com/watch?v=B8C5sjjhsso
 [2]: {{ "/images/posts/2022/split-that-commish.gif" | relative_url }}
