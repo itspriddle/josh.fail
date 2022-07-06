@@ -194,6 +194,8 @@ Why not keep a running list of these? How many can I get in a month?
     if that's the "the silent, efficient, social collaboration of work Zen you
     want to bring to your life as well?" No, I don't want to work in silence.
     Standups can not suck if you do them right.
+40. 07/06/22: Jenna is just floating her email back to the top of my inbox.
+    There's something uniquely irritating about that.
 
 [1]: https://www.youtube.com/watch?v=B8C5sjjhsso
 [2]: {{ "/images/posts/2022/split-that-commish.gif" | relative_url }}
