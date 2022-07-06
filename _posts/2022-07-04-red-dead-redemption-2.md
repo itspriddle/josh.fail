@@ -11,6 +11,13 @@ same for this one?
 
 ---
 
+**2022-07-05**
+
+- Spent the day at work looking forward to playing more. I think I'm starting
+  to get sucked in.
+- The open-world-ness is so tough in the beginning. I'm never sure what
+  exactly I'm supposed to be doing...
+
 **2022-07-04**
 
 - These horse controls are impossible! Here's [a guide][PS4 Controls].
@@ -19,6 +26,56 @@ same for this one?
 
 - Well, I remembered [getting new games sucks today][New Games Today].
 - The first hour was fun. I think I killed someone on accident.
+
+---
+
+**PS4 Controls**
+
+Copied from that [guide][PS4 Controls] I mentioned above:
+
+
+| Button                       | Action                                                                                                                                                                                                  |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Left analog stick (in cover) | Peek                                                                                                                                                                                                    |
+| Left analog stick (horse)    | Steer                                                                                                                                                                                                   |
+| Left analog + X              | Hold to run, tap to sprint                                                                                                                                                                              |
+| X (horse)                    | Tap to change speed; hold to match the speed of your companion; double tap to move up in formation                                                                                                      |
+| Right analog stick           | Look/aim                                                                                                                                                                                                |
+| L3                           | Crouch                                                                                                                                                                                                  |
+| L3 (horse)                   | Calm horse                                                                                                                                                                                              |
+| R3 (weapon wheel)            | Maintain weapon; hold to look behind                                                                                                                                                                    |
+| L3 + R3                      | Eagle Eye                                                                                                                                                                                               |
+| Square                       | Tap to jump, climb, or vault over obstacles; hold to pick up collectibles or search furniture; while hunting, hold to draw animal attention                                                             |
+| Square (while aiming)        | Tap to dive; tap to block melee attacks                                                                                                                                                                 |
+| Square (in cover)            | Move to next cover spot (with Left analog stick)                                                                                                                                                        |
+| Square (horse)               | Tap to jump, climb, or vault over obstacles; hold to pick up collectibles or search furniture; while hunting, hold to draw animal attention                                                             |
+| Triangle                     | Interact with the environment, loot bodies, skin animals; hold to rest; (in melee combat) grapple opponent                                                                                              |
+| Triangle (horse)             | Tap to mount or dismount; while stationary, hold to hitch horse; while on foot, tap to command to follow or lead horse                                                                                  |
+| Circle                       | Reload weapon/melee combat                                                                                                                                                                              |
+| Circle (horse)               | Kick a target to either side; stop leading horse                                                                                                                                                        |
+| L1                           | Tap to draw/holster weapon; hold to display wheel menu, tap to pick up weapons or objects, or select weapon with Right analog stick and release to equip weapon                                         |
+| L1 (horse)                   | hold to view weapons stored on mount                                                                                                                                                                    |
+| R1                           | Take/exit cover; hold to study animal or tap to show/hide animal information                                                                                                                            |
+| R1 (horse)                   | Tap to slow down; double tap to move down formation                                                                                                                                                     |
+| L2                           | Hold to aim equipped weapon; hold to lock on to nearby characters or animals                                                                                                                            |
+| L2 (hold) + R2               | Aim and shoot                                                                                                                                                                                           |
+| L2 (hold) + R3               | Activate Dead Eye while aiming                                                                                                                                                                          |
+| L2 (hold) + Square           | Combat dive                                                                                                                                                                                             |
+| L2 (horse)                   | Hold to lock on to nearby targets                                                                                                                                                                       |
+| R2                           | Tap to draw weapon, fire weapon, or cock weapon between shots (if applicable); rapid tap to shoot from the hip                                                                                          |
+| R2 (horse)                   | Tap to draw weapon, fire weapon, or cock weapon between shots (if applicable)                                                                                                                           |
+| D-Pad Right                  | Hold to open satchel or horse cargo                                                                                                                                                                     |
+| D-Pad Right (horse)          | hold to check horse cargo; feed horse (while locked onto horse)                                                                                                                                         |
+| D-Pad Left                   | Tap to display log; hold to check journal                                                                                                                                                               |
+| D-Pad Left + L2              | Toggle shoulder view (while aiming)                                                                                                                                                                     |
+| D-Pad Left (horse)           | Brush horse (while locked onto horse)                                                                                                                                                                   |
+| D-Pad Left + L2 (horse)      | Toggle shoulder view (while aiming)                                                                                                                                                                     |
+| D-Pad Up                     | Whistle/call horse                                                                                                                                                                                      |
+| D-Pad Up                     | Raise your gun to the sky to fire a warning shot (while aiming)                                                                                                                                         |
+| D-Pad Up (horse)             | Whistle/call horse; remove saddle (while locked onto horse); raise your gun to the sky to fire a warning shot (while aiming)                                                                            |
+| D-Pad Down                   | Tap to view current objective (while on mission), expand radar, display honor rating and environmental information; in camp, tap to show status of camp supplies and savings; hold to change radar type |
+| Trackpad                     | Press to toggle camera view; press and hold to trigger cinematic view                                                                                                                                   |
+| Options                      | Display pause menu; hold to open the map                                                                                                                                                                |
 
 [RE4 1]: {% post_url 2006/2006-08-27-resident-evil-4 %}
 [RE4 2]: {% post_url 2006/2006-08-28-resident-evil-4-part-2 %}
