@@ -178,5 +178,17 @@ Why not keep a running list of these? How many can I get in a month?
     like the subject came from LinkedIn.
 35. 07/06/22: Sounds like Kara has gotten the point that I'm not actually
     hiring.
+36. 07/06/22: Francis tells me "There’s an easy solution to your problem:
+    outsourcing." No, I think the answer is UNSUBSCRIBE when I'm done with
+    this little experiment.
+37. 07/06/22: Stephen wants to sell me the same stuff that Ioana does. I
+    wonder if they're talking to each other at all? Do they [split that
+    commish][2] if I sign up?
+38. 07/06/22: Ken writes to tell me "Low-code app development means you can
+    build apps and workflows faster than ever and with less complexity." I
+    loathe no-code solutions. I bet "low-code" ones are _worse_ and that I'd
+    have to learn a half-baked programming language to be semi-productive. One
+    Size Fits None™.
 
 [1]: https://www.youtube.com/watch?v=B8C5sjjhsso
+[2]: {{ "/images/posts/2022/split-that-commish.gif" | relative_url }}
