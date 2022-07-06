@@ -165,5 +165,18 @@ Why not keep a running list of these? How many can I get in a month?
 31. 07/01/22: Jenna is a director at a US-based innovative business solutions
     firm. They have offices an resources throughout LATAM to help scale my IT
     and software development teams.
+32. 07/05/22: Kate has even more medical virtual office hours. I guess they do
+    them weekly?
+33. 07/05/22: Ioana is back and says "A lot of MSPs struggle to manage a stack
+    of vendors and still end up with unreliable protection for their clients."
+    I'd have no clue what she's trying to sell if they weren't already a
+    vendor of ours I've heard about. Now that I think about it, what _is_ she
+    trying to sell me if we're already their customers?
+34. 07/05/22: Ozan would like to schedule a call to talk about their
+    "innovative platform capable of managing and optimizing exponential
+    amounts of data all in real-time, at the edge." He faked his email to look
+    like the subject came from LinkedIn.
+35. 07/06/22: Sounds like Kara has gotten the point that I'm not actually
+    hiring.
 
 [1]: https://www.youtube.com/watch?v=B8C5sjjhsso
