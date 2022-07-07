@@ -11,12 +11,24 @@ same for this one?
 
 ---
 
+**2022-07-06**
+
+- OMG, I can't believe I missed the watch on the pause screen. I equipped one
+  and thought that was the only way to know the time in-game.
+- Shot a hotel clerk in the face on accident 😂.
+- Asked a friend for a spoiler free explanation on the Bounty system. I
+  basically guessed what it was as I was typing it out. He answered me...
+  about 2 mins after I wandered into a Post Office and figured the answer out
+  in-game.
+
 **2022-07-05**
 
 - Spent the day at work looking forward to playing more. I think I'm starting
   to get sucked in.
 - The open-world-ness is so tough in the beginning. I'm never sure what
   exactly I'm supposed to be doing...
+- I'm now referring to O'Driscolls as O'Doyles.
+- Why do I keep losing so many hats?!
 
 **2022-07-04**
 
