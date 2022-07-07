@@ -196,6 +196,11 @@ Why not keep a running list of these? How many can I get in a month?
     Standups can not suck if you do them right.
 40. 07/06/22: Jenna is just floating her email back to the top of my inbox.
     There's something uniquely irritating about that.
+41. 07/07/22: Lucy tells me that Ernest Hemingway said "customer experience is
+    all about the journey---a journey that's most effective when it includes
+    moments of personalized, relevant content." I'll admit I've never read any
+    Hemingway... but somehow I doubt he ever mentioned customer service. She's
+    trying to sell a modern CMS and DAM (she doesn't mention what they are).
 
 [1]: https://www.youtube.com/watch?v=B8C5sjjhsso
 [2]: {{ "/images/posts/2022/split-that-commish.gif" | relative_url }}
