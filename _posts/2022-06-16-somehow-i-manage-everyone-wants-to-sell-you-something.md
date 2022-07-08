@@ -201,6 +201,19 @@ Why not keep a running list of these? How many can I get in a month?
     moments of personalized, relevant content." I'll admit I've never read any
     Hemingway... but somehow I doubt he ever mentioned customer service. She's
     trying to sell a modern CMS and DAM (she doesn't mention what they are).
+42. 07/07/22: Shannon has good news: a key decision-maker from your ideal
+    customer just visited your website! Bad news: they left your website
+    without getting in touch with you. Her forensics software can help. She
+    wants to know what day works best for me next week to talk. I like the
+    assertiveness---don't make me think about it!
+43. 07/08/22: Brandon says (demands?) "we need to talk, Joshua". They are US
+    based and offer flexible engagement options such as Staff Augmentation,
+    Team Delivery and Project delivery. Their Net Promoter Score is 75%. I
+    know enough about NPS to know you're probably gaming things to be in the
+    70s, but nice flex.
+44. 07/08/22: James is following up from a thread in April. They're a unique
+    Software Outsourcing company that employs only the Top 1% Software
+    Engineers in Latin America.
 
 [1]: https://www.youtube.com/watch?v=B8C5sjjhsso
 [2]: {{ "/images/posts/2022/split-that-commish.gif" | relative_url }}
