@@ -214,6 +214,20 @@ Why not keep a running list of these? How many can I get in a month?
 44. 07/08/22: James is following up from a thread in April. They're a unique
     Software Outsourcing company that employs only the Top 1% Software
     Engineers in Latin America.
+45. 07/08/22: David is back. "If you're struggling to combine your long-term
+    planning and agile development - you're not alone!" If I am not
+    struggling, am I alone?
+46. 07/10/22: David! For the love of god, take the hint dude. You do not need
+    to email me every Friday and Sunday. I promise, I am not giving you any
+    money.
+47. 07/11/22: Kathy isn't sure if I've been able to review her prior email.
+    She still wants to collaborate with the below mentioned Testing POC for
+    free of cost.
+48. 07/11/22: Jenna reminds me she's from that "nearshore staff augmentation
+    firm that provides operational and IT services to companies looking to
+    scale in the most efficient and cost-effective way without sacrificing
+    quality." These people should read their emails aloud to taste the word
+    salad for themselves.
 
 [1]: https://www.youtube.com/watch?v=B8C5sjjhsso
 [2]: {{ "/images/posts/2022/split-that-commish.gif" | relative_url }}
