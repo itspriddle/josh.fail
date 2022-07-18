@@ -228,6 +228,54 @@ Why not keep a running list of these? How many can I get in a month?
     scale in the most efficient and cost-effective way without sacrificing
     quality." These people should read their emails aloud to taste the word
     salad for themselves.
+49. 07/12/22: Kate is back for at least the third time. She's got help for me
+    with precise coding --- for medical patients. Maybe that's how I
+    accidentally wound up on this list?
+50. 07/12/22: Francis assures me again that outsourcing pays off even if I
+    have my own team already.
+51. 07/12/22: Ioana says if I'm like most MSPs, I've seen -- and perhaps
+    experienced -- the growing threat of phishing and ransomware. Still not
+    sure what an "MSP" is.
+52. 07/13/22: Mike wants to hear about my active projects and discuss ways he
+    can provide me with "pipelines of highly vetted senior level technology
+    talent and on-demand engineering resources."
+53. 07/13/22: A different Mike is reaching out about his "focused
+    next-generation **Digital and Product Engineering** organization backed by
+    **Leading PE Firms**." He wants to sell me "**Product Development &
+    Testing**; QA &Test Automation; IoT, Machine Learning & Data Science; Dev
+    Ops (CI/CD); UI/UX design; and Cloud, AI & Mobile** services.
+54. 07/14/22: Kara is back... even though she said she had gotten the hint. I
+    probably triggered her CMS that I really _was_ interested in giving her
+    money by clicking on her email.
+55. 07/14/22: Charlotte wants to know if I caught her email last week. She
+    even sent a copy in today's email. Either Google caught it as spam, or she
+    is a liar, because I did not get that email. She is selling that forensics
+    software Diane and Shannon wanted to tell me about. Maybe Shannon forgot
+    she is signed in to her Charlotte account? They're very concerned that I
+    am not adequately spying on my website visitors!
+56. 07/14/22: Kate still wants to help me out with medical stuff. She's
+    starting to get really annoying, mostly because of how off base she is
+    talking to me in the first place.
+57. 07/15/22: Brandon is back again to see if I received his email last week.
+    He's selling developers. I wouldn't know that from today's email, where he
+    ignores what he's trying to sell and just mentions: "With the current
+    scenario and the shift towards remote work culture, more and more
+    organizations are undertaking a digital transformation of businesses like
+    yours. In this transformation, companies are opting for online resources
+    to support changing business dynamics."
+58. 07/15/22: Ethan wants to talk so I can "see how with Salesforce, retailers
+    can deliver intelligent and integrated shopping experiences across the
+    entire shopping journey, building greater customer loyalty." He's not
+    actually employed by Salesforce.
+59. 07/15/22: Kara is still trying to sell me developers.
+60. 07/16/22: Luke wants to join our standups. They'll be together with us,
+    but I'm actually not sure what they're really trying to sell me.
+    Presumably agile/scrum tooling.
+61. 07/18/22: Ashley was a worksheet for me to complete to accelerate my
+    content velocity. "When it’s done well, it gets the right assets to the
+    right audiences, capitalizing on opportunities and personalizing the
+    experience at scale." I lack the marketing degrees to know what this
+    actually means.
 
 [1]: https://www.youtube.com/watch?v=B8C5sjjhsso
 [2]: {{ "/images/posts/2022/split-that-commish.gif" | relative_url }}
