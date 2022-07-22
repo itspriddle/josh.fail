@@ -177,7 +177,7 @@ Why not keep a running list of these? How many can I get in a month?
     amounts of data all in real-time, at the edge." He faked his email to look
     like the subject came from LinkedIn.
 35. 07/06/22: Sounds like Kara has gotten the point that I'm not actually
-    hiring.
+    hiring, but she want's to stay in touch.
 36. 07/06/22: Francis tells me "There’s an easy solution to your problem:
     outsourcing." No, I think the answer is UNSUBSCRIBE when I'm done with
     this little experiment.
@@ -206,76 +206,119 @@ Why not keep a running list of these? How many can I get in a month?
     without getting in touch with you. Her forensics software can help. She
     wants to know what day works best for me next week to talk. I like the
     assertiveness---don't make me think about it!
-43. 07/08/22: Brandon says (demands?) "we need to talk, Joshua". They are US
+43. 07/07/22: Derek thought he'd try one last time to sell me developers.
+44. 07/08/22: Brandon says (demands?) "we need to talk, Joshua". They are US
     based and offer flexible engagement options such as Staff Augmentation,
     Team Delivery and Project delivery. Their Net Promoter Score is 75%. I
     know enough about NPS to know you're probably gaming things to be in the
     70s, but nice flex.
-44. 07/08/22: James is following up from a thread in April. They're a unique
+45. 07/08/22: James is following up from a thread in April. They're a unique
     Software Outsourcing company that employs only the Top 1% Software
     Engineers in Latin America.
-45. 07/08/22: David is back. "If you're struggling to combine your long-term
+46. 07/08/22: David is back. "If you're struggling to combine your long-term
     planning and agile development - you're not alone!" If I am not
     struggling, am I alone?
-46. 07/10/22: David! For the love of god, take the hint dude. You do not need
+47. 07/10/22: David! For the love of god, take the hint dude. You do not need
     to email me every Friday and Sunday. I promise, I am not giving you any
     money.
-47. 07/11/22: Kathy isn't sure if I've been able to review her prior email.
+48. 07/11/22: Kathy isn't sure if I've been able to review her prior email.
     She still wants to collaborate with the below mentioned Testing POC for
     free of cost.
-48. 07/11/22: Jenna reminds me she's from that "nearshore staff augmentation
+49. 07/11/22: Jenna reminds me she's from that "nearshore staff augmentation
     firm that provides operational and IT services to companies looking to
     scale in the most efficient and cost-effective way without sacrificing
     quality." These people should read their emails aloud to taste the word
     salad for themselves.
-49. 07/12/22: Kate is back for at least the third time. She's got help for me
+50. 07/11/22: Jenny is following up again and wants to know if I'm happy with
+    my on-call rotations. Her app can still help.
+51. 07/12/22: Kate is back for at least the third time. She's got help for me
     with precise coding --- for medical patients. Maybe that's how I
     accidentally wound up on this list?
-50. 07/12/22: Francis assures me again that outsourcing pays off even if I
+52. 07/12/22: Francis assures me again that outsourcing pays off even if I
     have my own team already.
-51. 07/12/22: Ioana says if I'm like most MSPs, I've seen -- and perhaps
+53. 07/12/22: Ioana says if I'm like most MSPs, I've seen -- and perhaps
     experienced -- the growing threat of phishing and ransomware. Still not
     sure what an "MSP" is.
-52. 07/13/22: Mike wants to hear about my active projects and discuss ways he
+54. 07/13/22: Mike wants to hear about my active projects and discuss ways he
     can provide me with "pipelines of highly vetted senior level technology
     talent and on-demand engineering resources."
-53. 07/13/22: A different Mike is reaching out about his "focused
+55. 07/13/22: A different Mike is reaching out about his "focused
     next-generation **Digital and Product Engineering** organization backed by
     **Leading PE Firms**." He wants to sell me "**Product Development &
     Testing**; QA &Test Automation; IoT, Machine Learning & Data Science; Dev
     Ops (CI/CD); UI/UX design; and Cloud, AI & Mobile** services.
-54. 07/14/22: Kara is back... even though she said she had gotten the hint. I
+56. 07/13/22: Christian is giving me a free video and a chance to win a FREE
+    pair of AirPods or a $150 Amazon card in exchange for a call. He doesn't
+    mention what he's selling. There's a picture of him in the email.
+57. 07/14/22: Kara is back... even though she said she had gotten the hint. I
     probably triggered her CMS that I really _was_ interested in giving her
     money by clicking on her email.
-55. 07/14/22: Charlotte wants to know if I caught her email last week. She
+58. 07/14/22: Charlotte wants to know if I caught her email last week. She
     even sent a copy in today's email. Either Google caught it as spam, or she
     is a liar, because I did not get that email. She is selling that forensics
     software Diane and Shannon wanted to tell me about. Maybe Shannon forgot
     she is signed in to her Charlotte account? They're very concerned that I
     am not adequately spying on my website visitors!
-56. 07/14/22: Kate still wants to help me out with medical stuff. She's
+59. 07/14/22: Kate still wants to help me out with medical stuff. She's
     starting to get really annoying, mostly because of how off base she is
     talking to me in the first place.
-57. 07/15/22: Brandon is back again to see if I received his email last week.
+60. 07/15/22: Brandon is back again to see if I received his email last week.
     He's selling developers. I wouldn't know that from today's email, where he
     ignores what he's trying to sell and just mentions: "With the current
     scenario and the shift towards remote work culture, more and more
     organizations are undertaking a digital transformation of businesses like
     yours. In this transformation, companies are opting for online resources
     to support changing business dynamics."
-58. 07/15/22: Ethan wants to talk so I can "see how with Salesforce, retailers
+61. 07/15/22: Ethan wants to talk so I can "see how with Salesforce, retailers
     can deliver intelligent and integrated shopping experiences across the
     entire shopping journey, building greater customer loyalty." He's not
     actually employed by Salesforce.
-59. 07/15/22: Kara is still trying to sell me developers.
-60. 07/16/22: Luke wants to join our standups. They'll be together with us,
+62. 07/15/22: Kara is still trying to sell me developers.
+63. 07/15/22: Christian wanted to know if I've watched his video yet. He
+    really wants to send me those headphones or a gift card.
+64. 07/16/22: Luke wants to join our standups. They'll be together with us,
     but I'm actually not sure what they're really trying to sell me.
     Presumably agile/scrum tooling.
-61. 07/18/22: Ashley was a worksheet for me to complete to accelerate my
+64. 07/18/22: Ashley was a worksheet for me to complete to accelerate my
     content velocity. "When it’s done well, it gets the right assets to the
     right audiences, capitalizing on opportunities and personalizing the
     experience at scale." I lack the marketing degrees to know what this
     actually means.
+65. 07/18/22: Kathy has reached out a couple times already, and asks "do you
+    15 minutes" to discuss what testing strategy my team has been researching.
+    She'd like to know what my calendar looks like.
+66. 07/19/22: Charlotte wants to know if I caught her email last week, what
+    this week looks like for me, and if Thursday would work. It doesn't.
+67. 07/19/22: Kara wanted to touch base, again. Still trying to sell those
+    devs.
+68. 07/19/22: Oliver has two specific devs he's trying to sell. They're not
+    really the skillset I need, and I'm also not hiring. But partial credit
+    for being a bit more specific than the rest of them.
+69. 07/19/22: Kelsey read a statistic recently that states 83% of employers
+    find it is critical to develop leaders at all levels. She wants to know
+    how this applies at my organization.
+70. 07/19/22: Sofia knows that "finding the best team members is time
+    consuming and costly and I’m reaching out to ask if you have explored the
+    opportunities and benefits of hiring remote talent." Why yes, I am
+    familiar with that at my fully remote company.
+71. 07/20/22: Christian seems upset. He's "never had to reach out so many
+    times to a prospect offering a free pair of AirPods or a $150 Amazon Gift
+    Card in exchange for 20 minutes to explain our performance-based, tactical
+    nearshore developer staff augmentation model."
+72. 07/20/22: Ashley wants to tell me that "the new way of looking at data is
+    based on the premise that content and data are created equal in the eyes
+    of the customer experience."
+73. 07/20/22: Mike also mentions, word-for-word: "With the current scenario
+    and the shift towards remote work culture, more and more organizations are
+    undertaking a digital transformation of businesses like yours. In this
+    transformation, companies are opting for online resources to support
+    changing business dynamics." I wonder if he and Brandon from the 15th went
+    to business school together?
+74. 07/20/22: Kate has more office hours for healthcare things that do not
+    apply to me.
+75. 07/22/22: Gab noticed I'm hiring for a Sales Specialist and has worked
+    with companies like Pfizer to reduce these costs by 70%. I'm not Director
+    of _Sales_, but nice flex.
 
 [1]: https://www.youtube.com/watch?v=B8C5sjjhsso
 [2]: {{ "/images/posts/2022/split-that-commish.gif" | relative_url }}
