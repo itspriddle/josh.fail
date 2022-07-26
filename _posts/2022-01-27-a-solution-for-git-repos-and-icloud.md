@@ -65,7 +65,11 @@ I have run into a couple minor issues:
    `~/work/notebook`, it refuses to run because I've set `$GIT_DIR`. Not
    really a big deal --- I just `cd` to bounce home (you did know that `cd`
    without args takes you `$HOME`, right?) then try again.
-2. `git clone --bare` does not work for duplicating this setup on a new
+2. To appease [vim-fugitive][6], I had to also set `core.worktree` in the local
+   repository settings (i.e. add `worktree = /Users/priddle/work/notebook`
+   under the `[core]` section in `.git/config`). Without that, fugitive throws
+   an error "working directory does not belong to a Git repository".
+3. `git clone --bare` does not work for duplicating this setup on a new
    machine. I had tried `git --bare clone git@git.local:notebook.git
    ~/work/notebook.git`, but `cd ~/work/notebook; git status` reported `fatal:
    this operation must be run in a work tree`. I had to `git clone
@@ -78,8 +82,16 @@ Hopefully this setup continues to work 🤞
     Documents/iCloud~md~obsidian/Documents/notebook`. But, that's a pain to
     `cd` into, so I symlinked `~/work/notebook` to it.
 
+---
+
+_Update, Jul 26, 2022:_ This works well for me as long as I only have the git
+repo on _one_ machine. I added it to my laptop as well... let's just say
+iCloud and git argued like an old man trying to send soup back at a deli. Do
+yourself a favor and just do it on one machine if you really need it.
+
 [1]: https://direnv.net
 [2]: https://obsidian.md
 [3]: https://git-scm.com/book/en/v2/Git-Internals-Environment-Variables
 [4]: {% post_url 2021/2021-03-24-using-direnv-to-set-a-custom-git-email-for-work-projects %}
 [5]: https://github.com/junegunn/vim-plug
+[6]: https://github.com/tpope/vim-fugitive
