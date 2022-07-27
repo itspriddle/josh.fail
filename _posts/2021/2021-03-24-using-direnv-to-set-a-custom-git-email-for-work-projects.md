@@ -10,7 +10,7 @@ redirect_from:
 I like to specify a different git author email for personal projects and work
 projects. This can be done per-repo with `git config user.name` and `git
 config user.email`, but it can be easy to forget as you clone repos. Here is
-how I used [direnv][] to accomplish this automatically.
+how I used [direnv][1] to accomplish this automatically.
 
 direnv loads shell environment variables based on `.envrc` files. Git's author
 email can be set with `GIT_COMMITTER_EMAIL` and `GIT_AUTHOR_EMAIL`. This means
@@ -62,4 +62,13 @@ this works in any subdirectory (eg: `~/work/a2/cool-project`). In any other
 directory, git will use the default `user.email` I have configured in
 `~/.gitconfig`.
 
-[direnv]: https://direnv.net
+---
+
+_Update, 07/27/22:_ I came across [this post][2] ([Hacker News thread][3])
+that outlines something similar, using `[includeIf "gitdir:PATH]` in your
+`~.gitconfig`. I may need to give this a try as I've found the approach above
+breaks down if a sub-project _also_ has an `.envrc` file.
+
+[1]: https://direnv.net
+[2]: https://paedubucher.ch/articles/2022-07-26-git-with-multiple-e-mail-addresses.html
+[3]: https://news.ycombinator.com/item?id=32240373
