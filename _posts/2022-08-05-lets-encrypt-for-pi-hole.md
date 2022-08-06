@@ -8,7 +8,7 @@ Here's how I used acme.sh to setup Let's Encrypt for my Pi-holes.
 Install:
 
 ```
-sudo apt-get install socat install lighttpd-mod-openssl
+sudo apt-get install socat lighttpd-mod-openssl
 curl https://get.acme.sh | bash -s email=ssl@josh.fail
 ```
 
