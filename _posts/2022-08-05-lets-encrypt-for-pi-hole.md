@@ -45,7 +45,7 @@ $HTTP["host"] == "dns1.josh.fail" {
 $HTTP["host"] == "dns1.local" {
   $HTTP["scheme"] == "http" {
     $HTTP["host"] =~ ".*" {
-      url.redirect = (".*" => "https://dns1.priddle.xyz$0")
+      url.redirect = (".*" => "https://dns1.josh.fail$0")
     }
   }
 }
