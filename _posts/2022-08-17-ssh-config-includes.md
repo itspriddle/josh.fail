@@ -1,5 +1,5 @@
 ---
-title: `"~/.ssh/config` includes"
+title: "`~/.ssh/config` includes"
 date: "Wed Aug 17 11:20:09 -0400 2022"
 category: dev
 ---
