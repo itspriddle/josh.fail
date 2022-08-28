@@ -123,7 +123,7 @@ was fucking hard! Why are people pursuing basket weaving degrees anyway? Why
 is that my problem?
 
 Ah well, you're not really convinced the politicians will do anything---wait,
-did they just refund $3.2 billion with a b for _recent_ ITT graduates?!. You
+did they just refund $3.2 billion with a b for _recent_ ITT graduates?! You
 not only get no refund, but now that degree is _really_ not something to
 advertise.
 
