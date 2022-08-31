@@ -5,7 +5,7 @@ category: dev
 link: https://github.com/xwmx/airport
 ---
 
-[Shelby][2] shared [airpot cli][1], a CLI for AirPort express wiresless on
+[Shelby][2] shared [airport cli][1], a CLI for AirPort express wireless on
 macOS. Blogging it so I remember to check it out sometime 😀
 
 [1]: {{ page.link }}
