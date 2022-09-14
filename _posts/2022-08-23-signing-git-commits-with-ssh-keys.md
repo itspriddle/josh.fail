@@ -54,5 +54,10 @@ git config --global commit.gpgSign true
 I attempted this a [while back][2] with GPG but it was a pain. Hopefully this
 works better 🤞
 
+_Update 2022-09-14:_ I just came across [this post][3] and [Hacker News
+thread][4] that go more into this.
+
 [1]: https://github.blog/changelog/2022-08-23-ssh-commit-verification-now-supported/
 [2]: {% post_url 2019/2019-02-05-signed-commits-with-gitx %}
+[3]: https://calebhearth.com/sign-git-with-ssh
+[4]: https://news.ycombinator.com/item?id=32831731
