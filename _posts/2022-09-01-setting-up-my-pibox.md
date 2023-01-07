@@ -435,6 +435,16 @@ or 4 pixels that blinked blue. Rebooting seemed to fix it.
 
 That's it! What are you still doing here? Go on and hack something already!
 
+---
+
+### Updates
+
+I had hoped to boot from the SSD, but according to these posts, that's not
+possible yet.
+
+- <https://www.jeffgeerling.com/blog/2021/raspberry-pi-os-now-has-sata-support-built>
+- <https://github.com/raspberrypi/firmware/issues/1653>
+
 [1]: https://pibox.io
 [2]: https://github.com/kubesail/pibox-os/blob/main/provision-os.sh
 [3]: https://www.raspberrypi.com/products/compute-module-4/
