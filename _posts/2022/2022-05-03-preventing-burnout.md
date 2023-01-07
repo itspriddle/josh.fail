@@ -11,4 +11,4 @@ What do you know, [encouraging time off][3] is top of the list?
 
 [1]: {{ page.link }}
 [2]: https://news.ycombinator.com/item?id=31248787
-[3]: {% post_url 2022-02-23-somehow-i-manage-work-life-balance %}
+[3]: {% post_url 2022/2022-02-23-somehow-i-manage-work-life-balance %}

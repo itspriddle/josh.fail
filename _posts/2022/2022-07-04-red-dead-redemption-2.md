@@ -101,4 +101,4 @@ Copied from that [guide][PS4 Controls] I mentioned above:
 [TP 4]: {% post_url 2007/2007-03-04-twilight-princess-part-4 %}
 
 [PS4 Controls]: https://ag.hyperxgaming.com/article/6582/red-dead-redemption-2-ps4-controls-guide
-[New Games Today]: {% post_url 2022-06-18-getting-a-new-game-sucks-today %}
+[New Games Today]: {% post_url 2022/2022-06-18-getting-a-new-game-sucks-today %}
