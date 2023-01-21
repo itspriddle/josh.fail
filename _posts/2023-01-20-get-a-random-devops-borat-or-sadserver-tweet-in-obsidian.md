@@ -8,6 +8,39 @@ daily notes.
 
 I threw the Ferengi Rules of Acquisition in there too, because why not.
 
+Enable User Script Functions in Templater. Then, in your daily note template:
+
+```
+<% tp.user.random_quote(tR) %>
+```
+
+Renders a quote like:
+
+```
+> [!quote] QOTD: @sadserver
+> making mistakes is human
+>
+> automating them is ops - @sadserver",
+```
+
+Or:
+
+```
+> [!quote] QOTD: @devops_borat
+> Best analogy I find so far for explain concept of ScrumMaster to new devops is Tooth Fairy.
+```
+
+Or:
+
+```
+> [!quote] QOTD: Rule of Acquisition 47
+> Don't trust a man wearing a better suit than your own.
+```
+
+So dumb, but it's important to remember to have fun! 
+
+---
+
 ```javascript
 function random_quote(tR) {
   const QUOTES = [
@@ -1618,34 +1651,3 @@ function random_quote(tR) {
 
 module.exports = random_quote;
 ```
-
-Enable User Script Functions in Templater. Then, in your daily note template:
-
-```
-<% tp.user.random_quote(tR) %>
-```
-
-Renders a quote like:
-
-```
-> [!quote] QOTD: @sadserver
-> making mistakes is human
->
-> automating them is ops - @sadserver",
-```
-
-Or:
-
-```
-> [!quote] QOTD: @devops_borat
-> Best analogy I find so far for explain concept of ScrumMaster to new devops is Tooth Fairy.
-```
-
-Or:
-
-```
-> [!quote] QOTD: Rule of Acquisition 47
-> Don't trust a man wearing a better suit than your own.
-```
-
-So dumb, but it's important to remember to have fun! 
