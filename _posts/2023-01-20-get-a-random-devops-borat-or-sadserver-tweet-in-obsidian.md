@@ -20,7 +20,7 @@ Renders a quote like:
 > [!quote] QOTD: @sadserver
 > making mistakes is human
 >
-> automating them is ops - @sadserver",
+> automating them is ops
 ```
 
 Or:
