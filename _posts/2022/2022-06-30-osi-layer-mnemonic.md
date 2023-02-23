@@ -3,6 +3,7 @@ title: "OSI Layer Mnemonic"
 date: "Thu Jun 30 14:16:40 -0400 2022"
 category: links
 link: https://adminhacks.com/osi-mnemonic.html
+tags: [networking, osi]
 ---
 
 One of my coworkers loves to say "Layer 2", "Layer 3", etc. I learned this in

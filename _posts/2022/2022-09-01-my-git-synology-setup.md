@@ -2,6 +2,7 @@
 title: "My Git+Synology setup"
 date: "Thu Sep 1 01:16:48 -0400 2022"
 category: dev
+tags: [git, synology]
 ---
 
 I upgraded my NAS and setup git on it again. I went a little custom this time

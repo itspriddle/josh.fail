@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2010/setting-up-a-ruby-production-environment-on-a-dotblock-vps.html
 - /dev/2010/setting-up-a-ruby-production-environment-on-a-dotblock-vps.html
+tags: [ruby, rails, git, apache, mysql, ubuntu, hosting]
 ---
 
 My projects' production environments consist of Git, Ruby, Apache, and usually

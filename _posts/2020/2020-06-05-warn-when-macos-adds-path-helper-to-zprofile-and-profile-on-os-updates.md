@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2020/warn-when-macos-adds-path-helper-to-zprofile-and-profile-on-os-updates.html
 - /dev/2020/warn-when-macos-adds-path-helper-to-zprofile-and-profile-on-os-updates.html
+tags: [macos, zsh]
 ---
 
 If you like to manually set your `$PATH` on macOS, you may have updated

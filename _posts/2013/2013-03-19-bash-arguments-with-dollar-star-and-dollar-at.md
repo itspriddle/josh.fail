@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2013/bash-arguments-with-dollar-star-and-dollar-at.html
 - /dev/2013/bash-arguments-with-dollar-star-and-dollar-at.html
+tags: [bash, shell]
 ---
 
 Today, I wondered what the difference between `$*` and `$@` in Bash were. This

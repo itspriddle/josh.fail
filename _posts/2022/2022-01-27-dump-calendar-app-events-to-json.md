@@ -3,6 +3,7 @@ title: "Dump Calendar.app events to JSON"
 date: "Thu Jan 27 21:24:30 -0500 2022"
 category: dev
 redirect_from: /dev/2022/dump-calendar-app-events-to-json.html
+tags: [macos, calendar.app, script]
 ---
 
 I wanted a way to dump Calendar.app events to JSON. I came across

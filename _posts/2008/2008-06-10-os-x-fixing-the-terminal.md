@@ -4,6 +4,7 @@ category: dev
 redirect_from:
 - /blog/2008/os-x-fixing-the-terminal.html
 - /dev/2008/os-x-fixing-the-terminal.html
+tags: [terminal.app, macos]
 ---
 
 This might not be a problem for everyone, but I got used to using home, end,

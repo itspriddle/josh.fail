@@ -3,6 +3,7 @@ title: "Shell Tricks: Detecting if your script is being piped"
 date: "Thu Jan 27 02:13:48 -0500 2022"
 category: dev
 redirect_from: /dev/2022/shell-tricks-detecting-if-your-script-is-being-piped.html
+tags: [shell, bash]
 ---
 
 If you need to check if a shell script is being piped to another program (i.e.

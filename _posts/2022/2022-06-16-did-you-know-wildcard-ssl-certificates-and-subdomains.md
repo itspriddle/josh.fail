@@ -2,6 +2,7 @@
 title: "Did you know: wildcard SSL certificates and subdomains"
 date: "Thu Jun 16 16:05:29 -0400 2022"
 category: dev
+tags: [ssl, sysadmin]
 ---
 
 Did you know wildcard SSL certificates only support one level of subdomain?

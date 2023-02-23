@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2017/running-phps-cli-server-with-launchd-on-os-x.html
 - /dev/2017/running-phps-cli-server-with-launchd-on-os-x.html
+tags: [php, wordpress, macos, launchd]
 ---
 
 Here's how I configured [launchd][] to run WordPress via [PHP's Built-in web

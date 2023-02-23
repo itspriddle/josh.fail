@@ -4,6 +4,7 @@ category: dev
 redirect_from:
 - /blog/2011/wage-intergalactic-war-on-your-titanium-mobile-apps-with-ti-fighter.html
 - /dev/2011/wage-intergalactic-war-on-your-titanium-mobile-apps-with-ti-fighter.html
+tags: [titanium, javascript]
 ---
 
 Over the last 10 months, I've had the opportunity to work with Titanium

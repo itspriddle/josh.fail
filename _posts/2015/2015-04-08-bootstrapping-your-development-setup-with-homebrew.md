@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2015/bootstrapping-your-development-setup-with-homebrew.html
 - /dev/2015/bootstrapping-your-development-setup-with-homebrew.html
+tags: [homebrew, ruby, macos, osx]
 ---
 
 I maintain a small Homebrew tap for projects I work on at Site5,

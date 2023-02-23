@@ -6,6 +6,7 @@ category: links
 redirect_from:
 - /links/2022/you-can-t-parse-html-with-regex.html
 - /2022/you-can-t-parse-html-with-regex/
+tags: [html, regex, fun]
 ---
 
 This now infamous post on Stack Overflow --- [You can't parse HTML with

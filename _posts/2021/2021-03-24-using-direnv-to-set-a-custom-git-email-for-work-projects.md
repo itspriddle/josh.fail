@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2021/using-direnv-to-set-a-custom-git-email-for-work-projects.html
 - /dev/2021/using-direnv-to-set-a-custom-git-email-for-work-projects.html
+tags: [git, direnv]
 ---
 
 I like to specify a different git author email for personal projects and work

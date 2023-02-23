@@ -2,6 +2,7 @@
 title: "Jekyll image galleries in 2022"
 date: "Sun Jun 26 02:28:53 -0400 2022"
 category: dev
+tags: [jekyll, github-pages]
 ---
 
 It's been a while since I've attempted to make an image gallery with Jekyll.

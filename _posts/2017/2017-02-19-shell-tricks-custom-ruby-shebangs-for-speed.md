@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2017/shell-tricks-custom-ruby-shebangs-for-speed.html
 - /dev/2017/shell-tricks-custom-ruby-shebangs-for-speed.html
+tags: [shell, ruby]
 ---
 
 This is part 2 of my series on tricks I've used in shell scripts. In this

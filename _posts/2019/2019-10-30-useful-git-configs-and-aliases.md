@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2019/useful-git-configs-and-aliases.html
 - /dev/2019/useful-git-configs-and-aliases.html
+tags: [git]
 ---
 
 Here are some of my favorite git configs and aliases.

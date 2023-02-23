@@ -4,6 +4,7 @@ category: dev
 redirect_from:
 - /blog/2011/jekyll-textmate-bundle.html
 - /dev/2011/jekyll-textmate-bundle.html
+tags: [jekyll, textmate, bundle]
 ---
 
 I forked a Jekyll TextMate bundle and added a new post template and a

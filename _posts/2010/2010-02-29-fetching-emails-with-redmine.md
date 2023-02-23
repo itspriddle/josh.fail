@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2010/fetching-emails-with-redmine.html
 - /dev/2010/fetching-emails-with-redmine.html
+tags: [redmine, ruby, email, imap]
 ---
 
 Redmine has an awesome feature built in that lets you check an email account

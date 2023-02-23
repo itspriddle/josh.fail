@@ -2,6 +2,7 @@
 title: "Signing git commits with SSH keys"
 date: "Tue Aug 23 15:23:57 -0400 2022"
 category: dev
+tags: [git, github]
 ---
 
 GitHub [announced today][1] that they have added support for signing commits

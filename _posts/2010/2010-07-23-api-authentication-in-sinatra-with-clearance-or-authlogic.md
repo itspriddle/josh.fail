@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2010/api-authentication-in-sinatra-with-clearance-or-authlogic.html
 - /dev/2010/api-authentication-in-sinatra-with-clearance-or-authlogic.html
+tags: [ruby, rails, sinatra, clearance, authlogic, authentication, api]
 ---
 
 I needed HTTP basic authentication for a [Sinatra][] app running as a Rails

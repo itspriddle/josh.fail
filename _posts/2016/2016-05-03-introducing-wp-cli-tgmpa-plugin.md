@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2016/introducing-wp-cli-tgmpa-plugin.html
 - /dev/2016/introducing-wp-cli-tgmpa-plugin.html
+tags: [wp-cli, php, wordpress, tgm-plugin-activation]
 ---
 
 I recently dove back into the world of PHP and created

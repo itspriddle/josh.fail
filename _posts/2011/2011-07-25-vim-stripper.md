@@ -4,6 +4,7 @@ category: dev
 redirect_from:
 - /blog/2011/vim-stripper.html
 - /dev/2011/vim-stripper.html
+tags: [vim, plugin, whitespace]
 ---
 
 I wrote my first vim plugin, [vim-stripper][], a simple command to strip

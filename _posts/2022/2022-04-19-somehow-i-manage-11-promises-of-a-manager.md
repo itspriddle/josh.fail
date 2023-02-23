@@ -2,6 +2,7 @@
 title: "Somehow, I Manage: 11 Promises of a Manager"
 date: "Tue Apr 19 16:18:23 -0400 2022"
 category: mgmt
+tags: [mgmt, culture]
 ---
 
 A coworker shared this post from LinkedIn, 11 Promises of a Manager. I try to

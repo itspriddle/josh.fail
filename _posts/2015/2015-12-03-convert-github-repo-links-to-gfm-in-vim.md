@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2015/convert-github-repo-links-to-gfm-in-vim.html
 - /dev/2015/convert-github-repo-links-to-gfm-in-vim.html
+tags: [vim, github, markdown]
 ---
 
 GitHub allows a [shorthand syntax][Writing on GitHub] for linking to commits, pull requests and

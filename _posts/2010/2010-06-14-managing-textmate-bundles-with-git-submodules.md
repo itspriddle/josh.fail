@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2010/managing-textmate-bundles-with-git-submodules.html
 - /dev/2010/managing-textmate-bundles-with-git-submodules.html
+tags: [textmate, git, submodules]
 ---
 
 I've been using [TextMate](http://macromates.com/) nearly every day for 2

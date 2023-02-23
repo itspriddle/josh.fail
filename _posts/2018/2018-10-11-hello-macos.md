@@ -2,6 +2,7 @@
 title: Hello, macOS!
 category: dev
 redirect_from: /dev/2018/hello-macos.html
+tags: [macos, keyboard-shortcuts]
 ---
 
 I threw together this post on macOS basics for my dad a few years back when he

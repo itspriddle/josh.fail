@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2019/vim-cheatsheets.html
 - /dev/2019/vim-cheatsheets.html
+tags: [vim, cheatsheet]
 ---
 
 A big list of Vim cheatsheets from [reddit.com/r/vim](https://reddit.com/r/vim/):

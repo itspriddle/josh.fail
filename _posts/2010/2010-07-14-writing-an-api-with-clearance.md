@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2010/writing-an-api-with-clearance.html
 - /dev/2010/writing-an-api-with-clearance.html
+tags: [ruby, rails, clearance, api, authentication]
 ---
 
 Recently, I needed to write an API to work with an iPhone application. I

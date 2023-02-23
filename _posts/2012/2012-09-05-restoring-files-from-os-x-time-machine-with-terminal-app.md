@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2012/restoring-files-from-os-x-time-machine-with-terminal-app.html
 - /dev/2012/restoring-files-from-os-x-time-machine-with-terminal-app.html
+tags: [osx, terminal.app, time-machine, gotcha]
 ---
 
 I use Time Machine on OS X to keep backups of my hard drive. Overall it is a

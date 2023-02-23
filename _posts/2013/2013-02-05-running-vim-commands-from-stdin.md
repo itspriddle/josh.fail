@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2013/running-vim-commands-from-stdin.html
 - /dev/2013/running-vim-commands-from-stdin.html
+tags: [vim]
 ---
 
 Vim has a handy feature that allows you to run commands from a file when you

@@ -2,6 +2,7 @@
 title: "Setting up my PiBox"
 date: "Thu Sep 01 15:50:53 -0400 2022"
 category: dev
+tags: [k3s, kubernetes, raspberry-pi, pibox]
 ---
 
 I picked up a [PiBox][1] and wanted to run it without KubeSail/k3s. The devs at

@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2019/deluge-and-openvpn-on-a-raspberry-pi-4.html
 - /dev/2019/deluge-and-openvpn-on-a-raspberry-pi-4.html
+tags: [deluge, openvpn, raspberry-pi, vpn, linux, iptables]
 ---
 
 I recently got a new Raspberry Pi 4. Since it has gigabit ethernet and USB 3,

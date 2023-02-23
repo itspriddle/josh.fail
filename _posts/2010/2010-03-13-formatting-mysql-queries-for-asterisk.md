@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2010/formatting-mysql-queries-for-asterisk.html
 - /dev/2010/formatting-mysql-queries-for-asterisk.html
+tags: [asterisk, mysql, ruby]
 ---
 
 If you've ever used the MySQL module with [Asterisk](http://asterisk.org),

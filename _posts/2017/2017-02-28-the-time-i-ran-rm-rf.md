@@ -2,6 +2,7 @@
 title: "The time I ran `rm -rf /`"
 date: "Tue Feb 28 22:23:16 -0500 2017"
 redirect_from: /blog/2017/the-time-i-ran-rm-rf.html
+tags: [sysadmin, bash]
 ---
 
 A lot of sysadmins have had that holy shit moment where they ran `rm -rf /`.

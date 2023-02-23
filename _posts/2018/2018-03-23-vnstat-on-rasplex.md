@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2018/vnstat-on-rasplex.html
 - /dev/2018/vnstat-on-rasplex.html
+tags: [raspberry-pi, rasplex, vnstat, linux]
 ---
 
 tl;dr: Want [vnStat][] on [RasPlex][]? Check out [rasplex-vnstat][]!

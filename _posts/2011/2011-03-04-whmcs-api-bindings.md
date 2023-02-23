@@ -4,6 +4,7 @@ category: dev
 redirect_from:
 - /blog/2011/whmcs-api-bindings.html
 - /dev/2011/whmcs-api-bindings.html
+tags: [whmcs, api, ruby, php]
 ---
 
 I recently extracted some of my DotBlock work to create WHMCS API Bindings

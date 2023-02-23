@@ -3,6 +3,7 @@ title: "Keep calm and use the runbook"
 date: "Mon Jul 04 11:26:46 -0400 2022"
 link: https://www.cortex.io/post/keep-calm-and-use-the-runbook
 category: links
+tags: [alerting, culture]
 ---
 
 > Runbooks are important because **they make knowledge easily actionable for

@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2013/ssh-escape-sequences.html
 - /dev/2013/ssh-escape-sequences.html
+tags: [ssh, linux, shell]
 ---
 
 Today, I learned about a bunch of escape sequences that SSH supports.

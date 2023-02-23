@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2013/running-rspec-in-vim.html
 - /dev/2013/running-rspec-in-vim.html
+tags: [vim, ruby, rspec]
 ---
 
 Today, I finally got `:make` working for RSpec files in Vim.

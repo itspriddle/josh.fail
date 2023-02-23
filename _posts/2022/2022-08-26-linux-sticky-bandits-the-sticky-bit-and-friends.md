@@ -2,6 +2,7 @@
 title: "Linux Sticky Bandits (the sticky bit and friends)"
 date: "Fri Aug 26 20:51:46 -0400 2022"
 category: dev
+tags: [linux]
 ---
 
 I always have to look up [how to apply sticky bit/suid/sgid][1], so I am

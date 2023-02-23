@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2015/linux-signals.html
 - /dev/2015/linux-signals.html
+tags: [linux, kill]
 ---
 
 I found a great list of signals in Linux.

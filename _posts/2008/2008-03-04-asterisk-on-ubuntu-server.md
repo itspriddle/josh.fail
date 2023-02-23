@@ -4,6 +4,7 @@ category: dev
 redirect_from:
 - /blog/2008/asterisk-on-ubuntu-server.html
 - /dev/2008/asterisk-on-ubuntu-server.html
+tags: [asterisk, ubuntu, linux]
 ---
 
 I know I've blogged this before, but these are the steps I took most recently

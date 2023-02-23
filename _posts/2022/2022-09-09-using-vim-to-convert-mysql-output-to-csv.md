@@ -2,6 +2,7 @@
 title: "Using Vim to convert MySQL output to CSV"
 date: "Fri Sep 09 09:09:39 -0400 2022"
 category: dev
+tags: [vim, mysql, csv]
 ---
 
 Pretty regularly I am working with MySQL queries and need to present them to

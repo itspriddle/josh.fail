@@ -4,6 +4,7 @@ category: dev
 redirect_from:
 - /blog/2007/password-protect-directory-manually.html
 - /dev/2007/password-protect-directory-manually.html
+tags: [apache, htaccess, password, security]
 ---
 
 Password protection with Apache is really a piece of cake.

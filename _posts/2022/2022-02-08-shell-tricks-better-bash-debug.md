@@ -2,6 +2,7 @@
 title: "Shell Tricks: Better Bash debug"
 date: "Wed Feb 08 09:30:45 -0500 2022"
 category: dev
+tags: [bash, shell]
 ---
 
 Toss the following snippet at the top of any Bash script and run with

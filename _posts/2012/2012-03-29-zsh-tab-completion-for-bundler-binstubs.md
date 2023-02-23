@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2012/zsh-tab-completion-for-bundler-binstubs.html
 - /dev/2012/zsh-tab-completion-for-bundler-binstubs.html
+tags: [zsh, bundler, ruby]
 ---
 
 Bundler has a feature called `binstubs`, which places stubs for gem bin

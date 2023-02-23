@@ -2,6 +2,7 @@
 title: "My favorite Bash resources"
 date: "Wed Jun 29 13:28:33 -0400 2022"
 category: dev
+tags: [bash, shell, shellcheck]
 ---
 
 Bash is everywhere and I write a stupid amount of it for that very reason.

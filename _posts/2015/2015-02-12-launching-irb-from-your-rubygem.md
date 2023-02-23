@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2015/launching-irb-from-your-rubygem.html
 - /dev/2015/launching-irb-from-your-rubygem.html
+tags: [ruby, irb, console, rubygems]
 ---
 
 When developing a RubyGem, it is often helpful to launch an IRB console

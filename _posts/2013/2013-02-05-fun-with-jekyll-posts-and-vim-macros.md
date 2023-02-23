@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2013/fun-with-jekyll-posts-and-vim-macros.html
 - /dev/2013/fun-with-jekyll-posts-and-vim-macros.html
+tags: [vim, jekyll, macros]
 ---
 
 Yesterday, I decided I wanted to edit a bunch of Jekyll posts. Specifically,

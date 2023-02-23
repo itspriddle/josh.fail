@@ -4,6 +4,7 @@ category: dev
 redirect_from:
 - /blog/2007/tar-over-ssh.html
 - /dev/2007/tar-over-ssh.html
+tags: [ssh, tar, backup, linux]
 ---
 
 I figured out this easy way to make a backup over ssh.

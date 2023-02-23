@@ -2,6 +2,7 @@
 title: "Generate Password LaunchBar Action"
 date: "Wed Feb 28 14:19:22 -0500 2018"
 redirect_from: /blog/2018/generate-password-launchbar-action.html
+tags: [launchbar, ruby, password]
 ---
 
 I often need to generate random passwords when testing development work. To

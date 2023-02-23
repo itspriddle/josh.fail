@@ -4,6 +4,7 @@ category: dev
 redirect_from:
 - /blog/2007/good-times-with-rar.html
 - /dev/2007/good-times-with-rar.html
+tags: [linux, rar]
 ---
 
 So I decided today I was going to make a DVD backup of my music collection.

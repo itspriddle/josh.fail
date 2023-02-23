@@ -3,6 +3,7 @@ title: "Fun with jq and Tautulli"
 date: "Tue Jan 25 01:33:22 -0500 2022"
 category: dev
 redirect_from: /dev/2022/fun-with-jq-and-tautulli.html
+tags: [jq, tautulli, plex]
 ---
 
 A while ago, I wrote a CLI script to display what my Plex server is playing

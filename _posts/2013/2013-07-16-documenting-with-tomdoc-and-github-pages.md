@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2013/documenting-with-tomdoc-and-github-pages.html
 - /dev/2013/documenting-with-tomdoc-and-github-pages.html
+tags: [ruby, documentation, tomdoc, github, github-pages]
 ---
 
 I wrote a blog post over at [Eng5](http://eng5.com) outlining how we use

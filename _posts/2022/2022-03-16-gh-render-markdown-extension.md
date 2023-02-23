@@ -2,6 +2,7 @@
 title: "gh-render-markdown extension"
 date: "Wed Mar 16 12:43:34 -0400 2022"
 category: dev
+tags: [github, markdown, gh-extension, script]
 ---
 
 I threw together a [gh][1] extension, [gh-render-markdown][2], to quickly

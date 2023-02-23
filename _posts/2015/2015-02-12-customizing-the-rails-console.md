@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2015/customizing-the-rails-console.html
 - /dev/2015/customizing-the-rails-console.html
+tags: [rails, console, irb, ruby]
 ---
 
 Rails comes with the ability to customize the IRB console when you run `rails

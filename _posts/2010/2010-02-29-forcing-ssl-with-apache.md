@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2010/forcing-ssl-with-apache.html
 - /dev/2010/forcing-ssl-with-apache.html
+tags: [apache, ssl, https, htaccess]
 ---
 
 For my own reference really, here are the steps I took to setup an Apache vhost

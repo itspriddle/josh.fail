@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2010/hosting-private-gems.html
 - /dev/2010/hosting-private-gems.html
+tags: [ruby, gems, hosting]
 ---
 
 I've written a few gems for work that I can't host on RubyGems. It turned

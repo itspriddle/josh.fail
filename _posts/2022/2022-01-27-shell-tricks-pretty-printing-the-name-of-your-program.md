@@ -2,6 +2,7 @@
 title: "Shell Tricks: Pretty Printing the name of your program"
 date: "Thu Jan 27 02:34:16 -0500 2022"
 category: dev
+tags: [bash, shell]
 ---
 
 You might need to print or use the name of your program itself --- what you

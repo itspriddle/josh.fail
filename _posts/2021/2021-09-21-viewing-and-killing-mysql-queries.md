@@ -4,6 +4,7 @@ category: dev
 redirect_from:
 - /blog/2021/viewing-and-killing-mysql-queries.html
 - /dev/2021/viewing-and-killing-mysql-queries.html
+tags: [mysql, howto]
 ---
 
 MySQL running slow and want to see which queries are running? If you can get a

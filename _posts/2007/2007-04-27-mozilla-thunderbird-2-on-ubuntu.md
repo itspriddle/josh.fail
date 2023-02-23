@@ -1,5 +1,6 @@
 ---
 title: Mozilla Thunderbird 2 on Ubuntu
+tags: [thunderbird, ubuntu, linux]
 ---
 
 Installing Thunderbird 2 on Ubuntu was cake.

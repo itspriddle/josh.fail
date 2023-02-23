@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2018/vim-registers.html
 - /dev/2018/vim-registers.html
+tags: [vim]
 ---
 
 I found this great writeup on Vim registers today.

@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2010/jekyll-pagination-gotcha.html
 - /dev/2010/jekyll-pagination-gotcha.html
+tags: [jekyll, pagination, gotcha, github-pages]
 ---
 
 If you're using Jekyll and pagination (see [Template data](http://wiki.github.com/mojombo/jekyll/template-data)),

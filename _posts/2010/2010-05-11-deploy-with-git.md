@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2010/deploy-with-git.html
 - /dev/2010/deploy-with-git.html
+tags: [git, deployment, hooks]
 ---
 
 I found this git hook that lets you deploy a project with a git push rather

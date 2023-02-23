@@ -2,6 +2,7 @@
 title: "The Ten Slack Commandments"
 date: "Fri Oct 23 13:01:00 -0400 2020"
 redirect_from: /blog/2020/the-ten-slack-commandments.html
+tags: [ slack, culture ]
 ---
 
 As a fully distributed team, Slack is our main tool for real-time

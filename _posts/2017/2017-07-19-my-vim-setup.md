@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2017/my-vim-setup.html
 - /dev/2017/my-vim-setup.html
+tags: [vim, dotfiles]
 ---
 
 This is my Vim config. There are many like it, but this one is mine.

@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2010/capistrano-send-jabber-alerts-on-deploy.html
 - /dev/2010/capistrano-send-jabber-alerts-on-deploy.html
+tags: [ruby, capistrano, jabber, xmpp, deployment]
 ---
 
 I use this Capistrano recipe at work to send a broadcast to the office when I

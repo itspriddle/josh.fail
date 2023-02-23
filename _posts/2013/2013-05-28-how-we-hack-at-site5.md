@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2013/how-we-hack-at-site5.html
 - /dev/2013/how-we-hack-at-site5.html
+tags: [site5, culture]
 ---
 
 Hacking for [Site5 Engineering](http://eng5.com/) is an awesome gig. I work

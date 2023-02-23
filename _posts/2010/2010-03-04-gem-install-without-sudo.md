@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2010/gem-install-without-sudo.
 - /dev/2010/gem-install-without-sudo.html
+tags: [ruby, gems, zsh, bash]
 ---
 
 It took me a while to find a clearly documented way to manage

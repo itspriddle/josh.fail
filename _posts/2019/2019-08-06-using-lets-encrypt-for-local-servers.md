@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2019/using-lets-encrypt-for-local-servers.html
 - /dev/2019/using-lets-encrypt-for-local-servers.html
+tags: [ssl, nginx, certbot, letsencrypt, digitalocean]
 ---
 
 I run a few web services on my local network. I trust my network, but I've

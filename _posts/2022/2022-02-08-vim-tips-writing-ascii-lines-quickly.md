@@ -2,6 +2,7 @@
 title: "Vim Tips: Writing ASCII lines quickly"
 date: "Tue Feb 08 15:53:47 -0500 2022"
 category: dev
+tags: [vim, howto]
 ---
 
 I sometimes need to write an ASCII line (hr) quickly, like `----------`, here

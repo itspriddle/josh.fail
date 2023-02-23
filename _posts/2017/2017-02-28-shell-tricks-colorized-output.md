@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2017/shell-tricks-colorized-output.html
 - /dev/2017/shell-tricks-colorized-output.html
+tags: [shell, bash]
 ---
 
 This is part 3 of my series on tricks I've used in shell scripts. In this

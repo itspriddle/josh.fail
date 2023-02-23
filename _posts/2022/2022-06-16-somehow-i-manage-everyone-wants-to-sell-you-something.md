@@ -2,6 +2,7 @@
 title: "Somehow, I Manage: Everyone Wants to Sell You Something"
 date: "Thu Jun 16 23:41:41 -0400 2022"
 category: mgmt
+tags: [mgmt]
 ---
 
 When I was given a company credit card, I didn't know that vendors would

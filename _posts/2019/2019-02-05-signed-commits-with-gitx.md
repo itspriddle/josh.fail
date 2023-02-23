@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2019/signed-commits-with-gitx.html
 - /dev/2019/signed-commits-with-gitx.html
+tags: [git, gitx, gpg]
 ---
 
 I recently setup Git to use my [Keybase][] GPG key to automatically sign my

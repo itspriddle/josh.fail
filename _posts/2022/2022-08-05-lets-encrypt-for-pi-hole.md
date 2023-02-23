@@ -2,6 +2,7 @@
 title: "Let's Encrypt for Pi-hole"
 date: "Fri Aug 05 20:35:38 -0400 2022"
 category: dev
+tags: [pihole, letsencrypt]
 ---
 
 Here's how I used acme.sh to setup Let's Encrypt for my Pi-holes.

@@ -4,6 +4,7 @@ category: dev
 redirect_from:
 - /blog/2012/marked-vim.html
 - /dev/2012/marked-vim.html
+tags: [vim, marked, markdown]
 ---
 
 I threw together [vim-marked](https://github.com/itspriddle/vim-marked), that

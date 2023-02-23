@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2015/git-pr-push-current-branch-and-open-pull-request.html
 - /dev/2015/git-pr-push-current-branch-and-open-pull-request.html
+tags: [git, github, pull-request, script]
 ---
 
 I use the awesome [hub][] utility to open pull requests on GitHub from the

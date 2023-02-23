@@ -4,6 +4,7 @@ category: dev
 redirect_from:
 - /blog/2007/aim-web-precense-api.html
 - /dev/2007/aim-web-precense-api.html
+tags: [aim, api, php]
 ---
 
 So I've been dabbling with AIM's Web Presence API --- which basically allows

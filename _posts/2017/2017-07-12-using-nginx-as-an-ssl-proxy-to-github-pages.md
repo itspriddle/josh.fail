@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2017/using-nginx-as-an-ssl-proxy-to-github-pages.html
 - /dev/2017/using-nginx-as-an-ssl-proxy-to-github-pages.html
+tags: [nginx, github-pages, ssl, letsencrypt]
 ---
 
 I love GitHub Pages, but the one feature they're missing is SSL support for

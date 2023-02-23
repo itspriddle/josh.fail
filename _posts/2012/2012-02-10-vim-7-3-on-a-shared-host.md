@@ -4,6 +4,7 @@ category: dev
 redirect_from:
 - /blog/2012/vim-7-3-on-a-shared-host.html
 - /dev/2012/vim-7-3-on-a-shared-host.html
+tags: [vim, linux]
 ---
 
 A [few years ago][1] I blogged about how I setup Vim on a shared web host. I

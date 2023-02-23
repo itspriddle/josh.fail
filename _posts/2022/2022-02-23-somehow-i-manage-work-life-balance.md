@@ -2,6 +2,7 @@
 title: "Somehow, I Manage: Work/Life Balance"
 date: "Wed Feb 23 17:31:03 -0500 2022"
 category: mgmt
+tags: [mgmt, culture]
 ---
 
 I've been officially a manager for just over two years now, and I think I am

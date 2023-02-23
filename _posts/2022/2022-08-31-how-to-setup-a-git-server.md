@@ -2,6 +2,7 @@
 title: "How to setup a git server"
 date: "Wed Aug 31 00:37:58 -0400 2022"
 category: dev
+tags: [git, gitweb, nginx, linux, howto]
 ---
 
 Here's how I setup a git server with Gitweb on a Raspberry Pi.

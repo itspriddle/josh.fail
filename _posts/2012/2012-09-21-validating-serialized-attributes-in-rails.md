@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2012/validating-serialized-attributes-in-rails.html
 - /dev/2012/validating-serialized-attributes-in-rails.html
+tags: [rails, ruby, activerecord, validation]
 ---
 
 ActiveRecord provides a `serialize` method, which can be used to transparently

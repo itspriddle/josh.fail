@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2015/viscosity-cli.html
 - /dev/2015/viscosity-cli.html
+tags: [macos, script, vpn, viscosity]
 ---
 
 I created a small CLI for controlling VPN connections with [Viscosity.app][].

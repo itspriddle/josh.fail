@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2015/wp-cli-on-a-shared-host.html
 - /dev/2015/wp-cli-on-a-shared-host.html
+tags: [wordpress, wp-cli, php, hosting]
 ---
 
 Here's how I installed [wp-cli](http://wp-cli.org/) on a shared host (HostRocket).

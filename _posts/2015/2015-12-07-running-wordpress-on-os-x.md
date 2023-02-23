@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2015/running-wordpress-on-os-x.html
 - /dev/2015/running-wordpress-on-os-x.html
+tags: [wordpress, macos, mysql, php, wp-cli]
 ---
 
 I've been working with WordPress a lot more lately, and I wanted a way to run

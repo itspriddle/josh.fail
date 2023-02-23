@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2012/splitting-git-repos-with-git-filter-branch.html
 - /dev/2012/splitting-git-repos-with-git-filter-branch.html
+tags: [git]
 ---
 
 While working on a project managed with Git, I needed to split some files into

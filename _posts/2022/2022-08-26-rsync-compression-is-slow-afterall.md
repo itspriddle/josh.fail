@@ -1,6 +1,7 @@
 ---
 title: "rsync compression is slow afterall"
 date: "Fri Aug 26 21:05:57 -0400 2022"
+tags: [linux, rsync]
 ---
 
 I tested compression in rsync on a big file and, no surprise, it's pretty

@@ -5,8 +5,11 @@ category: links
 redirect_from:
 - /blog/2012/the-twiddle-wakka.html
 - /links/2012/the-twiddle-wakka.html
+tags: [ruby, gems]
 ---
 
-An article describing the usage of that weird `~>` operator found in gemspecs
-and Gemfiles. I read this a while back but keep forgetting where it is when I
-want a technical explanation.
+[An article][1] describing the usage of that weird `~>` operator found in
+gemspecs and Gemfiles. I read this a while back but keep forgetting where it
+is when I want a technical explanation.
+
+[1]: {{ page.link }}

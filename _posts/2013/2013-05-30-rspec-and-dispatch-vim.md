@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2013/rspec-and-dispatch-vim.html
 - /dev/2013/rspec-and-dispatch-vim.html
+tags: [vim, rspec]
 ---
 
 A couple months ago I wrote about how to [Run RSpec in Vim][]. Shortly

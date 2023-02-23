@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2017/shell-tricks-showing-help-in-a-script.html
 - /dev/2017/shell-tricks-showing-help-in-a-script.html
+tags: [shell, bash]
 ---
 
 This is part 1 of a series of quick and dirty tricks I've used in various

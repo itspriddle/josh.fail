@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2015/building-github-pages-locally.html
 - /dev/2015/building-github-pages-locally.html
+tags: [jekyll, github, ruby, github-pages]
 ---
 
 GitHub recently released a [pages-gem][] making it easy to duplicate the

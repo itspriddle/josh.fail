@@ -2,6 +2,7 @@
 title: "Pi-hole/DNS configuration gotcha"
 date: "Tue Aug 09 15:05:22 -0400 2022"
 category: dev
+tags: [pihole, dns, gotcha]
 ---
 
 I've been running Pi-hole off and on for a few years. It mostly works great,

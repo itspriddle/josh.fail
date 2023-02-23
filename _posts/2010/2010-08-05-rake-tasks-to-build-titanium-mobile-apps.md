@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2010/rake-tasks-to-build-titanium-mobile-apps.html
 - /dev/2010/rake-tasks-to-build-titanium-mobile-apps.html
+tags: [ruby, titanium, rake, mobile, iphone, android]
 ---
 
 I've been working with [Titanium Mobile](http://www.appcelerator.com/)

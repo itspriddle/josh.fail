@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2010/jquery-autocomplete-for-jekyll.html
 - /dev/2010/jquery-autocomplete-for-jekyll.html
+tags: [jekyll, jquery, autocomplete, search]
 ---
 
 After migrating my blog from Wordpress to Jekyll, one thing I was missing

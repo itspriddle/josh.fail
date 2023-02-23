@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2010/git-browse-alias.html
 - /dev/2010/git-browse-alias.html
+tags: [git]
 ---
 
 I recently wrote a [git alias](https://git.wiki.kernel.org/index.php/Aliases)

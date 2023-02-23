@@ -4,6 +4,7 @@ category: dev
 redirect_from:
 - /blog/2007/linux-unzip.html
 - /dev/2007/linux-unzip.html
+tags: [linux, unzip]
 ---
 
 I just had a hell of a time trying to unzip a bunch of zip's on Linux.

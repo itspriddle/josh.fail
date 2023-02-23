@@ -5,6 +5,7 @@ category: dev
 redirect_from:
 - /blog/2010/active-record-migrations-integer-limit-gotcha.html
 - /dev/2010/active-record-migrations-integer-limit-gotcha.html
+tags: [rails, activerecord, mysql, migrations, gotcha]
 ---
 
 I work on a few apps that deal with phone numbers. I usually store these
