@@ -39,6 +39,7 @@ exclude:
   - Gemfile.lock
   - README.md
   - bin
+  - vendor
 
 include:
   - _pages
