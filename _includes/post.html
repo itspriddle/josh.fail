@@ -46,7 +46,7 @@
   <div class="post-content">
     {% assign plain_excerpt = post.excerpt | strip_html | normalize_whitespace %}
     {% assign plain_body = post.content | strip_html | normalize_whitespace %}
-    {% if include.homepage and (plain_excerpt != plain_body) %}
+    {% if (include.homepage or post.force_read_more) and (plain_excerpt != plain_body) %}
     {{ post.excerpt }}
     <p><a href="{{ post_url }}">Read more &rarr;</a></p>
     {% else %}
