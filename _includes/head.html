@@ -1,3 +1,4 @@
+{%- assign asset_hash = site.time | date: "%s" -%}
 {%- if page.title -%}
 {%- assign page_title = page.title | append: " --- " | append: site.title | smartify -%}
 {%- else -%}
@@ -16,7 +17,7 @@
   <meta property="og:url" content="{{ page_url }}" />
   <meta property="og:site_name" content="{{ site.title | smartify }}" />
 
-  <link rel="stylesheet" href="{{ "/stylesheets/main.css?" | append: site.github.build_revision | relative_url }}">
+  <link rel="stylesheet" href="{{ "/stylesheets/main.css?" | append: asset_hash }}">
 
   <title>{{ page_title }}</title>
 
