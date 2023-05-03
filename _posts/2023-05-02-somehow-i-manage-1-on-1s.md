@@ -3,6 +3,8 @@ title: "Somehow, I Manage: 1-on-1s"
 date: "Tue May 2 17:06:13 -0400 2023"
 link: https://news.ycombinator.com/item?id=34329351
 category: mgmt
+redirect_from:
+- /2023/what-do-you-talk-about-in-1-on-1s-with-your-managers/
 ---
 
 I saw [this thread][1] on Hacker News today where a user asks, "what do you
