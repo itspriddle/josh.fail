@@ -17,17 +17,15 @@ These days I lead the Software Development team at [A2 Hosting][].
 ## Links
 
 - [GitHub][]
-- [Twitter][]
 - [LinkedIn][]
 
 [This blog][blog] is open source, built with Jekyll, and hosted via [GitHub
 Pages][].
 
 [GitHub]: https://github.com/{{ site.author.github }}
-[Twitter]: https://twitter.com/{{ site.author.twitter }}
 [LinkedIn]: https://linkedin.com/in/{{ site.author.linkedin }}
-[professional]: {{ "/work/" | relative_url }}
-[open source]: {{ "/projects/" | relative_url }}
+[professional]: https://priddle.xyz/work/
+[open source]: https://priddle.xyz/oss/
 [A2 Hosting]: https://www.a2hosting.com/about/careers
 [blog]: https://github.com/{{ site.author.github }}/josh.fail
 [GitHub Pages]: https://pages.github.com/
