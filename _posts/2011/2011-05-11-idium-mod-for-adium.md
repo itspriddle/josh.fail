@@ -1,7 +1,6 @@
 ---
 title: iDium mod for Adium
 redirect_from: /blog/2011/idium-mod-for-adium.html
-force_read_more: true
 ---
 
 I've been itching to get a hold of this [Adium](http://adium.im/) mod since
