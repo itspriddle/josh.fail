@@ -45,7 +45,9 @@
 
   <div class="post-content">
     {% assign body_paragraph_count = post.content | split: "</p>" | size | minus: 1 %}
-    {% if include.homepage and body_paragraph_count > 1 %}
+    {% assign plain_excerpt = post.excerpt | strip_html | normalize_whitespace %}
+    {% assign plain_body = post.content | strip_html | normalize_whitespace %}
+    {% if include.homepage and (body_paragraph_count > 1 or plain_excerpt != plain_body) %}
     {{ post.excerpt }}
     <p><a href="{{ post_url }}">Read more &rarr;</a></p>
     {% else %}
