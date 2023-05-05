@@ -1,6 +1,6 @@
 ---
 title: Silk Icons
-category: links
+category: archive
 link: http://www.famfamfam.com/lab/icons/silk/
 ---
 

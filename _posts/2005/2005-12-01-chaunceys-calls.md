@@ -1,6 +1,6 @@
 ---
 title: Chauncey's Calls
-category: archive
+category: vault
 ---
 
 Chauncey's Calls

@@ -1,9 +1,8 @@
 ---
 title: Old ass gamer
-category: archive
+category: vault
 dead_link: true
 link: http://www.smithappens.com/video_grannygamer.php
-category: links
 ---
 
 Haha, thanks Eric.
