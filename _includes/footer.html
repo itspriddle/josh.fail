@@ -2,8 +2,51 @@
   <div class="wrapper">
     <div class="footer-col-wrapper">
       <div class="footer-col">
-        <a href="{{ site.url }}" title="{{ site.title }}">{{ site.title }}</a> by {{ site.author.name }}
+        <a href="{{ site.url }}" title="{{ site.title }}">{{ site.title }}</a>
+        by <span class="color-mode-toggle">{{ site.author.name }}</span>
       </div>
     </div>
   </div>
 </footer>
+
+<script>
+  const ColorScheme = {
+    currentMode: () => {
+      return document.documentElement.getAttribute('data-color-mode');
+    },
+    setMode: (mode) => {
+      document.documentElement.setAttribute('data-color-mode', mode);
+
+      localStorage.setItem('color-mode', mode);
+    },
+    toggleMode: () => {
+      const currentMode = ColorScheme.currentMode();
+      const nextMode = currentMode === 'light' ? 'dark' : 'light';
+      ColorScheme.setMode(nextMode);
+    },
+    hotkeyHandler: (e) => {
+      // ctrl-i to toggle
+      if (e.ctrlKey && e.which == 73) {
+        ColorScheme.toggleMode();
+      }
+    },
+    toggleColorBtns: () => {
+      return document.querySelectorAll('.color-mode-toggle');
+    },
+    init: () => {
+      if (localStorage.getItem('color-mode') === 'light') {
+        ColorScheme.setMode('light');
+      } else {
+        ColorScheme.setMode('dark');
+      }
+
+      document.addEventListener("keyup", ColorScheme.hotkeyHandler, false);
+
+      ColorScheme.toggleColorBtns().forEach((btn) => {
+        btn.addEventListener("click", ColorScheme.toggleMode, false);
+      });
+    }
+  };
+
+  ColorScheme.init();
+</script>
