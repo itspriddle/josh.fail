@@ -1,5 +1,6 @@
 ---
 title: A fun game for AIM
+category: vault
 ---
 
 Ever get bored on AIM? Try turning off your Idle status so your SN never turns

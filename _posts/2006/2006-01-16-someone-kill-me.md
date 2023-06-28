@@ -1,6 +1,6 @@
 ---
 title: Someone kill me
-category: archive
+category: vault
 ---
 
 Yeah, so I'm sitting here in the parking lot at Ticketmaster (special thanks

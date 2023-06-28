@@ -1,5 +1,6 @@
 ---
 title: Full Metal
+category: vault
 ---
 
 Full Metal Alchemist kicks major ass.

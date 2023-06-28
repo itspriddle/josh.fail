@@ -1,5 +1,6 @@
 ---
 title: Blasphemy
+category: vault
 ---
 
 Holy shit, some stupid ass punks decided to totally destroy Sweet Home Alabama
