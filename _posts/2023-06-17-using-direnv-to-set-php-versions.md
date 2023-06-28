@@ -85,5 +85,55 @@ export PHPRC="$PWD/config/php"
 _Note:_ The `$PHPRC` variable should point to a _folder_, not the full path to
 `php.ini`.
 
+---
+
+I've also used a similar approach on Linux servers. On our dev server at work,
+we maintain apps with a few different PHP versions. They are installed as
+`php` for the default PHP 7.4 binary, then we have `php8` and `php72`, etc.
+
+To make this work with Direnv, I just created a separate directory tree and
+symlinked each PHP binary and accompanying commands.
+
+Besides `php`, you also have these commands in `/usr/bin` or similar:
+
+- pear
+- peardev
+- pecl
+- phar
+- phar.phar
+- php
+- php-cgi
+- php-config
+- phpdbg
+- phpize
+
+There are commands in `/usr/sbin` (currently just the one):
+
+- php-fpm
+
+How you set these up will depend on your OS and package manager, but a rough
+idea is:
+
+```sh
+mkdir -p /usr/local/opt/php-bins/{7.4,7.2,8.0}/{bin,sbin}
+
+for "$bin" in pear peardev pecl phar phar.phar php php-cgi php-config phpdbg phpize; do
+  ln -s /usr/bin/"$bin" /usr/local/opt/php-bins/7.2/bin/"$bin"
+  ln -s /usr/bin/"$bin" /usr/local/opt/php-bins/7.4/bin/"$bin"
+  ln -s /usr/bin/"$bin" /usr/local/opt/php-bins/8.0/bin/"$bin"
+done
+
+ln -s /usr/sbin/php-fpm /usr/local/opt/php-bins/7.2/sbin/php-fpm
+ln -s /usr/sbin/php-fpm74 /usr/local/opt/php-bins/7.4/sbin/php-fpm
+ln -s /usr/sbin/php-fpm80 /usr/local/opt/php-bins/8.0/sbin/php-fpm
+```
+
+Then, in the project root, I just add the following to `.envrc`:
+
+```sh
+PATH_add /usr/local/opt/php-bins/7.4/bin
+PATH_add /usr/local/opt/php-bins/7.4/sbin
+```
+
 [1]: https://github.com/postmodern/chruby
 [2]: https://github.com/direnv/direnv
