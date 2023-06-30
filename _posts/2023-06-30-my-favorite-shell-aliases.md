@@ -111,5 +111,5 @@ provider has changed a bit over the years.
 alias what-is-my-ip="curl https://ifconfig.me; echo"
 ```
 
-[1]: {% post_url 2019/2019-10-30-git-aliases %}
+[1]: {% post_url 2019/2019-10-30-useful-git-configs-and-aliases %}
 [2]: https://github.com/tpope/vim-fugitive
