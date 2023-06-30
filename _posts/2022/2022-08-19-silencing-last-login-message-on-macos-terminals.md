@@ -25,4 +25,9 @@ with:
 I'm mainly documenting this here so I remember what I did if I need to revert
 or apply it to other Macs. Time will tell if I regret it 😅
 
+---
+
+_Update 2023-06-30:_ This might have been a bug on Monterey. On Ventura, it
+seems like just creating `~/.hushlogin` works again.
+
 [1]: https://stackoverflow.com/questions/15769615/remove-last-login-message-for-new-tabs-in-terminal#comment109701003_16181082
