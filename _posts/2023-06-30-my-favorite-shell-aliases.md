@@ -69,7 +69,6 @@ I picked up a few safe guards to avoid clobbering files on accident.
 alias rm='rm -iv'
 alias cp='cp -iv'
 alias mv='mv -iv'
-alias sh='env -i sh'
 ```
 
 One of my favorites, `path`, prints each item on your `$PATH`, one per line.

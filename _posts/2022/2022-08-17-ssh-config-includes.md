@@ -20,7 +20,7 @@ Then various sub-files, like `~/.ssh/config.d/10-home` for my home network:
 
 ```
 Host *.local
-	AddressFamily inet
+  AddressFamily inet
   User priddle
 ```
 
@@ -36,14 +36,14 @@ And `~/.ssh/config.d/99-star` for everything else:
 
 ```
 Host *
-	TCPKeepAlive yes
-	ServerAliveInterval 300
-	ServerAliveCountMax 6
-	AddKeysToAgent yes
-	IgnoreUnknown UseKeychain
-	UseKeychain yes
-	ForwardAgent no
-	IdentityFile ~/.ssh/id_rsa
+  TCPKeepAlive yes
+  ServerAliveInterval 300
+  ServerAliveCountMax 6
+  AddKeysToAgent yes
+  IgnoreUnknown UseKeychain
+  UseKeychain yes
+  ForwardAgent no
+  IdentityFile ~/.ssh/id_rsa
 ```
 
 Why? So I can keep some of this configuration on [GitHub][1] while keeping
