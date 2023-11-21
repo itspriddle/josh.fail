@@ -12,6 +12,6 @@ I've been meaning to read it, but maybe now I don't have to 😀
 
 > "Adding manpower to a late software project makes it later."
 
-{{ "/images/posts/2023/man-month.png" | relative_url }}
+![]({{ "/images/posts/2023/man-month.png" | relative_url }})
 
 [1]: {{ page.link }}
