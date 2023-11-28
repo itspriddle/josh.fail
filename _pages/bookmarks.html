@@ -1,0 +1,28 @@
+---
+layout: page
+title: Bookmarks
+permalink: /bookmarks/
+intro: Random old URLs I had in Apple Notes
+# TODO: script something to pull all link posts and check if the URL still
+# 200s, if not, archive it This will be complicated by domain squatters :(
+#
+# https://github.com/urlint/urlint might work...
+---
+
+{% assign links = site.data.links | reverse | group_by_exp: "post", "post.date | date: '%Y'" %}
+
+<p>{{ page.intro | smartify }}</p>
+
+{% for item in links %}
+  <h2 id="{{ item.name }}">{{ item.name }}</h2>
+  <ul class="post-list">
+    {% for link in item.items %}
+      <li>
+        {{ link.date | date: "%b %d" }}: <a href="{{ link.url }}">{{ link.title | smartify }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+  {% unless forloop.last %}
+    <hr class="stars">
+  {% endunless %}
+{% endfor %}

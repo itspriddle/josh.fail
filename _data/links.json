@@ -1,0 +1,982 @@
+[
+  {
+    "title": "gruvbox/README.md at master · morhetz/gruvbox",
+    "url": "https://github.com/morhetz/gruvbox/blob/master/README.md",
+    "date": "2016-08-12 22:32:00 -0400"
+  },
+  {
+    "title": "How to Customize the Menu Bar With BitBar",
+    "url": "http://computers.tutsplus.com/tutorials/customize-the-menu-bar-with-bitbar--cms-26946?utm_source=rubyweekly&utm_medium=email",
+    "date": "2016-08-28 23:23:15 -0400"
+  },
+  {
+    "title": "Clone your Ubuntu installation onto a new hard disk",
+    "url": "https://www.linux.com/learn/clone-your-ubuntu-installation-new-hard-disk",
+    "date": "2016-09-08 03:13:44 -0400"
+  },
+  {
+    "title": "How to setup headless (No GUI/CLI Only) ubuntu",
+    "url": "https://www.privateinternetaccess.com/forum/discussion/18781/how-to-setup-headless-no-gui-cli-only-ubuntu",
+    "date": "2016-09-14 01:29:26 -0400"
+  },
+  {
+    "title": "Writing Postgres Extensions - The Basics - Big elephants",
+    "url": "http://big-elephants.com/2015-10/writing-postgres-extensions-part-i/",
+    "date": "2016-09-29 12:07:42 -0400"
+  },
+  {
+    "title": "encrypted passwords in database – select * from depesz;",
+    "url": "https://www.depesz.com/2007/11/05/encrypted-passwords-in-database/",
+    "date": "2016-09-29 17:13:28 -0400"
+  },
+  {
+    "title": "Multi-Dashboard Display with Arduino Controller",
+    "url": "https://www.hackster.io/colinodell/multi-dashboard-display-with-arduino-controller-efb4a5?ref=part&ref_id=19713&offset=34",
+    "date": "2016-10-11 03:36:42 -0400"
+  },
+  {
+    "title": "How To Fix \"Invalid Node Structure\" Error On Apple Mac Computer",
+    "url": "http://www.megaleecher.net/Fix_Invalid_Node_Structure",
+    "date": "2016-10-26 16:33:08 -0400"
+  },
+  {
+    "title": "Billing, credit card, mastercard, payment, shop icon - Free download",
+    "url": "https://www.iconfinder.com/icons/345560/billing_credit_card_mastercard_payment_shop_icon#size=128",
+    "date": "2016-10-28 19:24:32 -0400"
+  },
+  {
+    "title": "WordPress Packagist: Manage your plugins and themes with Composer",
+    "url": "https://wpackagist.org/",
+    "date": "2016-11-02 00:37:49 -0400"
+  },
+  {
+    "title": "How to Manage and Use LVM (Logical Volume Management) in Ubuntu",
+    "url": "http://www.howtogeek.com/howto/40702/how-to-manage-and-use-lvm-logical-volume-management-in-ubuntu/",
+    "date": "2016-11-08 04:22:45 -0500"
+  },
+  {
+    "title": "PGP and You",
+    "url": "https://robots.thoughtbot.com/pgp-and-you",
+    "date": "2016-11-14 13:49:15 -0500"
+  },
+  {
+    "title": "MySQL :: MySQL Utilities 1.5 Manual :: 5.7 mysqldiff — Identify Differences Among Database Objects",
+    "url": "https://dev.mysql.com/doc/mysql-utilities/1.5/en/mysqldiff.html",
+    "date": "2016-11-16 15:39:01 -0500"
+  },
+  {
+    "title": "filterrific/README.md at master · jhund/filterrific",
+    "url": "https://github.com/jhund/filterrific/blob/master/README.md",
+    "date": "2016-11-19 23:52:01 -0500"
+  },
+  {
+    "title": "Home · JXA-Cookbook/JXA-Cookbook Wiki",
+    "url": "https://github.com/dtinth/JXA-Cookbook/wiki",
+    "date": "2016-11-21 16:35:18 -0500"
+  },
+  {
+    "title": "A Failed Project's Postmortem",
+    "url": "https://hungryadmin.com/a-failed-projects-postmortem.html",
+    "date": "2016-12-09 16:01:05 -0500"
+  },
+  {
+    "title": "How Do I Execute DropBox Copy Public Link? (now Copy Dropbox Link)",
+    "url": "https://forum.keyboardmaestro.com/t/how-do-i-execute-dropbox-copy-public-link/1772/15",
+    "date": "2016-12-21 16:35:43 -0500"
+  },
+  {
+    "title": "ActionCable under stress: Finding a DoS vulnerability in Rails 5 WebSockets Apps",
+    "url": "https://blog.phusion.nl/2016/12/21/actioncable-under-stress-protecting-your-application-against-slow-clients-using-passenger/",
+    "date": "2016-12-22 22:56:44 -0500"
+  },
+  {
+    "title": "Remote jobs in design, programming, marketing and more",
+    "url": "https://weworkremotely.com/jobs/4125-rails-engineer",
+    "date": "2017-02-06 04:12:04 -0500"
+  },
+  {
+    "title": "Better OS X Screenshots With Shell Scripts — Andy Taylor",
+    "url": "https://andytaylor.me/2014/05/22/better-os-x-screenshots-with-shell-scripts/",
+    "date": "2017-02-13 23:59:53 -0500"
+  },
+  {
+    "title": "Icon management, solved.",
+    "url": "https://nucleoapp.com/",
+    "date": "2017-02-14 14:48:56 -0500"
+  },
+  {
+    "title": "CloudCannon/edition-jekyll-template: Product documentation template for Jekyll",
+    "url": "https://github.com/CloudCannon/edition-jekyll-template",
+    "date": "2017-02-15 04:00:42 -0500"
+  },
+  {
+    "title": "aron-bordin/neo-hpstr-jekyll-theme: A Jekyll blog theme",
+    "url": "https://github.com/aron-bordin/neo-hpstr-jekyll-theme",
+    "date": "2017-02-15 04:05:16 -0500"
+  },
+  {
+    "title": "ddbullfrog/resumecard: You can see the live demo",
+    "url": "https://github.com/ddbullfrog/resumecard",
+    "date": "2017-02-15 04:06:00 -0500"
+  },
+  {
+    "title": "heiswayi/the-plain: A minimalist Jekyll theme, ideally designed for your personal blog use.",
+    "url": "https://github.com/heiswayi/the-plain",
+    "date": "2017-02-15 04:08:27 -0500"
+  },
+  {
+    "title": "Trigger an event when clipboard content changes",
+    "url": "http://stackoverflow.com/questions/14685999/trigger-an-event-when-clipboard-content-changes",
+    "date": "2017-02-16 18:32:21 -0500"
+  },
+  {
+    "title": "Get notified when something is added to NSPasteboard",
+    "url": "http://stackoverflow.com/questions/3610600/get-notified-when-something-is-added-to-nspasteboard",
+    "date": "2017-02-16 18:35:16 -0500"
+  },
+  {
+    "title": "Keyboard input/Obtain a Y or N response",
+    "url": "https://rosettacode.org/wiki/Keyboard_input/Obtain_a_Y_or_N_response#Ruby",
+    "date": "2017-02-17 03:10:13 -0500"
+  },
+  {
+    "title": "herrbischoff/awesome-macos-command-line: Use your macOS terminal shell to do awesome things.",
+    "url": "https://github.com/herrbischoff/awesome-osx-command-line",
+    "date": "2017-02-17 15:50:05 -0500"
+  },
+  {
+    "title": "jeromelachaud/freelancer-theme: Jekyll theme based on Freelancer Start Bootstrap theme",
+    "url": "https://github.com/jeromelachaud/freelancer-theme",
+    "date": "2017-02-19 05:40:44 -0500"
+  },
+  {
+    "title": "ellekasai/resumecards: [Unmaintained] A Markdown based resume generator. It looks great on mobile/desktop and can be saved as PDF.",
+    "url": "https://github.com/ellekasai/resumecards",
+    "date": "2017-02-19 05:41:58 -0500"
+  },
+  {
+    "title": "sharu725/online-cv: A minimal Jekyll Theme to host your resume (CV)",
+    "url": "https://github.com/sharu725/online-cv",
+    "date": "2017-02-19 05:47:06 -0500"
+  },
+  {
+    "title": "CloudCannon/hydra-jekyll-template: Product marketing template for Jekyll",
+    "url": "https://github.com/CloudCannon/hydra-jekyll-template",
+    "date": "2017-02-19 05:50:24 -0500"
+  },
+  {
+    "title": "posquit0/Awesome-CV: Awesome CV is LaTeX template for your outstanding job application",
+    "url": "https://github.com/posquit0/Awesome-CV",
+    "date": "2017-02-20 00:20:55 -0500"
+  },
+  {
+    "title": "Three column flex",
+    "url": "http://codepen.io/allusis/pen/mRNvZZ",
+    "date": "2017-02-21 16:04:42 -0500"
+  },
+  {
+    "title": "Rotating Words with CSS Animations",
+    "url": "https://tympanus.net/Tutorials/CSS3RotatingWords/index.html",
+    "date": "2017-02-22 05:59:21 -0500"
+  },
+  {
+    "title": "30 Examples For Awk Command In Text Processing",
+    "url": "https://likegeeks.com/awk-command/",
+    "date": "2017-02-22 10:41:14 -0500"
+  },
+  {
+    "title": "How To Use HTML Meta Tags",
+    "url": "https://searchenginewatch.com/sew/how-to/2067564/how-to-use-html-meta-tags",
+    "date": "2017-02-22 13:44:06 -0500"
+  },
+  {
+    "title": "List of Usable HTML Meta and Link Tags",
+    "url": "https://gist.github.com/kevinSuttle/1997924",
+    "date": "2017-02-22 13:46:47 -0500"
+  },
+  {
+    "title": "Ghost on Indie Hackers",
+    "url": "https://www.indiehackers.com/businesses/ghost",
+    "date": "2017-02-23 11:31:56 -0500"
+  },
+  {
+    "title": "Moon/site.scss at master · TaylanTatli/Moon",
+    "url": "https://github.com/TaylanTatli/Moon/blob/master/_sass/site.scss",
+    "date": "2017-02-23 14:22:10 -0500"
+  },
+  {
+    "title": "simpleHTTP/server.pl at master · elimirks/simpleHTTP",
+    "url": "https://github.com/elimirks/simpleHTTP/blob/master/server.pl",
+    "date": "2017-02-23 14:28:13 -0500"
+  },
+  {
+    "title": "CHIP - The World's First Nine Dollar Computer - getchip",
+    "url": "https://getchip.com/pages/chip",
+    "date": "2017-02-28 10:33:06 -0500"
+  },
+  {
+    "title": "CSS Modal - Modals built out of pure CSS",
+    "url": "http://drublic.github.io/css-modal/#!",
+    "date": "2017-02-28 13:33:59 -0500"
+  },
+  {
+    "title": "Rack::Attack – secure you rails app for the real world – redpanthers.co",
+    "url": "http://blog.redpanthers.co/rack-attack-secure-you-rails-app-for-the-real-world/",
+    "date": "2017-03-02 11:24:30 -0500"
+  },
+  {
+    "title": "All Circuits are Busy Now: The 1990 AT&T Long Distance Network Collapse",
+    "url": "http://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse.html",
+    "date": "2017-03-02 13:12:50 -0500"
+  },
+  {
+    "title": "How I Made $220,033.50 Self-Publishing a Book About Ruby on Rails",
+    "url": "https://www.nateberkopec.com/blog/2017/03/10/how-i-made-self-publishing-about-ruby-on-rails.html",
+    "date": "2017-03-15 13:54:13 -0400"
+  },
+  {
+    "title": "Flex Cheatsheet",
+    "url": "http://yoksel.github.io/flex-cheatsheet/",
+    "date": "2017-03-15 13:58:59 -0400"
+  },
+  {
+    "title": "Understanding Ruby GC through GC.stat",
+    "url": "https://www.speedshop.co/2017/03/09/a-guide-to-gc-stat.html",
+    "date": "2017-03-17 11:34:38 -0400"
+  },
+  {
+    "title": "Developers’ side projects",
+    "url": "https://www.joelonsoftware.com/2016/12/09/developers-side-projects/",
+    "date": "2017-03-21 17:29:23 -0400"
+  },
+  {
+    "title": "IR Remote Control",
+    "url": "http://www.raspberry-pi-geek.com/Archive/2015/10/Raspberry-Pi-IR-remote",
+    "date": "2017-04-08 17:36:03 -0400"
+  },
+  {
+    "title": "Circles Sines and Signals - Sound",
+    "url": "https://jackschaedler.github.io/circles-sines-signals/sound.html",
+    "date": "2017-04-11 01:36:29 -0400"
+  },
+  {
+    "title": "Make a failing Sidekiq worker call a method after a specific number of retries",
+    "url": "https://medium.com/appaloosa-store-engineering/make-a-failing-sidekiq-worker-call-a-method-after-a-specific-number-of-retries-709d7f2cb9f3",
+    "date": "2017-04-13 10:33:24 -0400"
+  },
+  {
+    "title": "Ruby one-liners",
+    "url": "http://benoithamelin.tumblr.com/ruby1line/",
+    "date": "2017-07-31 03:22:45 -0400"
+  },
+  {
+    "title": "Zsh Configuration From the Ground Up",
+    "url": "https://zanshin.net/2013/02/02/zsh-configuration-from-the-ground-up/",
+    "date": "2017-08-21 13:50:45 -0400"
+  },
+  {
+    "title": "PostgreSQL int to UUID",
+    "url": "https://www.inversoft.com/blog/2015/09/23/postgresql-int-to-uuid/",
+    "date": "2017-09-05 04:11:38 -0400"
+  },
+  {
+    "title": "Top 10 ES6 features by example",
+    "url": "https://blog.pragmatists.com/top-10-es6-features-by-example-80ac878794bb",
+    "date": "2017-09-15 13:16:30 -0400"
+  },
+  {
+    "title": "Just a moment...",
+    "url": "http://cssnext.io/features/#custom-properties-var",
+    "date": "2017-10-17 15:22:14 -0400"
+  },
+  {
+    "title": "Why Ruby app servers break on macOS High Sierra and what can be done about it",
+    "url": "https://blog.phusion.nl/2017/10/13/why-ruby-app-servers-break-on-macos-high-sierra-and-what-can-be-done-about-it/",
+    "date": "2017-10-19 03:13:42 -0400"
+  },
+  {
+    "title": "Memory Conscious Programming in Ruby",
+    "url": "https://gettalong.org/blog/2017/memory-conscious-programming-in-ruby.html",
+    "date": "2017-11-01 02:55:09 -0400"
+  },
+  {
+    "title": "The two questions I ask every interviewer",
+    "url": "http://blog.wesleyac.com/posts/two-interview-questions",
+    "date": "2017-11-01 10:48:41 -0400"
+  },
+  {
+    "title": "Flexbox and Grids, your layout’s best friends",
+    "url": "https://aerolab.co/blog/flexbox-grids/",
+    "date": "2017-11-06 16:18:07 -0500"
+  },
+  {
+    "title": "30 Handy Bash Shell Aliases For Linux / Unix / MacOS",
+    "url": "https://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html",
+    "date": "2018-01-02 11:09:13 -0500"
+  },
+  {
+    "title": "Winamp2 JS with Jordan Eldredge (The Changelog #291)",
+    "url": "https://changelog.com/podcast/291",
+    "date": "2018-04-06 18:08:42 -0400"
+  },
+  {
+    "title": "RailsConf 2018",
+    "url": "https://www.youtube.com/playlist?list=PLE7tQUdRKcyak-yFKj5IN3tDYOh5omMrH",
+    "date": "2018-05-16 16:41:54 -0400"
+  },
+  {
+    "title": "Replace one of the physical volumes in an LVM volume group",
+    "url": "http://www.microhowto.info/howto/replace_one_of_the_physical_volumes_in_an_lvm_volume_group.html",
+    "date": "2018-07-03 14:31:13 -0400"
+  },
+  {
+    "title": "Sending HTML to Mailgun with cURL | Jonathan Palardy's Blog",
+    "url": "https://blog.jpalardy.com/posts/sending-html-to-mailgun-with-curl/",
+    "date": "2018-08-12 03:20:12 -0400"
+  },
+  {
+    "title": "How to set up a UFW firewall on Ubuntu 16.04 LTS server",
+    "url": "https://www.cyberciti.biz/faq/howto-configure-setup-firewall-with-ufw-on-ubuntu-linux/",
+    "date": "2018-09-08 04:18:22 -0400"
+  },
+  {
+    "title": "The Overlay Filesystem",
+    "url": "https://windsock.io/the-overlay-filesystem/",
+    "date": "2018-10-10 03:46:58 -0400"
+  },
+  {
+    "title": "sinator/app.erb at master · kuntoaji/sinator",
+    "url": "https://github.com/kuntoaji/sinator/blob/master/lib/sinator/templates/app.erb",
+    "date": "2018-10-13 05:47:50 -0400"
+  },
+  {
+    "title": "Per App Mojave Dark Mode",
+    "url": "https://medium.com/@matt3224/per-app-mojave-dark-mode-301e418ee683",
+    "date": "2018-10-15 13:20:39 -0400"
+  },
+  {
+    "title": "Best Creality Ender 3 (Pro/V2) Upgrades & Mods in 2021",
+    "url": "https://all3dp.com/1/20-must-creality-ender-3-upgrades-mods/",
+    "date": "2018-11-12 12:03:31 -0500"
+  },
+  {
+    "title": "AppleScripts/Download Chase Activity.applescript at master · abbeycode/AppleScripts",
+    "url": "https://github.com/abbeycode/AppleScripts/blob/master/Scripts/Download%20Chase%20Activity.applescript",
+    "date": "2019-01-30 05:34:06 -0500"
+  },
+  {
+    "title": "Meteocons - 40+ Weather Icons Free",
+    "url": "http://www.alessioatzeni.com/meteocons/",
+    "date": "2019-05-26 04:59:00 -0400"
+  },
+  {
+    "title": "Levi | Resonsive Personal Portfolio Bootstrap Template",
+    "url": "http://echotheme.com/themeforest/levi/top-nav.html",
+    "date": "2019-05-27 05:21:22 -0400"
+  },
+  {
+    "title": "Jekyll Themes | Serif",
+    "url": "https://themes.jekyllrc.org/serif/",
+    "date": "2019-05-27 05:32:46 -0400"
+  },
+  {
+    "title": "Learn git concepts, not commands",
+    "url": "https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc",
+    "date": "2019-06-03 02:53:16 -0400"
+  },
+  {
+    "title": "This page is a truly naked, brutalist html quine.",
+    "url": "https://secretgeek.github.io/html_wysiwyg/html.html",
+    "date": "2019-06-06 03:45:29 -0400"
+  },
+  {
+    "title": "Sustainable Operations in Complex Systems with Production Excellence",
+    "url": "https://www.infoq.com/articles/production-excellence-sustainable-operations-complex-systems/",
+    "date": "2019-06-11 17:34:25 -0400"
+  },
+  {
+    "title": "Christopher - Get the pull request number from the branch",
+    "url": "https://www.codeography.com/2018/10/30/get-the-pull-request-number-from-the-branch.html",
+    "date": "2019-06-14 12:52:51 -0400"
+  },
+  {
+    "title": "My personal journey from MIT to GPL",
+    "url": "https://drewdevault.com/2019/06/13/My-journey-from-MIT-to-GPL.html",
+    "date": "2019-06-14 15:54:55 -0400"
+  },
+  {
+    "title": "Enviro for Raspberry Pi",
+    "url": "https://shop.pimoroni.com/products/enviro-plus",
+    "date": "2019-06-14 17:20:05 -0400"
+  },
+  {
+    "title": "Steam Community :: Guide :: Convert PS3 console version saves to PC version saves.",
+    "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=683458202",
+    "date": "2019-06-17 01:59:53 -0400"
+  },
+  {
+    "title": "Testing Ruby on Rails Data Migration",
+    "url": "https://spin.atomicobject.com/2016/08/17/ruby-on-rails-data-migration/",
+    "date": "2019-06-19 16:24:06 -0400"
+  },
+  {
+    "title": "GPi CASE",
+    "url": "http://www.retroflag.com/GPi-CASE.html",
+    "date": "2019-06-25 04:21:42 -0400"
+  },
+  {
+    "title": "Raspberry Pi Kiosk using Chromium",
+    "url": "https://pimylifeup.com/raspberry-pi-kiosk/",
+    "date": "2019-06-27 19:31:20 -0400"
+  },
+  {
+    "title": "geraldoramos/pigeon: Pigeon is a simple 3D printed cloud home surveillance camera project that uses the new Raspberry Pi Zero W",
+    "url": "https://github.com/geraldoramos/pigeon",
+    "date": "2019-07-01 14:43:54 -0400"
+  },
+  {
+    "title": "3D Printed Case for Adafruit Feather",
+    "url": "https://learn.adafruit.com/3d-printed-case-for-adafruit-feather/tft-feather-wing",
+    "date": "2019-07-02 02:47:13 -0400"
+  },
+  {
+    "title": "Adafruit HUZZAH32 – ESP32 Feather Board",
+    "url": "https://www.adafruit.com/product/3405",
+    "date": "2019-07-02 03:46:41 -0400"
+  },
+  {
+    "title": "Brand new Wildlife Cam Cases for Spring 2018!",
+    "url": "http://naturebytes.org/wildlife-cam-cases-available-2018/",
+    "date": "2019-07-03 11:15:07 -0400"
+  },
+  {
+    "title": "Raspberry Pi X830 3.5 Inch HDD SATA Storage Board Matching Metal Case&#47;Enclosure &#43; Power Control Switch &#43; 12V Cooling Fan Kit - Newegg.com",
+    "url": "https://www.newegg.com/p/1W8-00Y1-00004",
+    "date": "2019-07-03 15:09:53 -0400"
+  },
+  {
+    "title": "OWC miniStack - The External Drive with a Mac mini Footprint",
+    "url": "https://eshop.macsales.com/shop/external-drives/owc-ministack",
+    "date": "2019-07-12 03:39:31 -0400"
+  },
+  {
+    "title": "Using an I2C OLED Display Module with the Raspberry Pi",
+    "url": "https://www.raspberrypi-spy.co.uk/2018/04/i2c-oled-display-module-with-raspberry-pi/",
+    "date": "2019-07-12 16:31:25 -0400"
+  },
+  {
+    "title": "Using Linux or Windows as a Time Machine network server",
+    "url": "https://kirb.me/2018/03/24/using-samba-as-a-time-machine-network-server.html",
+    "date": "2019-07-14 04:31:09 -0400"
+  },
+  {
+    "title": "Fixing slow macOS finder connection to Linux Samba server",
+    "url": "https://medium.com/@augusteo/fixing-slow-macos-finder-connection-to-linux-samba-server-ed7e5ea784c1",
+    "date": "2019-07-14 04:43:17 -0400"
+  },
+  {
+    "title": "Online Shop New Arrival ! 2019 M5StickC ESP32 PICO Mini IoT Development Board Finger Computer with Color LCD | Aliexpress Mobile",
+    "url": "https://m.aliexpress.com/item/32985247364.html?trace=wwwdetail2mobilesitedetail&productId=32985247364&productSubject=New-Arrival-2019-M5StickC-ESP32-PICO-Mini-IoT-Development-Board-Finger-Computer-with-Color-LCD&gps-id=platformRecommendH5&scm=1007.18499.130806.0&scm_id=1007.18499.130806.0&scm-url=1007.18499.130806.0&pvid=f793a244-a72f-4cd1-9ae6-fb3a2881d2a9&_t=gps-id:platformRecommendH5,scm-url:1007.18499.130806.0,pvid:f793a244-a72f-4cd1-9ae6-fb3a2881d2a9&spm=a2g0n.detail-amp.moretolove.32985247364&aff_trace_key=&aff_platform=msite&m_page_id=822amp-82jKqHt9TgjePbh5DdRgyQ1563097333225&gclid=null",
+    "date": "2019-07-14 05:44:23 -0400"
+  },
+  {
+    "title": "Online Shop RealQvol FriendlyARM NanoPi NEO2 v1.1 LTS Development Board faster than Raspberry PI 40X40mm (512MB/1GB DDR3 RAM) ARM Cortex-A53 | Aliexpress Mobile",
+    "url": "https://m.aliexpress.com/item/32813512930.html?trace=wwwdetail2mobilesitedetail&productId=32813512930&productSubject=FriendlyARM-NanoPi-NEO-2-Development-Board-512MB-DDR3-RAM-Run-u-boot-Ubuntu-Core-Xenial&gps-id=platformRecommendH5&scm=1007.18499.130806.0&scm_id=1007.18499.130806.0&scm-url=1007.18499.130806.0&pvid=650e72d3-bf7d-4ec8-8d6d-79e7c49b170c&_t=gps-id:platformRecommendH5,scm-url:1007.18499.130806.0,pvid:650e72d3-bf7d-4ec8-8d6d-79e7c49b170c&spm=a2g0n.detail-amp.moretolove.32813512930&aff_trace_key=&aff_platform=msite&m_page_id=1220amp-82jKqHt9TgjePbh5DdRgyQ1563097937368&gclid=null",
+    "date": "2019-07-14 05:55:38 -0400"
+  },
+  {
+    "title": "Online Shop DFPlayer Mini MP3 DF Player Module Board MP3 Audio Voice Decode Board For Arduino Supporting TF Card U-Disk IO/Serial Port/AD | Aliexpress Mobile",
+    "url": "https://m.aliexpress.com/item/32659645208.html?pid=808_0000_0101&spm=a2g0n.search-amp.list.32659645208&aff_trace_key=&aff_platform=msite&m_page_id=5854amp-xXLtYpM_3bi6KdcPGqtXhQ1563231691623",
+    "date": "2019-07-15 19:04:18 -0400"
+  },
+  {
+    "title": "Esp8266 – log temperature readings from DS18B20 and wifi signal strength to graphite grafana – Jan Taczanowski's tech blog",
+    "url": "https://taczanowski.net/esp8266-log-temperature-readings-from-ds18b20-and-wifi-signal-strength-to-graphite-grafana/",
+    "date": "2019-07-16 04:36:07 -0400"
+  },
+  {
+    "title": "DNS and DHCP on Synology NAS - Beware Here Be Musings",
+    "url": "https://blogging.dragon.org.uk/dns-and-dhcp-on-synology-nas/",
+    "date": "2019-07-23 04:45:11 -0400"
+  },
+  {
+    "title": "How to Install and Configure dnsmasq",
+    "url": "https://www.iceflatline.com/2010/02/how-to-install-and-configure-dnsmasq/",
+    "date": "2019-07-24 04:17:27 -0400"
+  },
+  {
+    "title": "Setup Let's Encrypt certificate for use with Plex Media Server on Ubuntu",
+    "url": "https://gist.github.com/srilankanchurro/fa3fdeb5cf10ebb251aa88338b8b37db",
+    "date": "2019-07-26 03:39:19 -0400"
+  },
+  {
+    "title": "Making all network traffic for a Linux user use a specific network interface",
+    "url": "https://www.niftiestsoftware.com/2011/08/28/making-all-network-traffic-for-a-linux-user-use-a-specific-network-interface/",
+    "date": "2019-08-01 01:33:39 -0400"
+  },
+  {
+    "title": "How to ignore files already managed with Git locally",
+    "url": "https://dev.to/nishina555/how-to-ignore-files-already-managed-with-git-locally-19oo",
+    "date": "2019-10-01 17:26:08 -0400"
+  },
+  {
+    "title": "Using ssh-agent with ssh",
+    "url": "http://mah.everybody.org/docs/ssh",
+    "date": "2019-10-09 12:12:49 -0400"
+  },
+  {
+    "title": "Radically simpler & faster window switcher for Mac",
+    "url": "https://contexts.co/",
+    "date": "2019-10-15 01:06:51 -0400"
+  },
+  {
+    "title": "the Open Source and Modular Smart Mirror",
+    "url": "https://www.makrmirror.io/",
+    "date": "2019-10-17 15:03:39 -0400"
+  },
+  {
+    "title": "https://werat.dev/blog/happy-ssh-agent-forwarding/",
+    "url": "https://werat.github.io/2017/02/04/tmux-ssh-agent-forwarding.html",
+    "date": "2019-10-21 23:26:00 -0400"
+  },
+  {
+    "title": "Using `git worktree` to have multiple branches checked out at once · Jamie Tanna | Software Engineer",
+    "url": "https://www.jvt.me/posts/2019/01/29/git-worktree-multiple-branches/",
+    "date": "2019-10-25 01:46:23 -0400"
+  },
+  {
+    "title": "Git subtree: the alternative to Git submodule | Atlassian Git Tutorial",
+    "url": "https://www.atlassian.com/git/tutorials/git-subtree",
+    "date": "2019-11-01 00:36:47 -0400"
+  },
+  {
+    "title": "a static analysis tool for PHP",
+    "url": "https://psalm.dev/",
+    "date": "2019-11-01 14:57:23 -0400"
+  },
+  {
+    "title": "My Philosophy On Alerting",
+    "url": "https://linuxczar.net/sysadmin/philosophy-on-alerting/",
+    "date": "2019-11-05 09:23:05 -0500"
+  },
+  {
+    "title": "Introducing Flan Scan: Cloudflare’s Lightweight Network Vulnerability Scanner",
+    "url": "https://blog.cloudflare.com/introducing-flan-scan/",
+    "date": "2019-11-22 10:31:17 -0500"
+  },
+  {
+    "title": "A Distributed Meeting Primer",
+    "url": "https://randsinrepose.com/archives/a-distributed-meeting-primer/",
+    "date": "2019-12-04 16:20:39 -0500"
+  },
+  {
+    "title": "The Rule of 40% For a Healthy SaaS Company - Feld Thoughts",
+    "url": "https://feld.com/archives/2015/02/rule-40-healthy-saas-company.html",
+    "date": "2020-01-30 10:26:16 -0500"
+  },
+  {
+    "title": "Things I Believe About Software Engineering",
+    "url": "https://blog.wesleyac.com/posts/engineering-beliefs",
+    "date": "2020-02-03 09:40:57 -0500"
+  },
+  {
+    "title": "Old CSS, new CSS",
+    "url": "https://eev.ee/blog/2020/02/01/old-css-new-css/",
+    "date": "2020-02-03 11:03:44 -0500"
+  },
+  {
+    "title": "Every Default macOS Wallpaper – in Glorious 6K Resolution",
+    "url": "https://512pixels.net/projects/default-mac-wallpapers-in-5k/",
+    "date": "2020-03-24 16:46:19 -0400"
+  },
+  {
+    "title": "Pop — Screen sharing for remote teams",
+    "url": "https://screen.so/#/home",
+    "date": "2020-03-24 16:55:08 -0400"
+  },
+  {
+    "title": "cPanel Licensing - WHMCS Marketplace",
+    "url": "https://marketplace.whmcs.com/product/4993",
+    "date": "2020-03-25 15:28:16 -0400"
+  },
+  {
+    "title": "Choosy, but for everything except the main thing it's for.",
+    "url": "https://chriscoyier.net/2020/03/26/choosy-but-for-everything-except-the-main-thing-its-for/",
+    "date": "2020-03-26 19:41:52 -0400"
+  },
+  {
+    "title": "Vimac",
+    "url": "https://vimacapp.com/",
+    "date": "2020-03-28 13:57:49 -0400"
+  },
+  {
+    "title": "mbrt/gmailctl: Declarative configuration for Gmail filters",
+    "url": "https://github.com/mbrt/gmailctl",
+    "date": "2020-03-30 00:03:40 -0400"
+  },
+  {
+    "title": "Home",
+    "url": "https://applitools.com/",
+    "date": "2020-04-01 09:29:15 -0400"
+  },
+  {
+    "title": "How to SSH Properly | SSH Security Best Practices",
+    "url": "https://gravitational.com/blog/how-to-ssh-properly/",
+    "date": "2020-04-01 16:45:56 -0400"
+  },
+  {
+    "title": "What's New in WHMCS 8.2",
+    "url": "https://www.whmcs.com/whats-new/",
+    "date": "2020-04-02 09:41:02 -0400"
+  },
+  {
+    "title": "Remote Hiring",
+    "url": "https://www.hackerrank.com/solutions/remote-hiring/",
+    "date": "2020-04-21 10:42:30 -0400"
+  },
+  {
+    "title": "My Visual Studio Code Setup: Extensions and Themes · Matthias Ott – User Experience Designer",
+    "url": "https://matthiasott.com/notes/visual-studio-code-setup",
+    "date": "2020-04-24 15:44:11 -0400"
+  },
+  {
+    "title": "Shell productivity tips and tricks",
+    "url": "https://blog.balthazar-rouberol.com/shell-productivity-tips-and-tricks.html",
+    "date": "2020-04-25 16:12:07 -0400"
+  },
+  {
+    "title": "aristocratos/bashtop: Linux/OSX/FreeBSD resource monitor",
+    "url": "https://github.com/aristocratos/bashtop",
+    "date": "2020-04-26 01:00:16 -0400"
+  },
+  {
+    "title": "Take care editing bash scripts",
+    "url": "https://thomask.sdf.org/blog/2019/11/09/take-care-editing-bash-scripts.html",
+    "date": "2020-05-06 12:25:59 -0400"
+  },
+  {
+    "title": "Creating issues using the CSV importer | Jira Core Data Center and Server 8.5 | Atlassian Documentation",
+    "url": "https://confluence.atlassian.com/jiracoreserver085/creating-issues-using-the-csv-importer-981157668.html",
+    "date": "2020-05-07 16:37:32 -0400"
+  },
+  {
+    "title": "Speedy 🏎 | Add-ons",
+    "url": "https://expressionengine.com/add-ons/speedy",
+    "date": "2020-05-11 10:58:59 -0400"
+  },
+  {
+    "title": "Handling Extreme Traffic — ExpressionEngine 6.1.5 Documentation",
+    "url": "https://docs.expressionengine.com/latest/optimization/handling-extreme-traffic.html",
+    "date": "2020-05-11 18:02:50 -0400"
+  },
+  {
+    "title": "The HTTP headers you don't expect",
+    "url": "https://frenxi.com/http-headers-you-dont-expect/",
+    "date": "2020-05-15 08:47:39 -0400"
+  },
+  {
+    "title": "Build your own React",
+    "url": "https://pomb.us/build-your-own-react/",
+    "date": "2020-06-21 15:47:00 -0400"
+  },
+  {
+    "title": "NGINXConfig",
+    "url": "https://www.digitalocean.com/community/tools/nginx",
+    "date": "2020-06-22 10:39:07 -0400"
+  },
+  {
+    "title": "Features",
+    "url": "https://obsidian.md/features",
+    "date": "2020-07-19 15:44:36 -0400"
+  },
+  {
+    "title": "How popular media portrays the employability of older software developers | Hacker News",
+    "url": "https://news.ycombinator.com/item?id=23964539",
+    "date": "2020-07-27 10:57:39 -0400"
+  },
+  {
+    "title": "preservim/vim-pencil: Rethinking Vim as a tool for writing",
+    "url": "https://github.com/reedes/vim-pencil",
+    "date": "2020-07-29 00:37:38 -0400"
+  },
+  {
+    "title": "Some SQL Tricks of an Application DBA",
+    "url": "https://hakibenita.com/sql-tricks-application-dba",
+    "date": "2020-07-29 13:51:19 -0400"
+  },
+  {
+    "title": "My Weekly Notion Setup",
+    "url": "https://kevinjalbert.com/my-weekly-notion-setup/",
+    "date": "2020-08-01 00:27:52 -0400"
+  },
+  {
+    "title": "Chapter 6 - Interlude - The Renaissance of the Shell",
+    "url": "https://effective-shell.com/docs/part-1-transitioning-to-the-shell/6-the-renaissance-of-the-shell/",
+    "date": "2020-08-25 15:01:06 -0400"
+  },
+  {
+    "title": "bash errors",
+    "url": "https://wizardzines.com/comics/bash-errors/",
+    "date": "2020-10-10 20:46:57 -0400"
+  },
+  {
+    "title": "Using Vagrant for Windows VMs provisioning",
+    "url": "https://codeblog.dotsandbrackets.com/vagrant-windows/",
+    "date": "2020-10-12 15:47:02 -0400"
+  },
+  {
+    "title": "What Google Learned From Its Quest to Build the Perfect Team (Published 2016)",
+    "url": "https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html",
+    "date": "2020-10-19 13:14:11 -0400"
+  },
+  {
+    "title": "This page is a truly naked, brutalist html quine.",
+    "url": "https://secretgeek.github.io/html_wysiwyg/html.html",
+    "date": "2020-10-19 14:29:22 -0400"
+  },
+  {
+    "title": "How to Write Well: 4 Steps to Improve Your Writing",
+    "url": "https://adamfaliq.wordpress.com/2020/10/28/write-well/",
+    "date": "2020-10-29 11:38:21 -0400"
+  },
+  {
+    "title": "Handling Unused CSS In Sass To Improve Performance",
+    "url": "https://www.smashingmagazine.com/2019/08/handling-unused-css-sass-performance/",
+    "date": "2020-10-30 11:25:53 -0400"
+  },
+  {
+    "title": "How we made our SaaS homepage cookie-free 🍪",
+    "url": "https://blog.leavemealone.app/no-more-cookies/",
+    "date": "2020-11-03 09:16:12 -0500"
+  },
+  {
+    "title": "Understanding Object Instantiation and Metaclasses in Python",
+    "url": "https://www.honeybadger.io/blog/python-instantiation-metaclass/",
+    "date": "2020-11-25 16:48:03 -0500"
+  },
+  {
+    "title": "Command Line Interface Guidelines",
+    "url": "https://clig.dev/",
+    "date": "2020-12-07 16:08:08 -0500"
+  },
+  {
+    "title": "Minimal safe Bash script template",
+    "url": "https://betterdev.blog/minimal-safe-bash-script-template/",
+    "date": "2020-12-15 23:57:20 -0500"
+  },
+  {
+    "title": "What I’ve Learned in 45 Years in the Software Industry | Hacker News",
+    "url": "https://news.ycombinator.com/item?id=25658216",
+    "date": "2021-01-06 16:37:22 -0500"
+  },
+  {
+    "title": "Widely Used Software Company May Be Entry Point for Huge U.S. Hacking",
+    "url": "https://www.nytimes.com/2021/01/06/us/politics/russia-cyber-hack.html",
+    "date": "2021-01-06 23:04:39 -0500"
+  },
+  {
+    "title": "How In The Bleep: Mute Your Mic From Anywhere on macOS",
+    "url": "https://medium.com/macoclock/how-in-the-bleep-do-i-mute-my-mic-anywhere-on-macos-d2fa1185b13",
+    "date": "2021-01-15 16:58:21 -0500"
+  },
+  {
+    "title": "A Picky Developer's Take on PHP Static Site Generators: Pt. 1 Sculpin",
+    "url": "https://www.contentful.com/blog/2018/04/04/an-extremely-picky-developers-take-on-php-static-site-generators-part-1-sculpin/",
+    "date": "2021-01-20 12:24:37 -0500"
+  },
+  {
+    "title": "Uniwidth typefaces for interface design",
+    "url": "https://uxdesign.cc/uniwidth-typefaces-for-interface-design-b6e8078dc0f7",
+    "date": "2021-01-30 17:17:16 -0500"
+  },
+  {
+    "title": "Simplify SSH with SSH Config Files",
+    "url": "https://www.jamesridgway.co.uk/simplify-ssh-with-ssh-config-files/",
+    "date": "2021-03-25 13:57:10 -0400"
+  },
+  {
+    "title": "6 OpenSSL command options that every sysadmin should know",
+    "url": "https://www.redhat.com/sysadmin/6-openssl-commands",
+    "date": "2021-03-29 10:26:58 -0400"
+  },
+  {
+    "title": "CSS Stats",
+    "url": "https://cssstats.com/stats/?url=a2hosting.com",
+    "date": "2021-04-01 20:57:41 -0400"
+  },
+  {
+    "title": "A Better Model for Stacked Pull Requests | Hacker News",
+    "url": "https://news.ycombinator.com/item?id=26913959",
+    "date": "2021-04-23 22:35:31 -0400"
+  },
+  {
+    "title": "The 10 Best Practices for Remote Software Engineering",
+    "url": "https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-software-engineering/fulltext",
+    "date": "2021-04-27 09:03:21 -0400"
+  },
+  {
+    "title": "The Unix Magic poster",
+    "url": "https://jpmens.net/2021/04/09/the-unix-magic-poster/",
+    "date": "2021-05-03 16:03:28 -0400"
+  },
+  {
+    "title": "Python Tutorials",
+    "url": "https://realpython.com/",
+    "date": "2021-05-12 13:32:43 -0400"
+  },
+  {
+    "title": "An incomplete list of skills senior engineers need, beyond coding",
+    "url": "https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f",
+    "date": "2021-06-06 22:17:11 -0400"
+  },
+  {
+    "title": "Human Hacker",
+    "url": "https://darknetdiaries.com/episode/69/",
+    "date": "2021-07-13 10:03:16 -0400"
+  },
+  {
+    "title": "How I Hacked My Standing Desk With a Raspberry Pi",
+    "url": "https://medium.com/@davidkongfilm/how-i-hacked-my-standing-desk-with-a-raspberry-pi-a50ed14c7f6f",
+    "date": "2021-07-25 22:05:33 -0400"
+  },
+  {
+    "title": "How to Fix the Home and End Buttons for an External Keyboard in Mac",
+    "url": "https://medium.com/@elhayefrat/how-to-fix-the-home-and-end-buttons-for-an-external-keyboard-in-mac-4da773a0d3a2",
+    "date": "2021-09-08 08:49:29 -0400"
+  },
+  {
+    "title": "why is everything so hard in a large organization?",
+    "url": "https://graphthinking.blogspot.com/2021/09/why-is-everything-so-hard-in-large.html",
+    "date": "2021-09-30 13:14:55 -0400"
+  },
+  {
+    "title": "What is BGP? | BGP routing explained",
+    "url": "https://www.cloudflare.com/learning/security/glossary/what-is-bgp/",
+    "date": "2021-10-04 16:41:13 -0400"
+  },
+  {
+    "title": "The wisdom of Devops Borat (RIP, may Taichi Ohno himself carry him into Valhalla!) condensed in fortune cookie format without any @ messages included. Just the goofiest random shit :)",
+    "url": "https://gist.github.com/textarcana/676ef78b2912d42dbf355a2f728a0ca1",
+    "date": "2021-10-04 17:50:57 -0400"
+  },
+  {
+    "title": "I don't understand this (yet)",
+    "url": "https://www.iamjonas.me/2021/08/i-dont-understand-this-yet.html",
+    "date": "2021-10-05 14:38:57 -0400"
+  },
+  {
+    "title": "20 Things I've Learned in my 20 Years as a Software Engineer",
+    "url": "https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/",
+    "date": "2021-10-09 19:27:02 -0400"
+  },
+  {
+    "title": "How to Get Over Fear of Disappointing Others (FODO)",
+    "url": "https://nickwignall.com/fear-of-disappointing-others/",
+    "date": "2021-10-13 09:21:01 -0400"
+  },
+  {
+    "title": "Site Reliability Engineering",
+    "url": "https://sre.google/workbook/postmortem-culture/",
+    "date": "2021-10-13 16:12:19 -0400"
+  },
+  {
+    "title": "Premortems Will Keep Your Code Alive",
+    "url": "https://www.cobaltrobotics.com/premortems-and-postmortems/",
+    "date": "2021-10-13 16:15:11 -0400"
+  },
+  {
+    "title": "s/bash/zsh/g",
+    "url": "https://www.arp242.net/why-zsh.html",
+    "date": "2021-10-20 09:50:09 -0400"
+  },
+  {
+    "title": "Site Reliability Engineering",
+    "url": "https://sre.google/sre-book/example-postmortem/",
+    "date": "2021-11-02 18:01:23 -0400"
+  },
+  {
+    "title": "csswizardry/ct: Let’s take a look inside your <head>…",
+    "url": "https://github.com/csswizardry/ct",
+    "date": "2021-11-02 19:53:06 -0400"
+  },
+  {
+    "title": "Obsidian Web Clipper Bookmarklet to save articles and pages from the web (for Safari, Chrome, Firefox, and mobile browsers)",
+    "url": "https://gist.github.com/kepano/90c05f162c37cf730abb8ff027987ca3",
+    "date": "2022-02-02 03:21:02 -0500"
+  },
+  {
+    "title": "Adding your google calendar agenda to your daily journal",
+    "url": "https://forum.obsidian.md/t/adding-your-google-calendar-agenda-to-your-daily-journal/16417/21",
+    "date": "2022-02-02 03:49:20 -0500"
+  },
+  {
+    "title": "Yes, I can connect to a DB in CSS",
+    "url": "https://www.leemeichin.com/posts/yes-i-can-connect-to-a-db-in-css.html",
+    "date": "2022-02-03 11:38:03 -0500"
+  },
+  {
+    "title": "PHP",
+    "url": "https://phptherightway.com/",
+    "date": "2022-02-07 09:33:33 -0500"
+  },
+  {
+    "title": "Debugging BASH scripts on the command line",
+    "url": "http://www.skybert.net/bash/debugging-bash-scripts-on-the-command-line/",
+    "date": "2022-02-10 03:01:37 -0500"
+  },
+  {
+    "title": "Designing your incident severity levels",
+    "url": "https://incident.io/blog/designing-your-incident-severity-levels",
+    "date": "2022-02-17 19:59:56 -0500"
+  },
+  {
+    "title": "54 Love Icons Set",
+    "url": "https://graphicriver.net/item/54-love-icons-set/10052044",
+    "date": "2022-02-18 03:01:56 -0500"
+  },
+  {
+    "title": "The Fastest GIF Does Not Exist",
+    "url": "https://www.biphelps.com/blog/The-Fastest-GIF-Does-Not-Exist",
+    "date": "2022-02-21 12:41:14 -0500"
+  },
+  {
+    "title": "A career ending mistake",
+    "url": "https://bitfieldconsulting.com/golang/career",
+    "date": "2022-02-22 23:19:45 -0500"
+  },
+  {
+    "title": "Avoiding the Top 10 NGINX Configuration Mistakes",
+    "url": "https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/",
+    "date": "2022-02-22 23:52:17 -0500"
+  },
+  {
+    "title": "Writing Conventional Git Commit Messages",
+    "url": "https://dev.to/ageekdev/writing-conventional-git-commit-messages-49m8",
+    "date": "2022-02-23 11:26:49 -0500"
+  },
+  {
+    "title": "Neovim for Beginners —LSP using null-ls.nvim",
+    "url": "https://alpha2phi.medium.com/neovim-for-beginners-lsp-using-null-ls-nvim-bd954bf86b40",
+    "date": "2022-02-24 10:46:29 -0500"
+  },
+  {
+    "title": "Disaster planning for regular folks: level-headed prepping tips",
+    "url": "https://lcamtuf.coredump.cx/prep/index-old.shtml",
+    "date": "2022-02-25 09:07:24 -0500"
+  },
+  {
+    "title": "Explain the First 10 Lines of Twitter's Source Code to Me",
+    "url": "https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/",
+    "date": "2022-02-25 11:58:31 -0500"
+  },
+  {
+    "title": "iCloud Private Relay: information for Cloudflare customers",
+    "url": "https://blog.cloudflare.com/icloud-private-relay/",
+    "date": "2022-03-02 10:54:39 -0500"
+  },
+  {
+    "title": "What Is Chaos Monkey? A Complete Guide for Engineers, DevOps & SREs",
+    "url": "https://www.gremlin.com/chaos-monkey/",
+    "date": "2022-03-04 15:11:38 -0500"
+  }
+]
