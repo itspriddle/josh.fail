@@ -44,13 +44,14 @@ have a few PoE devices that I power with a [5 port TP-Link PoE switch][poe
 switch].
 
 I also have an [8-port Netgear switch][8-port switch]. My coax input is on the
-opposite side of my office and most of this gear is in a small 5u rack in the
-closet. This switch, the cable modem, and router are plugged in and hidden
-behind a cabinet.
+opposite side of my office and most of this gear is in a small [9u
+rack][network rack] in the closet. This switch, the cable modem, and router
+are plugged in and hidden behind a cabinet.
 
 [24-port switch]: https://www.amazon.com/gp/product/B0779R9LJ3/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 [poe switch]: https://www.amazon.com/gp/product/B076HZFY3F/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 [8-port switch]: https://www.amazon.com/gp/product/B00KFD0SYK/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+[network rack]: https://www.amazon.com/gp/product/B08VDV156F/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 ### WiFi
 
@@ -85,11 +86,14 @@ I'm also running Docker on it and run Deluge and a Git server on it.
 
 I'm using about 17tb of storage today and have 21tb free.
 
+I just got a [Tripp Lite SMART1500LCD][ups] to protect it from power outages.
+
 [nas]: https://www.synology.com/en-us/products/DS1522+
 [nas ram]: https://www.amazon.com/gp/product/B0899KV2L5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 [nas ssd]: https://www.amazon.com/Synology-2280-SNV3410-400GB-SNV3410-400G/dp/B09QMSS528?th=1
 [wd-red 10tb]: https://www.amazon.com/Western-Digital-10TB-Internal-Drive/dp/B08TZPS4QQ/ref=sr_1_1?crid=1W1MCBT71BGU8&qid=1700969443&s=electronics&sprefix=wd+red+10tb%2Celectronics%2C108&sr=1-1&ufe=app_do%3Aamzn1.fos.304cacc1-b508-45fb-a37f-a2c47c48c32f
 [wd-red 12tb]: https://www.amazon.com/Western-Digital-12TB-Internal-Drive/dp/B08V1L1WYD/ref=sr_1_1?crid=2SN9F0GHWKB0N&qid=1700969500&s=electronics&sprefix=wd+red+12tb%2Celectronics%2C87&sr=1-1
+[ups]: https://www.newegg.com/tripp-lite-smart1500lcd-5-15r/p/N82E16842111052?Item=N82E16842111052
 
 ### Media
 
