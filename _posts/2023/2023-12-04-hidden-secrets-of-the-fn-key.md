@@ -28,4 +28,4 @@ on macOS.
 I wonder if there's a way to trigger it from a [QMK keyboard][2]...
 
 [1]: {{ page.link }}
-[2]: {% post_url 2023-07-19-hello-from-my-q2-pro %}
+[2]: {% post_url 2023/2023-07-19-hello-from-my-q2-pro %}
