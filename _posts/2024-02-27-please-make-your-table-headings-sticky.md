@@ -5,7 +5,7 @@ category: dev
 link: https://btxx.org/posts/Please_Make_Your_Table_Headings_Sticky/
 ---
 
-Someone on Hacker News posted [Please Make Your Table Headings Sticky][],
+Someone on Hacker News posted [Please Make Your Table Headings Sticky][1],
 a plea for web developers to make their table headings sticky.
 
 I've honestly never given it much thought, but I could see it being a nice UX
