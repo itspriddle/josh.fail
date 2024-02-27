@@ -192,6 +192,6 @@ zip of the release and uploads it to the GitHub release. Then it triggers the
 No more forgetting to update the formulae!
 
 [1]: https://docs.brew.sh/Taps
-[2]: https:/github.com/itspriddle/slack-notify
-[3]: https:/github.com/itspriddle/homebrew-slack-notify
+[2]: https://github.com/itspriddle/slack-notify
+[3]: https://github.com/itspriddle/homebrew-slack-notify
 [4]: https://github.com/itspriddle/slack-notify/blob/4026d6288f7c79c025b65e2da880116065fe67db/.github/workflows/release.yml
