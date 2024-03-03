@@ -1,5 +1,6 @@
 _site/*
 _drafts/
+_dump/
 /bin/*
 .bundle
 .sass-cache
