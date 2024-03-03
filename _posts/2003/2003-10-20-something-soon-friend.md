@@ -1,6 +1,7 @@
 ---
 title: Something soon, friend
 category: vault
+published: false
 ---
 
 I think that I have all of the font issues solved. Although you most likely

@@ -1,6 +1,7 @@
 ---
 title: sit around and throw a fucking fit
 category: vault
+published: false
 ---
 
 I realize I've been lazy with this site. It fucking pisses me off. I don't

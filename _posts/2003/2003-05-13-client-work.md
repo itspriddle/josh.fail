@@ -1,6 +1,7 @@
 ---
 title: Client Work
 category: vault
+published: false
 ---
 
 I've been working on client work that is more important than you or this site.

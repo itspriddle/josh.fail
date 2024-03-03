@@ -1,6 +1,7 @@
 ---
 title: all this time i thought i was myself
 category: vault
+published: false
 ---
 
 I still haven't done anything. I'm lazy as hell. Yes... I'm thinking about

@@ -1,6 +1,7 @@
 ---
 title: still i waste another day of my life
 category: vault
+published: false
 ---
 
 What's up? Happy delayed New Year to anyone who is visiting this... I'm always

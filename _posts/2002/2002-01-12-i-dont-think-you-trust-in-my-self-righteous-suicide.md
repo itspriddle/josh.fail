@@ -1,6 +1,7 @@
 ---
 title: i don't think you trust in my self-righteous suicide
 category: vault
+published: false
 ---
 
 Yeah... System of a Down does kick ass. I'm working on the redesign of this

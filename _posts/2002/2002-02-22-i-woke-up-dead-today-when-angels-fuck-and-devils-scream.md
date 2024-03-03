@@ -1,6 +1,7 @@
 ---
 title: i woke up dead today, when angels fuck and devils scream
 category: vault
+published: false
 ---
 
 I know that there haven't exactly been many updates. I also know that it is

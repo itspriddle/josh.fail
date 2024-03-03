@@ -1,6 +1,7 @@
 ---
 title: its not what they call, its what you answer to, dissolve
 category: vault
+published: false
 ---
 
 This site will undergo changes to be my personal site. There really won't be

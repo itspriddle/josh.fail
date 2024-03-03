@@ -1,6 +1,7 @@
 ---
 title: Experiments
 category: vault
+published: false
 redirect_from: /archive/2005/experiments.html
 ---
 

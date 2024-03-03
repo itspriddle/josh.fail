@@ -1,6 +1,7 @@
 ---
 title: Another Day
 category: vault
+published: false
 ---
 
 For some strange reason I didn't sleep...

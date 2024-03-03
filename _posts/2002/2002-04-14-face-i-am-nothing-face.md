@@ -1,6 +1,7 @@
 ---
 title: face, i am nothing face, complete by sarcastic tastes
 category: vault
+published: false
 ---
 
 I got sick of having nothing. I'll upload all the linked shit later, I still

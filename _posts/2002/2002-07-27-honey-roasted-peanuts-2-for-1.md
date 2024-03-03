@@ -1,6 +1,7 @@
 ---
 title: "Honey roasted peanuts: 2 for $1..."
 category: vault
+published: false
 ---
 
 If they are only one dollar for two, why haven't i bought them before? And

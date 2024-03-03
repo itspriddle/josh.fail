@@ -1,6 +1,7 @@
 ---
 title: Get your own defribrillator!
 category: vault
+published: false
 ---
 
 Are you, or someone you know, constantly watching medical drama and saying

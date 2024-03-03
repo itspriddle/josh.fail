@@ -1,6 +1,7 @@
 ---
 title: Fun at the mall
 category: vault
+published: false
 ---
 
 Me and a bunch of friends went to the mall today. I bought someone her X-mas

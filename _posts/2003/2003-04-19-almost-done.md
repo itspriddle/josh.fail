@@ -1,6 +1,7 @@
 ---
 title: Almost done...
 category: vault
+published: false
 ---
 
 Finally, something that my friends can appreciate. I got off my ass and fixed

@@ -1,6 +1,7 @@
 ---
 title: FUCK YOU SNOW!
 category: vault
+published: false
 ---
 
 Fuck the snow and it's wet drippy properties. IT'S NOT EVEN DECEMBER!

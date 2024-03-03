@@ -1,6 +1,7 @@
 ---
 title: So very bored...
 category: vault
+published: false
 ---
 
 Everyone went to DC for the senior trip that I didn't want to raise money

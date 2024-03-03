@@ -1,6 +1,7 @@
 ---
 title: in the back of a puppeteer bathroom floor is where i tried to die
 category: vault
+published: false
 ---
 
 I went to the coolest party yesterday with all my friends. Haha, it was

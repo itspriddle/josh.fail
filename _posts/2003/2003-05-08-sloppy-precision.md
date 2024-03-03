@@ -1,6 +1,7 @@
 ---
 title: Sloppy Precision
 category: vault
+published: false
 ---
 
 I haven't done shit in a week. Prom is next Friday tho.

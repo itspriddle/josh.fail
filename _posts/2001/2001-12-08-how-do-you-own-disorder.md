@@ -1,6 +1,7 @@
 ---
 title: "How do you own disorder?"
 category: vault
+published: false
 ---
 
 I'm still lazy as hell. I need to get all of the links working... I won't

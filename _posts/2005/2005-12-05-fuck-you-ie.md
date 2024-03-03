@@ -1,6 +1,7 @@
 ---
 title: Fuck you IE!
 category: vault
+published: false
 ---
 
 If you're using Internet Explorer YOU FUCKING SUCK!

@@ -1,6 +1,7 @@
 ---
 title: Just waking up...
 category: vault
+published: false
 ---
 
 Yes, I am a piece of shit who goes to sleep when he gets home from school and

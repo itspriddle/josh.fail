@@ -1,6 +1,7 @@
 ---
 title: against my will i stand beside my own reflection, it's haunting
 category: vault
+published: false
 ---
 
 It's too bad Linkin Park has to rap. It really is. Some of their lyrics are

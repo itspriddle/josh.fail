@@ -1,6 +1,7 @@
 ---
 title: Welcome Fucks
 category: vault
+published: false
 ---
 
 Well, I'm uploading the site finally, in just a few minutes. There's really no

@@ -1,6 +1,7 @@
 ---
 title: "If I should die will you miss me?"
 category: vault
+published: false
 ---
 
 Chimaira kicks major ass, and that's all you need to know. Go and buy their

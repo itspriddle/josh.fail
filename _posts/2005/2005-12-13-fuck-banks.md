@@ -1,6 +1,7 @@
 ---
 title: Fuck banks
 category: vault
+published: false
 ---
 
 I really hate banks... The stupidest little shit happens and then they charge

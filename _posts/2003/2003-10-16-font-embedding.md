@@ -1,6 +1,7 @@
 ---
 title: Font embedding
 category: vault
+published: false
 ---
 
 WEFT is the dumbest program. Font embedding is usefull but there are so many

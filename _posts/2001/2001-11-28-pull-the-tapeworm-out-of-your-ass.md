@@ -1,6 +1,7 @@
 ---
 title: "Pull the tapeworm out of your ass"
 category: vault
+published: false
 ---
 
 Didn't really do much today... In fact, I was so lazy today, I didn't even

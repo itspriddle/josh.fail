@@ -1,6 +1,7 @@
 ---
 title: "PHP Coding: Phase 01"
 category: vault
+published: false
 ---
 
 The basic layout of this site is done, which means, the graphics side is

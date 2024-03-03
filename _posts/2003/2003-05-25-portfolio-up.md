@@ -1,6 +1,7 @@
 ---
 title: Portfolio Up
 category: vault
+published: false
 ---
 
 My design portfolio is finally up. I've got a few more things to add to it,

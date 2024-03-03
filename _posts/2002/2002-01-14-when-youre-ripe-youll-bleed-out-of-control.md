@@ -1,6 +1,7 @@
 ---
 title: when you're ripe you'll bleed out of control
 category: vault
+published: false
 ---
 
 I'm waiting for a phone call from some guy who could give me a job. Yay!! I

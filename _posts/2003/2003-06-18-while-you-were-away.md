@@ -1,6 +1,7 @@
 ---
 title: While you were away
 category: vault
+published: false
 ---
 
 While I was on my ass doing nothing for the last 6 months, the domain name I

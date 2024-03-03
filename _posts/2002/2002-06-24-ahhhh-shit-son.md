@@ -1,6 +1,7 @@
 ---
 title: Ahhhh shit son
 category: vault
+published: false
 ---
 
 Working on the site again... I had some problems with the frames and the way i

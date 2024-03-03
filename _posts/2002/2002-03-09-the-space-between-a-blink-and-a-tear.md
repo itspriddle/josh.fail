@@ -1,6 +1,7 @@
 ---
 title: The space between a blink and a tear death blooms
 category: vault
+published: false
 ---
 
 Holy shit I never update things... well its been 3 fucking months since I've

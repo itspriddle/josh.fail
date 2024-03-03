@@ -1,6 +1,7 @@
 ---
 title: Guestbook works, Auspel my man
 category: vault
+published: false
 ---
 
 I made the sign form for my guestbook, it took me fucking 3 hours. But its

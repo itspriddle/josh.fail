@@ -1,6 +1,7 @@
 ---
 title: "You're a counterfeit"
 category: vault
+published: false
 ---
 
 I am too lazy to ever really finish this site, although I might update once in

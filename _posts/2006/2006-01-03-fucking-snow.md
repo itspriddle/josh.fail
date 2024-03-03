@@ -1,6 +1,7 @@
 ---
 title: Fucking Snow
 category: vault
+published: false
 ---
 
 Snowing its ass off again. I wouldn't mind snow so much if I were a hick with

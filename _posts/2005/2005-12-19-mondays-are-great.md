@@ -2,6 +2,7 @@
 title: Mondays are great
 category: archive
 category: vault
+published: false
 ---
 
 I beat the shit out of Tales of Symphonia yesterday. Honestly, I was a little

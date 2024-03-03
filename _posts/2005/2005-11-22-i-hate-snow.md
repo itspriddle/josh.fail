@@ -1,6 +1,7 @@
 ---
 title: I hate snow
 category: vault
+published: false
 ---
 
 Well it's going to snow here tonight. Beautiful, just fucking beautiful. It's

@@ -1,6 +1,7 @@
 ---
 title: The Evil Genius
 category: vault
+published: false
 ---
 
 I'm working on a new site/section I'm going to call the Evil Genius. Its going

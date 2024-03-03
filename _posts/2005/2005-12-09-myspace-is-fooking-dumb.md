@@ -1,6 +1,7 @@
 ---
 title: Myspace is fooking dumb
 category: vault
+published: false
 ---
 
 I bit the bullet and signed up for this dumb shit. The guy who coded this

@@ -1,6 +1,7 @@
 ---
 title: god save us, this new life is worthless, is mindless
 category: vault
+published: false
 ---
 
 I've finished the construction of every section. All that is left for me to do

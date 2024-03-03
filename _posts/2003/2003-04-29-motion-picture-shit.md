@@ -1,6 +1,7 @@
 ---
 title: Motion Picture Shit
 category: vault
+published: false
 ---
 
 I took a ton of pictures today too. I went and took most of the shitty ones

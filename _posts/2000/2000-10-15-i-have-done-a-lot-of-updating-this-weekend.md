@@ -1,6 +1,7 @@
 ---
 title: I have done a lot of updating this weekend.
 category: vault
+published: false
 ---
 
 I have done a lot of updating this weekend. I've uploaded some Snot tunes. I

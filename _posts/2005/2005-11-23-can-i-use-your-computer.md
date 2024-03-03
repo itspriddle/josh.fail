@@ -1,6 +1,7 @@
 ---
 title: Can I use your computer?
 category: vault
+published: false
 ---
 
 > Chauncey Noodles: You think I could use your computer for a minute?

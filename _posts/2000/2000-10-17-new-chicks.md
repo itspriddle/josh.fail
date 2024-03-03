@@ -1,6 +1,7 @@
 ---
 title: New chicks
 category: vault
+published: false
 ---
 
 New chick added to the chicks section. Prescilla Lee Taylor. The chick from
