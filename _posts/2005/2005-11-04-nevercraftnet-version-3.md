@@ -1,7 +1,7 @@
 ---
 title: Nevercraft.net &#187; Version 3
 category: archive
-redirect_from: /archive/2005/nevercraftnet-version-3.html
+published: false
 ---
 
 After messing around with this layout for over a year, I've recreated it yet

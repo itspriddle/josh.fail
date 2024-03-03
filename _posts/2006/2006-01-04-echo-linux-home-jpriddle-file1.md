@@ -1,5 +1,7 @@
 ---
 title: "echo Linux > /home/jpriddle/file1"
+category: vault
+published: false
 ---
 
 Linux is fuckin great.

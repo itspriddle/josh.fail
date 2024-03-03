@@ -1,7 +1,6 @@
 ---
 title: Mondays are great
 category: archive
-category: vault
 published: false
 ---
 

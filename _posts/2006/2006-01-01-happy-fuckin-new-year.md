@@ -1,5 +1,7 @@
 ---
 title: Happy fuckin New Year!
+category: blog
+published: false
 ---
 
 Happy New Year everyone! Nothing really much to say.

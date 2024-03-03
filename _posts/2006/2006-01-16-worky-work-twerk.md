@@ -1,5 +1,7 @@
 ---
 title: Worky work twerk
+category: vault
+published: false
 ---
 
 Firstly, I'd like to say that 7:45a is way too early to be alive. Life really

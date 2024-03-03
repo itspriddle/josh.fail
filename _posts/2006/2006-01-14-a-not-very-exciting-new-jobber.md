@@ -1,5 +1,7 @@
 ---
 title: A (not) very exciting new jobber
+category: vault
+published: false
 ---
 
 Ahh yes, I get to start training at Ticketmaster on Monday. I'm glad to have a

@@ -1,7 +1,7 @@
 ---
 title: You are so gross...
 category: archive
-redirect_from: /archive/2008/you-are-so-gross.html
+published: false
 ---
 
 Since I can't stand looking at the layout anymore, I've redirected

@@ -1,5 +1,7 @@
 ---
 title: Well I survived Day 1
+category: vault
+published: false
 ---
 
 I am alive after the first day.
