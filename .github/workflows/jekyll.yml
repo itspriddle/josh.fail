@@ -9,7 +9,7 @@ concurrency:
 on:
   push:
     branches:
-      - master
+      - gh-pages
 
 env:
   RUBY_VERSION: 3.2
