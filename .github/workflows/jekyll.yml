@@ -44,6 +44,7 @@ jobs:
           # For jekyll-github-metadata
           JEKYLL_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           JEKYLL_ENV: "production"
+          PAGES_REPO_NWO: ${{ github.repository }}
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
