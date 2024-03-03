@@ -1,7 +1,8 @@
 name: Deploy Jekyll site to Pages
 
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+# Allow only one concurrent deployment, skipping runs queued between the run
+# in-progress and latest queued. However, do NOT cancel in-progress runs as we
+# want to allow these production deployments to complete.
 concurrency:
   group: "pages"
   cancel-in-progress: false
@@ -12,30 +13,28 @@ permissions:
   pages: write
   id-token: write
 
+# Run this workflow on pushes to gh-pages
 on:
   push:
     branches:
       - gh-pages
 
+# Use Ruby 3.2 in all jobs
 env:
   RUBY_VERSION: 3.2
 
-# Define a job named `build-and-publish` in your workflow.
 jobs:
   build:
     runs-on: ubuntu-latest # This job uses a GitHub-hosted runner.
-
-    # env:
-    #   BUNDLE_PATH: "vendor/bundle"
-    #   BUNDLE_JOBS: 4
-    #   BUNDLE_RETRY: 3
 
     # Skip builds with "[ci skip]" in the commit
     if: "!contains(github.event.head_commit.message, '[ci skip]')"
 
     steps:
-      - uses: actions/checkout@v4
-      - uses: ruby/setup-ruby@v1
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      - uses: Setup ruby
+        uses: ruby/setup-ruby@v1
         with:
           ruby-version: ${{ env.RUBY_VERSION }}
           bundler-cache: true
