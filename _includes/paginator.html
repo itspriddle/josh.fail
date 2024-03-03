@@ -1,17 +1,15 @@
-{% if site.paginate %}
-  <div class="pager">
-    <ul class="pagination">
-    {%- if paginator.previous_page %}
-      <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page }}</a></li>
-    {%- else %}
-      <li><div class="pager-edge">•</div></li>
-    {%- endif %}
-      <li><div class="current-page">{{ paginator.page }}</div></li>
-    {%- if paginator.next_page %}
-      <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
-    {%- else %}
-      <li><div class="pager-edge">•</div></li>
-    {%- endif %}
-    </ul>
-  </div>
-{%- endif %}
+{% if paginator.total_pages > 1 %}
+<div class="pager">
+  {%- if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">&larr; Previous</a> ::
+  {%- endif %}
+
+  {%- if paginator.page > 1 %}
+    <span class="current-page">Page {{ paginator.page }}</span>
+  {%- endif %}
+
+  {%- if paginator.next_page %}
+    {% unless paginator.page == 1 %}::{% endunless %} <a href="{{ paginator.next_page_path | relative_url }}" class="next-page">Next &rarr;</a>
+  {%- endif %}
+</div>
+{% endif %}

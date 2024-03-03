@@ -1,5 +1,5 @@
 {%- assign asset_hash = site.time | date: "%s" -%}
-{%- if page.title -%}
+{%- if page.title and (page.title != site.title) -%}
 {%- assign page_title = page.title | append: " --- " | append: site.title | smartify -%}
 {%- else -%}
 {%- assign page_title = site.title | smartify -%}

@@ -1,16 +1,12 @@
 ---
 layout: default
 permalink: /
+pagination:
+  enabled: true
 ---
 
 <div class="home">
-  {%- if site.paginate -%}
-    {%- assign posts = paginator.posts -%}
-  {%- else -%}
-    {%- assign posts = site.posts -%}
-  {%- endif -%}
-
-  {%- assign posts = posts | where_exp: "post", "post.category != 'archive'" | where_exp: "post", "post.category != 'vault'" | where_exp: "post", "post.archive != true" -%}
+  {%- assign posts = paginator.posts %}
 
   {%- for post in posts -%}
     {% include post.html homepage=true post=post %}
