@@ -1,0 +1,4 @@
+---
+title: 'ActionCable under stress: Finding a DoS vulnerability in Rails 5 WebSockets Apps'
+url: https://blog.phusion.nl/2016/12/21/actioncable-under-stress-protecting-your-application-against-slow-clients-using-passenger/
+date: '2016-12-22 22:56:44 -0500'

@@ -9,20 +9,22 @@ intro: Random old URLs I had in Apple Notes
 # https://github.com/urlint/urlint might work...
 ---
 
-{% assign links = site.data.links | reverse | group_by_exp: "post", "post.date | date: '%Y'" %}
+{% assign links = site.data.bookmarks | group_by_exp: "link", "link[1].date | date: '%Y'" | sort: "date" | reverse %}
 
 <p>{{ page.intro | smartify }}</p>
 
-{% for item in links %}
-  <h2 id="{{ item.name }}">{{ item.name }}</h2>
+{% for link in links %}
+  {% assign current_year = link.name %}
+  {% assign data = link.items %}
+  <h2 id="{{ link.name }}">{{ current_year }}</h2>
+
   <ul class="post-list">
-    {% for link in item.items %}
-      <li>
-        {{ link.date | date: "%b %d" }}: <a href="{{ link.url }}">{{ link.title | smartify }}</a>
-      </li>
-    {% endfor %}
+  {% for d in data reversed %}
+    {% assign dd = d[1] %}
+    <li>
+      {{ dd.date | date: "%b %d" }}: <a href="{{ dd.url }}" title="{{ dd.title | smartify }}">{{ dd.title | smartify | truncate: 70 }}</a>
+    </li>
+  {% endfor %}
   </ul>
-  {% unless forloop.last %}
-    <hr class="stars">
-  {% endunless %}
+  {% unless forloop.last %}<hr class="stars">{% endunless %}
 {% endfor %}

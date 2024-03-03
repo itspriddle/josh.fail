@@ -1,0 +1,4 @@
+---
+title: Make a failing Sidekiq worker call a method after a specific number of retries
+url: https://medium.com/appaloosa-store-engineering/make-a-failing-sidekiq-worker-call-a-method-after-a-specific-number-of-retries-709d7f2cb9f3
+date: '2017-04-13 10:33:24 -0400'
