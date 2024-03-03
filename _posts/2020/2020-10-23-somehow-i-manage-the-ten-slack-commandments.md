@@ -1,7 +1,10 @@
 ---
-title: "The Ten Slack Commandments"
+title: "Somehow, I Manage: The Ten Slack Commandments"
 date: "Fri Oct 23 13:01:00 -0400 2020"
-redirect_from: /blog/2020/the-ten-slack-commandments.html
+category: mgmt
+redirect_from:
+- /blog/2020/the-ten-slack-commandments.html
+- /2020/the-ten-slack-commandments/
 tags: [ slack, culture ]
 ---
 
