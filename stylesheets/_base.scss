@@ -72,13 +72,16 @@ body {
   line-height: $base-line-height;
   color: var(--color-fg);
   background-color: var(--color-bg);
-  -webkit-text-size-adjust: 100%;
-  -webkit-font-feature-settings: "kern" 1;
-     -moz-font-feature-settings: "kern" 1;
-       -o-font-feature-settings: "kern" 1;
-          font-feature-settings: "kern" 1;
-  font-kerning: normal;
+  // -webkit-text-size-adjust: 100%;
+  // -webkit-font-feature-settings: "kern" 1;
+  //    -moz-font-feature-settings: "kern" 1;
+  //      -o-font-feature-settings: "kern" 1;
+  //         font-feature-settings: "kern" 1;
+  // font-kerning: normal;
   overflow-wrap: break-word;
+  // text-rendering: optimizelegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 
@@ -140,7 +143,9 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: var(--font-weight-bold);
+  // font-weight: var(--font-weight-bold);
+  font-weight: normal;
+  font-variation-settings: "wght" var(--font-weight-bold);
 }
 
 h1 {

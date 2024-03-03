@@ -17,7 +17,7 @@ $font-system: system-ui,
   /* Windows emoji */ "Segoe UI Symbol",
   /* Linux emoji */ "Noto Color Emoji";
 
-$font-monospace: ui-monospace,
+$font-monospace: CommitMono,
   /* macOS 10.10+ */ "Menlo",
   /* Windows 6+ */ "Consolas",
   /* Android 4+ */ "Roboto Mono",
@@ -64,7 +64,8 @@ $on-laptop:        800px;
 }
 
 @import
-  "fonts",
+  // "fonts",
+  "commit-mono",
   "base",
   "layout",
   "syntax-highlighting"
