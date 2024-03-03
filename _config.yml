@@ -62,16 +62,9 @@ plugins:
   - jemoji
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
       category: "blog"
-  # -
-  #   scope:
-  #     path: ""
-  #     category: dev
-  #   values:
-  #     paginate_path: 'dev/browse/page:num'
