@@ -170,6 +170,16 @@ h5, h6 {
 
 
 /**
+ * Bolds
+ */
+strong, b {
+  // font-weight: var(--font-weight-bold);
+  font-weight: normal;
+  font-variation-settings: "wght" var(--font-weight-bold);
+}
+
+
+/**
  * Links
  */
 a {

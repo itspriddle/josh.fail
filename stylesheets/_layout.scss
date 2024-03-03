@@ -146,7 +146,9 @@
       color: var(--table-text-color);
     }
     th {
-      font-weight: bolder;
+      // font-weight: var(--font-weight-bold);
+      font-weight: normal;
+      font-variation-settings: "wght" var(--font-weight-bold);
       white-space: nowrap;
       background-color: var(--table-header-bg);
       border: 1px solid var(--table-header-border);
