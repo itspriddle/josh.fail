@@ -52,6 +52,10 @@ sass:
   sass_dir: stylesheets
   style: compressed
 
+# Redirect settings
+redirect_from:
+  json: false
+
 # Gems
 plugins:
   - jekyll-feed
