@@ -1,5 +1,7 @@
 {%- assign asset_hash = site.time | date: "%s" -%}
-{%- if page.title and (page.title != site.title) -%}
+{%- if paginator.page > 1 -%}
+{%- assign page_title = page.title | prepend: " --- " | prepend: site.title | smartify -%}
+{%- elsif page.title and (page.title != site.title) -%}
 {%- assign page_title = page.title | append: " --- " | append: site.title | smartify -%}
 {%- else -%}
 {%- assign page_title = site.title | smartify -%}
