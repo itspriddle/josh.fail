@@ -1,6 +1,7 @@
 ---
 title: "rsync compression is slow afterall"
 date: "Fri Aug 26 21:05:57 -0400 2022"
+category: dev
 tags: [linux, rsync]
 ---
 

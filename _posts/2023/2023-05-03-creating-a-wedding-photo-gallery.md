@@ -1,6 +1,7 @@
 ---
 title: "Creating a wedding photo gallery"
 date: "Wed May 3 16:00:33 -0400 2023"
+category: dev
 tags: [wedding, jekyll, ruby, photos]
 ---
 
