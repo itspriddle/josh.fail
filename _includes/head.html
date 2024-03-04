@@ -13,23 +13,26 @@
   <link rel="me" href="https://github.com/itspriddle">
   <link rel="author" type="text/plain" href="{{ "/humans.txt" | absolute_url }}">
   <link rel="canonical" href="{{ page_url }}">
-  <meta property="og:url" content="{{ page_url }}" />
-  <meta property="og:site_name" content="{{ site.title | smartify }}" />
-
-  <link rel="stylesheet" href="{{ "/stylesheets/main.css?" | append: asset_hash }}">
 
   <title>{{ page_title }}</title>
 
+  <meta property="og:locale" content="en" />
+  <meta property="og:url" content="{{ page_url }}" />
+  <meta property="og:site_name" content="{{ site.title | smartify }}" />
   <meta property="og:title" content="{{ page_title }}" />
   <meta name="author" content="{{ site.author.name }}" />
-  <meta property="og:locale" content="en" />
 
-  {%- if page.date -%}
+  {%- if page.date %}
   <meta property="og:type" content="article" />
   <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}" />
-  {%- else -%}
+  {%- else %}
   <meta property="og:type" content="website" />
-  {%- endif -%}
+  {%- endif %}
 
-  {%- feed_meta %}
+  {% if paginator.previous_page %}<link rel="prev" href="{{ paginator.previous_page_path | absolute_url }}">{%- endif %}
+  {% if paginator.next_page %}<link rel="next" href="{{ paginator.next_page_path | absolute_url }}">{%- endif %}
+
+  {% feed_meta %}
+
+  <link rel="stylesheet" href="{{ "/stylesheets/main.css?" | append: asset_hash }}">
 </head>
