@@ -2,6 +2,7 @@
 title: "POSIX Shell Tutorial"
 date: "Tue May 14 15:59:48 -0400 2024"
 link: https://www.grymoire.com/Unix/Sh.html
+category: dev
 ---
 
 I found this [tutorial][1] POSIX shell scripting. I tend to stick with Bash
