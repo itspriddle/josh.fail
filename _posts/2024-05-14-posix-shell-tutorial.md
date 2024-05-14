@@ -5,8 +5,8 @@ link: https://www.grymoire.com/Unix/Sh.html
 category: dev
 ---
 
-I found this [tutorial][1] POSIX shell scripting. I tend to stick with Bash
-myself, but this is a good resource for writing portable scripts where there
-is no Bash.
+I found this [tutorial][1] about POSIX shell scripting. I tend to stick with
+Bash myself, but this is a good resource for writing portable scripts where
+there is no Bash.
 
 [1]: {{ page.link }}
