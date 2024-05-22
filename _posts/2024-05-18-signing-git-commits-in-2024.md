@@ -54,6 +54,13 @@ Git also needs to know which keys are allowed to sign commits.
 cp ~/.ssh/id_ed25519_git.pub ~/.ssh/allowed_signers
 ```
 
+I also found that I needed to have ZSH load the key, so I added this to
+`~/.zshenv`:
+
+```zsh
+(ssh-add --apple-load-keychain -q 2>/dev/null &)
+```
+
 Finally, to test:
 
 ```
