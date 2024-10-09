@@ -63,7 +63,7 @@ set -e
 
 /root/.acme.sh/acme.sh \
   --to-pkcs12 \
-  --password 'real-password' 
+  --password 'real-password' \
   --domain emby.priddle.network
 
 cp /root/.acme.sh/emby.priddle.network_ecc/emby.priddle.network.pfx \
