@@ -3,52 +3,9 @@
 ---
 @charset "utf-8";
 
-// from sanitize.css
-$font-system: system-ui,
-  /* macOS 10.11-10.12 */ -apple-system,
-  /* Windows 6+ */ "Segoe UI",
-  /* Android 4+ */ "Roboto",
-  /* Ubuntu 10.10+ */ "Ubuntu",
-  /* Gnome 3+ */ "Cantarell",
-  /* KDE Plasma 5+ */ "Noto Sans",
-  /* fallback */ sans-serif,
-  /* macOS emoji */ "Apple Color Emoji",
-  /* Windows emoji */ "Segoe UI Emoji",
-  /* Windows emoji */ "Segoe UI Symbol",
-  /* Linux emoji */ "Noto Color Emoji";
-
-$font-monospace: CommitMono,
-  /* macOS 10.10+ */ "Menlo",
-  /* Windows 6+ */ "Consolas",
-  /* Android 4+ */ "Roboto Mono",
-  /* Ubuntu 10.10+ */ "Ubuntu Monospace",
-  /* KDE Plasma 5+ */ "Noto Mono",
-  /* KDE Plasma 4+ */ "Oxygen Mono",
-  /* Linux/OpenOffice fallback */ "Liberation Mono",
-  /* fallback */ monospace,
-  /* macOS emoji */ "Apple Color Emoji",
-  /* Windows emoji */ "Segoe UI Emoji",
-  /* Windows emoji */ "Segoe UI Symbol",
-  /* Linux emoji */ "Noto Color Emoji";
-
-// $base-font-family: $font-monospace;
-// $base-font-size:   14px;
-// $mono-font-family: $font-monospace;
-// $mono-font-size:   1rem;
-// $small-font-size:  0.875rem;
-// $base-line-height: 1.6;
-
-// $spacing-unit:     30px;
-
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
-
-// Width of the content area
-// $content-width:    800px;
-
-// $on-palm:          600px;
-// $on-laptop:        800px;
 
 // Using media queries with like this:
 // @include media-query($on-palm) {
