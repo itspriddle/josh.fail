@@ -92,7 +92,7 @@
   }
 
   .github-post-links {
-    @include media-query($on-palm) {
+    @include media-query(var(--on-palm)) {
       display: none;
     }
   }
@@ -168,7 +168,7 @@
       }
     }
 
-    @include media-query($on-laptop) {
+    @include media-query(var(--on-laptop)) {
       display: block;
       overflow-x: auto;
       -webkit-overflow-scrolling: touch;
@@ -196,7 +196,7 @@
   padding-left: var(--spacing-unit);
   @extend %clearfix;
 
-  @include media-query($on-laptop) {
+  @include media-query(var(--on-laptop)) {
     max-width: -webkit-calc(var(--content-width) - (var(--spacing-unit)));
     max-width: calc(var(--content-width) - (var(--spacing-unit)));
     padding-right: calc(var(--spacing-unit) / 2);
