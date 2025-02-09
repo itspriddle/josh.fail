@@ -1,3 +1,44 @@
+:root {
+  // from sanitize.css
+  --font-system: system-ui,
+    /* macOS 10.11-10.12 */ -apple-system,
+    /* Windows 6+ */ "Segoe UI",
+    /* Android 4+ */ "Roboto",
+    /* Ubuntu 10.10+ */ "Ubuntu",
+    /* Gnome 3+ */ "Cantarell",
+    /* KDE Plasma 5+ */ "Noto Sans",
+    /* fallback */ sans-serif,
+    /* macOS emoji */ "Apple Color Emoji",
+    /* Windows emoji */ "Segoe UI Emoji",
+    /* Windows emoji */ "Segoe UI Symbol",
+    /* Linux emoji */ "Noto Color Emoji";
+
+  --font-monospace: CommitMono,
+    /* macOS 10.10+ */ "Menlo",
+    /* Windows 6+ */ "Consolas",
+    /* Android 4+ */ "Roboto Mono",
+    /* Ubuntu 10.10+ */ "Ubuntu Monospace",
+    /* KDE Plasma 5+ */ "Noto Mono",
+    /* KDE Plasma 4+ */ "Oxygen Mono",
+    /* Linux/OpenOffice fallback */ "Liberation Mono",
+    /* fallback */ monospace,
+    /* macOS emoji */ "Apple Color Emoji",
+    /* Windows emoji */ "Segoe UI Emoji",
+    /* Windows emoji */ "Segoe UI Symbol",
+    /* Linux emoji */ "Noto Color Emoji";
+
+  --base-font-family: var(--font-monospace);
+  --mono-font-family: var(--font-monospace);
+  --base-font-size:   14px;
+  --mono-font-size:   1rem;
+  --small-font-size:  0.875rem;
+  --base-line-height: 1.6;
+
+  --spacing-unit:     30px;
+
+  --content-width:    800px;
+}
+
 :root[data-color-mode="light"] {
   --color-fg: #232323;
   --color-bg: #fdfdfd;
@@ -62,14 +103,14 @@ dl, dd, ol, ul, figure {
  */
 
 html {
-  font-size: $base-font-size;
+  font-size: var(--base-font-size);
 }
 
 body {
-  font-family: $base-font-family;
-  font-size: $base-font-size;
+  font-family: var(--base-font-family);
+  font-size: var(--base-font-size);
   font-weight: var(--font-weight-normal);
-  line-height: $base-line-height;
+  line-height: var(--base-line-height);
   color: var(--color-fg);
   background-color: var(--color-bg);
   // -webkit-text-size-adjust: 100%;
@@ -93,7 +134,7 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-  margin-bottom: calc(#{$spacing-unit} / 2);
+  margin-bottom: calc(var(--spacing-unit) / 2);
 }
 
 main {
@@ -118,7 +159,7 @@ figure > img {
 }
 
 figcaption {
-  font-size: $small-font-size;
+  font-size: var(--small-font-size);
 }
 
 
@@ -127,7 +168,7 @@ figcaption {
  * Lists
  */
 ul, ol {
-  margin-left: $spacing-unit;
+  margin-left: var(--spacing-unit);
 }
 
 li {
@@ -204,7 +245,7 @@ a {
 blockquote {
   color: $grey-color;
   border-left: 3px solid $grey-color;
-  padding-left: calc(#{$spacing-unit} / 2);
+  padding-left: calc(var(--spacing-unit) / 2);
 
   > :last-child {
     margin-bottom: 0;
@@ -218,7 +259,7 @@ blockquote {
  */
 pre,
 code {
-  font-size: $mono-font-size;
+  font-size: var(--mono-font-size);
   border: 1px solid var(--code-color-border);
   border-radius: 3px;
   background-color: var(--code-color-bg);
@@ -240,7 +281,7 @@ pre {
 }
 
 pre, code, kbd, samp, tt {
-  font-family: $mono-font-family;
+  font-family: var(--mono-font-family);
 }
 
 
@@ -263,7 +304,7 @@ pre, code, kbd, samp, tt {
 hr:not([class]) {
   height: 1px;
   padding: 0;
-  margin: $spacing-unit 0;
+  margin: var(--spacing-unit) 0;
   background-color: var(--hr-color);
   border: 0;
   width: 100%;
