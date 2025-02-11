@@ -5,7 +5,7 @@ category: dev
 ---
 
 In October 2020 I set about getting my assortment of recipes online in
-Markdown format. tl;dr checkout [recipes.priddle.xyz][1], [this sauce][2], and
+Markdown format. tl;dr checkout [recipes.priddle.net][1], [this sauce][2], and
 [that sauce][3].
 
 When I was a little boy, nothing was better on those cold upstate NY mornings
@@ -23,7 +23,7 @@ on it). We also often had to send pictures or copy the text from a card into
 our phones to share recipes with people.
 
 While I really liked the cards, I knew this thing needed a website, and
-[recipes.priddle.xyz][1] was born.
+[recipes.priddle.net][1] was born.
 
 First, I came up with a simple format to contain all of my recipes in
 Markdown:
@@ -75,10 +75,10 @@ need to setup a token for GitHub Actions as outlined at
 [fabacab/jekyll-builder-for-github-pages-action][7] but you should be up and
 running within an hour or so.
 
-[1]: https://recipes.priddle.xyz
-[2]: https://github.com/itspriddle/recipes.priddle.xyz
-[3]: https://recipes.priddle.xyz/recipes/Vincenzos%20Marinara%20Sauce.html
-[4]: https://recipes.priddle.xyz/recipes/Vincenzos%20Marinara%20Sauce.pdf
-[5]: https://recipes.priddle.xyz/recipes/Vincenzos%20Marinara%20Sauce.txt
+[1]: https://recipes.priddle.net
+[2]: https://github.com/itspriddle/recipes.priddle.net
+[3]: https://recipes.priddle.net/recipes/vincenzos-marinara-sauce.html
+[4]: https://recipes.priddle.net/recipes/vincenzos-marinara-sauce.pdf
+[5]: https://recipes.priddle.net/recipes/vincenzos-marinara-sauce.txt
 [6]: https://github.com/prawnpdf/prawn
 [7]: https://github.com/fabacab/jekyll-builder-for-github-pages-action
