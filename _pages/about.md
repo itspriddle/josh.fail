@@ -24,8 +24,8 @@ Pages][].
 
 [GitHub]: https://github.com/{{ site.author.github }}
 [LinkedIn]: https://linkedin.com/in/{{ site.author.linkedin }}
-[professional]: https://priddle.xyz/work/
-[open source]: https://priddle.xyz/oss/
+[professional]: https://priddle.net/work/
+[open source]: https://priddle.net/oss/
 [A2 Hosting]: https://www.a2hosting.com/about/careers
 [blog]: https://github.com/{{ site.author.github }}/josh.fail
 [GitHub Pages]: https://pages.github.com/
