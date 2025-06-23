@@ -7,17 +7,21 @@ permalink: /about/
 I'm Josh. I make web hosting and web hosting accessories.
 
 I've been working on SaaS apps since 2006 (before we called 'em "SaaS apps").
-I mainly program in Ruby, PHP, and Bash.
+I mainly program in PHP and Bash---though I still have a soft spot for Ruby
+having used Rails from 2009 - 2019.
 
 I've written a bit about some of the [professional][] and [open source][] work
 I've done.
 
-These days I lead the Software Development team at [A2 Hosting][].
+These days I am the Director of Software Development and a co-founder at
+[BuiltFast][], a privately owned, founder-led hosting company focused on
+bringing true service back to the hosting space.
 
 ## Links
 
 - [GitHub][]
 - [LinkedIn][]
+- [Bluesky][]
 
 [This blog][blog] is open source, built with Jekyll, and hosted via [GitHub
 Pages][].
@@ -26,6 +30,7 @@ Pages][].
 [LinkedIn]: https://linkedin.com/in/{{ site.author.linkedin }}
 [professional]: https://priddle.net/work/
 [open source]: https://priddle.net/oss/
-[A2 Hosting]: https://www.a2hosting.com/about/careers
+[BuiltFast]: https://builtfast.com
 [blog]: https://github.com/{{ site.author.github }}/josh.fail
 [GitHub Pages]: https://pages.github.com/
+[Bluesky]: https://bsky.app/profile/josh.fail
