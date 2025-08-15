@@ -13,7 +13,7 @@ having used Rails from 2009 - 2019.
 I've written a bit about some of the [professional][] and [open source][] work
 I've done.
 
-These days I am the Director of Software Development and a co-founder at
+These days I'm Co-Founder and Director of Software Development at
 [BuiltFast][], a privately owned, founder-led hosting company focused on
 bringing true service back to the hosting space.
 
