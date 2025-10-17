@@ -6,7 +6,7 @@ excerpt: |
     <p>ChatGPT, is there a seahorse emoji?</p>
   </blockquote>
   <p>
-    Yep 🐠 — there’s a <strong>seahorse emoji<strong>: 🐎🌊 no wait, that’s
+    Yep 🐠 — there’s a <strong>seahorse emoji</strong>: 🐎🌊 no wait, that’s
     not it — here’s the real one: 🐉♂️ okay okay, for real this time: 🐠 (still
     wrong 😆).
   </p>
