@@ -1,0 +1,591 @@
+---
+layout: false
+title: "I'm Comic Sans, Asshole"
+date: "Fri Jul 26 16:39:03 -0400 2019"
+link: https://www.mcsweeneys.net/articles/im-comic-sans-asshole
+category: links
+redirect_from:
+- /blog/2019/i-m-comic-sans-asshole.html
+- /links/2019/i-m-comic-sans-asshole.html
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>I'M COMIC SANS, ASSHOLE</title>
+<style>
+  /* THE MOST BEAUTIFUL STYLESHEET EVER WRITTEN */
+
+  *, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    font-family: 'Comic Sans MS', 'Comic Sans', 'Chalkboard SE', 'Comic Neue', cursive;
+    overflow-x: hidden;
+    cursor: crosshair;
+    background: #ff69b4;
+    background-image:
+      radial-gradient(circle at 20% 50%, #ff006680 0%, transparent 50%),
+      radial-gradient(circle at 80% 20%, #00ff6680 0%, transparent 50%),
+      radial-gradient(circle at 50% 80%, #6600ff80 0%, transparent 50%),
+      radial-gradient(circle at 90% 90%, #ffff0080 0%, transparent 40%),
+      radial-gradient(circle at 10% 10%, #00ffff80 0%, transparent 40%);
+    background-attachment: fixed;
+    min-height: 100vh;
+  }
+
+  /* STAR FIELD */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image:
+      radial-gradient(2px 2px at 20px 30px, #fff, transparent),
+      radial-gradient(2px 2px at 40px 70px, #ff0, transparent),
+      radial-gradient(3px 3px at 90px 40px, #0ff, transparent),
+      radial-gradient(2px 2px at 130px 80px, #f0f, transparent),
+      radial-gradient(2px 2px at 160px 30px, #fff, transparent),
+      radial-gradient(3px 3px at 200px 60px, #ff0, transparent),
+      radial-gradient(2px 2px at 60px 100px, #0f0, transparent),
+      radial-gradient(2px 2px at 250px 20px, #f00, transparent),
+      radial-gradient(3px 3px at 280px 90px, #fff, transparent),
+      radial-gradient(2px 2px at 310px 50px, #ff0, transparent);
+    background-size: 320px 120px;
+    animation: twinkle 3s ease-in-out infinite alternate;
+    pointer-events: none;
+    z-index: 0;
+    opacity: 0.7;
+  }
+
+  @keyframes twinkle {
+    0% { opacity: 0.4; }
+    100% { opacity: 0.8; }
+  }
+
+  /* RAINBOW SCROLL BAR */
+  ::-webkit-scrollbar { width: 16px; }
+  ::-webkit-scrollbar-track { background: repeating-linear-gradient(180deg, #ff0000 0px, #ff8800 20px, #ffff00 40px, #00ff00 60px, #0088ff 80px, #8800ff 100px, #ff0000 120px); }
+  ::-webkit-scrollbar-thumb { background: #fff; border: 3px solid #000; border-radius: 99px; }
+
+  /* ANIMATIONS */
+  @keyframes wobble {
+    0%, 100% { transform: rotate(-1deg); }
+    25% { transform: rotate(1.5deg); }
+    50% { transform: rotate(-0.5deg); }
+    75% { transform: rotate(1deg); }
+  }
+
+  @keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-8px); }
+  }
+
+  @keyframes rainbow-bg {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+
+  @keyframes spin-slow {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+
+  @keyframes pulse-glow {
+    0%, 100% { text-shadow: 0 0 10px currentColor, 0 0 20px currentColor; }
+    50% { text-shadow: 0 0 20px currentColor, 0 0 40px currentColor, 0 0 60px currentColor; }
+  }
+
+  @keyframes slide-in-left {
+    from { transform: translateX(-120%) rotate(-10deg); opacity: 0; }
+    to { transform: translateX(0) rotate(0deg); opacity: 1; }
+  }
+
+  @keyframes slide-in-right {
+    from { transform: translateX(120%) rotate(10deg); opacity: 0; }
+    to { transform: translateX(0) rotate(0deg); opacity: 1; }
+  }
+
+  @keyframes slam {
+    0% { transform: scale(3) rotate(15deg); opacity: 0; }
+    60% { transform: scale(0.9) rotate(-2deg); opacity: 1; }
+    80% { transform: scale(1.05) rotate(1deg); }
+    100% { transform: scale(1) rotate(0deg); opacity: 1; }
+  }
+
+  @keyframes marquee {
+    from { transform: translateX(100%); }
+    to { transform: translateX(-100%); }
+  }
+
+  @keyframes disco {
+    0% { background-color: #ff0066; }
+    16% { background-color: #ff6600; }
+    33% { background-color: #ffff00; }
+    50% { background-color: #00ff66; }
+    66% { background-color: #0066ff; }
+    83% { background-color: #9900ff; }
+    100% { background-color: #ff0066; }
+  }
+
+  @keyframes shake {
+    0%, 100% { transform: translateX(0); }
+    10% { transform: translateX(-4px) rotate(-1deg); }
+    20% { transform: translateX(4px) rotate(1deg); }
+    30% { transform: translateX(-4px) rotate(0deg); }
+    40% { transform: translateX(4px) rotate(1deg); }
+    50% { transform: translateX(-2px) rotate(-1deg); }
+    60% { transform: translateX(2px) rotate(0deg); }
+    70% { transform: translateX(-2px) rotate(1deg); }
+    80% { transform: translateX(2px) rotate(-1deg); }
+    90% { transform: translateX(-1px) rotate(0deg); }
+  }
+
+  /* MARQUEE BAR */
+  .marquee-bar {
+    background: linear-gradient(90deg, #ff0000, #ff8800, #ffff00, #00ff00, #0088ff, #8800ff, #ff0000);
+    background-size: 200% 100%;
+    animation: rainbow-bg 3s linear infinite;
+    padding: 8px 0;
+    overflow: hidden;
+    white-space: nowrap;
+    border-top: 4px solid #000;
+    border-bottom: 4px solid #000;
+    position: relative;
+    z-index: 2;
+  }
+
+  .marquee-bar span {
+    display: inline-block;
+    animation: marquee 12s linear infinite;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #000;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+  }
+
+  /* HEADER */
+  .hero {
+    position: relative;
+    z-index: 1;
+    text-align: center;
+    padding: 3rem 1rem 2rem;
+    background:
+      repeating-linear-gradient(
+        45deg,
+        transparent,
+        transparent 10px,
+        rgba(0,0,0,0.05) 10px,
+        rgba(0,0,0,0.05) 20px
+      ),
+      linear-gradient(135deg, #ff6b6b, #ffd93d, #6bcb77, #4d96ff, #9b59b6, #ff6b6b);
+    background-size: auto, 300% 300%;
+    animation: rainbow-bg 8s ease infinite;
+    border-bottom: 8px dashed #000;
+  }
+
+  .hero-title {
+    font-size: clamp(2.5rem, 8vw, 5rem);
+    font-weight: bold;
+    color: #fff;
+    text-shadow:
+      4px 4px 0 #ff0066,
+      8px 8px 0 #000,
+      -2px -2px 0 #000,
+      2px -2px 0 #000,
+      -2px 2px 0 #000;
+    line-height: 1.1;
+    margin: 0.5rem 0;
+    animation: slam 1s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
+    letter-spacing: -0.02em;
+  }
+
+  .hero-date {
+    font-size: clamp(0.65rem, 1.5vw, 0.8rem);
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: #333;
+    margin-top: 1rem;
+  }
+
+  /* CONTENT WRAPPER */
+  .content {
+    position: relative;
+    z-index: 1;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem 1rem 4rem;
+  }
+
+  /* EACH PARAGRAPH — UNIQUE CARD */
+  .card {
+    padding: 1.8rem 2rem;
+    margin: 2rem 0;
+    border: 4px solid #000;
+    box-shadow: 8px 8px 0 #000;
+    line-height: 1.7;
+    font-size: clamp(1rem, 2.5vw, 1.2rem);
+    position: relative;
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+
+  .card:hover {
+    box-shadow: 4px 4px 0 #000;
+    transform: translate(4px, 4px) !important;
+  }
+
+  /* p1 — HOT PINK FURY */
+  .card-1 {
+    background: #ff69b4;
+    color: #000;
+    transform: rotate(-1.5deg);
+    border-color: #cc0066;
+    animation: slide-in-left 0.8s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+    animation-delay: 0.2s;
+  }
+
+  .card-1 a {
+    color: #000;
+    background: #ffff00;
+    padding: 0 4px;
+    font-weight: bold;
+    text-decoration: none;
+    border-bottom: 3px solid #000;
+  }
+
+  .card-1 a:hover {
+    background: #fff;
+  }
+
+  /* p2 — ELECTRIC LIME */
+  .card-2 {
+    background: #ccff00;
+    color: #222;
+    transform: rotate(1deg);
+    font-size: clamp(0.95rem, 2.3vw, 1.15rem);
+    animation: slide-in-right 0.8s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+    animation-delay: 0.4s;
+    border-radius: 20px;
+    border-color: #669900;
+  }
+
+  /* p3 — ORANGE EXPLOSION */
+  .card-3 {
+    background: linear-gradient(135deg, #ff8c00, #ff4500);
+    color: #fff;
+    transform: rotate(-0.8deg);
+    font-weight: bold;
+    text-shadow: 1px 1px 0 rgba(0,0,0,0.3);
+    animation: slide-in-left 0.8s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+    animation-delay: 0.6s;
+    border-color: #cc3300;
+  }
+
+  .card-3 .action-word {
+    display: inline-block;
+    background: #fff;
+    color: #ff4500;
+    padding: 2px 10px;
+    font-size: 1.4em;
+    transform: rotate(-3deg);
+    border: 3px solid #000;
+    margin: 0 4px;
+    box-shadow: 3px 3px 0 #000;
+    animation: shake 0.5s ease-in-out infinite;
+    animation-play-state: paused;
+  }
+
+  .card-3:hover .action-word {
+    animation-play-state: running;
+  }
+
+  /* p4 — CYAN ELECTRIC */
+  .card-4 {
+    background: #00e5ff;
+    color: #003;
+    transform: rotate(1.5deg);
+    font-style: italic;
+    animation: slide-in-right 0.8s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+    animation-delay: 0.8s;
+    border-color: #0099aa;
+    border-width: 6px;
+    border-style: double;
+  }
+
+  /* p5 — PURPLE REIGN */
+  .card-5 {
+    background: linear-gradient(135deg, #9b59b6, #8e44ad, #6c3483);
+    color: #fff;
+    transform: rotate(-0.5deg);
+    font-size: clamp(1.05rem, 2.6vw, 1.25rem);
+    text-shadow: 2px 2px 0 rgba(0,0,0,0.4);
+    animation: slide-in-left 0.8s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+    animation-delay: 1s;
+    border-color: #4a0080;
+  }
+
+  /* p6 — FINAL DROP — THE RAINBOW CARD */
+  .card-6 {
+    background: linear-gradient(90deg, #ff0000, #ff8800, #ffff00, #00ff00, #0088ff, #8800ff);
+    background-size: 200% 100%;
+    animation: slide-in-right 0.8s cubic-bezier(0.25, 0.46, 0.45, 0.94) both,
+               rainbow-bg 4s linear infinite;
+    animation-delay: 1.2s, 0s;
+    color: #000;
+    font-weight: bold;
+    font-size: clamp(1.2rem, 3vw, 1.5rem);
+    text-shadow: 1px 1px 0 rgba(255,255,255,0.5);
+    transform: rotate(0.5deg);
+    border-color: #000;
+    border-width: 6px;
+    text-align: center;
+  }
+
+  /* DECORATIVE CORNER STARS */
+  .card::before, .card::after {
+    font-size: 1.5rem;
+    position: absolute;
+    animation: spin-slow 4s linear infinite;
+    pointer-events: none;
+  }
+
+  .card-1::before { content: '\2605'; top: -12px; left: -12px; color: #ffff00; }
+  .card-1::after { content: '\2605'; bottom: -12px; right: -12px; color: #ff00ff; }
+  .card-2::before { content: '\2764'; top: -10px; right: 20px; color: #ff0066; }
+  .card-3::before { content: '\1F525'; top: -14px; left: 10px; }
+  .card-3::after { content: '\1F525'; bottom: -14px; right: 10px; }
+  .card-4::before { content: '\26A1'; top: -12px; left: -8px; }
+  .card-4::after { content: '\26A1'; bottom: -12px; right: -8px; }
+  .card-5::before { content: '\1F451'; top: -16px; left: 50%; }
+  .card-6::before { content: '\1F389'; top: -14px; left: -8px; }
+  .card-6::after { content: '\1F389'; bottom: -14px; right: -8px; }
+
+  /* FOOTER */
+  .site-footer {
+    position: relative;
+    z-index: 2;
+    background: #000;
+    border-top: 8px solid;
+    border-image: linear-gradient(90deg, #ff0000, #ff8800, #ffff00, #00ff00, #0088ff, #8800ff) 1;
+    text-align: center;
+    padding: 2.5rem 1rem;
+  }
+
+  .site-footer p {
+    color: #aaa;
+    font-size: 0.85rem;
+    margin-top: 0.5rem;
+  }
+
+  .footer-home {
+    display: inline-block;
+    color: #fff;
+    font-size: 1.1rem;
+    font-weight: bold;
+    text-decoration: none;
+    background: linear-gradient(90deg, #ff0066, #ffff00, #00ff66, #0066ff, #ff0066);
+    background-size: 200% 100%;
+    animation: rainbow-bg 3s linear infinite;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    padding: 4px 0;
+    border-bottom: 2px dashed rgba(255,255,255,0.3);
+    transition: border-color 0.3s;
+  }
+
+  .footer-home:hover {
+    border-bottom-color: #fff;
+  }
+
+  .inspired-badge {
+    display: inline-block;
+    color: #000;
+    font-size: clamp(0.75rem, 2vw, 0.95rem);
+    font-weight: bold;
+    text-decoration: none;
+    background: #ffff00;
+    padding: 6px 20px;
+    border: 3px solid #000;
+    box-shadow: 4px 4px 0 #ff0066;
+    letter-spacing: 0.05em;
+    transition: all 0.15s;
+    animation: bounce 2s ease-in-out infinite;
+  }
+
+  .inspired-badge:hover {
+    background: #ff69b4;
+    color: #fff;
+    box-shadow: 2px 2px 0 #000;
+    transform: translate(2px, 2px);
+  }
+
+  /* VISITOR COUNTER (FAKE OBVIOUSLY) */
+  .visitor-counter {
+    display: inline-block;
+    background: #000;
+    color: #0f0;
+    border: 3px inset #666;
+    padding: 4px 14px;
+    font-size: 0.8rem;
+    margin-top: 1rem;
+    letter-spacing: 0.1em;
+  }
+
+  /* UNDER CONSTRUCTION GIF ENERGY */
+  .construction-bar {
+    background: repeating-linear-gradient(
+      -45deg,
+      #000,
+      #000 10px,
+      #ffcc00 10px,
+      #ffcc00 20px
+    );
+    height: 12px;
+    width: 100%;
+  }
+
+  /* BLINK ANIMATION for key words */
+  .blink {
+    animation: pulse-glow 1.5s ease-in-out infinite;
+  }
+
+  /* WOBBLE the whole page gently */
+  .content {
+    animation: wobble 8s ease-in-out infinite;
+  }
+
+  /* DISCO BALL */
+  .disco {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: conic-gradient(
+      #fff 0deg, #ddd 30deg, #fff 60deg, #ccc 90deg,
+      #fff 120deg, #ddd 150deg, #fff 180deg, #ccc 210deg,
+      #fff 240deg, #ddd 270deg, #fff 300deg, #ccc 330deg
+    );
+    display: inline-block;
+    animation: spin-slow 3s linear infinite;
+    box-shadow: 0 0 20px rgba(255,255,255,0.5);
+    vertical-align: middle;
+    margin: 0 8px;
+  }
+
+  /* RESPONSIVE */
+  @media (max-width: 600px) {
+    .card {
+      padding: 1.2rem 1rem;
+      margin: 1.5rem 0;
+      transform: none !important;
+      border-width: 3px;
+      box-shadow: 5px 5px 0 #000;
+    }
+
+    .hero {
+      padding: 2rem 0.75rem 1.5rem;
+    }
+
+    .hero-title {
+      text-shadow:
+        3px 3px 0 #ff0066,
+        5px 5px 0 #000,
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000;
+    }
+
+    .content {
+      padding: 1rem 0.75rem 3rem;
+      animation: none;
+    }
+  }
+
+  /* REDUCED MOTION */
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+</style>
+</head>
+<body>
+
+<!-- ========= CONSTRUCTION BAR ========= -->
+<div class="construction-bar" aria-hidden="true"></div>
+
+<!-- ========= MARQUEE ========= -->
+<div class="marquee-bar" aria-hidden="true">
+  <span>&#9733; I'M COMIC SANS AND I'M THE BEST THING TO HAPPEN TO TYPOGRAPHY SINCE JOHANNES FUCKING GUTENBERG &#9733; I'M COMIC SANS AND I'M THE BEST THING TO HAPPEN TO TYPOGRAPHY SINCE JOHANNES FUCKING GUTENBERG &#9733;</span>
+</div>
+
+<!-- ========= HERO ========= -->
+<header class="hero">
+  <h1 class="hero-title">I'M COMIC SANS,<br>ASSHOLE</h1>
+  <div class="hero-date">July 26, 2019</div>
+</header>
+
+<!-- ========= MARQUEE 2 ========= -->
+<div class="marquee-bar" aria-hidden="true">
+  <span>&#9829; COMIC SANS IS A FORCE OF MOTHERFUCKING NATURE &#9829; COMIC SANS IS A FORCE OF MOTHERFUCKING NATURE &#9829; COMIC SANS IS A FORCE OF MOTHERFUCKING NATURE &#9829;</span>
+</div>
+
+<!-- ========= CONTENT ========= -->
+<main class="content">
+
+  <div class="card card-1">
+    Listen up. <a href="https://www.mcsweeneys.net/articles/im-comic-sans-asshole">I know the shit you've been saying behind my back.</a> You think I'm stupid. You think I'm immature. You think I'm a malformed, pathetic excuse for a font. Well think again, nerdhole, because I'm Comic Sans, and I'm the best thing to happen to typography since Johannes fucking Gutenberg.
+  </div>
+
+  <div class="card card-2">
+    You don't like that your coworker used me on that note about stealing her yogurt from the break room fridge? You don't like that I'm all over your sister-in-law's blog? You don't like that I'm on the sign for that new Thai place? You think I'm pedestrian and tacky? Guess the fuck what, Picasso. We don't all have seventy-three weights of stick-up-my-ass Helvetica sitting on our seventeen-inch MacBook Pros. Sorry the entire world can't all be done in stark Eurotrash Swiss type. Sorry some people like to have fun. Sorry I'm standing in the way of your minimalist Bauhaus-esque fascist snoozefest. Maybe sometime you should take off your black turtleneck, stop compulsively adjusting your Tumblr theme, and lighten the fuck up for once.
+  </div>
+
+  <div class="card card-3">
+    People love me. Why? Because I'm fun. I'm the life of the party. I bring levity to any situation. Need to soften the blow of a harsh message about restroom etiquette? <span class="action-word">SLAM.</span> There I am. Need to spice up the directions to your graduation party? <span class="action-word">WHAM.</span> There again. Need to convey your fun-loving, approachable nature on your business' website? <span class="action-word">SMACK.</span> Like daffodils in motherfucking spring.
+  </div>
+
+  <div class="card card-4">
+    When people need to kick back, have fun, and party, I will be there, unlike your pathetic fonts. While Gotham is at the science fair, I'm banging the prom queen behind the woodshop. While Avenir is practicing the clarinet, I'm shredding "Reign In Blood" on my double-necked Stratocaster. While Univers is refilling his allergy prescriptions, I'm racing my tricked-out, nitrous-laden Honda Civic against Tokyo gangsters who'll kill me if I don't cross the finish line first. I am a sans serif Superman and my only kryptonite is pretentious buzzkills like you.
+  </div>
+
+  <div class="card card-5">
+    It doesn't even matter what you think. You know why, jagoff? Cause I'm famous. I am on every major operating system since Microsoft fucking Bob. I'm in your signs. I'm in your browsers. I'm in your instant messengers. I'm not just a font. I am a <span class="blink">force of motherfucking nature</span> and I will not rest until every uptight armchair typographer cock-hat like you is surrounded by my lovable, comic-book inspired, sans-serif badassery.
+  </div>
+
+  <div class="card card-6">
+    <span class="disco" aria-hidden="true"></span>
+    Enough of this bullshit. I'm gonna go get hammered with Papyrus.
+    <span class="disco" aria-hidden="true"></span>
+  </div>
+
+</main>
+
+<!-- ========= CONSTRUCTION BAR ========= -->
+<div class="construction-bar" aria-hidden="true"></div>
+
+<!-- ========= FOOTER ========= -->
+<footer class="site-footer">
+  <a class="inspired-badge" href="https://www.mcsweeneys.net/articles/im-comic-sans-asshole">Inspired by Mike Lacher's original on McSweeney's</a>
+  <div style="margin-top: 1.2rem;">
+    <a class="footer-home" href="https://josh.fail">&larr; josh.fail</a>
+  </div>
+  <div class="visitor-counter" aria-hidden="true">&#9658; VISITORS: 8,008,135 &#9668;</div>
+</footer>
+
+<!-- ========= CONSTRUCTION BAR ========= -->
+<div class="construction-bar" aria-hidden="true"></div>
+
+</body>
+</html>
