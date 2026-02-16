@@ -35,8 +35,6 @@ Anyway, I was finally able to figure out how to make it work by using
 AppleScript with NSCalendar. It worked, but it felt dirty. Whatever, I ran the
 script once a week and it was fine.
 
-<details>
-<summary>NSCalendar ical-week script</summary>
 ```bash
 #!/usr/bin/env bash
 # Usage: ical-week [-n] [-N[COUNT] | -P[COUNT]] [YYYY-MM-DD]
@@ -275,7 +273,6 @@ main() {
 
 main "$@"
 ```
-</details>
 
 Fast forward a couple years, and AI coding is now a thing. As I was kicking the
 tires around May 2025, I thought of this old script. Surely, AI can solve this
@@ -299,8 +296,7 @@ same week number logic in Bash. I had Claude whip up a script to generate 150
 years of test data from the old NSCalendar implementation. Then I went to bed
 while it ran, happy to finally have this problem nailed.
 
-<details>
-<summary>The working Bash version of ical-week</summary>
+```bash
 #!/usr/bin/env bash
 # Usage: ical-week [-n] [-N[COUNT] | -P[COUNT]] [YYYY-MM-DD]
 #
@@ -500,7 +496,7 @@ main() {
 }
 
 main "$@"
-</details>
+```
 
 When I woke up I was about to implement a test of bats tests. But for some
 reason bats isn't running on my computer (which is super annoying but for
@@ -510,8 +506,7 @@ But then, it dawned on me: why am I doing this in Bash? I've built a couple
 small Rust CLIs in recent weeks. Seems like a good choice for this.
 
 So I set Claude to work implementing a Rust version.
-<details>
-<summary>The Rust version of ical-week</summary>
+
 ```rust
 use chrono::{Datelike, Days, NaiveDate};
 
@@ -614,7 +609,6 @@ mod tests {
     }
 }
 ```
-</details>
 
 This worked great! I even started writing up the project README and a GitHub
 Actions workflow to run the tests I'd made.
@@ -623,18 +617,18 @@ But then I remembered how I'm extra...
 
 If this is going to be a compiled CLI, why are we fighting macOS? Wait, I bet
 Swift has the same API as NSCalendar for week numbers. Oh, wait again, the
-entire point of this project years ago was to extract ical info and iCalBuddy
+entire point of this project years ago was to extract ical info and icalBuddy
 wasn't great for my purposes. It doesn't emit structured output. I had
 hundreds of lines of bash and Ruby to parse its output and fake json. Is it
-easier in 2026 than it was in 2014 when iCalBuddy was last update?
+easier in 2026 than it was in 2014 when icalBuddy was last update?
 
 Turns out, yes!
 
-I started by making an empty directory and cloning icalbuddy's source core
+I started by making an empty directory and cloning icalBuddy's source core
 into it. Then I asked Claude in plain english:
 
 > I want to know the feasibility of building a Swift replacement for this
-> icalbuddy project. It works but it is kind of buggy. There is no standardized
+> icalBuddy project. It works but it is kind of buggy. There is no standardized
 > format for events so it is hard to use for automation. And there are issues
 > with Google and perhaps others with recurring events. I had to resort to
 > grabbing more days' info than I wanted. I dont really know Swift at all to
