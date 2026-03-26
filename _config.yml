@@ -47,11 +47,6 @@ exclude:
 include:
   - _pages
 
-# Sass setup
-sass:
-  sass_dir: stylesheets
-  style: compressed
-
 # Redirect settings
 redirect_from:
   json: false
@@ -65,6 +60,12 @@ plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
   - jemoji
+
+# Tailwind configuration
+tailwind:
+  input: "assets/css/app.css"
+  output: "_site/assets/css/app.css"
+  minify: true
 
 defaults:
   - scope:

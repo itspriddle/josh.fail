@@ -1,0 +1,17 @@
+/* ============================================
+   Tailwind v4
+   ============================================ */
+
+@import "tailwindcss";
+
+@source not "../../_posts/**/*.md";
+@source "../../_layouts/*.html";
+@source "../../_includes/*.html";
+@source "../../_pages/*.html";
+@source "../../_pages/**/*.html";
+@source "../../_pages/**/*.md";
+
+@import "./commit-mono";
+@import "./base";
+@import "./layout";
+@import "./highlight";
