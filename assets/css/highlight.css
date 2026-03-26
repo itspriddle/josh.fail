@@ -3,11 +3,11 @@
 */
 .highlight {
   border-radius: 3px;
-  background: var(--code-color-bg);
+  background: var(--color-code-bg);
   margin-bottom: calc(var(--spacing-unit) / 2);
 
   .highlighter-rouge & {
-    background: var(--code-color-bg);
+    background: var(--color-code-bg);
   }
 }
 
@@ -76,7 +76,7 @@
 /* Tomorrow Night */
 :root[data-color-mode="dark"] {
   .highlight {
-    --code-color-bg: #1d1f21;
+    --color-code-bg: #1d1f21;
     color: #c5c8c6;
 
     .hll { background-color: #373b41 }

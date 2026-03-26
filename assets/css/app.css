@@ -11,6 +11,17 @@
 @source "../../_pages/**/*.html";
 @source "../../_pages/**/*.md";
 
+@theme {
+  --color-fg: var(--theme-fg);
+  --color-bg: var(--theme-bg);
+  --color-muted: var(--theme-muted);
+  --color-link: var(--theme-link);
+  --color-link-visited: var(--theme-link-visited);
+  --color-code-bg: var(--theme-code-bg);
+  --color-code-border: var(--theme-code-border);
+  --color-hr: var(--theme-hr);
+}
+
 @import "./commit-mono";
 @import "./base";
 @import "./layout";

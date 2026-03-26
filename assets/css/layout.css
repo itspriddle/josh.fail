@@ -2,7 +2,7 @@
  * Site header
  */
 .site-header {
-  border-bottom: 1px solid var(--hr-color);
+  border-bottom: 1px solid var(--color-hr);
   min-height: 56px;
 
   /* Positioning context for the mobile navigation icon */
@@ -54,12 +54,12 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid var(--hr-color);
+  border-top: 1px solid var(--color-hr);
   padding: var(--spacing-unit) 0;
 }
 
 .footer-col-wrapper {
-  color: #828282;
+  color: var(--color-muted);
   &:not(:last-child) {
     margin-left: calc(-1 * var(--spacing-unit) / 2);
   }
@@ -76,7 +76,7 @@
 
   a {
     font-weight: bold;
-    color: #828282;
+    color: var(--color-muted);
   }
 }
 
@@ -89,10 +89,10 @@
 
 .post-meta {
   font-size: var(--small-font-size);
-  color: #828282;
+  color: var(--color-muted);
 
   & > a {
-    color: #828282;
+    color: var(--color-muted);
   }
 
   .github-post-links {
@@ -178,7 +178,7 @@
 
   .footnotes {
     font-size: var(--small-font-size);
-    border-top: 1px solid var(--hr-color);
+    border-top: 1px solid var(--color-hr);
     margin-top: var(--spacing-unit);
     padding-top: var(--spacing-unit);
   }
