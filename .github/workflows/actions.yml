@@ -8,6 +8,9 @@ on:
     paths:
       - '.github/workflows/*.yml'
 
+permissions:
+  contents: read
+
 jobs:
   action-lint:
     name: Run actionlint
@@ -16,14 +19,19 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v6
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          persist-credentials: false
 
-      - name: Run actionlint
-        env:
-          GH_TOKEN: ${{ github.token }}
+      - name: Configure actionlint
         run: |
           echo "::add-matcher::.github/matchers/actionlint.json"
-
-          gh extension install cschleiden/gh-actionlint
-          gh actionlint -color
         shell: bash
+
+      - name: Run actionlint
+        uses: rhysd/actionlint@393031adb9afb225ee52ae2ccd7a5af5525e03e8 # v1.7.11
+
+      - name: Run zizmor
+        uses: zizmorcore/zizmor-action@71321a20a9ded102f6e9ce5718a2fcec2c4f70d8 # v0.5.2
+        with:
+          advanced-security: false
