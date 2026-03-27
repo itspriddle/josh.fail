@@ -15,9 +15,17 @@ permissions:
 
 # Run this workflow on pushes to gh-pages
 on:
+  # Runs on pushes targeting the default branch
   push:
     branches:
       - gh-pages
+
+  # Rebuild at midnight UTC on January 1st to update copyright year
+  schedule:
+    - cron: "0 0 1 1 *"
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
 
 # Use Ruby 3.4 in all jobs
 env:
@@ -32,12 +40,14 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
+
       - name: Setup ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: ${{ env.RUBY_VERSION }}
           bundler-cache: true
+
       - name: Build site
         run: bundle exec jekyll build --destination _site --verbose --trace
         env:
@@ -46,7 +56,7 @@ jobs:
           JEKYLL_ENV: "production"
           PAGES_REPO_NWO: ${{ github.repository }}
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
 
   # Deployment job
   deploy:
@@ -58,4 +68,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
