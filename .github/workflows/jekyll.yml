@@ -43,7 +43,7 @@ jobs:
           persist-credentials: false
 
       - name: Setup ruby
-        uses: ruby/setup-ruby@4dc28cf14d77b0afa6832d9765ac422dbf0dfedd # v1.298.0
+        uses: ruby/setup-ruby@7372622e62b60b3cb750dcd2b9e32c247ffec26a # v1.302.0
         with:
           ruby-version: ${{ env.RUBY_VERSION }}
           bundler-cache: true
@@ -56,7 +56,7 @@ jobs:
           JEKYLL_ENV: "production"
           PAGES_REPO_NWO: ${{ github.repository }}
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@7b1f4a764d45c48632c6b24a0339c27f5614fb0b # v4.0.0
+        uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
 
   # Deployment job
   deploy:
