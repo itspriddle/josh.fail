@@ -16,6 +16,11 @@ updates:
       bundler:
         patterns:
           - "*"
+    cooldown:
+      semver-major-days: 7
+      semver-minor-days: 3
+      semver-patch-days: 2
+      default-days: 7
 
   - package-ecosystem: "github-actions"
     directory: "/"
@@ -28,3 +33,5 @@ updates:
       github-actions:
         patterns:
           - "*"
+    cooldown:
+      default-days: 7
