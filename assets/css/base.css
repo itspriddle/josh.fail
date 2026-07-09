@@ -61,7 +61,7 @@
 
 :root[data-color-mode="dark"] {
   --theme-fg: #a1a1aa;             /* zinc-400 */
-  --theme-bg: #18181b;             /* zinc-900 */
+  --theme-bg: #0a0f14;             /* custom */
   --theme-muted: #71717a;          /* zinc-500 */
   --theme-link: #60a5fa;           /* blue-400 */
   --theme-link-visited: #60a5fa;   /* blue-400 */
