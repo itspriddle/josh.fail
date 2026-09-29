@@ -195,6 +195,6 @@ With all that in place, everything is good to go!
 I heard KubeSail closed shop in late 2025. Sad to see, but I'm glad I was able
 to support a small business and finally got the PiBox working how I want.
 
-[1]: https://docs.kubesail.com/guides/pibox/
+[1]: https://docs.kubesail.com/pibox/
 [2]: https://github.com/raspberrypi/usbboot
 [3]: https://docs.kubesail.com/guides/pibox/os/#enabling-the-13-lcd-display
